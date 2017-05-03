@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "types": [ "react", "react-dom", "react-router-dom" ]
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
+
