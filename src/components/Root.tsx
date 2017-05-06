@@ -1,13 +1,11 @@
 import * as React from 'react';
-import { StaticRouter } from 'react-router-dom';
 
 interface Props {
   title : string;
   path : string;
-  children : Element[];
 }
 
-export default ({ title, path, children } : Props) => (
+export default ({ title, path } : Props) => (
   <html>
     <head>
       <title>{ title }</title>
@@ -15,10 +13,9 @@ export default ({ title, path, children } : Props) => (
     </head>
     <body>
       <div id="root">
-        <StaticRouter location={ path } context={{}}>
-          { ...children }
-        </StaticRouter>
+        %%%BODY%%%
       </div>
+      <script type="text/javascript" src="./bundle.js"></script>
     </body>
   </html>
 );

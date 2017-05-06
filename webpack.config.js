@@ -1,7 +1,7 @@
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
 
 module.exports = {
-	entry: './src/entry.js',
+	entry: './src/entry.ts',
 
   output: {
     filename: 'bundle.js',
@@ -21,13 +21,6 @@ module.exports = {
       { enforce: "pre", test: /\.js$/, loader: 'source-map-loader' },
     ],
   },
-
-  /*
-  externals: {
-    'react': 'React',
-    'react-dom': 'ReactDOM'
-  },
-  */
 
   plugins: [
     new StaticSiteGeneratorPlugin({
