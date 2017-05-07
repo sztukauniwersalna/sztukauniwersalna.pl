@@ -42,6 +42,7 @@ git commit -m "Deploy to GitHub Pages: ${SHA}"
 eval `ssh-agent -s`
 ssh-add -D
 openssl rsa -in ../key -passin pass:`cat ../password` -out ./key
+chmod 0600 ./key
 ssh-add ./key
 
 git push ${TARGET_REPO_SSH} ${TARGET_BRANCH}
