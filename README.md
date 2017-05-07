@@ -1,8 +1,8 @@
-[travis-url]: http://travis-ci.org/olelaart/sztukauniwersalna.pl
-[travis-image]: https://travis-ci.org/olelaart/sztukauniwersalna.pl.svg?branch=master
+[travis-url]: http://travis-ci.org/sztukauniwersalna/sztukauniwersalna.pl
+[travis-image]: https://travis-ci.org/sztukauniwersalna/sztukauniwersalna.pl.svg?branch=master
 
-[david-url-dev]: https://david-dm.org/olelaart/sztukauniwersalna.pl#info=devDependencies
-[david-image-dev]: https://david-dm.org/olelaart/sztukauniwersalna.pl/dev-status.svg
+[david-url-dev]: https://david-dm.org/sztukauniwersalna/sztukauniwersalna.pl#info=devDependencies
+[david-image-dev]: https://david-dm.org/sztukauniwersalna/sztukauniwersalna.pl/dev-status.svg
 
 # sztukauniwersalna.pl
 
