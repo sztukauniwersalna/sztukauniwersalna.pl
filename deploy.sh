@@ -7,7 +7,6 @@ TARGET_REPO="${2}"
 TARGET_REPO_SSH="${2/https:\/\/github.com\//git@github.com:}"
 TARGET_BRANCH="${3:-$SOURCE_BRANCH}"
 
-BRANCH=`git rev-parse --abbrev-ref HEAD`
 SHA=`git rev-parse --verify HEAD`
 
 skip() {
@@ -17,12 +16,12 @@ skip() {
   exit 0
 }
 
-test "${TRAVIS_PULL_REQUEST}" != "false" || skip "Built a pull request"
-test "${BRANCH}" == "${SOURCE_BRANCH}" || skip "Built branch ${BRANCH}!=${SOURCE_BRANCH}"
-
 git clone ${TARGET_REPO} target
 cd target
 git checkout ${TARGET_BRANCH} || git checkout --orphan ${TARGET_BRANCH}
+SOURCE_SHA=`git rev-parse --verify HEAD`
+
+test "${SHA}" == "${TARGET_SHA}" || skip "Built commit ${SHA}!=${SOURCE_SHA}(${SOURCE_BRANCH})"
 
 rm -rf *
 cp -ra ../build/* .
