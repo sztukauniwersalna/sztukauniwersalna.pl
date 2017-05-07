@@ -16,12 +16,13 @@ skip() {
   exit 0
 }
 
+git checkout ${SOURCE_BRANCH}
+SOURCE_SHA=`git rev-parse --verify HEAD`
+test "${SHA}" == "${SOURCE_SHA}" || skip "Built commit ${SHA}!=${SOURCE_SHA}(${SOURCE_BRANCH})"
+
 git clone ${TARGET_REPO} target
 cd target
 git checkout ${TARGET_BRANCH} || git checkout --orphan ${TARGET_BRANCH}
-SOURCE_SHA=`git rev-parse --verify HEAD`
-
-test "${SHA}" == "${TARGET_SHA}" || skip "Built commit ${SHA}!=${SOURCE_SHA}(${SOURCE_BRANCH})"
 
 rm -rf *
 cp -ra ../build/* .
