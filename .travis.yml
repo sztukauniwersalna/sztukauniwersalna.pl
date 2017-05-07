@@ -6,12 +6,11 @@ install:
 script:
   - 'npm run build'
 deploy:
-  provider: 'pages'
+  provider: 'script'
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  local_dir: 'build'
-  repo: 'sztukauniwersalna.github.io'
-  target_branch: 'master'
+  script:
+    - echo $KEY_PASSWORD > ./password
+    - ./deploy.sh master https://github.com/sztukauniwersalna/sztukauniwersalna.github.io.git
   on:
     branch: 'master'
 
