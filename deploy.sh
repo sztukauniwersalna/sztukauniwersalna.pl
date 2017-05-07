@@ -32,10 +32,7 @@ git config user.name "Travis CI"
 git config user.email "travis@sztukauniwersalna.pl"
 git add -A .
 
-if git diff --cached --quiet; then
-  echo "No changes to the output on this push; exiting."
-  exit 0
-fi
+git diff --cached --quiet && skip "No changes to the output on this push"
 
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
