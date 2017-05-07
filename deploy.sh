@@ -39,7 +39,7 @@ fi
 
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
-ssh-agent -s
+eval `ssh-agent -s`
 ssh-add -D
 openssl rsa -in ../key -passin pass:`cat ../password` -out ./key
 ssh-add ./key
