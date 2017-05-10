@@ -22,7 +22,7 @@
     "strictNullChecks": true,
     "sourceMap": true,
     "target": "es5",
-    "types": [ "react", "react-dom", "react-router-dom" ]
+    "types": [ "webpack", "webpack-env", "react", "react-dom", "react-router-dom" ]
   },
   "include": [
     "./src/**/*"

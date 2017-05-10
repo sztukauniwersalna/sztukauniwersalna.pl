@@ -1,15 +1,10 @@
 import { createElement } from 'react';
 import { render } from 'react-dom';
 import { renderToStaticMarkup, renderToString } from 'react-dom/server';
-import { Route, StaticRouter, BrowserRouter } from 'react-router-dom';
+import { StaticRouter, BrowserRouter } from 'react-router-dom';
 
 import Root from './components/Root';
-import DefaultLayout from './components/layouts/DefaultLayout';
-import routesConfig from '../routes-config';
-
-const routes = routesConfig.map((config : any, key : number) => {
-  return createElement(Route, Object.assign({ key: key }, config));
-});
+import routes from './routes';
 
 const serverRender = (locals : any) => {
   // site skeleton rendered without react ids
@@ -17,8 +12,8 @@ const serverRender = (locals : any) => {
   const html = renderToStaticMarkup(root);
 
   // react root contents rendered with react ids
-  const layout = createElement(DefaultLayout, {}, routes);
-  const router = createElement(StaticRouter, { location: locals.path, context: {}}, layout);
+  const child = createElement('div', {}, routes)
+  const router = createElement(StaticRouter, { location: locals.path, context: {}}, child);
   const body = renderToString(router);
 
   // everything together
@@ -26,10 +21,10 @@ const serverRender = (locals : any) => {
 }
 
 const clientRender = () => {
-  render(
-    createElement(BrowserRouter, {}, createElement(DefaultLayout, {}, routes)),
-    document.getElementById('root')
-  );
+  var container = document.getElementById('root');
+  const child = createElement('div', {}, routes);
+  var router = createElement(BrowserRouter, {}, child);
+  render(router, container);
 }
 
 if (typeof window !== 'undefined') {

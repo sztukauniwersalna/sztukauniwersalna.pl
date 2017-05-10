@@ -12,13 +12,16 @@ module.exports = {
   devtool: "source-map",
 
   resolve: {
-    extensions: [".ts", ".tsx", ".js", ".json"]
+    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".md", ".markdown"]
   },
 
   module: {
     rules: [
-      { test: /\.tsx?$/, loader: 'ts-loader' },
-      { enforce: "pre", test: /\.js$/, loader: 'source-map-loader' },
+      { test: require.resolve('./src/requireContext.js'), loader: 'val-loader' },
+      { test: /\.tsx?$/, use: 'ts-loader' },
+      { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
+      { test: /\.ya?ml$/, loader: 'yml-loader' },
+      { test: /\.markdown$/, use: [ 'json-loader', 'front-matter-loader' ] },
     ],
   },
 
