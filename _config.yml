@@ -15,4 +15,9 @@ collections:
   drafts:
     title: Drafts
     output: false
-
+topLinks:
+  Moda: /sztuka-ubioru
+  Makijaż: /sztuka-makijażu
+  Kuchnia: /sztuka-gotowania
+  Sztuka: /sztuka-dla-sztuki
+  O mnie: /kim-jest-olela?
