@@ -23,7 +23,7 @@ export default ({ page, links } : Props) => (
     <nav>
       <ul>
       { links.map((link : LinkConfig, key : number) => (
-        <Link to={ link.url } key={ key }>{ link.short }</Link>
+        <li key={ key }><Link to={ link.url }>{ link.short }</Link></li>
       )) }
       </ul>
     </nav>
@@ -35,7 +35,7 @@ export default ({ page, links } : Props) => (
     </main>
     <footer>
       { links.map((link : LinkConfig, key : number) => (
-        <Link to={ link.url } key={ key }>{ link.title }</Link>
+        <li key={ key }><Link to={ link.url }>{ link.title }</Link></li>
       )) }
     </footer>
   </div>
