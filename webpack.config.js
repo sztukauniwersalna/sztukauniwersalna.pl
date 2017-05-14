@@ -20,8 +20,8 @@ module.exports = {
       { test: require.resolve('./src/requireContext.js'), loader: 'val-loader' },
       { test: /\.tsx?$/, use: 'ts-loader' },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
-      { test: /\.ya?ml$/, loader: 'yml-loader' },
-      { test: /\.markdown$/, use: [ 'json-loader', 'front-matter-loader' ] },
+      { test: /\.ya?ml$/, use: 'yml-loader' },
+      { test: /\.markdown$/, use: [ 'markdown-with-front-matter-loader' ] },
     ],
   },
 
