@@ -28,18 +28,18 @@ const routes = [].concat.apply(
 export default routes;
 
 function createRoute(parent : any) {
-  return (file : any, key: number) => {
-    const layoutName = file.layout || parent.layout || DEFAULT_LAYOUT_NAME;
+  return (page : any, key: number) => {
+    const layoutName = page.layout || parent.layout || DEFAULT_LAYOUT_NAME;
     if (!layouts.hasOwnProperty(layoutName)) {
       throw new Error(`couldn't find layout of name ${layoutName}; please add it to _layouts/`);
     }
 
-    file.body = file.__content.replace(/\n/g, '');
-    const componentProps = Object.assign({}, config, file);
+    page.body = page.__content.replace(/\n/g, '');
+    const componentProps = Object.assign({}, config, { page });
     const component = createElement(layouts[layoutName], componentProps);
 
     const routeProps = {
-      path: file.permalink || file.name.replace(/\.markdown$/, ''),
+      path: page.permalink || page.name.replace(/\.markdown$/, ''),
       exact: true,
       key : key,
     };
