@@ -15,9 +15,25 @@ collections:
   drafts:
     title: Drafts
     output: false
-topLinks:
-  Moda: /sztuka-ubioru
-  Makijaż: /sztuka-makijażu
-  Kuchnia: /sztuka-gotowania
-  Sztuka: /sztuka-dla-sztuki
-  O mnie: /kim-jest-olela?
+links:
+  - title: Sztuka Ubioru
+    short: Moda
+    url: /sztuka-ubioru
+    icon:
+  - title: Sztuka Makijażu
+    short: Makijaż
+    url: /sztuka-makijażu
+    icon:
+  - title: Sztuka Gotowania
+    short: Kuchnia
+    url: /sztuka-gotowania
+    icon:
+  - title: Sztuka dla Sztuki
+    short: Sztuka
+    url: /sztuka-dla-sztuki
+    icon:
+  - title: Kim jest Olela?
+    short: O mnie
+    url: /kim-jest-olela?
+    icon:
+

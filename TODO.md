@@ -3,7 +3,7 @@
 1. ~Layouts from `_layouts` folder loaded by webpack~,
 1. ~Routes defined from collections loaded from `_config.yml`~,
 1. ~Top links configured in `_config.yml`~,
-1. Bottom links configured in `_config.yml`,
+1. ~Bottom links configured in `_config.yml`~,
 1. Generated HTML sitemap,
 1. Full post pages generated,
 1. Post list on main page,
