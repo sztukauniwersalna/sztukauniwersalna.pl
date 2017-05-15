@@ -5,17 +5,23 @@ timezone: Europe/Warsaw
 collections:
   pages:
     title: Pages
-    output: true
   posts:
     title: Posts
-    output: true
   uploads:
     title: Uploads
-    output: true
   drafts:
     title: Drafts
     output: false
-links:
+categories:
+  kuchnia:
+    title: Sztuka Gotowania
+  moda:
+    title: Sztuka Ubioru
+  makijaż:
+    title: Sztuka Makijażu
+  sztuka:
+    title: Sztuka dla Sztuki
+menu:
   - title: Sztuka Ubioru
     short: Moda
     url: /sztuka-ubioru
@@ -34,6 +40,6 @@ links:
     icon:
   - title: Kim jest Olela?
     short: O mnie
-    url: /kim-jest-olela?
+    url: /kim-jest-olela
     icon:
 
