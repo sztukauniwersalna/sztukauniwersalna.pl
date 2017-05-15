@@ -1,7 +1,7 @@
 import { createElement } from 'react';
 import { render } from 'react-dom';
 import { renderToStaticMarkup, renderToString } from 'react-dom/server';
-import { StaticRouter, BrowserRouter } from 'react-router-dom';
+import { StaticRouter, BrowserRouter, Switch } from 'react-router-dom';
 
 import Root from './components/Root';
 import routes from './routes';
@@ -12,7 +12,7 @@ const serverRender = (locals : any) => {
   const html = renderToStaticMarkup(root);
 
   // react root contents rendered with react ids
-  const child = createElement('div', {}, routes);
+  const child = createElement(Switch, {}, routes);
   const router = createElement(StaticRouter, { location: locals.path, context: {}}, child);
   const body = renderToString(router);
 
@@ -21,9 +21,9 @@ const serverRender = (locals : any) => {
 }
 
 const clientRender = () => {
-  var container = document.getElementById('root');
-  const child = createElement('div', {}, routes);
-  var router = createElement(BrowserRouter, {}, child);
+  const container = document.getElementById('root');
+  const child = createElement(Switch, {}, routes);
+  const router = createElement(BrowserRouter, {}, child);
   render(router, container);
 }
 
