@@ -1,29 +1,20 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-interface PageConfig {
-  title : string;
-  body : string;
-}
-
-interface LinkConfig {
-  title : string;
-  short : string;
-  url : string;
-  icon : string;
-}
+import Page from '../src/models/Page';
+import MenuEntry from '../src/models/MenuEntry';
 
 interface Props {
-  page : PageConfig;
-  links : LinkConfig[];
+  page : Page;
+  menu : MenuEntry[];
 };
 
-export default ({ page, links } : Props) => (
+export default ({ page, menu } : Props) => (
   <div>
     <nav>
       <ul>
-      { links.map((link : LinkConfig, key : number) => (
-        <li key={ key }><Link to={ link.url }>{ link.short }</Link></li>
+      { menu.map((entry : MenuEntry, key : number) => (
+        <li key={ key }><Link to={ entry.url }>{ entry.short }</Link></li>
       )) }
       </ul>
     </nav>
@@ -34,8 +25,8 @@ export default ({ page, links } : Props) => (
     <main>
     </main>
     <footer>
-      { links.map((link : LinkConfig, key : number) => (
-        <li key={ key }><Link to={ link.url }>{ link.title }</Link></li>
+      { menu.map((entry : MenuEntry, key : number) => (
+        <li key={ key }><Link to={ entry.url }>{ entry.title }</Link></li>
       )) }
     </footer>
   </div>

@@ -1,59 +1,51 @@
 import { createElement } from 'react';
 import { Route } from 'react-router-dom';
 
-const config = require('../_config.yml');
-const context = require('./requireContext');
+import config from './config';
+import { Layout } from './models';
 
-const DEFAULT_LAYOUT_NAME = 'default';
+interface Routable {
+  url : string;
+  title : string;
+  layout : Layout;
+  exact ?: boolean;
+}
 
-const layouts : any = {};
+const NOT_FOUND_URL = '/404';
 
-requireDirectory(context.LAYOUT)
-  .forEach((file : any) => {
-    layouts[file.name.replace(/^\.\//, '').replace(/\.tsx$/, '')] = file.default;
-  });
+let key = 0;
 
-const routes = [].concat.apply(
-  // top level pages
-  requireDirectory(context.ROOT).map(createRoute({})),
+function createRoute(routable : Routable) {
+  console.log(routable);
+  const componentProps = Object.assign({}, config, { page: routable })
+  const component = createElement(routable.layout.component as any, componentProps);
+  const routeProps = { path: routable.url, exact: routable.exact != false, key: key++ };
+  const route = createElement(Route, routeProps, component);
+  return route;
+}
 
-  // pages from collections
-  Object.keys(config.collections)
-  .filter((key : string) => context.hasOwnProperty(key.toUpperCase()))
-  .map((key : string) => {
-    return requireDirectory(context[key.toUpperCase()]).map(createRoute(config.collections[key]));
-  }),
+const routes = [].concat.call(
+  // categories
+  Object.keys(config.categories)
+    .map((url) => createRoute(config.categories[url])),
+
+  // pages
+  Object.keys(config.pages)
+    .map((url) => createRoute(config.pages[url])),
 );
 
+var error404 = config.pages[NOT_FOUND_URL];
+if (error404 == undefined) {
+  throw new Error(`couldn't find page of url ${NOT_FOUND_URL}`);
+}
+
+// not found page
+routes.push(createRoute({
+  url: '/',
+  exact: false,
+  layout: error404.layout,
+  title: 'Not Found',
+}));
+
 export default routes;
-
-function createRoute(parent : any) {
-  return (page : any, key: number) => {
-    const layoutName = page.layout || parent.layout || DEFAULT_LAYOUT_NAME;
-    if (!layouts.hasOwnProperty(layoutName)) {
-      throw new Error(`couldn't find layout of name ${layoutName}; please add it to _layouts/`);
-    }
-
-    page.body = page.__content.replace(/\n/g, '');
-    const componentProps = Object.assign({}, config, { page });
-    const component = createElement(layouts[layoutName], componentProps);
-
-    const routeProps = {
-      path: page.permalink || page.name.replace(/\.markdown$/, ''),
-      exact: true,
-      key : key,
-    };
-    var route = createElement(Route, routeProps, component);
-    return route;
-  };
-}
-
-function requireDirectory(context : any) : any[] {
-  return context.keys()
-    .map((name : string) => {
-      const file = context(name) as any;
-      file.name = name;
-      return file;
-    });
-}
 

@@ -12,7 +12,7 @@ const serverRender = (locals : any) => {
   const html = renderToStaticMarkup(root);
 
   // react root contents rendered with react ids
-  const child = createElement('div', {}, routes)
+  const child = createElement('div', {}, routes);
   const router = createElement(StaticRouter, { location: locals.path, context: {}}, child);
   const body = renderToString(router);
 
