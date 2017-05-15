@@ -15,12 +15,16 @@ collections:
 categories:
   kuchnia:
     title: Sztuka Gotowania
+    url: /sztuka-gotowania
   moda:
     title: Sztuka Ubioru
+    url: /sztuka-ubioru
   makijaż:
     title: Sztuka Makijażu
+    url: /sztuka-makijażu
   sztuka:
     title: Sztuka dla Sztuki
+    url: /sztuka-dla-sztuki
 menu:
   - title: Sztuka Ubioru
     short: Moda

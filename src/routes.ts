@@ -16,11 +16,10 @@ const NOT_FOUND_URL = '/404';
 let key = 0;
 
 function createRoute(routable : Routable) {
-  console.log(routable);
-  const componentProps = Object.assign({}, config, { page: routable })
-  const component = createElement(routable.layout.component as any, componentProps);
-  const routeProps = { path: routable.url, exact: routable.exact != false, key: key++ };
-  const route = createElement(Route, routeProps, component);
+  const componentProps = Object.assign({}, config, { page: routable });
+  const component = () => createElement(routable.layout.component as any, componentProps);
+  const routeProps = { path: routable.url, exact: routable.exact != false, key: key++, component };
+  const route = createElement(Route, routeProps);
   return route;
 }
 
