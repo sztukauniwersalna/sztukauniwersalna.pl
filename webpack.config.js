@@ -33,6 +33,7 @@ module.exports = {
 
       paths: [
         '/',
+        '/404',
       ],
 
       locals: {
