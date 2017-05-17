@@ -1,4 +1,4 @@
-import { Page, Category, Collection, Layout, MenuEntry, SiteConfig, PageConfig } from './models';
+import { Page, Category, Collection, Layout, Include, MenuEntry, SiteConfig, PageConfig } from './models';
 
 const Context = require('./requireContext');
 const rawConfig = require('../_config.yml');
@@ -51,10 +51,16 @@ const DEFAULT_LAYOUT_NAME = 'default';
 
 const config = new PageConfig();
 
-requireDirectory(Context.LAYOUT)
+requireDirectory(Context.LAYOUTS)
   .forEach((module : Module) => {
     const name = module.name.replace(/^\.\//, '').replace(/\.tsx$/, '');
     config.addLayout(new Layout(name, module.exports.default));
+  });
+
+requireDirectory(Context.INCLUDES)
+  .forEach((module : Module) => {
+    const name = module.name.replace(/^\.\//, '').replace(/\.tsx$/, '');
+    config.addInclude(new Include(name, module.exports.default));
   });
 
 function createCategory(key : string, raw : any) {

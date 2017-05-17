@@ -1,5 +1,6 @@
 
 import Layout from './Layout';
+import Include from './Include';
 import Page from './Page';
 import Category from './Category';
 import Collection from './Collection';
@@ -14,6 +15,7 @@ export default class SiteConfig {
   baseUrl : string;
   timezone : string;
   layouts : HashTable<Layout> = {};
+  includes : HashTable<Include> = {};
   collections : HashTable<Collection> = {};
   categories : HashTable<Category> = {};
   pages : HashTable<Page> = {};
@@ -33,6 +35,20 @@ export default class SiteConfig {
       throw new Error(`couldn't find layout of name ${layoutName} required by ${requiredBy}`);
     }
     return layout;
+  }
+
+  addInclude(include : Include) {
+    if (this.includes[include.name] != undefined) {
+      throw new Error(`include of name ${include.name} is already added to the config`);
+    }
+    this.includes[include.name] = include;
+  }
+  getIncludeOfName(includeName : string, requiredBy : string) {
+    const include = this.includes[includeName];
+    if (include == undefined) {
+      throw new Error(`couldn't find include of name ${includeName} required by ${requiredBy}`);
+    }
+    return include;
   }
 
   addCategory(category : Category) {
