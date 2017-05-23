@@ -1,3 +1,4 @@
+const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
 
 module.exports = {
@@ -15,13 +16,19 @@ module.exports = {
     extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".md", ".markdown"]
   },
 
+  resolveLoader: {
+    alias: {
+      'ejs-loader': path.join(__dirname, "./src/ejsLoader.js")
+    }
+  },
+
   module: {
     rules: [
       { test: require.resolve('./src/requireContext.js'), loader: 'val-loader' },
       { test: /\.tsx?$/, use: 'ts-loader' },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },
-      { test: /\.markdown$/, use: [ 'markdown-with-front-matter-loader' ] },
+      { test: /\.markdown$/, use: [ 'ejs-loader', 'markdown-with-front-matter-loader' ] },
     ],
   },
 
