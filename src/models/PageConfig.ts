@@ -1,8 +1,7 @@
-
 import SiteConfig from './SiteConfig';
-import Page from './Page';
+import CurrentPage from './CurrentPage';
 
 export default class PageConfig extends SiteConfig {
-  page : Page;
+  page : CurrentPage;
 };
 

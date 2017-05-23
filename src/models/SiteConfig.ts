@@ -60,6 +60,13 @@ export default class SiteConfig {
     this.addUrl(page.url, page);
     this.pages[page.url] = page;
   }
+  getPageOfUrl(url : string) {
+    const page = this.pages[url];
+    if (page == undefined) {
+      throw new Error(`couldn't find page of url ${url}`);
+    }
+    return page;
+  }
 
   private addUrl(url : string, entity : any) {
     const previous = this.urls[url];

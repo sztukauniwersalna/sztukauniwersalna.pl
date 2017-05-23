@@ -1,21 +1,26 @@
 
 import Layout from './Layout';
 import Category from './Category';
+import PageConfig from './PageConfig';
 
-export default class Page {
+export type Template = (config: PageConfig) => string;
+
+export class Page {
   title : string;
   url : string;
-  body : string;
   layout : Layout;
+  template : Template;
   date ?: string;
   categories : Category[] = [];
 
-  constructor(title : string, url : string, body : string, layout : Layout, date ?: string) {
+  constructor(title : string, url : string, layout : Layout, template : Template, date ?: string) {
     this.title = title;
     this.url = url;
-    this.body = body;
     this.layout = layout;
+    this.template = template;
     this.date = date;
   }
 }
+
+export default Page;
 

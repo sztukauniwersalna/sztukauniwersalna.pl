@@ -68,7 +68,7 @@ function createCategory(key : string, raw : any) {
   const url = (raw.url && checkIsString(raw.url, `categories[${key}].url`)) || `/${title.replace(/ /g, '-')}`;
   const layoutName = (raw.layout && checkIsString(raw.layout, `categories[${key}].layout`)) || DEFAULT_LAYOUT_NAME;
   const layout = config.getLayoutOfName(layoutName, `category ${title}`);
-  const category = new Category(title, url, layout);
+  const category = new Category(title, url, layout, () => "");
   return category;
 }
 
@@ -114,12 +114,12 @@ function createCollection(key : string, raw : any, context : RequireContext) {
     const frontMatter = module.exports;
     const name = module.name.replace(/\.markdown$/, '').replace(/^\.\//, '');
     const layout = config.getLayoutOfName(frontMatter.layout || collection.layout.name, `page ${name}`);
-    const body = module.exports.__content.replace(/\n/g, '');
+    const template = module.exports.template;
     const url = frontMatter.permalink || `/${name}`;
     const title = frontMatter.title || titleFromUrl(url, `page ${name}`);
     const date = frontMatter.date;
 
-    const page = new Page(title, url, body, layout, date);
+    const page = new Page(title, url, layout, template, date);
 
     const categories = getCategories(frontMatter);
     categories.forEach((category : Category) => category.pages.push(page));
@@ -128,6 +128,8 @@ function createCollection(key : string, raw : any, context : RequireContext) {
     config.addPage(page);
     return page;
   });
+
+  return collection;
 }
 
 config.collections = [].concat.call([
