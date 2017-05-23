@@ -1,33 +1,32 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import Page from '../src/models/Page';
-import MenuEntry from '../src/models/MenuEntry';
+import { Page, MenuEntry, PageConfig } from '../src/models';
 
-interface Props {
-  page : Page;
-  menu : MenuEntry[];
-};
-
-export default ({ page, menu } : Props) => (
+export default (config : PageConfig) => (
   <div>
     <nav>
       <ul>
-      { menu.map((entry : MenuEntry, key : number) => (
+      { config.menu.map((entry : MenuEntry, key : number) => (
         <li key={ key }><Link to={ entry.url }>{ entry.short }</Link></li>
       )) }
       </ul>
     </nav>
     <header>
-      <h1>{ page.title }</h1>
-      <div dangerouslySetInnerHTML={ { __html: page.body } } />
+      <h1>{ config.page.title }</h1>
+      <div dangerouslySetInnerHTML={ { __html: config.page.body() } } />
     </header>
     <main>
     </main>
     <footer>
-      { menu.map((entry : MenuEntry, key : number) => (
+      <ul>
+      { config.menu.map((entry : MenuEntry, key : number) => (
         <li key={ key }><Link to={ entry.url }>{ entry.title }</Link></li>
       )) }
+      </ul>
+      <p>
+        <Link to="/">{ config.title }</Link> | <Link to="/sitemap">Site Map</Link>
+      </p>
     </footer>
   </div>
 );

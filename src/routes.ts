@@ -1,13 +1,13 @@
-import { createElement } from 'react';
-import { Route } from 'react-router-dom';
+import { createElement, ComponentClass, StatelessComponent, Attributes } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { Route, StaticRouter } from 'react-router-dom';
 
 import config from './config';
-import { Layout } from './models';
+import { CurrentPage, Layout } from './models';
 
-interface Routable {
-  url : string;
-  title : string;
-  layout : Layout;
+type ComponentType<T> = ComponentClass<T> | StatelessComponent<T>;
+
+interface Routable extends CurrentPage {
   exact ?: boolean;
 }
 
@@ -15,10 +15,21 @@ const NOT_FOUND_URL = '/404';
 
 let key = 0;
 
-function createRoute(routable : Routable) {
-  const componentProps = Object.assign({}, config, { page: routable });
-  const component = () => createElement(routable.layout.component as any, componentProps);
-  const routeProps = { path: routable.url, exact: routable.exact != false, key: key++, component };
+function createRoute(page : Routable) {
+  function render<T>(componentType : ComponentType<T>, props ?: Attributes & T) : string {
+    const element = createElement(componentType as any, props);
+    const router = createElement(StaticRouter, { location: page.url, context: {} }, element);
+    return renderToStaticMarkup(router);
+  }
+
+  const pageConfig = Object.assign({}, config); // copy
+  pageConfig.page = page;
+  pageConfig.page.body = () => {
+    return page.template(Object.assign({ render : render, config: pageConfig }, pageConfig));
+  };
+
+  const component = () => createElement(page.layout.component as any, pageConfig);
+  const routeProps = { path: page.url, exact: page.exact != false, key: key++, component };
   const route = createElement(Route, routeProps);
   return route;
 }
@@ -30,7 +41,7 @@ const routes = [].concat.call(
 
   // pages
   Object.keys(config.pages)
-    .map((url) => createRoute(config.pages[url])),
+    .map((url) => createRoute(config.pages[url] as CurrentPage)),
 );
 
 var error404 = config.pages[NOT_FOUND_URL];
@@ -39,12 +50,11 @@ if (error404 == undefined) {
 }
 
 // not found page
-routes.push(createRoute({
+routes.push(createRoute(Object.assign({}, error404 as CurrentPage, {
   url: '/',
   exact: false,
-  layout: error404.layout,
   title: 'Not Found',
-}));
+})));
 
 export default routes;
 
