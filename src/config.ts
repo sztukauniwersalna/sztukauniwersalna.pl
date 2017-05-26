@@ -60,6 +60,7 @@ requireDirectory(Context.LAYOUTS)
 requireDirectory(Context.INCLUDES)
   .forEach((module : Module) => {
     const name = module.name.replace(/^\.\//, '').replace(/\.tsx$/, '');
+
     config.addInclude(new Include(name, module.exports.default));
   });
 
@@ -135,14 +136,16 @@ function createCollection(key : string, raw : any, context : RequireContext) {
 config.collections = [].concat.call([
   createCollection(ROOT_COLLECTION_KEY, { title : ROOT_COLLECTION_TITLE }, Context.ROOT),
   Object.keys(rawConfig.collections)
-    .filter((key : string) => Context.hasOwnProperty(key.toUpperCase()))
+    .filter((key : string) => {
+      const context = Context.hasOwnProperty(key.toUpperCase());
+      if (!context) {
+        console.warn(`couldn't find folder _${key} required by collection ${key}`);
+      }
+      return context;
+    })
     .forEach((key : string) =>
       createCollection(key, rawConfig.collections[key], Context[key.toUpperCase()])),
 ]);
-
-if (config.pages['/'] == undefined) {
-  throw new Error('page of url \'/\' must be defined to create index.html');
-}
 
 const isLocalUrl = (url : string) => url.charAt(0) == '/' && url.charAt(1) != '/';
 
@@ -161,6 +164,10 @@ config.menu = rawConfig.menu.map((raw : any, i : number) => {
     raw.icon && checkIsString(raw.icon, `menu[${i}].icon`),
   );
 });
+
+if (config.pages['/'] == undefined) {
+  throw new Error('page of url \'/\' must be defined to create index.html');
+}
 
 export default config;
 
