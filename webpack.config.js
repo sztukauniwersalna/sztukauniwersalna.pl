@@ -18,7 +18,8 @@ module.exports = {
 
   resolveLoader: {
     alias: {
-      'ejs-loader': path.join(__dirname, "./src/ejsLoader.js")
+      'ejs-loader': path.join(__dirname, "./src/ejsLoader.js"),
+      'markdown-loader': path.join(__dirname, "./src/markdownLoader.js"),
     }
   },
 
@@ -28,7 +29,15 @@ module.exports = {
       { test: /\.tsx?$/, use: 'ts-loader' },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },
-      { test: /\.markdown$/, use: [ 'ejs-loader', 'markdown-with-front-matter-loader' ] },
+      {
+        test: /\.markdown$/,
+        use: [
+          'ejs-loader',
+          'markdown-loader?html=true&linkify=true&typographer=true',
+          'json-loader',
+          'front-matter-loader'
+        ]
+      },
     ],
   },
 

@@ -112,7 +112,7 @@ function createCollection(key : string, raw : any, context : RequireContext) {
   const collection = new Collection(title, layout, raw.output != false);
 
   collection.pages = requireDirectory(context).map((module : Module, key : number) => {
-    const frontMatter = module.exports;
+    const frontMatter = module.exports.frontMatter;
     const name = module.name.replace(/\.markdown$/, '').replace(/^\.\//, '');
     const layout = config.getLayoutOfName(frontMatter.layout || collection.layout.name, `page ${name}`);
     const template = module.exports.template;
