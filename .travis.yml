@@ -8,7 +8,7 @@ script:
 deploy:
   provider: 'script'
   skip_cleanup: true
-  script: echo $KEY_PASSWORD > ./password && ./deploy.sh master https://github.com/sztukauniwersalna/sztukauniwersalna.github.io.git
+  script: echo $KEY_PASSWORD > ./password && ./deploy/deploy.sh master https://github.com/sztukauniwersalna/sztukauniwersalna.github.io.git
   on:
     branch: 'master'
 
