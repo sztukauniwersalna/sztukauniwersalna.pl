@@ -1,12 +1,10 @@
-const fs = require('fs')
-const path = require('path')
+const fs = require('fs');
+const path = require('path');
 
-const currentDir = '.';
-
-const specialDirs = fs.readdirSync(currentDir)
-  .filter(file => fs.lstatSync(path.join(currentDir, file)).isDirectory())
-  .filter(file => file.match(/^_[a-z0-0-_]+$/))
-  .filter((key) => ['_layouts', '_includes'].indexOf(key) != -1)
+const specialDirs = fs.readdirSync('.')
+  .filter(file => fs.lstatSync(file).isDirectory())
+  .filter(file => file.match(/^_[a-z0-9-_]+$/))
+  .filter((key) => ['_layouts', '_includes'].indexOf(key) == -1)
 ;
 
 const TSX_REGEX = '/\\.tsx$/';
