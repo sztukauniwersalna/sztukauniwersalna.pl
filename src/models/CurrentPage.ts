@@ -1,13 +1,11 @@
 
-import { Page, Template } from './Page';
+import { Page, ComponentType } from './Page';
 import Layout from './Layout';
-export { Page, Template } from './Page';
+export { Page, ComponentType } from './Page';
 
 export class CurrentPage extends Page {
-  body : () => string;
-
-  constructor(title : string, url : string, layout : Layout, template : Template, date ?: string) {
-    super(title, url, layout, template, date);
+  constructor(title : string, url : string, layout : Layout, body : ComponentType<any>, date ?: string) {
+    super(title, url, layout, body, date);
   }
 }
 

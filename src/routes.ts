@@ -16,17 +16,7 @@ const NOT_FOUND_URL = '/404';
 let key = 0;
 
 function createRoute(page : Routable) {
-  function render<T>(componentType : ComponentType<T>, props ?: Attributes & T) : string {
-    const element = createElement(componentType as any, props);
-    const router = createElement(StaticRouter, { location: page.url, context: {} }, element);
-    return renderToStaticMarkup(router);
-  }
-
-  const pageConfig = Object.assign({}, config); // copy
-  pageConfig.page = page;
-  pageConfig.page.body = () => {
-    return page.template(Object.assign({ render : render, config: pageConfig }, pageConfig));
-  };
+  const pageConfig = Object.assign({}, config, { page })
 
   const component = () => createElement(page.layout.component as any, pageConfig);
   const routeProps = { path: page.url, exact: page.exact != false, key: key++, component };

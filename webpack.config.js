@@ -13,13 +13,13 @@ module.exports = {
   devtool: "source-map",
 
   resolve: {
-    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".md", ".markdown"]
+    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".markdown"]
   },
 
   resolveLoader: {
     alias: {
-      'ejs-loader': path.join(__dirname, "./src/ejsLoader.js"),
       'markdown-loader': path.join(__dirname, "./src/markdownLoader.js"),
+      'wrap-with-react-loader': path.join(__dirname, "./src/wrapWithReactLoader.js"),
     }
   },
 
@@ -32,7 +32,8 @@ module.exports = {
       {
         test: /\.markdown$/,
         use: [
-          'ejs-loader',
+          'babel-loader',
+          'wrap-with-react-loader?field=body',
           'markdown-loader?html=true&linkify=true&typographer=true',
           'json-loader',
           'front-matter-loader'

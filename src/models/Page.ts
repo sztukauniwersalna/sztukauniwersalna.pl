@@ -1,23 +1,24 @@
+import { ComponentClass, StatelessComponent } from 'react';
 
 import Layout from './Layout';
 import Category from './Category';
 import PageConfig from './PageConfig';
 
-export type Template = (config: PageConfig) => string;
+export type ComponentType<T> = ComponentClass<T> | StatelessComponent<T>;
 
 export class Page {
   title : string;
   url : string;
   layout : Layout;
-  template : Template;
+  body : ComponentType<any>;
   date ?: string;
   categories : Category[] = [];
 
-  constructor(title : string, url : string, layout : Layout, template : Template, date ?: string) {
+  constructor(title : string, url : string, layout : Layout, body : ComponentType<any>, date ?: string) {
     this.title = title;
     this.url = url;
     this.layout = layout;
-    this.template = template;
+    this.body = body;
     this.date = date;
   }
 }
