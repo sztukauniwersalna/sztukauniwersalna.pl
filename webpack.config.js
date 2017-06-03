@@ -2,30 +2,33 @@ const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
 
 module.exports = {
-	entry: './src/entry.ts',
+	entry: 'paramorph/entry.ts',
 
   output: {
     filename: 'bundle.js',
-    path: __dirname + '/build',
+    path: path.resolve(__dirname, './build'),
     libraryTarget: 'umd',
   },
 
   devtool: "source-map",
 
   resolve: {
-    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".markdown"]
+    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".markdown"],
+    alias: {
+      'paramorph': path.resolve(__dirname, './__paramorph/'),
+    }
   },
 
   resolveLoader: {
     alias: {
-      'markdown-loader': path.join(__dirname, "./src/markdownLoader.js"),
-      'wrap-with-react-loader': path.join(__dirname, "./src/wrapWithReactLoader.js"),
+      'markdown-loader': require.resolve('./__paramorph/markdownLoader.js'),
+      'wrap-with-react-loader': require.resolve('./__paramorph/wrapWithReactLoader.js'),
     }
   },
 
   module: {
     rules: [
-      { test: require.resolve('./src/requireContext.js'), loader: 'val-loader' },
+      { test: require.resolve('./__paramorph/requireContext.js'), loader: 'val-loader' },
       { test: /\.tsx?$/, use: 'ts-loader' },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },

@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, Category } from '../src/models';
+import { Page, Category } from 'paramorph/models';
 
 interface HashTable<T> {
   [key : string]: T;

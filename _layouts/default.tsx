@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, MenuEntry, PageConfig } from '../src/models';
+import { Page, MenuEntry, PageConfig } from 'paramorph/models';
 
 export default (config : PageConfig) => {
   const Body = config.page.body;
