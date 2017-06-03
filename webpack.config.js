@@ -21,8 +21,8 @@ module.exports = {
 
   resolveLoader: {
     alias: {
-      'markdown-loader': require.resolve('./__paramorph/markdownLoader.js'),
-      'wrap-with-react-loader': require.resolve('./__paramorph/wrapWithReactLoader.js'),
+      'markdown-loader': require.resolve('./__paramorph/loaders/markdown'),
+      'wrap-with-jsx-loader': require.resolve('./__paramorph/loaders/wrap-with-jsx'),
     }
   },
 
@@ -36,7 +36,7 @@ module.exports = {
         test: /\.markdown$/,
         use: [
           'babel-loader',
-          'wrap-with-react-loader?field=body',
+          'wrap-with-jsx-loader?field=body',
           'markdown-loader?html=true&linkify=true&typographer=true',
           'json-loader',
           'front-matter-loader'
