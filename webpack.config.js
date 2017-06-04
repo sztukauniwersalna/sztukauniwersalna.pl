@@ -39,7 +39,7 @@ module.exports = {
           'babel-loader',
           'add-data-to-globals?data=includes',
           'wrap-with-jsx-loader?field=body',
-          'markdown-loader?html=true&linkify=true&typographer=true',
+          'markdown-loader?html=true&xhtmlOut=true&linkify=true&typographer=true',
           'json-loader',
           'front-matter-loader'
         ]

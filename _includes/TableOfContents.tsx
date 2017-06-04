@@ -1,20 +1,16 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, Category } from 'paramorph/models';
-
-interface HashTable<T> {
-  [key : string]: T;
-}
+import { Page, Category, Website } from 'paramorph/models';
 
 interface Props {
-  categories : HashTable<Category>;
+  website : Website;
 };
 
-export default ({ categories } : Props) => (
+export default ({ website } : Props) => (
   <div>
-  { Object.keys(categories)
-    .map((key : string) => categories[key])
+  { Object.keys(website.categories)
+    .map((key : string) => website.categories[key])
     .map(({ url, title, pages } : Category, key: number) => (
     <div key={ key }>
       <h2>

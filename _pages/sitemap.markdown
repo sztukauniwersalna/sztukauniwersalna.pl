@@ -1,5 +1,5 @@
 ---
 title: Site Map
 ---
-<TableOfContents />
+<TableOfContents {...data} />
 
