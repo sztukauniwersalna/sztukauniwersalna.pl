@@ -1,34 +1,39 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, MenuEntry, PageConfig } from 'paramorph/models';
+import { Page, Website, MenuEntry } from 'paramorph/models';
 
-export default (config : PageConfig) => {
-  const Body = config.page.body;
+interface Props {
+  website : Website;
+  page : Page;
+}
+
+export default ({ website, page } : Props) => {
+  const Body = page.body;
 
   return (
     <div>
       <nav>
         <ul>
-        { config.menu.map((entry : MenuEntry, key : number) => (
+        { website.menu.map((entry : MenuEntry, key : number) => (
           <li key={ key }><Link to={ entry.url }>{ entry.short }</Link></li>
         )) }
         </ul>
       </nav>
       <header>
-        <h1>{ config.page.title }</h1>
-        <Body {...config} />
+        <h1>{ page.title }</h1>
+        <Body website={ website } page={ page } />
       </header>
       <main>
       </main>
       <footer>
         <ul>
-        { config.menu.map((entry : MenuEntry, key : number) => (
+        { website.menu.map((entry : MenuEntry, key : number) => (
           <li key={ key }><Link to={ entry.url }>{ entry.title }</Link></li>
         )) }
         </ul>
         <p>
-          <Link to="/">{ config.title }</Link> | <Link to="/sitemap">Site Map</Link>
+          <Link to="/">{ website.title }</Link> | <Link to="/sitemap">Site Map</Link>
         </p>
       </footer>
     </div>
