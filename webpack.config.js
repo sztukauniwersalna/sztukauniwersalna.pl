@@ -23,6 +23,7 @@ module.exports = {
     alias: {
       'markdown-loader': require.resolve('./__paramorph/loaders/markdown'),
       'wrap-with-jsx-loader': require.resolve('./__paramorph/loaders/wrap-with-jsx'),
+      'add-data-to-globals': require.resolve('./__paramorph/loaders/add-data-to-globals'),
     }
   },
 
@@ -36,6 +37,7 @@ module.exports = {
         test: /\.markdown$/,
         use: [
           'babel-loader',
+          'add-data-to-globals?data=includes',
           'wrap-with-jsx-loader?field=body',
           'markdown-loader?html=true&linkify=true&typographer=true',
           'json-loader',
