@@ -28,7 +28,7 @@ module.exports = {
 
   module: {
     rules: [
-      { test: require.resolve('./__paramorph/requireContext.js'), loader: 'val-loader' },
+      { test: require.resolve('./__paramorph/data/requireContext.js'), loader: 'val-loader' },
       { test: /\.tsx?$/, use: 'ts-loader' },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },
