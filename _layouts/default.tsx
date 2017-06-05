@@ -13,18 +13,18 @@ export default ({ website, page } : Props) => {
 
   return (
     <div>
-      <nav>
-        <ul>
-        { website.menu.map((entry : MenuEntry, key : number) => (
-          <li key={ key }><Link to={ entry.url }>{ entry.short }</Link></li>
-        )) }
-        </ul>
-      </nav>
       <header>
-        <h1>{ page.title }</h1>
-        <Body website={ website } page={ page } />
+        <nav>
+          <ul>
+          { website.menu.map((entry : MenuEntry, key : number) => (
+            <li key={ key }><Link to={ entry.url }>{ entry.short }</Link></li>
+          )) }
+          </ul>
+        </nav>
       </header>
       <main>
+        <h1>{ page.title }</h1>
+        <Body website={ website } page={ page } />
       </main>
       <footer>
         <ul>
