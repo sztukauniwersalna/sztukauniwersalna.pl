@@ -23,6 +23,19 @@ export default ({ website } : Props) => (
       </ul>
     </div>
   )) }
+    <div key={ 'uncategorized' }>
+      <h2>
+        { 'Nieskategoryzowane' }
+      </h2>
+      <ul>
+      { Object.keys(website.pages)
+        .map((key : string) => website.pages[key])
+        .filter((page : Page) => page.categories.length == 0)
+        .map(({ title, url } : Page, key: number) => (
+         <li key={ key }><Link to={ url }>{ title }</Link></li>
+        )) }
+      </ul>
+    </div>
   </div>
 );
 
