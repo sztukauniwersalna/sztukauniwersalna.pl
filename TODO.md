@@ -6,7 +6,7 @@
 1. ~Bottom links configured in `_config.yml`~,
 1. ~Generated HTML sitemap~,
 1. ~Full post pages generated~,
-1. Post list on main page,
+1. ~Post list on main page~,
 1. Category pages generated from front matter data,
 1. Category properties configured in `_config.yml`,
 1. Categories rendered in posts,
