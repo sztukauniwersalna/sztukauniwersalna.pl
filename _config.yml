@@ -4,13 +4,13 @@ baseurl: ://sztukauniwersalna.pl/
 timezone: Europe/Warsaw
 collections:
   pages:
-    title: Pages
+    layout: PageLayout
   posts:
-    title: Posts
+    layout: PostLayout
   uploads:
     title: Uploads
   drafts:
-    title: Drafts
+    layout: DraftLayout
     output: false
 categories:
   kuchnia:
