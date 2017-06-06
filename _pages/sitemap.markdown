@@ -1,5 +1,7 @@
 ---
 title: Site Map
 ---
-<TableOfContents {...data} />
+<div>
+  <TableOfContents {...data} />
+</div>
 
