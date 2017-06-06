@@ -11,11 +11,11 @@ interface Props {
 
 export default ({ website, page, feed } : Props) => (
   <div>
-  { feed.map((page : Page) => {
+  { feed.map((page : Page, key : number) => {
     const Body = page.body;
 
     return (
-      <article>
+      <article key={ key }>
         <h1><Link to={ page.url }>{ page.title }</Link></h1>
         <Body website={ website } page={ page } />
         <p>
