@@ -22,10 +22,19 @@
     "strictNullChecks": true,
     "sourceMap": true,
     "target": "es5",
-    "types": [ "webpack", "webpack-env", "react", "react-dom", "react-router-dom" ]
+    "types": [
+      "webpack",
+      "webpack-env",
+      "react",
+      "react-dom",
+      "react-router-dom",
+      "react-hot-loader"
+    ]
   },
   "include": [
-    "./__paramorph/**/*"
+    "./__paramorph/**/*",
+    "./_includes/**/*",
+    "./_layouts/**/*"
   ]
 }
 

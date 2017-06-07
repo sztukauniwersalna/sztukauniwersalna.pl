@@ -1,11 +1,16 @@
 const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
+const { JSDOM } = require('jsdom');
 
 module.exports = {
-	entry: 'paramorph/entry.ts',
+	entry: {
+    bundle: [
+      'paramorph/entry.ts',
+    ]
+  },
 
   output: {
-    filename: 'bundle.js',
+    filename: '[name].js',
     path: path.resolve(__dirname, './build'),
     libraryTarget: 'umd',
   },
@@ -29,8 +34,8 @@ module.exports = {
 
   module: {
     rules: [
-      { test: require.resolve('./__paramorph/data/requireContext.js'), loader: 'val-loader' },
-      { test: /\.tsx?$/, use: 'ts-loader' },
+      { test: require.resolve('./__paramorph/data/requireContext.js'), use: 'val-loader' },
+      { test: /\.tsx?$/, use: [ 'babel-loader', 'ts-loader' ] },
       { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },
       {
@@ -41,7 +46,7 @@ module.exports = {
           'wrap-with-jsx-loader?field=body',
           'markdown-loader?html=true&xhtmlOut=true&linkify=true&typographer=true',
           'json-loader',
-          'front-matter-loader'
+          'front-matter-loader',
         ]
       },
     ],
@@ -58,8 +63,12 @@ module.exports = {
         '/404',
       ],
 
+      globals: {
+        self: new JSDOM().window,
+      },
       locals: {
         title: 'SztukaUniwersalna.pl',
+        scripts: [ '/bundle.js' ]
       },
     }),
   ]

@@ -3,7 +3,7 @@ title: SztukaUniwersalna.PL
 permalink: /
 ---
 
- * Hello,
+ * Hello?
  * Markdown!
 
 <div>
