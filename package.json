@@ -6,7 +6,7 @@
   "main": "none",
   "scripts": {
     "webpack": "webpack --progress --colors",
-    "dev": "webpack-dev-server --progress --colors --inline --hot --config ./hot.config.js --content-base=./build",
+    "dev": "webpack-dev-server --progress --colors --inline --config ./hot.config.js",
     "build": "npm run webpack",
     "start": "npm run dev",
     "deploy": "./deploy.sh master https://github.com/sztukauniwersalna/sztukauniwersalna.github.io.git"

@@ -28,7 +28,7 @@ module.exports = {
   }),
 
   output: Object.assign(config.output, {
-    publicPath: config.output.path,
+    publicPath: '/',
   }),
 
   devtool: config.devtool,
