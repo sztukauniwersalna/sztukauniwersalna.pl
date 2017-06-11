@@ -23,7 +23,7 @@ export default ({ website, page } : Props) => {
         </nav>
       </header>
       <main>
-        <h1>{ page.title }</h1>
+        <h1><Link to={ page.url }>{ page.title }</Link></h1>
         <Body website={ website } page={ page } />
       </main>
       <footer>
