@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 import { Page, Website, MenuEntry } from 'paramorph/models';
 import Crumbs from './components/Crumbs'
+import Tags from './components/Tags'
 
 interface Props {
   website : Website;
@@ -27,6 +28,7 @@ export default ({ website, page } : Props) => {
       <main>
         <h1><Link to={ page.url }>{ page.title }</Link></h1>
         <Crumbs website={ website } page={ page } />
+        <Tags website={ website } page={ page } />
         <Body website={ website } page={ page } />
       </main>
       <footer>

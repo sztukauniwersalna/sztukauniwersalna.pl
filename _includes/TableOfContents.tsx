@@ -14,11 +14,13 @@ export default ({ website } : Props) => (
       <ul>
       { Object.keys(website.categories)
         .map((key : string) => website.categories[key])
+        .filter((category : Category) => category.output)
         .map(({ url, title, pages } : Category, key: number) => (
         <li key={ key }>
           <Link to={ url }>{ title }</Link>
           <ul>
-          { pages.map(({ title, url } : Page, key: number) => (
+          { pages.filter((page : Page) => page.output)
+            .map(({ title, url } : Page, key: number) => (
             <li key={ key }><Link to={ url }>{ title }</Link></li>
           )) }
           </ul>
@@ -27,8 +29,8 @@ export default ({ website } : Props) => (
       { Object.keys(website.pages)
           .map((key : string) => website.pages[key])
           .filter((page : Page) => page.categories.length == 0)
-          .filter((page : Page) => !(page instanceof Category))
-          .filter((page : Page) => ['/', '/404'].indexOf(page.url) === -1)
+          .filter((page : Page) => page.output)
+          .filter((page : Page) => page.url != '/')
           .map(({ title, url } : Page, key: number) => (
             <li key={ key }><Link to={ url }>{ title }</Link></li>
           )) }
