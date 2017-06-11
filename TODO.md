@@ -9,7 +9,7 @@
 1. ~Post list on main page~,
 1. ~Category pages rendered (with front matter data)~,
 1. ~Categories rendered in posts~,
-1. Categories rendered in post lists,
+1. ~categories rendered in post lists~,
 1. Tag pages generated from front matter data,
 1. Tags rendered in posts,
 1. Tags rendered in post lists,
