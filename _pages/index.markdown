@@ -1,6 +1,8 @@
 ---
 title: SztukaUniwersalna.PL
+tags: [ hello, index ]
 permalink: /
+
 ---
 
  * Hello?
