@@ -9,6 +9,6 @@ permalink: /
 Is is hot?
 
 <div>
-  <Feed {...data} feed={ data.website.collections.Posts.pages } />
+  <Feed {...data} feed={ data.website.getCollectionOfTitle('Posts').pages } />
 </div>
 
