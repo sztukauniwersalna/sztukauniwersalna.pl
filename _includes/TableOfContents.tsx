@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, Category, Website } from 'paramorph/models';
+import { Page, Category, Tag, Website } from 'paramorph/models';
 
 interface Props {
   website : Website;
@@ -32,6 +32,12 @@ export default ({ website } : Props) => (
           .filter((page : Page) => page.output)
           .filter((page : Page) => page.url != '/')
           .map(({ title, url } : Page, key: number) => (
+            <li key={ key }><Link to={ url }>{ title }</Link></li>
+          )) }
+      { Object.keys(website.tags)
+          .map((key : string) => website.tags[key])
+          .filter((tag : Tag) => tag.output)
+          .map(({ title, url } : Tag, key: number) => (
             <li key={ key }><Link to={ url }>{ title }</Link></li>
           )) }
       </ul>
