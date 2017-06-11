@@ -11,7 +11,7 @@ export const Tags = ({ website, page } : Props) => page.tags.length == 0 ? null 
   <ul>
   { page.tags.map((title : string) => website.getTagOfTitle(title))
     .map((tag : Tag, key : number) => (
-      <li key={ key }><Link to={ tag.url }>{ tag.title }</Link></li>
+      <li key={ key }><Link to={ tag.url }>{ tag.originalTitle }</Link></li>
     )) }
   </ul>
 );

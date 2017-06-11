@@ -2,6 +2,6 @@
 output: false
 ---
 <div>
-  <Feed { ...data } feed={ data.website.getTagOfTitle(data.page.title).pages } />
+  <Feed { ...data } feed={ data.page.pages } />
 </div>
 
