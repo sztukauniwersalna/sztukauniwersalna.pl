@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Page, Category, Website } from 'paramorph/models';
+import { Page, Category, Tag, Website } from 'paramorph/models';
 
 interface Props {
   website : Website;
@@ -18,6 +18,7 @@ export default ({ website, page, feed } : Props) => (
       <article key={ key }>
         <h1><Link to={ page.url }>{ page.title }</Link></h1>
         <CategoryList website={ website } page={ page } />
+        <TagList website={ website } page={ page } />
 
         <Body website={ website } page={ page } />
 
@@ -37,8 +38,24 @@ const CategoryList = ({ website, page } : { website : Website, page : Page }) =>
     <ul>
     { page.categories
       .map((title : string) => website.getCategoryOfTitle(title))
-      .map((c : Category, key : number) => (
-        <li key={ key }><Link to={ c.url }>{ c.title }</Link></li>
+      .map(({ title, url } : Category, key : number) => (
+        <li key={ key }><Link to={ url }>{ title }</Link></li>
+      )) }
+    </ul>
+  );
+}
+
+const TagList = ({ website, page } : { website : Website, page : Page }) => {
+  if (page.tags.length == 0) {
+    return null;
+  }
+
+  return (
+    <ul>
+    { page.tags
+      .map((title : string) => website.getTagOfTitle(title))
+      .map(({ originalTitle, url } : Tag, key : number) => (
+        <li key={ key }><Link to={ url }>{ originalTitle }</Link></li>
       )) }
     </ul>
   );
