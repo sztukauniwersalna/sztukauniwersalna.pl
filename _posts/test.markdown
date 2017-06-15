@@ -1,6 +1,7 @@
 ---
 title: Test
 category: 'Sztuka Gotowania'
+role: category
 tags: [ hello, tags ]
 
 ---
