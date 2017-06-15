@@ -19,19 +19,26 @@ export default ({ website } : Props) => {
 
   return (
     <ul>
-      <li>
+      <li key={ -1 }>
         <Link to='/'>{ website.getPageOfUrl('/').title }</Link>
-        <Branch pages={ topLevel.concat(tags) } />
+        <Branch pages={ topLevel } />
       </li>
+    { tags.map(({ title, url, pages }: Tag, key : number) => (
+      <li key={ key }>
+        <Link to={ url }>{ title }</Link>
+        <Branch pages={ pages } shallow />
+      </li>
+    )) }
     </ul>
   );
 };
 
 interface BranchProps {
   pages : Page[];
+  shallow ?: boolean;
 }
 
-const Branch = ({ pages } : BranchProps) : ReactElement<BranchProps> => (
+const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<BranchProps> => (
   <ul>
   { pages
     .filter(page => page instanceof Category)
@@ -40,7 +47,7 @@ const Branch = ({ pages } : BranchProps) : ReactElement<BranchProps> => (
     .map(({ url, title, pages } : Category, key: number) => (
       <li key={ key }>
         <Link to={ url }>{ title }</Link>
-        <Branch pages={ pages } />
+        { !shallow ? <Branch pages={ pages } /> : null }
       </li>
     ))
   }
@@ -48,7 +55,7 @@ const Branch = ({ pages } : BranchProps) : ReactElement<BranchProps> => (
       .filter(page => !(page instanceof Category))
       .filter(page => page.output)
       .map(({ title, url } : Page, key: number) => (
-        <li key={ key }>
+        <li key={ 1024 * 1024 + key }>
           <Link to={ url }>{ title }</Link>
         </li>
       )) }
