@@ -15,7 +15,7 @@
 1. ~Tags rendered in post lists~,
 1. ~Tags rendered as meta keywords~,
 1. Meta description rendered from first paragraph,
-1. Only first paragraph rendered in feed,
+1. ~Only first paragraph rendered in feed~,
 1. Feeds rendered as ToC when already in feed,
 1. ToC rendered partially when in feed,
 1. Generated XML sitemap,

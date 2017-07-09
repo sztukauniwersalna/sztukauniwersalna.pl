@@ -20,7 +20,7 @@ export default ({ website, page, feed } : Props) => (
         <CategoryList website={ website } page={ page } />
         <TagList website={ website } page={ page } />
 
-        <Body website={ website } page={ page } />
+        <Body website={ website } page={ page } respectLimit={ true } />
 
         <Link to={ page.url }>Read more</Link>
       </article>
