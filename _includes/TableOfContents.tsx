@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 
 import { Page, Category, Tag, Website } from 'paramorph/models';
 
-interface Props {
+export interface Props {
   website : Website;
 };
 
-export default ({ website } : Props) => {
+export const TableOfContents = ({ website } : Props) => {
   const topLevel = Object.keys(website.pages)
     .map(key => website.pages[key])
     .filter(page => page.categories.length == 0)
@@ -33,12 +33,12 @@ export default ({ website } : Props) => {
   );
 };
 
-interface BranchProps {
+export interface BranchProps {
   pages : Page[];
   shallow ?: boolean;
 }
 
-const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<BranchProps> => (
+export const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<BranchProps> => (
   <ul>
   { pages
     .filter(page => page instanceof Category)
@@ -61,4 +61,6 @@ const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<BranchP
       )) }
   </ul>
 );
+
+export default TableOfContents;
 

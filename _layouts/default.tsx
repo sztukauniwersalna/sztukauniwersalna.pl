@@ -2,15 +2,15 @@ import * as React from 'react';
 import { Link } from 'react-router-dom';
 
 import { Page, Website, MenuEntry } from 'paramorph/models';
-import Crumbs from './components/Crumbs'
-import Tags from './components/Tags'
+import Crumbs from '../_includes/Crumbs'
+import TagList from '../_includes/TagList'
 
 interface Props {
   website : Website;
   page : Page;
 }
 
-export default ({ website, page } : Props) => {
+export function DefaultLayout({ website, page } : Props) {
   const Body = page.body;
   const index = website.getPageOfUrl('/');
 
@@ -28,7 +28,7 @@ export default ({ website, page } : Props) => {
       <main>
         <h1><Link to={ page.url }>{ page.title }</Link></h1>
         <Crumbs website={ website } page={ page } />
-        <Tags website={ website } page={ page } />
+        <TagList website={ website } page={ page } />
         <Body website={ website } page={ page } />
       </main>
       <footer>
@@ -44,4 +44,6 @@ export default ({ website, page } : Props) => {
     </div>
   );
 }
+
+export default DefaultLayout;
 
