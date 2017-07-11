@@ -6,9 +6,10 @@ import { Page, Category, Tag, Website } from 'paramorph/models';
 
 export interface Props {
   website : Website;
+  respectLimit ?: boolean;
 };
 
-export const TableOfContents = ({ website } : Props) => {
+export const TableOfContents = ({ website, respectLimit = false } : Props) => {
   const topLevel = Object.keys(website.pages)
     .map(key => website.pages[key])
     .filter(page => page.categories.length == 0)
@@ -19,16 +20,20 @@ export const TableOfContents = ({ website } : Props) => {
 
   return (
     <ul>
-      <li key={ -1 }>
+      <li key={ '/' }>
         <Link to='/'>{ website.getPageOfUrl('/').title }</Link>
-        <Branch pages={ topLevel } />
+        <Branch pages={ topLevel } shallow={ respectLimit } ellipsis={ respectLimit } />
       </li>
-    { tags.map(({ title, url, pages }: Tag, key : number) => (
-      <li key={ key }>
+    {
+      !respectLimit
+      ? tags.map(({ title, url, pages }: Tag) => (
+      <li key={ url }>
         <Link to={ url }>{ title }</Link>
         <Branch pages={ pages } shallow />
       </li>
-    )) }
+      ))
+      : null
+    }
     </ul>
   );
 };
@@ -36,16 +41,23 @@ export const TableOfContents = ({ website } : Props) => {
 export interface BranchProps {
   pages : Page[];
   shallow ?: boolean;
+  ellipsis ?: boolean;
 }
 
-export const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<BranchProps> => (
-  <ul>
+export function Branch({
+  pages,
+  shallow = false,
+  ellipsis = false
+} : BranchProps) : ReactElement<BranchProps> {
+
+  return (
+    <ul>
   { pages
     .filter(page => page instanceof Category)
     .filter(page => page.output)
     .map(page => page as Category)
-    .map(({ url, title, pages } : Category, key: number) => (
-      <li key={ key }>
+    .map(({ url, title, pages } : Category) => (
+      <li key={ url }>
         <Link to={ url }>{ title }</Link>
         { !shallow ? <Branch pages={ pages } /> : null }
       </li>
@@ -54,13 +66,15 @@ export const Branch = ({ pages, shallow = false } : BranchProps) : ReactElement<
   { pages
       .filter(page => !(page instanceof Category))
       .filter(page => page.output)
-      .map(({ title, url } : Page, key: number) => (
-        <li key={ 1024 * 1024 + key }>
+      .map(({ title, url } : Page) => (
+        <li key={ url }>
           <Link to={ url }>{ title }</Link>
         </li>
       )) }
-  </ul>
-);
+  { ellipsis ? <li key='ellipsis'>…</li> : null }
+    </ul>
+  );
+}
 
 export default TableOfContents;
 
