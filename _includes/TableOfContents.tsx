@@ -12,6 +12,8 @@ export interface Props {
 export const TableOfContents = ({ website, respectLimit = false } : Props) => {
   const topLevel = Object.keys(website.pages)
     .map(key => website.pages[key])
+    .concat(Object.keys(website.categories)
+      .map(key => website.categories[key]))
     .filter(page => page.categories.length == 0)
     .filter(page => page.url != '/')
   ;
