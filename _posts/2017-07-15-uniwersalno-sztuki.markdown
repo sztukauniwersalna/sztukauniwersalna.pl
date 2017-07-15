@@ -1,5 +1,5 @@
 ---
-title: UNIWERSALNO SZTUKI
+title: Uniwerslano
 date: 2017-07-15 21:56:00 +02:00
 ---
 
