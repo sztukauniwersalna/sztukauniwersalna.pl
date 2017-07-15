@@ -6,7 +6,7 @@ collections:
     title: Categories
     output: false
     layout: PostLayout
-  drafts:
+  _drafts:
     title: Drafts
     output: false
     layout: DraftLayout
