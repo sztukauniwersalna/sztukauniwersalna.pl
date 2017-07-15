@@ -1,7 +1,6 @@
 ---
 title: Sztuka Gotowania
 role: category
-
 ---
 
 <div>

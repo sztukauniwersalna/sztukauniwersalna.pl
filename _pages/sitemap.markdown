@@ -1,8 +1,10 @@
 ---
 title: Site Map
-tags: [ hello, sitemap ]
-
+tags:
+- hello
+- sitemap
 ---
+
 <div>
   <TableOfContents {...data} />
 </div>

@@ -1,38 +1,45 @@
 ---
 title: SztukaUniwersalna.PL
-baseurl: ://sztukauniwersalna.pl/
 timezone: Europe/Warsaw
 collections:
+  Categories:
+    title: Categories
+    output: false
+    layout: PostLayout
+  drafts:
+    title: Drafts
+    output: false
+    layout: DraftLayout
   pages:
+    title: Pages
+    output: false
     layout: PageLayout
   posts:
-    layout: PostLayout
-  Categories:
+    title: Posts
+    output: true
     layout: PostLayout
   uploads:
     title: Uploads
-  drafts:
-    layout: DraftLayout
     output: false
+baseurl: ://sztukauniwersalna.pl/
 menu:
-  - title: Sztuka Ubioru
-    short: Moda
-    url: /sztuka-ubioru
-    icon:
-  - title: Sztuka Makijażu
-    short: Makijaż
-    url: /sztuka-makijażu
-    icon:
-  - title: Sztuka Gotowania
-    short: Kuchnia
-    url: /sztuka-gotowania
-    icon:
-  - title: Sztuka dla Sztuki
-    short: Sztuka
-    url: /sztuka-dla-sztuki
-    icon:
-  - title: Kim jest Olela?
-    short: O mnie
-    url: /kim-jest-olela
-    icon:
-
+- title: Sztuka Ubioru
+  short: Moda
+  url: "/sztuka-ubioru"
+  icon: 
+- title: Sztuka Makijażu
+  short: Makijaż
+  url: "/sztuka-makijażu"
+  icon: 
+- title: Sztuka Gotowania
+  short: Kuchnia
+  url: "/sztuka-gotowania"
+  icon: 
+- title: Sztuka dla Sztuki
+  short: Sztuka
+  url: "/sztuka-dla-sztuki"
+  icon: 
+- title: Kim jest Olela?
+  short: O mnie
+  url: "/kim-jest-olela"
+  icon: 

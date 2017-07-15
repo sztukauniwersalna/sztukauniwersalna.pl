@@ -1,8 +1,10 @@
 ---
 title: Another
-tags: [ hello, posts ]
+tags:
+- hello
+- posts
 category: Test
 limit: 2
-
 ---
+
 Lorem ipsum...
