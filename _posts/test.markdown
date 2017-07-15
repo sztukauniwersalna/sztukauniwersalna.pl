@@ -1,10 +1,11 @@
 ---
 title: Test
-category: Sztuka Gotowania
-role: category
+categories:
+- Sztuka Gotowania
 tags:
 - hello
 - tags
+role: category
 limit: 1
 ---
 
