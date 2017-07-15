@@ -10,7 +10,7 @@ collections:
     title: Drafts
     output: false
     layout: DraftLayout
-  pages:
+  _pages:
     title: Pages
     output: false
     layout: PageLayout
