@@ -15,12 +15,13 @@ module.exports = {
     libraryTarget: 'umd',
   },
 
-  devtool: "source-map",
+  devtool: 'source-map',
 
   resolve: {
-    extensions: [".ts", ".tsx", ".js", ".json", ".yml", ".yaml", ".markdown"],
+    extensions: ['.ts', '.tsx', '.js', '.json', '.yml', '.yaml', '.markdown', '.scss'],
     alias: {
       'paramorph': path.resolve(__dirname, './__paramorph/'),
+      'parrot-layout': path.resolve(__dirname, './_layouts/parrot/'),
     }
   },
 
@@ -36,7 +37,7 @@ module.exports = {
     rules: [
       { test: require.resolve('./__paramorph/data/requireContext.js'), use: 'val-loader' },
       { test: /\.tsx?$/, use: [ 'babel-loader', 'ts-loader' ] },
-      { enforce: "pre", test: /\.js$/, use: 'source-map-loader' },
+      { enforce: 'pre', test: /\.js$/, use: 'source-map-loader' },
       { test: /\.ya?ml$/, use: 'yml-loader' },
       {
         test: /\.markdown$/,
@@ -48,6 +49,15 @@ module.exports = {
           'json-loader',
           'front-matter-loader',
         ]
+      },
+      {
+        test: /\.scss?$/,
+        use: [
+          { loader: 'isomorphic-style-loader' },
+          { loader: 'css-loader', options: { importLoaders: true, modules: true } },
+          { loader: 'postcss-loader' },
+          { loader: 'sass-loader' },
+        ],
       },
     ],
   },
