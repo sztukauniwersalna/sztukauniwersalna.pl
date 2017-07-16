@@ -26,20 +26,20 @@ menu:
 - title: Sztuka Ubioru
   short: Moda
   url: "/sztuka-ubioru"
-  icon:
+  icon: 
 - title: Sztuka Makijażu
   short: Makijaż
   url: "/sztuka-makijazu"
-  icon:
+  icon: 
 - title: Sztuka Gotowania
   short: Kuchnia
   url: "/sztuka-gotowania"
-  icon:
+  icon: 
 - title: Sztuka dla Sztuki
   short: Sztuka
   url: "/sztuka-dla-sztuki"
-  icon:
+  icon: 
 - title: Kim jest Olela?
   short: O mnie
   url: "/kim-jest-olela"
-  icon:
+  icon: 
