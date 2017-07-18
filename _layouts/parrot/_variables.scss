@@ -1,0 +1,28 @@
+
+$colors: (
+  background: white,
+  background-pink: #eb3e5c,
+  background-green: #2caa3e,
+  background-contrast: #303030,
+  text: #333333,
+  text-contrast: white,
+  action-purple: #9f2bd8,
+  action-green: #2caa3e,
+  action-gray: #2caa3e
+);
+
+$breakpoints: (
+  300: (
+    width: 332px
+  ),
+  500: (
+    width: 592px
+  ),
+  700: (
+    width: 756px
+  ),
+  900: (
+    width: 924px
+  )
+);
+
