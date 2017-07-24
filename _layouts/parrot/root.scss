@@ -1,5 +1,6 @@
 @import './_variables';
 @import './_breaks';
+@import './_colors';
 
 #all {
   width: 100%;
@@ -11,5 +12,7 @@
   }
 
   margin: 0 auto;
+
+  @include color(background-color, 'background-page');
 }
 
