@@ -11,18 +11,22 @@ $colors: (
   action-gray: #2caa3e
 );
 
-$breakpoints: (
+$breaks: (
   300: (
-    width: 332px
+    width: 332px,
+    gutter: 4px
   ),
   500: (
-    width: 592px
+    width: 592px,
+    gutter: 4px
   ),
   700: (
-    width: 756px
+    width: 756px,
+    gutter: 8px
   ),
   900: (
-    width: 924px
+    width: 924px,
+    gutter: 8px
   )
 );
 

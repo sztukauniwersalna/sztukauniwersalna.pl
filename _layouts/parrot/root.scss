@@ -2,7 +2,14 @@
 @import './_breaks';
 
 #all {
-  width: 700px;
+  width: 100%;
+
+  @each $point in map-keys($breaks) {
+    @include break($point) {
+      width: map-get-strict(map-get-strict($breaks, $point), 'width');
+    }
+  }
+
   margin: 0 auto;
 }
 
