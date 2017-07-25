@@ -3,24 +3,50 @@
 @import './_colors';
 @import './_typography';
 
+@mixin anchor-color($color-name) {
+  a {
+    &:link, &:visited {
+      @include color(color, $color-name, .9);
+    }
+    &:hover, &:active {
+      @include color(color, $color-name);
+    }
+
+    @each $tag in h1, h2, h3, h4, h5, h6 {
+      #{$tag} &:link, #{$tag} &:visited {
+        @include color(color, $color-name, .7);
+      }
+      #{$tag} &:hover, #{$tag} &:active {
+        @include color(color, $color-name, .8);
+      }
+    }
+  }
+}
+
+body {
+  @include color(background-color, background-page);
+}
+
 #all {
   width: 100%;
+  margin: 0 1rem;
 
   @each $point in map-keys($breaks) {
     @include break($point) {
       width: map-get-strict(map-get-strict($breaks, $point), 'width');
+      margin: 0 auto;
     }
   }
 
-  margin: 0 auto;
-
-  @include color(background-color, 'background-page');
+  @include anchor-color(action-purple);
 }
 
-h1 {
-  @include color(color, text, .9);
-  @include font(headers, h1, 700);
-  @include baseline(headers, h1);
+@each $tag in h1, h2, h3, h4, h5, h6 {
+  #{$tag} {
+    @include color(color, text, .7);
+    @include font(headers, $tag, 400);
+    @include baseline(headers, $tag);
+  }
 }
 
 p, li, blockquote, dt, dd, input, textarea {

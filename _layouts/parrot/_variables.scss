@@ -41,18 +41,43 @@ $fonts: (
       p: (
         size: 16px,
         line-height: 5rem,
-        letter-spacing: -.01rem
+        letter-spacing: -.003rem
       )
     )
   ),
   headers: (
-    family: ('Bitter', serif),
+    family: ('Andada', serif),
     cap-height: .7,
     sizes: (
       h1: (
-        size: 22px,
+        size: 26px,
         line-height: 7rem,
-        letter-spacing: -.02rem
+        letter-spacing: 0rem
+      ),
+      h2: (
+        size: 24px,
+        line-height: 7rem,
+        letter-spacing: .01rem
+      ),
+      h3: (
+        size: 22px,
+        line-height: 6rem,
+        letter-spacing: .02rem
+      ),
+      h4: (
+        size: 20px,
+        line-height: 6rem,
+        letter-spacing: .03rem
+      ),
+      h5: (
+        size: 18px,
+        line-height: 5rem,
+        letter-spacing: .04rem
+      ),
+      h6: (
+        size: 16px,
+        line-height: 4rem,
+        letter-spacing: .04rem
       )
     )
   )
