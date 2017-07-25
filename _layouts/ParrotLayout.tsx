@@ -20,6 +20,7 @@ export function ParrotLayout({ website, page } : Props) {
 
   return (
     <div id={ s.all }>
+    <link href="https://fonts.googleapis.com/css?family=Bitter:700|Roboto+Slab:300,400,700" rel="stylesheet" />
       <header>
         <nav>
           <ul>

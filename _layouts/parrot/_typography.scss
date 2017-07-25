@@ -1,0 +1,24 @@
+@import './_variables.scss';
+@import './_mixins.scss';
+
+html {
+  font-size: $sizing-unit;
+}
+
+@mixin font($name, $size, $weight) {
+  $font: map-get-strict($fonts, $name);
+  $sizes: map-get-strict(map-get-strict($font, sizes), $size);
+
+  font-family: map-get-strict($font, family);
+  font-size: map-get-strict($sizes, size);
+  font-weight: $weight;
+  letter-spacing: map-get-strict($sizes, letter-spacing);
+}
+
+@mixin baseline($name, $size) {
+  $font: map-get-strict($fonts, $name);
+  $sizes: map-get-strict(map-get-strict($font, sizes), $size);
+
+  line-height: map-get-strict($sizes, line-height);
+}
+

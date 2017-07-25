@@ -12,6 +12,8 @@ $colors: (
   action-gray: #2caa3e
 );
 
+$sizing-unit: 4px;
+
 $breaks: (
   300: (
     width: 332px,
@@ -30,4 +32,48 @@ $breaks: (
     gutter: 8px
   )
 );
+
+$fonts: (
+  text: (
+    family: ('Roboto Slab', serif),
+    cap-height: .72,
+    sizes: (
+      p: (
+        size: 16px,
+        line-height: 5rem,
+        letter-spacing: -.01rem
+      )
+    )
+  ),
+  headers: (
+    family: ('Bitter', serif),
+    cap-height: .7,
+    sizes: (
+      h1: (
+        size: 22px,
+        line-height: 7rem,
+        letter-spacing: -.02rem
+      )
+    )
+  )
+);
+
+@each $point in map-keys($breaks) {
+  $data: map-get($breaks, $point);
+
+  @each $key in map-keys($data) {
+    $value: map-get($data, $key);
+
+    @if type-of($value) != 'number' {
+      @error 'Value of $breaks[#{$point}][#{$key}]=#{$value} is not a number';
+    }
+
+    $in-rems: $value / $sizing-unit;
+
+    @if round($in-rems) != $in-rems {
+      @error 'Value of $breaks[#{$point}][#{$key}]=#{
+        $value} is not divisible by sizing unit (#{$sizing-unit})';
+    }
+  }
+}
 

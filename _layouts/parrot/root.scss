@@ -1,6 +1,7 @@
 @import './_variables';
 @import './_breaks';
 @import './_colors';
+@import './_typography';
 
 #all {
   width: 100%;
@@ -14,5 +15,22 @@
   margin: 0 auto;
 
   @include color(background-color, 'background-page');
+}
+
+h1 {
+  @include color(color, text, .9);
+  @include font(headers, h1, 700);
+  @include baseline(headers, h1);
+}
+
+p, li, blockquote, dt, dd, input, textarea {
+  @include color(color, text);
+  @include font(text, p, 300);
+  @include baseline(text, p);
+}
+
+button, input[type=submit], input[type=button] {
+  @include color(color, text, .95);
+  @include font(text, p, 700);
 }
 
