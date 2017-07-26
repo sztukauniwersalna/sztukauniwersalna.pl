@@ -1,0 +1,23 @@
+.topBar {
+  padding: 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.logo {
+}
+
+.nav {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+  }
+  li {
+    display: block;
+  }
+}
+
