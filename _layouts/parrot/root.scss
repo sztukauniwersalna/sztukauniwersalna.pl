@@ -3,31 +3,23 @@
 @import './_colors';
 @import './_typography';
 
-@mixin anchor-color($color-name) {
-  a {
-    &:link, &:visited {
-      @include color(color, $color-name, .9);
-    }
-    &:hover, &:active {
-      @include color(color, $color-name);
-    }
-
-    @each $tag in h1, h2, h3, h4, h5, h6 {
-      #{$tag} &:link, #{$tag} &:visited {
-        @include color(color, $color-name, .7);
-      }
-      #{$tag} &:hover, #{$tag} &:active {
-        @include color(color, $color-name, .8);
-      }
-    }
-  }
-}
+$bgBase64: 'data:image/png;base64,'
+  + 'iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI'
+  + 'WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QcZCzkbBkkNNQAAAHFJREFUaN7t1bENACAIBEBwJPef'
+  + 'wZnsYQLIfWesPnlyGT23vN/k/xPLo+D05Labq/8mquCAG+SgiSrIQQ6aKAc5aKIKcpCDJspBDpqo'
+  + 'ghzkoIlykIMmqiAHOWiiHOSgiSrIQQ66QQ5y0EQV5CAH3eDefJAaXMEw5G3+AAAAAElFTkSuQmCC';
 
 body {
   @include color(background-color, background-page);
+  background-image: url(#{$bgBase64});
+
+  background-repeat: repeat;
+  backgronnd-position: top left;
+
+  margin: 0;
 }
 
-#all {
+%full-width {
   width: 100%;
   margin: 0 1rem;
 
@@ -37,8 +29,18 @@ body {
       margin: 0 auto;
     }
   }
+}
 
-  @include anchor-color(action-purple);
+.header {
+  @include color(background-color, background-post);
+
+  header {
+    @extend %full-width;
+  }
+}
+
+main {
+  @extend %full-width;
 }
 
 @each $tag in h1, h2, h3, h4, h5, h6 {
@@ -59,4 +61,26 @@ button, input[type=submit], input[type=button] {
   @include color(color, text, .95);
   @include font(text, p, 700);
 }
+
+@mixin anchor-color($color-name) {
+  a {
+    &:link, &:visited {
+      @include color(color, $color-name, .9);
+    }
+    &:hover, &:active {
+      @include color(color, $color-name);
+    }
+
+    @each $tag in h1, h2, h3, h4, h5, h6 {
+      #{$tag} &:link, #{$tag} &:visited {
+        @include color(color, $color-name, .7);
+      }
+      #{$tag} &:hover, #{$tag} &:active {
+        @include color(color, $color-name, .8);
+      }
+    }
+  }
+}
+
+@include anchor-color(action-purple);
 
