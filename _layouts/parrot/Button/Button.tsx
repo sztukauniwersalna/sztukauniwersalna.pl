@@ -8,14 +8,32 @@ const s = require('./Button.scss');
 export type Variant = 'flat';
 
 export interface Props {
-  url: string;
-  variant?: Variant;
-  children: ReactNode;
+  url ?: string;
+  onClick ?: (event : React.MouseEvent<any>) => void;
+  variant ?: Variant;
+  children : ReactNode;
 }
 
-export function Button({ url, variant = 'flat', children } : Props) {
+export function Button({ url, variant = 'flat', onClick, children } : Props) {
+  if (url !== undefined) {
+    return (
+      <span className={ `${s.button} ${s[variant]}` }>
+        <Link to={ url } onClick={ onClick }>
+          { children }
+        </Link>
+      </span>
+    );
+  }
+  if (onClick === undefined) {
+    throw new Error('url or onClick prop must be set on Button element');
+  }
+
   return (
-    <span className={ `${s.button} ${s[variant]}` }><Link to={ url }>{ children }</Link></span>
+    <span className={ `${s.button} ${s[variant]}` }>
+      <button onClick={ onClick }>
+        { children }
+      </button>
+    </span>
   );
 }
 

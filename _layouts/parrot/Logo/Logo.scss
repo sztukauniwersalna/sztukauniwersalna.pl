@@ -7,11 +7,11 @@
     @include color(fill, text);
   }
 
-  .letterU {
-    fill: #9f2bd8;
-  }
   .letterS {
     fill: #e70c62;
+  }
+  .letterU {
+    fill: #9f2bd8;
   }
   .dot {
     fill: #2daa3d;
@@ -19,7 +19,7 @@
 }
 
 .small {
-  margin: 2rem;
+  margin: 2.5rem 2rem;
   height: 7rem;
 }
 .inline {

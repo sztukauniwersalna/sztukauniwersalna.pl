@@ -2,7 +2,7 @@
 @import '../_colors.scss';
 
 .button {
-  a {
+  a, button {
     height: 10rem;
     padding: 0 3rem;
 
@@ -15,17 +15,19 @@
     &:link, &:visited, &:hover, &:active {
       text-decoration: none;
       @include color(color, text);
-      background-color: transparent;
-    }
-    &:hover, &:active {
-      @include color(background, background-page);
     }
 
     border: 0;
     display: block;
+    cursor: pointer;
   }
 
   display: inline-flex;
 }
 
+.flat {
+  a, button {
+    background-color: transparent;
+  }
+}
 

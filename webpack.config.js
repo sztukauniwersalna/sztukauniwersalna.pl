@@ -123,6 +123,9 @@ module.exports = {
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
           '/bundle.js',
         ],
+        stylesheets: [
+          'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
+        ],
       },
     }),
   ],
