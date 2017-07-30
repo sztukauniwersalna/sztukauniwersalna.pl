@@ -1,21 +1,29 @@
 @import '../_colors.scss';
 
 .logo {
-}
+  display: flex;
 
-.cls1 {
-  fill: #2daa3d;
-}
-.cls2 {
-  fill: #9f2bd8;
-}
-.cls3 {
-  fill: #e70c62;
-}
-
-.inline {
-  svg {
-    height: 5rem;
+  g {
+    @include color(fill, text);
   }
+
+  .letterU {
+    fill: #9f2bd8;
+  }
+  .letterS {
+    fill: #e70c62;
+  }
+  .dot {
+    fill: #2daa3d;
+  }
+}
+
+.small {
+  margin: 2rem;
+  height: 7rem;
+}
+.inline {
+  margin: 2.5rem 2rem 2rem 2rem;
+  height: 5.5rem;
 }
 

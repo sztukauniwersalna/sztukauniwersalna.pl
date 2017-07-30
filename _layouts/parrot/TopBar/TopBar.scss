@@ -1,5 +1,7 @@
+@import '../_breaks';
+
 .topBar {
-  padding: 2rem;
+  padding: 3rem 0;
 
   display: flex;
   align-items: center;
@@ -7,17 +9,45 @@
   flex-direction: row;
 }
 
-.logo {
+.sideMenu,
+.hamburger {
+  display: none;
+
+  @include break(300, 500) {
+    display: flex;
+  }
 }
 
-.nav {
+.inlineLogo {
+  display: none;
+
+  @include break(900) {
+    display: flex;
+  }
+}
+
+.smallLogo {
+  display: flex;
+
+  @include break(900) {
+    display: none;
+  }
+}
+
+.topMenu {
   ul {
     list-style-type: none;
     padding: 0;
     display: flex;
   }
   li {
-    display: block;
+    display: flex;
+  }
+
+  display: none;
+
+  @include break(700, 900) {
+    display: flex;
   }
 }
 

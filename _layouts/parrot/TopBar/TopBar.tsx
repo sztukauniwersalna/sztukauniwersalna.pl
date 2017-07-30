@@ -16,8 +16,11 @@ export interface Props {
 export function TopBar({ website, page } : Props) {
   return (
     <header className={ s.topBar }>
-      <div className={ s.logo }><Logo /></div>
-      <nav className={ s.nav }>
+      <Link to='/'>
+        <div className={ s.smallLogo }><Logo variant='small' /></div>
+        <div className={ s.inlineLogo }><Logo variant='inline' /></div>
+      </Link>
+      <nav className={ s.topMenu }>
         <ul>
         { website.menu.map(entry => (
           <li key={ entry.url }><Button url={ entry.url }>{ entry.short }</Button></li>

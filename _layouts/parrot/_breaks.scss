@@ -30,9 +30,11 @@
   @return $query;
 }
 
-@mixin break($point) {
-  @media #{media-query-for-break($point)} {
-    @content;
+@mixin break($points...) {
+  @each $point in $points {
+    @media #{media-query-for-break($point)} {
+      @content;
+    }
   }
 }
 
