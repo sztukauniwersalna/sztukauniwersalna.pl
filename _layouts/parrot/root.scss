@@ -9,6 +9,11 @@ $bgBase64: 'data:image/png;base64,'
   + 'wZnsYQLIfWesPnlyGT23vN/k/xPLo+D05Labq/8mquCAG+SgiSrIQQ6aKAc5aKIKcpCDJspBDpqo'
   + 'ghzkoIlykIMmqiAHOWiiHOSgiSrIQQ66QQ5y0EQV5CAH3eDefJAaXMEw5G3+AAAAAElFTkSuQmCC';
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   @include color(background-color, background-page);
   background-image: url(#{$bgBase64});
@@ -17,6 +22,16 @@ body {
   backgronnd-position: top left;
 
   margin: 0;
+
+  overflow-y: scroll;
+
+  &:global(.side-menu) {
+    overflow-y: hidden;
+  }
+}
+
+:global(.side-menu #root) {
+  overflow-y: scroll;
 }
 
 %full-width {
