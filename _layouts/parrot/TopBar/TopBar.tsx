@@ -7,7 +7,7 @@ import { Page, MenuEntry, Website } from 'paramorph/models';
 import Button from '../Button';
 import Icon from '../Icon';
 import Logo from '../Logo';
-import SideMenu from '../SideMenu';
+import SideMenu from 'parrot-layout/SideMenu';
 
 const s = require('./TopBar.scss');
 
@@ -16,7 +16,7 @@ export interface Props {
   page : Page;
 }
 interface State {
-  sideMenuVisible : boolean;
+  sideMenuClassName : string;
 }
 
 export class TopBar extends Component<Props, State> {
@@ -24,7 +24,7 @@ export class TopBar extends Component<Props, State> {
     super(props);
 
     this.state = {
-      sideMenuVisible: false,
+      sideMenuClassName: s.closed,
     };
   }
 
@@ -34,11 +34,12 @@ export class TopBar extends Component<Props, State> {
     return (
       <header className={ s.topBar }>
         <div className={ s.hamburger }>
-          <Button onClick={ () => this.toggleSideMenuVisible() }>
+          <Button onClick={ () => this.showMenu() }>
             <Icon name='bars' />
           </Button>
         </div>
         <Link to='/'>
+          <span className={ s.title }>Sztuka Uniwersalna</span>
           <div className={ s.smallLogo }><Logo variant='small' /></div>
           <div className={ s.inlineLogo }><Logo variant='inline' /></div>
         </Link>
@@ -49,24 +50,29 @@ export class TopBar extends Component<Props, State> {
           )) }
           </ul>
         </nav>
-        <div className={ `${s.sideMenu} ${this.state.sideMenuVisible ? s.visible : ''}` }>
-          <SideMenu visible={ this.state.sideMenuVisible }>
-            Side
+        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
+          <SideMenu
+            visible={ this.state.sideMenuClassName === s.visible }
+            onCloseRequested={ () => this.hideMenu() }
+            onClosed={ () => this.disableMenu() }
+          >
+            <p>
+              Side Menu
+            </p>
           </SideMenu>
         </div>
       </header>
     );
   }
 
-  private toggleSideMenuVisible() {
-    this.setState(prev => ({ sideMenuVisible : toggle(prev.sideMenuVisible) }));
+  private showMenu() {
+    this.setState(prev => ({ ...prev, sideMenuClassName: s.visible }));
   }
-}
-
-function toggle(value : boolean) {
-  switch (value) {
-    case true: return false;
-    case false: return true;
+  private hideMenu() {
+    this.setState(prev => ({ ...prev, sideMenuClassName: '' }));
+  }
+  private disableMenu() {
+    this.setState(prev => ({ ...prev, sideMenuClassName: s.closed }));
   }
 }
 

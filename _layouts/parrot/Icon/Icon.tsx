@@ -4,7 +4,7 @@ import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
 const s = require('./Icon.scss');
 
-export type Name = 'bars';
+export type Name = 'bars' | 'close';
 
 export interface Props {
   name: Name;

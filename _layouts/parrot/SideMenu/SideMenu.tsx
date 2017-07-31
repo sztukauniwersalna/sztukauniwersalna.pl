@@ -3,11 +3,16 @@ import { ReactNode, Component } from 'react';
 import { Link } from 'react-router-dom';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
+import Button from '../Button';
+import Icon from '../Icon';
+
 const s = require('./SideMenu.scss');
 
 export interface Props {
   visible ?: boolean;
   children ?: ReactNode;
+  onCloseRequested ?: () => void;
+  onClosed ?: () => void;
 }
 interface State {
   visible : boolean;
@@ -23,7 +28,7 @@ export class SideMenu extends Component<Props, State> {
   }
 
   componentWillReceiveProps(props : Props) {
-    this.setState(oldState => ({ visible : props.visible == true }));
+    this.setState(prevState => ({ ...prevState, visible : props.visible == true }));
   }
 
   render() {
@@ -32,11 +37,28 @@ export class SideMenu extends Component<Props, State> {
       classNames.push(s.visible);
     }
 
+    const { onCloseRequested = () => {} } = this.props;
+
     return (
-      <div className={ classNames.join(' ') }>
-        { this.props.children }
+      <div className={ classNames.join(' ') } onTransitionEnd={ () => this.onTransitionEnd() }>
+        <div className={ s.closeButton }>
+          <Button onClick={ onCloseRequested }>
+            <Icon name='close' />
+          </Button>
+        </div>
+        <div className={ s.content }>
+          { this.props.children }
+        </div>
       </div>
     );
+  }
+
+  private onTransitionEnd() {
+    if (this.props.visible) {
+      return;
+    }
+    const { onClosed = () => {} } = this.props;
+    onClosed();
   }
 }
 
