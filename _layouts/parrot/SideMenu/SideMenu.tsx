@@ -44,10 +44,12 @@ export class SideMenu extends Component<Props, State> {
 
     return (
       <div className={ classNames.join(' ') } onTransitionEnd={ () => this.onTransitionEnd() }>
-        <div className={ s.closeButton }>
-          <Button onClick={ onCloseRequested }>
-            <Icon name='close' />
-          </Button>
+        <div className={ s.header }>
+          <div className={ s.closeButton }>
+            <Button onClick={ onCloseRequested }>
+              <Icon name='close' />
+            </Button>
+          </div>
         </div>
         <div className={ s.content }>
           { this.props.children }

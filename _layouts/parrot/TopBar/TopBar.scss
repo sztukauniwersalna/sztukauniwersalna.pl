@@ -20,11 +20,14 @@
   @include break(700, 900) {
     display: none;
   }
-}
 
-.hamburger {
+  button {
+    height: 12rem !important;
+  }
+
   i {
     font-size: 7rem;
+    line-height: 12rem;
     @include color(color, text, .72);
   }
 }
@@ -80,7 +83,7 @@
   transition: background-color 300ms ease-out;
 
   &.visible {
-    @include color(background-color, action-purple, 0.72);
+    @include color(background-color, background-overlay, 0.6);
   }
   &.closed {
     left: -100%;

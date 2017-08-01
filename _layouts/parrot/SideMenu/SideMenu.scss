@@ -11,13 +11,44 @@
 
   transition: left 200ms ease-out;
 
-  @include color(background, background-page);
+  @include color(background, background-menu);
 
   display: flex;
   flex-direction: column;
 
   &.visible {
     left: 0;
+  }
+
+  box-shadow: 0 0 4px black;
+}
+
+.header {
+  height: 63rem;
+
+  background: url('parrot-layout/SideMenu/abstract_7.jpg') center center no-repeat;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.closeButton {
+  align-self: flex-end;
+
+  @include color(background-color, background-menu);
+
+  i {
+    font-size: 6rem;
+    line-height: 12.5rem;
+
+    @include color(color, text, .72);
+  }
+
+  &, & button {
+    height: 14rem;
+    width: 14rem;
+    text-align: center;
   }
 }
 
