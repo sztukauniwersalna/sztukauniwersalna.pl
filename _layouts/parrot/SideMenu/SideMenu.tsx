@@ -11,41 +11,53 @@ const s = require('./SideMenu.scss');
 export interface Props {
   visible ?: boolean;
   children ?: ReactNode;
-  onCloseRequested ?: () => void;
-  onClosed ?: () => void;
+  onCloseRequested : () => void;
+  onClosed : () => void;
 }
 interface State {
   visible : boolean;
 }
 
 export class SideMenu extends Component<Props, State> {
+  private element : HTMLDivElement;
+
   constructor(props : Props) {
     super(props);
 
+    const { visible = false } = props;
+
     this.state = {
-      visible: props.visible === true,
+      visible,
     };
   }
 
   componentWillReceiveProps(props : Props) {
-    this.setState(prevState => ({ ...prevState, visible : props.visible == true }));
+    this.setState(prevState => {
+      const { visible = false } = props;
+      return { ...prevState, visible };
+    });
   }
 
   render() {
     const classNames = [ s.panel ];
+
     if (this.state.visible) {
       classNames.push(s.visible);
+
       self.document.body.classList.add('side-menu');
     } else {
       self.document.body.classList.remove('side-menu');
     }
 
-    const { onCloseRequested = () => {} } = this.props;
+    const { onCloseRequested, children } = this.props;
 
     return (
       <div
-        className={ classNames.join(' ') } onTransitionEnd={ () => this.onTransitionEnd() }
-        onClick={ e => e.stopPropagation() }
+        className={ classNames.join(' ') }
+        onTransitionEnd={ () => this.onTransitionEnd() }
+        tabIndex={ -1 }
+        onBlur={ () => this.onBlur() }
+        ref={ elem => this.element = elem }
       >
         <div className={ s.header }>
           <div className={ s.closeButton }>
@@ -55,18 +67,26 @@ export class SideMenu extends Component<Props, State> {
           </div>
         </div>
         <div className={ s.content }>
-          { this.props.children }
+          { children }
         </div>
       </div>
     );
   }
 
+  private onBlur() {
+    if (this.state.visible) {
+      this.props.onCloseRequested();
+    }
+  }
+
   private onTransitionEnd() {
     if (this.props.visible) {
+      this.element.focus();
       return;
     }
-    const { onClosed = () => {} } = this.props;
-    onClosed();
+    this.element.blur();
+
+    this.props.onClosed();
   }
 }
 

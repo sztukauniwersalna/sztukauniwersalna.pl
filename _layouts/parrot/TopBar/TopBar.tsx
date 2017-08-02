@@ -50,10 +50,7 @@ export class TopBar extends Component<Props, State> {
           )) }
           </ul>
         </nav>
-        <div
-          className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }
-          onClick={ () => this.hideMenu() }
-        >
+        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
           <SideMenu
             visible={ this.state.sideMenuClassName === s.visible }
             onCloseRequested={ () => this.hideMenu() }
@@ -69,13 +66,17 @@ export class TopBar extends Component<Props, State> {
   }
 
   private showMenu() {
-    this.setState(prev => ({ ...prev, sideMenuClassName: s.visible }));
+    this.setSideMenuClassName(s.visible);
   }
   private hideMenu() {
-    this.setState(prev => ({ ...prev, sideMenuClassName: '' }));
+    this.setSideMenuClassName('');
   }
   private disableMenu() {
-    this.setState(prev => ({ ...prev, sideMenuClassName: s.closed }));
+    this.setSideMenuClassName(s.closed);
+  }
+
+  private setSideMenuClassName(sideMenuClassName : string) {
+    this.setState(prev => ({ ...prev, sideMenuClassName }));
   }
 }
 
