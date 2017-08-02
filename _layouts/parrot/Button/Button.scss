@@ -1,5 +1,6 @@
-@import '../_typography.scss';
-@import '../_colors.scss';
+@import '../_typography';
+@import '../_colors';
+@import '../_utils';
 
 .button {
   a, button {
@@ -23,6 +24,7 @@
   }
 
   display: inline-flex;
+  @include disable-text-selection;
 }
 
 .flat {

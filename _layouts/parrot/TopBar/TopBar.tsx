@@ -50,7 +50,10 @@ export class TopBar extends Component<Props, State> {
           )) }
           </ul>
         </nav>
-        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
+        <div
+          className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }
+          onClick={ () => this.hideMenu() }
+        >
           <SideMenu
             visible={ this.state.sideMenuClassName === s.visible }
             onCloseRequested={ () => this.hideMenu() }

@@ -43,7 +43,10 @@ export class SideMenu extends Component<Props, State> {
     const { onCloseRequested = () => {} } = this.props;
 
     return (
-      <div className={ classNames.join(' ') } onTransitionEnd={ () => this.onTransitionEnd() }>
+      <div
+        className={ classNames.join(' ') } onTransitionEnd={ () => this.onTransitionEnd() }
+        onClick={ e => e.stopPropagation() }
+      >
         <div className={ s.header }>
           <div className={ s.closeButton }>
             <Button onClick={ onCloseRequested }>
