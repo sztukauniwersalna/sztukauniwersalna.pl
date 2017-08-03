@@ -57,7 +57,7 @@ export class SideMenu extends Component<Props, State> {
         onTransitionEnd={ () => this.onTransitionEnd() }
         tabIndex={ -1 }
         onBlur={ () => this.onBlur() }
-        ref={ elem => this.element = elem }
+        ref={ elem => this.element = elem as HTMLDivElement }
       >
         <div className={ s.header }>
           <div className={ s.closeButton }>

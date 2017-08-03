@@ -9,6 +9,8 @@ import Icon from '../Icon';
 import Logo from '../Logo';
 import SideMenu from 'parrot-layout/SideMenu';
 
+import '../polyfill/swipe-events';
+
 const s = require('./TopBar.scss');
 
 export interface Props {
@@ -26,6 +28,18 @@ export class TopBar extends Component<Props, State> {
     this.state = {
       sideMenuClassName: s.closed,
     };
+
+    this.hideMenu = this.hideMenu.bind(this);
+    this.showMenu = this.showMenu.bind(this);
+ }
+
+  componentDidMount() {
+    document.body.addEventListener('swipe-left', this.hideMenu);
+    document.body.addEventListener('swipe-right', this.showMenu);
+  }
+  componentWillUnmount() {
+    document.body.removeEventListener('swipe-left', this.hideMenu);
+    document.body.removeEventListener('swipe-right', this.showMenu);
   }
 
   render() {
