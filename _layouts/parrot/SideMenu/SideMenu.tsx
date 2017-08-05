@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ReactNode, Component } from 'react';
+import { Component, ReactNode, ReactElement, Children, cloneElement } from 'react';
 import { Link } from 'react-router-dom';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
@@ -8,11 +8,21 @@ import Icon from '../Icon';
 
 const s = require('./SideMenu.scss');
 
+export interface ItemProps {
+  icon ?: string;
+  title : string;
+  url : string;
+}
+
+export function Item(props : ItemProps) {
+  return null;
+}
+
 export interface Props {
   visible ?: boolean;
-  children ?: ReactNode;
   onCloseRequested : () => void;
   onClosed : () => void;
+  children ?: ReactElement<ItemProps>[];
 }
 interface State {
   visible : boolean;
@@ -52,7 +62,7 @@ export class SideMenu extends Component<Props, State> {
     const { onCloseRequested, children } = this.props;
 
     return (
-      <div
+      <aside
         className={ classNames.join(' ') }
         onTransitionEnd={ () => this.onTransitionEnd() }
         tabIndex={ -1 }
@@ -66,10 +76,10 @@ export class SideMenu extends Component<Props, State> {
             </Button>
           </div>
         </div>
-        <div className={ s.content }>
-          { children }
-        </div>
-      </div>
+        <ul className={ s.content }>
+          { renderItems(children) }
+        </ul>
+      </aside>
     );
   }
 
@@ -88,6 +98,22 @@ export class SideMenu extends Component<Props, State> {
 
     this.props.onClosed();
   }
+}
+
+function renderItems(children ?: ReactElement<ItemProps>[]) {
+  if (!children) {
+    return null;
+  }
+
+  return ([] as ReactElement<ItemProps>[]).concat(children)
+    .map(item => (
+      <li key={ item.props.url }>
+        <Link to={ item.props.url }>
+          <span className={ s.itemIcon }><Icon name={ item.props.icon } /></span>
+          <span className={ s.itemTitle }>{ item.props.title }</span>
+        </Link>
+      </li>
+    ));
 }
 
 export default withStyles(s)(SideMenu);

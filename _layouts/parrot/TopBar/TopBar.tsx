@@ -7,7 +7,7 @@ import { Page, MenuEntry, Website } from 'paramorph/models';
 import Button from '../Button';
 import Icon from '../Icon';
 import Logo from '../Logo';
-import SideMenu from 'parrot-layout/SideMenu';
+import SideMenu, { Item } from 'parrot-layout/SideMenu';
 
 import '../polyfill/swipe-events';
 
@@ -49,7 +49,7 @@ export class TopBar extends Component<Props, State> {
       <header className={ s.topBar }>
         <div className={ s.hamburger }>
           <Button onClick={ () => this.showMenu() }>
-            <Icon name='bars' />
+            <Icon name='&#xE5D2;' />
           </Button>
         </div>
         <Link to='/'>
@@ -70,9 +70,9 @@ export class TopBar extends Component<Props, State> {
             onCloseRequested={ () => this.hideMenu() }
             onClosed={ () => this.disableMenu() }
           >
-            <p>
-              Side Menu
-            </p>
+          { website.menu.map(entry => (
+            <Item key={ entry.url } url={ entry.url } title={ entry.title } icon={ entry.icon } />
+          )) }
           </SideMenu>
         </div>
       </header>

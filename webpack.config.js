@@ -135,7 +135,7 @@ module.exports = {
           '/bundle.js',
         ],
         stylesheets: [
-          'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
+          'https://fonts.googleapis.com/icon?family=Material+Icons|Andada|Roboto+Slab:300,400,700&amp;subset=latin-ext'
         ],
       },
     }),

@@ -4,15 +4,13 @@ import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
 const s = require('./Icon.scss');
 
-export type Name = 'bars' | 'close';
-
 export interface Props {
-  name: Name;
+  name ?: string;
 }
 
 export function Icon({ name } : Props) {
   return (
-    <i className={ `fa fa-${name}` }></i>
+    <i className='material-icons'>{ name }</i>
   );
 }
 

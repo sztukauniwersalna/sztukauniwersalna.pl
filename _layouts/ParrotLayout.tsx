@@ -25,10 +25,6 @@ export class ParrotLayout extends Component<Props, {}> {
 
     return (
       <div id={ s.all }>
-        <link
-          href="https://fonts.googleapis.com/css?family=Andada|Roboto+Slab:300,400,700"
-          rel="stylesheet"
-        />
         <div className={ s.header }>
           <TopBar website={ website } page={ page } />
         </div>
