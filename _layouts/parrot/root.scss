@@ -9,9 +9,9 @@ $bgBase64: 'data:image/png;base64,'
   + 'wZnsYQLIfWesPnlyGT23vN/k/xPLo+D05Labq/8mquCAG+SgiSrIQQ6aKAc5aKIKcpCDJspBDpqo'
   + 'ghzkoIlykIMmqiAHOWiiHOSgiSrIQQ66QQ5y0EQV5CAH3eDefJAaXMEw5G3+AAAAAElFTkSuQmCC';
 
-html,
-body {
+html {
   height: 100%;
+  overflow-y: scroll;
 }
 
 body {
@@ -22,8 +22,6 @@ body {
   backgronnd-position: top left;
 
   margin: 0;
-
-  overflow-y: scroll;
 
   &:global(.side-menu) {
     overflow-y: hidden;
@@ -47,6 +45,11 @@ body {
 }
 
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
   @include color(background-color, background-post);
 
   header {
@@ -56,6 +59,12 @@ body {
 
 main {
   @extend %full-width;
+
+  padding-top: 14rem;
+
+  @include break(700, 900) {
+    padding-top: 18rem;
+  }
 }
 
 @each $tag in h1, h2, h3, h4, h5, h6 {
