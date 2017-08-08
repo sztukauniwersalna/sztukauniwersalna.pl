@@ -50,13 +50,8 @@ export class SideMenu extends Component<Props, State> {
 
   render() {
     const classNames = [ s.panel ];
-
     if (this.state.visible) {
       classNames.push(s.visible);
-
-      self.document.body.classList.add('side-menu');
-    } else {
-      self.document.body.classList.remove('side-menu');
     }
 
     const { onCloseRequested, children } = this.props;

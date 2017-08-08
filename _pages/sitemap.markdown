@@ -1,5 +1,6 @@
 ---
-title: Site Map
+title: Mapa Witryny
+permalink: /sitemap
 tags:
 - hello
 - sitemap

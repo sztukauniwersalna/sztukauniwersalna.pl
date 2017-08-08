@@ -7,6 +7,12 @@
     @include color(fill, text);
   }
 
+  :global(.contrast) & {
+    g {
+      @include color(fill, text-contrast);
+    }
+  }
+
   .letterS {
     fill: #e70c62;
   }

@@ -19,29 +19,31 @@ body {
   background-image: url(#{$bgBase64});
 
   background-repeat: repeat;
-  backgronnd-position: top left;
+  background-position: top left;
 
   margin: 0;
-
-  &:global(.side-menu) {
-    overflow-y: hidden;
-  }
-}
-
-:global(.side-menu #root) {
-  overflow-y: scroll;
+  height: 100%;
 }
 
 %full-width {
+  box-sizing: border-box;
   width: 100%;
-  margin: 0 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 0;
 
   @each $point in map-keys($breaks) {
     @include break($point) {
       width: map-get-strict(map-get-strict($breaks, $point), 'width');
       margin: 0 auto;
+      padding-left: 0;
+      padding-right: 0;
     }
   }
+}
+
+:global(#root) {
+  min-height: 100%;
 }
 
 .header {
@@ -67,11 +69,58 @@ main {
   }
 }
 
+.footer {
+  @include color(background-color, background-contrast);
+
+  footer {
+    @extend %full-width;
+  }
+}
+
+.bottom {
+  @include color(background-color, 'dark', .2);
+
+  .logo {
+    display: flex;
+    justify-content: center;
+
+    @extend %full-width;
+
+    padding-top: 12rem;
+    padding-bottom: 9rem;
+    svg {
+      margin-left: 2rem;
+      height: 10rem;
+    }
+
+    @include break(500, 700, 900) {
+      justify-content: flex-end;
+      padding: 10rem 0 8rem 0;
+    }
+
+    @include break(700) {
+      svg {
+        height: 14rem;
+      }
+    }
+
+    @include break(700, 900) {
+      svg {
+        height: 17rem;
+      }
+    }
+  }
+}
+
 @each $tag in h1, h2, h3, h4, h5, h6 {
   #{$tag} {
     @include color(color, text, .7);
     @include font(headers, $tag, 400);
     @include baseline(headers, $tag);
+
+    :global(.contrast) & {
+      @include color(color, text-contrast, .7);
+    }
   }
 }
 
@@ -79,11 +128,19 @@ p, li, blockquote, dt, dd, input, textarea {
   @include color(color, text);
   @include font(text, p, 300);
   @include baseline(text, p);
+
+  :global(.contrast) & {
+    @include color(color, text-contrast);
+  }
 }
 
 button, input[type=submit], input[type=button] {
   @include color(color, text, .95);
   @include font(text, p, 700);
+
+  :global(.contrast) & {
+    @include color(color, text-contrast, .95);
+  }
 }
 
 @mixin anchor-color($color-name) {
@@ -107,4 +164,8 @@ button, input[type=submit], input[type=button] {
 }
 
 @include anchor-color(action-purple);
+
+:global(.contrast) {
+  @include anchor-color(text-contrast);
+}
 

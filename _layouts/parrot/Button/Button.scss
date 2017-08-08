@@ -16,6 +16,10 @@
     &:link, &:visited, &:hover, &:active {
       text-decoration: none;
       @include color(color, text);
+
+      :global(.contrast) & {
+        @include color(color, text-contrast);
+      }
     }
 
     border: 0;

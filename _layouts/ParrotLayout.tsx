@@ -8,6 +8,8 @@ import withStyles from 'isomorphic-style-loader/lib/withStyles';
 import Crumbs from '../_includes/Crumbs';
 import TagList from '../_includes/TagList';
 import TopBar from 'parrot-layout/TopBar';
+import Footer from 'parrot-layout/Footer';
+import Logo from 'parrot-layout/Logo';
 
 const s = require('parrot-layout/root.scss');
 
@@ -21,7 +23,6 @@ export class ParrotLayout extends Component<Props, {}> {
     const { website, page } = this.props;
 
     const Body = page.body;
-    const index = website.getPageOfUrl('/');
 
     return (
       <div id={ s.all }>
@@ -34,16 +35,15 @@ export class ParrotLayout extends Component<Props, {}> {
           <TagList website={ website } page={ page } />
           <Body website={ website } page={ page } />
         </main>
-        <footer>
-          <ul>
-          { website.menu.map((entry : MenuEntry, key : number) => (
-            <li key={ key }><Link to={ entry.url }>{ entry.title }</Link></li>
-          )) }
-          </ul>
-          <p>
-            <Link to={ index.url }>{ index.title }</Link> | <Link to="/sitemap">Site Map</Link>
-          </p>
-        </footer>
+        <div className={ `${s.footer} contrast` }>
+          <Footer website={ website } page={ page } />
+
+          <div className={ s.bottom }>
+            <div className={ s.logo }>
+              <Logo variant='full' />
+            </div>
+          </div>
+        </div>
       </div>
     );
   }

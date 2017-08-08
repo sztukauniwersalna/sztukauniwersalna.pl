@@ -1,0 +1,76 @@
+@import '../_breaks';
+@import '../_colors';
+
+.footer {
+  padding: 16rem 0;
+
+  @include break(500) {
+    padding: 18rem 0 10rem 0;
+  }
+  @include break(700) {
+    padding: 18rem 0 16rem 0;
+  }
+  @include break(900) {
+    padding: 14rem 0 12rem 0;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+
+    @include break(700) {
+      padding-right: 40rem;
+    }
+
+    li {
+      display: block;
+
+      @include break(500, 700, 900) {
+        display: inline-block;
+      }
+    }
+
+    a, button {
+      margin: 1rem;
+    }
+  }
+}
+
+.bottomParagraph {
+  padding: 0 3rem;
+  margin: 8rem 0 0 0;
+
+  @include break(500, 700, 900) {
+    margin: 16rem 0 0 0;
+  }
+}
+
+.copyright,
+.indexLink,
+.sitemapLink {
+  white-space: nowrap;
+  display: block;
+
+  @include break(500, 700, 900) {
+    display: inline-block;
+
+    &:before {
+      content: '|';
+      display: inline-block;
+      padding: 0 2rem;
+    }
+  }
+  @include break(700, 900) {
+    &:before {
+      padding: 0 4rem;
+    }
+  }
+}
+
+.copyright {
+  &:before {
+    display: none;
+  }
+}
+
