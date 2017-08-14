@@ -7,7 +7,6 @@ import { Page, MenuEntry, Website } from 'paramorph/models';
 import Button from '../Button';
 import Icon from '../Icon';
 import Logo from '../Logo';
-import SideMenu, { Item } from 'parrot-layout/SideMenu';
 
 import '../polyfill/swipe-events';
 
@@ -16,39 +15,17 @@ const s = require('./TopBar.scss');
 export interface Props {
   website : Website;
   page : Page;
-}
-interface State {
-  sideMenuClassName : string;
+  onMenuClick ?: () => void;
 }
 
-export class TopBar extends Component<Props, State> {
-  constructor(props : Props) {
-    super(props);
-
-    this.state = {
-      sideMenuClassName: s.closed,
-    };
-
-    this.hideMenu = this.hideMenu.bind(this);
-    this.showMenu = this.showMenu.bind(this);
- }
-
-  componentDidMount() {
-    document.body.addEventListener('swipe-left', this.hideMenu);
-    document.body.addEventListener('swipe-right', this.showMenu);
-  }
-  componentWillUnmount() {
-    document.body.removeEventListener('swipe-left', this.hideMenu);
-    document.body.removeEventListener('swipe-right', this.showMenu);
-  }
-
+export class TopBar extends Component<Props, {}> {
   render() {
-    const { website, page } = this.props;
+    const { website, page, onMenuClick } = this.props;
 
     return (
       <header className={ s.topBar }>
         <div className={ s.hamburger }>
-          <Button onClick={ () => this.showMenu() }>
+          <Button onClick={ onMenuClick }>
             <Icon name='&#xE5D2;' />
           </Button>
         </div>
@@ -64,33 +41,8 @@ export class TopBar extends Component<Props, State> {
           )) }
           </ul>
         </nav>
-        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
-          <SideMenu
-            visible={ this.state.sideMenuClassName === s.visible }
-            onCloseRequested={ () => this.hideMenu() }
-            onClosed={ () => this.disableMenu() }
-          >
-          { website.menu.map(entry => (
-            <Item key={ entry.url } url={ entry.url } title={ entry.title } icon={ entry.icon } />
-          )) }
-          </SideMenu>
-        </div>
       </header>
     );
-  }
-
-  private showMenu() {
-    this.setSideMenuClassName(s.visible);
-  }
-  private hideMenu() {
-    this.setSideMenuClassName('');
-  }
-  private disableMenu() {
-    this.setSideMenuClassName(s.closed);
-  }
-
-  private setSideMenuClassName(sideMenuClassName : string) {
-    this.setState(prev => ({ ...prev, sideMenuClassName }));
   }
 }
 

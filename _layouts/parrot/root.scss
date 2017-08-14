@@ -112,6 +112,31 @@ main {
   }
 }
 
+.sideMenu {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  background-color: transparent;
+  transition: background-color 300ms ease-out;
+
+  &.visible {
+    @include color(background-color, 'background-overlay', 0.6);
+  }
+  &.closed {
+    left: -100%;
+  }
+
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+
+  @include break(700, 900) {
+    display: none;
+  }
+}
+
 @each $tag in h1, h2, h3, h4, h5, h6 {
   #{$tag} {
     @include color(color, text, .7);

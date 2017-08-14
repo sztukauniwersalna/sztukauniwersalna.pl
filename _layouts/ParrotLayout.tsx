@@ -10,6 +10,7 @@ import TagList from '../_includes/TagList';
 import TopBar from 'parrot-layout/TopBar';
 import Footer from 'parrot-layout/Footer';
 import Logo from 'parrot-layout/Logo';
+import SideMenu, { Item } from 'parrot-layout/SideMenu';
 
 const s = require('parrot-layout/root.scss');
 
@@ -17,8 +18,32 @@ export interface Props {
   website : Website;
   page : Page;
 }
+interface State {
+  sideMenuClassName : string;
+}
 
-export class ParrotLayout extends Component<Props, {}> {
+export class ParrotLayout extends Component<Props, State> {
+  constructor(props : Props) {
+    super(props);
+
+    this.state = {
+      sideMenuClassName: s.closed,
+    };
+
+    this.hideMenu = this.hideMenu.bind(this);
+    this.showMenu = this.showMenu.bind(this);
+  }
+
+  componentDidMount() {
+    document.body.addEventListener('swipe-left', this.hideMenu);
+    document.body.addEventListener('swipe-right', this.showMenu);
+    window.scrollTo(0, 0);
+  }
+  componentWillUnmount() {
+    document.body.removeEventListener('swipe-left', this.hideMenu);
+    document.body.removeEventListener('swipe-right', this.showMenu);
+  }
+
   render() {
     const { website, page } = this.props;
 
@@ -27,7 +52,7 @@ export class ParrotLayout extends Component<Props, {}> {
     return (
       <div id={ s.all }>
         <div className={ s.header }>
-          <TopBar website={ website } page={ page } />
+          <TopBar website={ website } page={ page } onMenuClick={ this.showMenu } />
         </div>
         <main>
           <h1><Link to={ page.url }>{ page.title }</Link></h1>
@@ -44,12 +69,33 @@ export class ParrotLayout extends Component<Props, {}> {
             </div>
           </div>
         </div>
+        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
+          <SideMenu
+            visible={ this.state.sideMenuClassName === s.visible }
+            onCloseRequested={ () => this.hideMenu() }
+            onClosed={ () => this.disableMenu() }
+          >
+          { website.menu.map(entry => (
+            <Item key={ entry.url } url={ entry.url } title={ entry.title } icon={ entry.icon } />
+          )) }
+          </SideMenu>
+        </div>
       </div>
     );
   }
 
-  componentDidMount() {
-    window.scrollTo(0, 0);
+  private showMenu() {
+    this.setSideMenuClassName(s.visible);
+  }
+  private hideMenu() {
+    this.setSideMenuClassName('');
+  }
+  private disableMenu() {
+    this.setSideMenuClassName(s.closed);
+  }
+
+  private setSideMenuClassName(sideMenuClassName : string) {
+    this.setState(prev => ({ ...prev, sideMenuClassName }));
   }
 }
 
