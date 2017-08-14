@@ -32,6 +32,11 @@ export class Footer extends Component<Props, {}> {
           <span className={ s.indexLink }><Link to={ index.url }>{ index.title }</Link></span>
           <span className={ s.sitemapLink }><Link to={ sitemap.url }>{ sitemap.title }</Link></span>
         </p>
+        <div className={ s.scrollUpButton }>
+          <Button variant='action' color='gray' onClick={ () => window.scrollTo(0, 0) }>
+            <Icon name='arrow_upward' />
+          </Button>
+        </div>
       </footer>
     );
   }

@@ -2,6 +2,7 @@
 @import '../_colors';
 
 .footer {
+  position: relative;
   padding: 16rem 0;
 
   @include break(500) {
@@ -41,7 +42,10 @@
   padding: 0 3rem;
   margin: 8rem 0 0 0;
 
-  @include break(500, 700, 900) {
+  @include break(500) {
+    margin: 11rem 0 0 0;
+  }
+  @include break(700, 900) {
     margin: 16rem 0 0 0;
   }
 }
@@ -72,5 +76,23 @@
   &:before {
     display: none;
   }
+
+  @include break(500) {
+    display: block;
+  }
+}
+
+.indexLink {
+  @include break(500) {
+    &:before {
+      display: none;
+    }
+  }
+}
+
+.scrollUpButton {
+  position: absolute;
+  bottom: 5rem;
+  right: 3rem;
 }
 

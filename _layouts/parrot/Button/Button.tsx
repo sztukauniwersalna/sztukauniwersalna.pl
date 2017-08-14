@@ -5,19 +5,27 @@ import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
 const s = require('./Button.scss');
 
-export type Variant = 'flat';
+export type Variant = 'flat' | 'raised' | 'action';
+
+export type Color = 'green' | 'purple' | 'gray';
 
 export interface Props {
   url ?: string;
   onClick ?: (event : React.MouseEvent<any>) => void;
   variant ?: Variant;
+  color ?: Color;
   children : ReactNode;
 }
 
-export function Button({ url, variant = 'flat', onClick, children } : Props) {
+export function Button({ url, variant = 'flat', color = 'gray', onClick, children } : Props) {
+  const classNames = [ s.button, s[variant] ];
+  if (variant !== 'flat') {
+    classNames.push(s[color]);
+  }
+
   if (url !== undefined) {
     return (
-      <span className={ `${s.button} ${s[variant]}` }>
+      <span className={ classNames.join(' ') }>
         <Link to={ url } onClick={ onClick }>
           { children }
         </Link>
@@ -29,7 +37,7 @@ export function Button({ url, variant = 'flat', onClick, children } : Props) {
   }
 
   return (
-    <span className={ `${s.button} ${s[variant]}` }>
+    <span className={ classNames.join(' ') }>
       <button onClick={ onClick }>
         { children }
       </button>
