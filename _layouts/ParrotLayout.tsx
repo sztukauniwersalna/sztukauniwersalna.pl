@@ -47,6 +47,10 @@ export class ParrotLayout extends Component<Props, {}> {
       </div>
     );
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
 }
 
 export default withStyles(s)(ParrotLayout);
