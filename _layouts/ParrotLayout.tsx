@@ -54,12 +54,14 @@ export class ParrotLayout extends Component<Props, State> {
         <div className={ s.header }>
           <TopBar website={ website } page={ page } onMenuClick={ this.showMenu } />
         </div>
-        <main>
-          <h1><Link to={ page.url }>{ page.title }</Link></h1>
-          <Crumbs website={ website } page={ page } />
-          <TagList website={ website } page={ page } />
-          <Body website={ website } page={ page } />
-        </main>
+        <div className={ s.main }>
+          <main>
+            <h1><Link to={ page.url }>{ page.title }</Link></h1>
+            <Crumbs website={ website } page={ page } />
+            <TagList website={ website } page={ page } />
+            <Body website={ website } page={ page } />
+          </main>
+        </div>
         <div className={ `${s.footer} contrast` }>
           <Footer website={ website } page={ page } />
 
