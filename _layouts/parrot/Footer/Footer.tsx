@@ -22,7 +22,27 @@ export class Footer extends Component<Props, {}> {
 
     return (
       <footer className={ s.footer }>
-        <ul>
+        <ul className={ s.socialButtons }>
+          <li key='facebook'>
+            <Button
+              variant='action'
+              color='green'
+              url='https://www.facebook.com/sztukauniwersalna/'
+            >
+              <Icon name='facebook' />
+            </Button>
+          </li>
+          <li key='instagram'>
+            <Button
+              variant='action'
+              color='green'
+              url='https://www.instagram.com/sztuka_uniwersalna/'
+            >
+              <Icon name='instagram' />
+            </Button>
+          </li>
+        </ul>
+        <ul className={ s.categories }>
         { website.menu.map((entry : MenuEntry) => (
           <li key={ entry.url }><Button url={ entry.url }>{ entry.title }</Button></li>
         )) }

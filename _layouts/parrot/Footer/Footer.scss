@@ -14,27 +14,50 @@
   @include break(900) {
     padding: 14rem 0 12rem 0;
   }
+}
 
-  ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
+.socialButtons {
+  position: absolute;
+  top: -7rem;
+  left: 4rem;
 
-    @include break(700) {
-      padding-right: 40rem;
+  @include break(500, 700, 900) {
+    left: 3rem;
+  }
+
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+
+  display: flex;
+
+  li {
+    margin-right: 5rem;
+  }
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.categories {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+
+  @include break(700) {
+    padding-right: 40rem;
+  }
+
+  li {
+    display: block;
+
+    @include break(500, 700, 900) {
+      display: inline-block;
     }
+  }
 
-    li {
-      display: block;
-
-      @include break(500, 700, 900) {
-        display: inline-block;
-      }
-    }
-
-    a, button {
-      margin: 1rem;
-    }
+  a, button {
+    margin: 1rem;
   }
 }
 
