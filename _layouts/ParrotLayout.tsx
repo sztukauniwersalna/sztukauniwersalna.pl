@@ -71,7 +71,7 @@ export class ParrotLayout extends Component<Props, State> {
             </div>
           </div>
         </div>
-        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` }>
+        <div className={ `${s.sideMenu} ${this.state.sideMenuClassName}` } onClick={ this.hideMenu } >
           <SideMenu
             visible={ this.state.sideMenuClassName === s.visible }
             onCloseRequested={ () => this.hideMenu() }

@@ -60,9 +60,8 @@ export class SideMenu extends Component<Props, State> {
       <aside
         className={ classNames.join(' ') }
         onTransitionEnd={ () => this.onTransitionEnd() }
-        tabIndex={ -1 }
-        onBlur={ () => this.onBlur() }
         ref={ elem => this.element = elem as HTMLDivElement }
+        onClick={ e => e.stopPropagation() }
       >
         <div className={ s.header }>
           <div className={ s.closeButton }>
@@ -78,19 +77,10 @@ export class SideMenu extends Component<Props, State> {
     );
   }
 
-  private onBlur() {
-    if (this.state.visible) {
-      this.props.onCloseRequested();
-    }
-  }
-
   private onTransitionEnd() {
     if (this.props.visible) {
-      this.element.focus();
       return;
     }
-    this.element.blur();
-
     this.props.onClosed();
   }
 }
