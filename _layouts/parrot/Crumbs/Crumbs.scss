@@ -1,4 +1,5 @@
 @import '../mixins';
+@import '../breaks';
 
 .crumbs {
   padding: 2rem 0;
@@ -8,7 +9,11 @@
     padding: 0;
     list-style-type: none;
 
-    display: flex;
+    display: none;
+
+    @include break(500, 700, 900) {
+      display: flex;
+    }
   }
 
   li {
