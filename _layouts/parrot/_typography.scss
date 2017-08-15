@@ -7,10 +7,10 @@ html {
 }
 
 @function bigger-font-size($font-size) {
-  @return floor($font-size * 9 / 8 / 2) * 2;
+  @return floor($font-size * 10 / 8 / 2) * 2;
 }
 @function bigger-line-height($line-height) {
-  @return floor($line-height * 7 / 6);
+  @return floor($line-height * 9 / 7);
 }
 
 @mixin font($name, $size, $weight, $responsive: true) {

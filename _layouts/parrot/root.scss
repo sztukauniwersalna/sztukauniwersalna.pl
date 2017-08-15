@@ -170,7 +170,7 @@ body {
 
 @each $tag in h1, h2, h3, h4, h5, h6 {
   #{$tag} {
-    margin: 0;
+    margin: 2rem 0 0 0;
 
     @include color(color, text, .7);
     @include font(headers, $tag, 400);
@@ -183,7 +183,7 @@ body {
 }
 
 p, li, blockquote, dt, dd, input, textarea {
-  margin: 2rem 0;
+  margin: 0;
 
   @include color(color, text);
   @include font(text, p, 300);
@@ -192,10 +192,6 @@ p, li, blockquote, dt, dd, input, textarea {
   :global(.contrast) & {
     @include color(color, text-contrast);
   }
-}
-
-li {
-  margin: 0;
 }
 
 button, input[type=submit], input[type=button] {
