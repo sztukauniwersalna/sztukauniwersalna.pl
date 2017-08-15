@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 import { Page, Website, MenuEntry } from 'paramorph/models';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
-import Crumbs from '../_includes/Crumbs';
 import TagList from '../_includes/TagList';
+import Crumbs from 'parrot-layout/Crumbs';
 import TopBar from 'parrot-layout/TopBar';
 import Footer from 'parrot-layout/Footer';
 import Logo from 'parrot-layout/Logo';
@@ -61,8 +61,8 @@ export class ParrotLayout extends Component<Props, State> {
             <div>{ this.state.jumbotron }</div>
           </div>
           <main>
-            <h1><Link to={ page.url }>{ page.title }</Link></h1>
             <Crumbs website={ website } page={ page } />
+            <h1><Link to={ page.url }>{ page.title }</Link></h1>
             <TagList website={ website } page={ page } />
             <Body website={ website } page={ page } />
           </main>
