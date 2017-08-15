@@ -1,27 +1,43 @@
 @import '../mixins';
 @import '../breaks';
+@import '../typography';
 
 .crumbs {
-  padding: 2rem 0;
-
   ul {
-    margin: 0;
-    padding: 0;
     list-style-type: none;
-
     display: none;
 
-    @include break(500, 700, 900) {
+    @include break(700) {
       display: flex;
+      margin: 3rem 0 -3rem 0;
+      padding: 26rem 0 0 0;
+    }
+    @include break(900) {
+      display: flex;
+      margin: 1rem 0 -1rem 0;
+      padding: 34rem 0 0 0;
     }
   }
 
   li {
+    @include font(text, p, 300, $responsive: false);
+    @include baseline(text, p, $responsive: false);
+
     &:not(:first-child) {
       &:before {
         content: '>';
         padding: 0 2rem;
       }
+    }
+  }
+
+  a {
+    &:link, &:visited {
+      text-decoration: none;
+    }
+
+    &:hover, &:active {
+      text-decoration: underline;
     }
   }
 }

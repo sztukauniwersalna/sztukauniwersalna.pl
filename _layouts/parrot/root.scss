@@ -66,17 +66,11 @@ body {
 
 .jumbotron {
   @include color(background-color, 'background-pink');
-  padding: 1rem 0;
-
-  @include break(700) {
-    padding: 14rem 0;
-  }
-  @include break(900) {
-    padding: 18rem 0;
-  }
 
   > div {
     @extend %full-width;
+
+    padding: 1rem 0;
   }
 }
 
@@ -103,7 +97,12 @@ body {
 
   main {
     @extend %full-width;
-    height: 100%;
+
+    padding-top: 10rem;
+
+    @include break(900) {
+      padding-top: 14rem;
+    }
   }
 }
 

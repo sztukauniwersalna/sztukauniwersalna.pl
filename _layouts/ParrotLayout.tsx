@@ -3,7 +3,7 @@ import { Component, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
-import { Page, Website, MenuEntry } from 'paramorph/models';
+import { Page, Category, Tag, Website, MenuEntry } from 'paramorph/models';
 
 import TopBar from 'parrot-layout/TopBar';
 import Crumbs from 'parrot-layout/Crumbs';
@@ -20,7 +20,6 @@ export interface Props {
 }
 interface State {
   sideMenuClassName : string;
-  jumbotron : ReactNode;
 }
 
 export class ParrotLayout extends Component<Props, State> {
@@ -29,7 +28,6 @@ export class ParrotLayout extends Component<Props, State> {
 
     this.state = {
       sideMenuClassName: s.closed,
-      jumbotron: null,
     };
 
     this.hideMenu = this.hideMenu.bind(this);
@@ -57,11 +55,10 @@ export class ParrotLayout extends Component<Props, State> {
           <TopBar website={ website } page={ page } onMenuClick={ this.showMenu } />
         </div>
         <div className={ s.main }>
-          <div className={ s.jumbotron }>
-            <div>{ this.state.jumbotron }</div>
+          <div className={ `${s.jumbotron} contrast` }>
+            <div>{ jumbotronFor(website, page) }</div>
           </div>
           <main>
-            <Crumbs website={ website } page={ page } />
             <h1><Link to={ page.url }>{ page.title }</Link></h1>
             <Tags website={ website } page={ page } />
             <Body website={ website } page={ page } />
@@ -104,6 +101,19 @@ export class ParrotLayout extends Component<Props, State> {
   private setSideMenuClassName(sideMenuClassName : string) {
     this.setState(prev => ({ ...prev, sideMenuClassName }));
   }
+}
+
+function jumbotronFor(website : Website, page : Page) {
+  if (page instanceof Category || page.url === '/') {
+    return null;
+  }
+  if (page instanceof Tag) {
+    return null;
+  }
+
+  return (
+    <Crumbs website={ website } page={ page } />
+  );
 }
 
 export default withStyles(s)(ParrotLayout);
