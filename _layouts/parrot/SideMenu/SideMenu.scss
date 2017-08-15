@@ -54,7 +54,6 @@
   a {
     margin: 0;
     padding: 0 4rem;
-    height: 12rem;
 
     display: flex;
     flex-direction: row;
@@ -90,7 +89,7 @@
 
   @include color(color, text, 0.9);
   @include font(text, p, 400);
-  @include baseline(text, p);
+  @include baseline(text, menu, $shift: 1, $padding-top: 1);
 
   display: block;
   white-space: nowrap;

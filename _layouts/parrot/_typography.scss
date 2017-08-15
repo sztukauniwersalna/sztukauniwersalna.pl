@@ -32,15 +32,15 @@ html {
   }
 }
 
-@mixin baseline-shift($font-size, $cap-height, $line-height) {
+@mixin baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top) {
   $cap-height-rem: $cap-height * ($font-size / $sizing-unit);
-  $offset: ($line-height - $cap-height-rem) / 2;
+  $offset: ($line-height - $cap-height-rem) / 2 + $shift;
 
-  padding-top: $offset;
+  padding-top: $offset + $padding-top;
   padding-bottom: $line-height - $offset;
 }
 
-@mixin baseline($name, $size, $responsive: true) {
+@mixin baseline($name, $size, $responsive: true, $shift: 0, $padding-top: 0) {
   $font: map-get-strict($fonts, $name);
   $cap-height: map-get-strict($font, 'cap-height');
   $font-size: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'size');
@@ -48,7 +48,7 @@ html {
 
   line-height: $line-height;
 
-  @include baseline-shift($font-size, $cap-height, $line-height);
+  @include baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top);
 
   @if $responsive {
     @include break(900) {
@@ -57,7 +57,7 @@ html {
 
       line-height: $line-height;
 
-      @include baseline-shift($font-size, $cap-height, $line-height);
+      @include baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top);
     }
   }
 }
