@@ -14,7 +14,7 @@
   li {
     &:not(:first-child) {
       &:before {
-        content: '≫';
+        content: '>';
         padding: 0 2rem;
       }
     }
