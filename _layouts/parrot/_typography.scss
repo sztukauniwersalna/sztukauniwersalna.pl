@@ -52,8 +52,12 @@ html {
 
   @if $responsive {
     @include break(900) {
-      line-height: floor($line-height * 7 / 6);
-      @include baseline-shift(bigger-font-size($font-size), $cap-height, $line-height);
+      $font-size: bigger-font-size($font-size);
+      $line-height: bigger-line-height($line-height);
+
+      line-height: $line-height;
+
+      @include baseline-shift($font-size, $cap-height, $line-height);
     }
   }
 }
