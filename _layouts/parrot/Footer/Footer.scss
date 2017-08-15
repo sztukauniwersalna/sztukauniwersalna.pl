@@ -1,5 +1,7 @@
 @import '../_breaks';
 @import '../_colors';
+@import '../_typography';
+@import '../_mixins';
 
 .footer {
   position: relative;
@@ -25,11 +27,7 @@
     left: 3rem;
   }
 
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-
-  display: flex;
+  @extend %invisible-list;
 
   li {
     margin-right: 5rem;
@@ -40,20 +38,16 @@
 }
 
 .categories {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
+  @extend %invisible-list;
 
+  flex-direction: column;
+
+  @include break(500, 700, 900) {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
   @include break(700) {
     padding-right: 40rem;
-  }
-
-  li {
-    display: block;
-
-    @include break(500, 700, 900) {
-      display: inline-block;
-    }
   }
 
   a, button {
@@ -62,6 +56,9 @@
 }
 
 .bottomParagraph {
+  @include font(text, p, 400, $responsive: false);
+  @include baseline(text, p, $responsive: false);
+
   padding: 0 3rem;
   margin: 8rem 0 0 0;
 

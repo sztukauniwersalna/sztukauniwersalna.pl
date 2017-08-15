@@ -1,24 +1,60 @@
-@import './_variables.scss';
-@import './_mixins.scss';
+@import './_variables';
+@import './_mixins';
+@import './_breaks';
 
 html {
   font-size: $sizing-unit;
 }
 
-@mixin font($name, $size, $weight) {
-  $font: map-get-strict($fonts, $name);
-  $sizes: map-get-strict(map-get-strict($font, sizes), $size);
-
-  font-family: map-get-strict($font, family);
-  font-size: map-get-strict($sizes, size);
-  font-weight: $weight;
-  letter-spacing: map-get-strict($sizes, letter-spacing);
+@function bigger-font-size($font-size) {
+  @return floor($font-size * 9 / 8 / 2) * 2;
+}
+@function bigger-line-height($line-height) {
+  @return floor($line-height * 7 / 6);
 }
 
-@mixin baseline($name, $size) {
+@mixin font($name, $size, $weight, $responsive: true) {
   $font: map-get-strict($fonts, $name);
-  $sizes: map-get-strict(map-get-strict($font, sizes), $size);
+  $size: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'size');
+  $family: map-get-strict($font, 'family');
+  $spacing: map-get-strict(map-get-strict($letter-spacing, $name), $size);
 
-  line-height: map-get-strict($sizes, line-height);
+  font-family: $family;
+  font-weight: $weight;
+  letter-spacing: $spacing;
+
+  font-size: $size;
+
+  @if $responsive {
+    @include break(900) {
+      font-size: bigger-font-size($size);
+    }
+  }
+}
+
+@mixin baseline-shift($font-size, $cap-height, $line-height) {
+  $cap-height-rem: $cap-height * ($font-size / $sizing-unit);
+  $offset: ($line-height - $cap-height-rem) / 2;
+
+  padding-top: $offset;
+  padding-bottom: $line-height - $offset;
+}
+
+@mixin baseline($name, $size, $responsive: true) {
+  $font: map-get-strict($fonts, $name);
+  $cap-height: map-get-strict($font, 'cap-height');
+  $font-size: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'size');
+  $line-height: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'line-height');
+
+  line-height: $line-height;
+
+  @include baseline-shift($font-size, $cap-height, $line-height);
+
+  @if $responsive {
+    @include break(900) {
+      line-height: floor($line-height * 7 / 6);
+      @include baseline-shift(bigger-font-size($font-size), $cap-height, $line-height);
+    }
+  }
 }
 

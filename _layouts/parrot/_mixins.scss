@@ -7,3 +7,16 @@
   }
 }
 
+%invisible-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+
+  li {
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+}
+

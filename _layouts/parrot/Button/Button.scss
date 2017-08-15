@@ -6,7 +6,7 @@
   a, button {
     height: 10rem;
 
-    @include font(text, p, 700);
+    @include font(text, p, 700, $responsive: false);
     line-height: 10rem;
 
     text-transform: uppercase;

@@ -2,6 +2,6 @@
 @import './_mixins.scss';
 
 @mixin color($property, $color-name, $opacity : 1) {
-  #{$property}: rgba(map-get-strict($colors, $color-name), $opacity);
+  #{$property}: rgba(map-get-strict($colors, $color-name), $opacity/1.5);
 }
 

@@ -1,5 +1,6 @@
 @import '../_breaks';
 @import '../_colors';
+@import '../_mixins';
 
 .topBar {
   padding: 1rem 0;
@@ -54,12 +55,8 @@
 
 .topMenu {
   ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-  }
-  li {
-    display: flex;
+    @extend %invisible-list;
+    margin: 1rem 0;
   }
   a {
     &:hover, &:active {
