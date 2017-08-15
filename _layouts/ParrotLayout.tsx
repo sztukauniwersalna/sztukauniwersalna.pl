@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Component } from 'react';
+import { Component, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 
 import { Page, Website, MenuEntry } from 'paramorph/models';
@@ -20,6 +20,7 @@ export interface Props {
 }
 interface State {
   sideMenuClassName : string;
+  jumbotron : ReactNode;
 }
 
 export class ParrotLayout extends Component<Props, State> {
@@ -28,6 +29,7 @@ export class ParrotLayout extends Component<Props, State> {
 
     this.state = {
       sideMenuClassName: s.closed,
+      jumbotron: null,
     };
 
     this.hideMenu = this.hideMenu.bind(this);
@@ -55,6 +57,9 @@ export class ParrotLayout extends Component<Props, State> {
           <TopBar website={ website } page={ page } onMenuClick={ this.showMenu } />
         </div>
         <div className={ s.main }>
+          <div className={ s.jumbotron }>
+            <div>{ this.state.jumbotron }</div>
+          </div>
           <main>
             <h1><Link to={ page.url }>{ page.title }</Link></h1>
             <Crumbs website={ website } page={ page } />

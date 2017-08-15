@@ -57,7 +57,18 @@ body {
 
   @include color(background-color, background-post);
 
+  box-shadow: 0 0 3px rgba(black, .4);
+
   header {
+    @extend %full-width;
+  }
+}
+
+.jumbotron {
+  @include color(background-color, 'background-pink');
+  padding: 1rem 0;
+
+  > div {
     @extend %full-width;
   }
 }
@@ -65,27 +76,27 @@ body {
 .main {
   box-sizing: border-box;
 
+  padding-top: 14rem;
+  padding-bottom: 10rem;
   min-height: calc(#{100%} - #{146rem});
 
   @include break(500) {
     min-height: calc(#{100%} - #{101rem});
   }
   @include break(700) {
+    padding-top: 18rem;
     min-height: calc(#{100%} - #{114rem});
   }
   @include break(900) {
+    padding-top: 18rem;
     min-height: calc(#{100%} - #{94rem});
   }
+
+  @include color(background-color, 'background-post');
 
   main {
     @extend %full-width;
     height: 100%;
-
-    padding-top: 14rem;
-
-    @include break(700, 900) {
-      padding-top: 18rem;
-    }
   }
 }
 
