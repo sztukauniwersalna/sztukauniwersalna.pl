@@ -1,0 +1,16 @@
+@import '../mixins';
+@import '../breaks';
+
+.tags {
+  @extend %invisible-list;
+
+  margin: -5rem 0 5rem -3rem;
+
+  @include break(700) {
+    margin: -7rem 0 7rem -3rem;
+  }
+  @include break(900) {
+    margin: -9rem 0 9rem -3rem;
+  }
+}
+

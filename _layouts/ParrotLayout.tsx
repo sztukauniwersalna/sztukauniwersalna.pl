@@ -1,13 +1,13 @@
 import * as React from 'react';
 import { Component, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
-
-import { Page, Website, MenuEntry } from 'paramorph/models';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
-import TagList from '../_includes/TagList';
-import Crumbs from 'parrot-layout/Crumbs';
+import { Page, Website, MenuEntry } from 'paramorph/models';
+
 import TopBar from 'parrot-layout/TopBar';
+import Crumbs from 'parrot-layout/Crumbs';
+import Tags from 'parrot-layout/Tags';
 import Footer from 'parrot-layout/Footer';
 import Logo from 'parrot-layout/Logo';
 import SideMenu, { Item } from 'parrot-layout/SideMenu';
@@ -63,7 +63,7 @@ export class ParrotLayout extends Component<Props, State> {
           <main>
             <Crumbs website={ website } page={ page } />
             <h1><Link to={ page.url }>{ page.title }</Link></h1>
-            <TagList website={ website } page={ page } />
+            <Tags website={ website } page={ page } />
             <Body website={ website } page={ page } />
           </main>
         </div>

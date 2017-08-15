@@ -68,6 +68,13 @@ body {
   @include color(background-color, 'background-pink');
   padding: 1rem 0;
 
+  @include break(700) {
+    padding: 14rem 0;
+  }
+  @include break(900) {
+    padding: 18rem 0;
+  }
+
   > div {
     @extend %full-width;
   }
@@ -217,9 +224,11 @@ button, input[type=submit], input[type=button] {
     @each $tag in h1, h2, h3, h4, h5, h6 {
       #{$tag} &:link, #{$tag} &:visited {
         @include color(color, $color-name, .7);
+        text-decoration: none;
       }
       #{$tag} &:hover, #{$tag} &:active {
         @include color(color, $color-name, .8);
+        text-decoration: underline;
       }
     }
   }
