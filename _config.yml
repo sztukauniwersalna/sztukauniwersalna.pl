@@ -5,19 +5,19 @@ collections:
   categories:
     title: Categories
     output: false
-    layout: PostLayout
+    layout: ParrotLayout
   drafts:
     title: Drafts
     output: false
-    layout: DraftLayout
+    layout: ParrotLayout
   pages:
     title: Pages
     output: false
-    layout: PageLayout
+    layout: ParrotLayout
   posts:
     title: Posts
     output: true
-    layout: PostLayout
+    layout: ParrotLayout
   uploads:
     title: Uploads
     output: false
