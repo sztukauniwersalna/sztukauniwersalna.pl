@@ -2,6 +2,7 @@
 @import './_breaks';
 @import './_colors';
 @import './_typography';
+@import './_utils';
 
 $bgBase64: 'data:image/png;base64,'
   + 'iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI'
@@ -25,23 +26,6 @@ body {
   height: 100%;
 }
 
-%full-width {
-  box-sizing: border-box;
-  width: 100%;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  margin: 0;
-
-  @each $point in map-keys($breaks) {
-    @include break($point) {
-      width: map-get-strict(map-get-strict($breaks, $point), 'width');
-      margin: 0 auto;
-      padding-left: 0;
-      padding-right: 0;
-    }
-  }
-}
-
 :global(#root),
 #all {
   height: 100%;
@@ -62,16 +46,6 @@ body {
 
   header {
     @extend %full-width;
-  }
-}
-
-.jumbotron {
-  @include color(background-color, 'background-pink');
-
-  > div {
-    @extend %full-width;
-
-    padding: 1rem 0;
   }
 }
 
@@ -151,6 +125,7 @@ body {
 }
 
 .sideMenu {
+  z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
@@ -175,16 +150,76 @@ body {
   }
 }
 
+$header-sizes: map-get-strict(map-get-strict($fonts, 'headers'), 'sizes');
+
 @each $tag in h1, h2, h3, h4, h5, h6 {
   #{$tag} {
     margin: 2rem 0 0 0;
 
     @include color(color, text, .7);
-    @include font(headers, $tag, 400);
-    @include baseline(headers, $tag);
 
     :global(.contrast) & {
       @include color(color, text-contrast, .7);
+    }
+
+    @include font(headers, $tag, 400);
+    @include baseline(headers, $tag);
+
+    :global(.compact) & {
+      $line-height: map-get-strict(map-get-strict($header-sizes, $tag), 'line-height');
+      margin: 2rem 0 #{1rem - $line-height} 0;
+
+      @include font(headers, $tag, 400, $responsive: false);
+      @include baseline(headers, $tag, $responsive: false);
+    }
+
+    :global(.strong) & {
+      font-weight: 700;
+      @include color(color, text, .9);
+
+      :global(.contrast) & {
+        @include color(color, text-contrast, .9);
+      }
+    }
+    :global(.strong.contrast) & {
+      @include color(color, text-contrast, .9);
+    }
+  }
+}
+
+p, li, dt, dd, input, textarea {
+  margin: 0;
+
+  @include color(color, text);
+  @include font(text, p, 300);
+  @include baseline(text, p);
+
+  :global(.contrast) & {
+    @include color(color, text-contrast);
+  }
+
+  :global(.compact) & {
+    @include font(text, p, 300, $responsive: false);
+    @include baseline(text, p, $responsive: false);
+  }
+
+  :global(.strong) & {
+    font-weight: 500;
+  }
+}
+
+ul, ol {
+  list-style-position: outside;
+  padding: 0;
+}
+
+:global(.compact) {
+  ul, ol {
+    @include baseline(text, p, $responsive: false);
+
+    ul, ol, li {
+      margin: 0;
+      padding: 0;
     }
   }
 }
@@ -224,18 +259,6 @@ blockquote {
       left: -29rem;
       top: calc(#{50%} - #{25rem});
     }
-  }
-}
-
-p, li, dt, dd, input, textarea {
-  margin: 0;
-
-  @include color(color, text);
-  @include font(text, p, 300);
-  @include baseline(text, p);
-
-  :global(.contrast) & {
-    @include color(color, text-contrast);
   }
 }
 

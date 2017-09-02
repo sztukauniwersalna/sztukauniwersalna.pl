@@ -1,0 +1,98 @@
+@import '../mixins';
+@import '../breaks';
+@import '../colors';
+@import '../utils';
+
+.container {
+  @include color(background-color, 'background-pink');
+
+  box-sizing: border-box;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+
+  min-height: 2rem;
+
+  @include break(700) {
+    min-height: 33rem;
+  }
+  @include break(900) {
+    min-height: 44rem;
+  }
+
+  transition: height 200ms ease-out, min-height 200ms ease-out;
+}
+
+.fullscreen {
+  height: calc(#{100vh} - #{14rem});
+
+  @include break(500) {
+    height: 90rem;
+    max-height: calc(#{100vh} - #{14rem});
+  }
+  @include break(700) {
+    height: 54rem;
+  }
+  @include break(900) {
+    height: 66rem;
+  }
+}
+
+.jumbo {
+  @extend %full-width;
+
+  display: flex;
+
+  align-items: stretch;
+  justify-content: space-between;
+
+  padding: 0 3rem;
+}
+
+.text {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 1rem 0;
+
+  .fullscreen & {
+    padding-left: 8rem;
+    padding-right: 6rem;
+
+    @include break(700) {
+      padding-left: 7rem;
+      padding-right: 0;
+    }
+    @include break(900) {
+      padding-left: 11rem;
+      padding-right: 6rem;
+    }
+  }
+
+  .center & {
+    justify-content: center;
+  }
+  .bottom & {
+    justify-content: flex-end;
+  }
+}
+
+.image {
+  background-size: cover;
+  height: 100%;
+
+  @include break(700) {
+    width: 54rem;
+  }
+  @include break(900) {
+    width: 66rem;
+  }
+
+  transition: width 200ms ease-out;
+
+  display: none;
+
+  @include break(700, 900) {
+    display: flex;
+  }
+}
+

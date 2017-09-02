@@ -11,8 +11,10 @@ import Tags from 'parrot-layout/Tags';
 import Footer from 'parrot-layout/Footer';
 import Logo from 'parrot-layout/Logo';
 import SideMenu, { Item } from 'parrot-layout/SideMenu';
+import Jumbotron from 'parrot-layout/Jumbotron';
 
 const s = require('parrot-layout/root.scss');
+const image = require('parrot-layout/SideMenu/abstract_7.jpg');
 
 export interface Props {
   website : Website;
@@ -55,9 +57,7 @@ export class ParrotLayout extends Component<Props, State> {
           <TopBar website={ website } page={ page } onMenuClick={ this.showMenu } />
         </div>
         <div className={ s.main }>
-          <div className={ `${s.jumbotron} contrast` }>
-            <div>{ jumbotronFor(website, page) }</div>
-          </div>
+          { jumbotronFor(website, page) }
           <main>
             <h1><Link to={ page.url }>{ page.title }</Link></h1>
             <Tags website={ website } page={ page } />
@@ -104,7 +104,19 @@ export class ParrotLayout extends Component<Props, State> {
 }
 
 function jumbotronFor(website : Website, page : Page) {
-  if (page instanceof Category || page.url === '/') {
+  if (page.url === '/') {
+    return (
+      <Jumbotron fullscreen align='center' src={ image }>
+        <h2>uniwer•sal•ny; -na</h2>
+        <ol>
+          <li>«obejmujący całość, dotyczący wszystkiego lub wszystkich»</li>
+          <li>«mający wszechstronne zastosowanie»</li>
+          <li>«mający różne umiejętności»</li>
+        </ol>
+      </Jumbotron>
+    );
+  }
+  if (page instanceof Category) {
     return null;
   }
   if (page instanceof Tag) {
@@ -112,7 +124,9 @@ function jumbotronFor(website : Website, page : Page) {
   }
 
   return (
-    <Crumbs website={ website } page={ page } />
+    <Jumbotron align='bottom'>
+      <Crumbs website={ website } page={ page } />
+    </Jumbotron>
   );
 }
 
