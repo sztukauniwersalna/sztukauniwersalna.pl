@@ -60,7 +60,7 @@
   }
   a {
     &:hover, &:active {
-      @include color(background, background-page);
+      @include color(background, text, .05);
     }
   }
 
