@@ -79,18 +79,18 @@ body {
 
   padding-top: 14rem;
   padding-bottom: 10rem;
-  min-height: calc(#{100%} - #{146rem});
+  min-height: calc(#{100%} - #{152rem});
 
   @include break(500) {
-    min-height: calc(#{100%} - #{101rem});
+    min-height: calc(#{100%} - #{105rem});
   }
   @include break(700) {
     padding-top: 18rem;
-    min-height: calc(#{100%} - #{114rem});
+    min-height: calc(#{100%} - #{116rem});
   }
   @include break(900) {
     padding-top: 18rem;
-    min-height: calc(#{100%} - #{94rem});
+    min-height: calc(#{100%} - #{96rem});
   }
 
   @include color(background-color, 'background-post');
@@ -98,10 +98,10 @@ body {
   main {
     @extend %full-width;
 
-    padding-top: 10rem;
+    padding-top: 6rem;
 
     @include break(900) {
-      padding-top: 14rem;
+      padding-top: 7rem;
     }
   }
 }
