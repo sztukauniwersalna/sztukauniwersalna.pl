@@ -188,7 +188,45 @@ body {
   }
 }
 
-p, li, blockquote, dt, dd, input, textarea {
+blockquote {
+  margin: 0;
+  padding: 0 0 4rem 0;
+
+  > p {
+    font-weight: 500;
+    @include color(color, text, .5);
+
+    :global(.contrast) & {
+      @include color(color, text-contrast, .5);
+    }
+  }
+
+  @include break(900) {
+    position: relative;
+
+    &::before {
+      content: '“';
+      @include font(text, p, 700);
+      font-size: 48rem !important;
+
+      margin: 0;
+      padding: 0;
+      display: block;
+
+      @include color(color, text, .05);
+
+      :global(.contrast) & {
+        @include color(color, text-contrast, .05);
+      }
+
+      position: absolute;
+      left: -29rem;
+      top: calc(#{50%} - #{25rem});
+    }
+  }
+}
+
+p, li, dt, dd, input, textarea {
   margin: 0;
 
   @include color(color, text);
