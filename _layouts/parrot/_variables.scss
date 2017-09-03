@@ -20,19 +20,23 @@ $sizing-unit: 4px;
 $breaks: (
   300: (
     width: 332px,
-    gutter: 4px
+    gutter: 4px,
+    margin: 0px
   ),
   500: (
-    width: 536px,
-    gutter: 4px
+    width: 568px,
+    gutter: 4px,
+    margin: 0px
   ),
   700: (
     width: 756px,
-    gutter: 8px
+    gutter: 8px,
+    margin: 44px,
   ),
   900: (
     width: 924px,
-    gutter: 8px
+    gutter: 8px,
+    margin: 88px
   )
 );
 
