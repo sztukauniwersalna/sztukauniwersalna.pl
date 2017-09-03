@@ -46,6 +46,8 @@ body {
 
   header {
     @extend %full-width;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -86,6 +88,8 @@ body {
 
   footer {
     @extend %full-width;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
