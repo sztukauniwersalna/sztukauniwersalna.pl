@@ -9,17 +9,12 @@
     @include font(text, p, 700, $responsive: false);
     line-height: 10rem;
 
-    text-transform: uppercase;
-    text-align: center;
-
     &:link, &:visited, &:hover, &:active {
       text-decoration: none;
-      @include color(color, 'text');
-
-      :global(.contrast) & {
-        @include color(color, 'text-contrast');
-      }
     }
+
+    text-transform: uppercase;
+    text-align: center;
 
     border: 0;
     display: block;
@@ -34,6 +29,14 @@
   a, button {
     background-color: transparent;
     padding: 0 3rem;
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text', .9);
+
+      :global(.contrast) & {
+        @include color(color, 'text-contrast', .9);
+      }
+    }
   }
 }
 
@@ -59,14 +62,6 @@
 
     overflow: hidden;
     text-overflow: ellipsis;
-
-    &:link, &:visited, &:hover, &:active {
-      @include color(color, 'text', .9);
-
-      :global(.contrast) & {
-        @include color(color, 'text-contrast', .9);
-      }
-    }
   }
 
   :global(.material-icons) {
@@ -79,18 +74,30 @@
 .green {
   a, button {
     @include color(background-color, 'action-green');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
   }
 }
 
 .purple {
   a, button {
     @include color(background-color, 'action-purple');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
   }
 }
 
 .gray {
   a, button {
     @include color(background-color, 'action-gray');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
   }
 }
 

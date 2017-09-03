@@ -28,6 +28,7 @@ module.exports = {
     alias: {
       'paramorph': path.resolve(__dirname, './__paramorph/'),
       'parrot-layout': path.resolve(__dirname, './_layouts/parrot/'),
+      'includes': path.resolve(__dirname, './_includes/'),
     }
   },
 

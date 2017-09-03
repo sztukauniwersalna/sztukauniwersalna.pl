@@ -59,8 +59,16 @@ export class ParrotLayout extends Component<Props, State> {
         <div className={ s.main }>
           { jumbotronFor(website, page) }
           <main>
-            <h1><Link to={ page.url }>{ page.title }</Link></h1>
-            <Tags website={ website } page={ page } />
+            {
+              page.url !== '/' && !(page instanceof Category) && !(page instanceof Tag)
+              ? (
+                <div>
+                  <h1><Link to={ page.url }>{ page.title }</Link></h1>
+                  <Tags website={ website } page={ page } />
+                </div>
+              )
+              : null
+            }
             <Body website={ website } page={ page } />
           </main>
         </div>

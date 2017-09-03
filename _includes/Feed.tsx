@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 import { Page, Website } from 'paramorph/models';
 
-import CategoryList from './CategoryList';
-import TagList from './TagList';
-import { Branch as TocBranch } from './TableOfContents';
+import Tags from 'parrot-layout/Tags';
+import Button from 'parrot-layout/Button';
+import { Branch as TocBranch } from 'includes/TableOfContents';
 
 export interface Props {
   website : Website;
@@ -27,12 +27,11 @@ export function Feed({ website, page, feed, respectLimit = false, ...props } : P
     return (
       <article key={ key }>
         <h1><Link to={ page.url }>{ page.title }</Link></h1>
-        <CategoryList website={ website } page={ page } />
-        <TagList website={ website } page={ page } />
+        <Tags website={ website } page={ page } />
 
         <Body website={ website } page={ page } respectLimit={ true } />
 
-        <Link to={ page.url }>Read more</Link>
+        <Button url={ page.url } variant='raised' color='purple'>Read More</Button>
       </article>
     );
   }) }
