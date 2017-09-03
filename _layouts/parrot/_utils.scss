@@ -10,11 +10,11 @@
 %full-width {
   box-sizing: border-box;
   width: 100%;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
   margin: 0;
 
-  @each $point in map-keys($breaks) {
+  @each $point in map-keys(map-remove($breaks, $fluid...)) {
     @include break($point) {
       width: map-get-strict(map-get-strict($breaks, $point), 'width');
       margin: 0 auto;

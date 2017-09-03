@@ -21,7 +21,7 @@
 .socialButtons {
   position: absolute;
   top: -7rem;
-  left: 4rem;
+  left: 5rem;
 
   @include break(500, 700, 900) {
     left: 3rem;
@@ -59,7 +59,7 @@
   @include font(text, p, 400, $responsive: false);
   @include baseline(text, p, $responsive: false);
 
-  padding: 0 3rem;
+  padding: 0 4rem;
   margin: 8rem 0 0 0;
 
   @include break(500) {

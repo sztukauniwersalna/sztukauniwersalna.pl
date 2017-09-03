@@ -111,7 +111,7 @@ body {
 
     @include break(500, 700, 900) {
       justify-content: flex-end;
-      padding: 10rem 0 8rem 0;
+      padding: 10rem 4rem 8rem 4rem;
     }
 
     @include break(700) {
