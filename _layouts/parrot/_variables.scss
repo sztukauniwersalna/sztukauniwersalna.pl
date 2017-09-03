@@ -48,6 +48,10 @@ $fonts: (
       menu: (
         size: 16px,
         line-height: 6rem
+      ),
+      bullet: (
+        size: 20px,
+        line-height: 7rem
       )
     )
   ),
@@ -78,6 +82,10 @@ $fonts: (
       h6: (
         size: 16px,
         line-height: 7rem
+      ),
+      bullet: (
+        size: 12px,
+        line-height: 7rem
       )
     )
   )
@@ -86,7 +94,8 @@ $fonts: (
 $letter-spacing: (
   text: (
     16px: -.003rem,
-    18px: -.006rem
+    18px: -.006rem,
+    20px: -.01rem
   ),
   headers: (
     26px: .14rem,
@@ -94,7 +103,9 @@ $letter-spacing: (
     22px: .06rem,
     20px: .04rem,
     18px: .02rem,
-    16px: .01rem
+    16px: .01rem,
+    14px: 0rem,
+    12px: -.01rem
   )
 );
 

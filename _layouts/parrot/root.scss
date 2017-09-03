@@ -208,22 +208,6 @@ p, li, dt, dd, input, textarea {
   }
 }
 
-ul, ol {
-  list-style-position: outside;
-  padding: 0;
-}
-
-:global(.compact) {
-  ul, ol {
-    @include baseline(text, p, $responsive: false);
-
-    ul, ol, li {
-      margin: 0;
-      padding: 0;
-    }
-  }
-}
-
 blockquote {
   margin: 0;
   padding: 0 0 4rem 0;
@@ -299,5 +283,154 @@ button, input[type=submit], input[type=button] {
 
 :global(.contrast) {
   @include anchor-color(text-contrast);
+}
+
+ul, ol {
+  list-style-type: none;
+  padding: 0;
+
+  :global(.compact) & {
+    @include baseline(text, p, $responsive: false);
+
+    ul, ol, li {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  ul, ol {
+    padding-left: 6rem;
+
+    @include break(900) {
+      padding-left: 8rem;
+
+      :global(.compact) & {
+        padding-left: 6rem;
+      }
+    }
+  }
+}
+
+li {
+  &::before {
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    height: 1rem;
+    width: 7rem;
+  }
+}
+
+ul {
+  li {
+    &::before {
+      content: '⇨';
+      @include font(text, bullet, 400);
+
+      opacity: .7;
+      margin-right: 1rem;
+      margin-left: -8rem;
+
+      @include break(900) {
+        opacity: .6;
+        margin-right: 3rem;
+        margin-left: -10rem;
+      }
+
+      :global(.compact) & {
+        @include font(text, bullet, 400, $responsive: false);
+
+        @include break(900) {
+          opacity: .7;
+          margin-right: 1rem;
+          margin-left: -8rem;
+        }
+      }
+    }
+  }
+}
+
+ol {
+  li {
+    &::before {
+      @include font(headers, bullet, 400);
+
+      opacity: .9;
+      margin-right: 4rem;
+      margin-left: -11rem;
+
+      @include break(900) {
+        opacity: .8;
+        margin-right: 6rem;
+        margin-left: -13rem;
+      }
+
+      :global(.compact) & {
+        @include font(headers, bullet, 400, $responsive: false);
+
+        @include break(900) {
+          opacity: .9;
+          margin-right: 4rem;
+          margin-left: -11rem;
+        }
+      }
+    }
+  }
+}
+
+ol {
+  li {
+    counter-increment: top-level;
+
+    &::before {
+      content: counter(top-level) ".";
+      -webkit-font-feature-settings: 'lnum', 'tnum';
+              font-feature-settings: 'lnum', 'tnum';
+    }
+
+    ul {
+      li {
+        &::before {
+          content: '';
+        }
+        ol {
+          li {
+            counter-increment: alt-level;
+
+            &::before {
+              content: counter(alt-level) ".";
+            }
+          }
+        }
+      }
+    }
+
+    ol {
+      li {
+        counter-increment: sub-level;
+
+        &::before {
+          content: counter(top-level) "." counter(sub-level) ".";
+        }
+
+        ul {
+          li {
+            &::before {
+              content: '';
+            }
+          }
+        }
+        ol {
+          li {
+            counter-increment: sub-sub-level;
+
+            &::before {
+              content: counter(top-level) "." counter(sub-level) "." counter(sub-sub-level) ".";
+            }
+          }
+        }
+      }
+    }
+  }
 }
 

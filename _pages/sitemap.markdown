@@ -6,7 +6,7 @@ tags:
 - sitemap
 ---
 
-<div>
+<div className='compact'>
   <TableOfContents {...data} />
 </div>
 

@@ -4,10 +4,8 @@
 
 .crumbs {
   ul {
-    margin: 0;
-    padding: 0;
+    @extend %invisible-list;
 
-    list-style-type: none;
     display: none;
 
     @include break(700) {
@@ -25,7 +23,7 @@
     @include baseline(text, p, $responsive: false);
 
     &:not(:first-child) {
-      &:before {
+      &::before {
         content: '>';
         padding: 0 2rem;
       }
