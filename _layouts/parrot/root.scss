@@ -291,7 +291,20 @@ button, input[type=submit], input[type=button] {
 
 ul, ol {
   list-style-type: none;
-  padding: 0;
+
+  padding-left: 6rem;
+
+  @include break(900) {
+    padding-left: 8rem;
+
+    :global(.compact) & {
+      padding-left: 6rem;
+    }
+  }
+
+  @include break(700, 900) {
+    padding: 0;
+  }
 
   :global(.compact) & {
     @include baseline(text, p, $responsive: false);
