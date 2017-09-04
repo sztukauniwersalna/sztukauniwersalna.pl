@@ -294,16 +294,8 @@ ul, ol {
 
   padding-left: 6rem;
 
-  @include break(900) {
-    padding-left: 8rem;
-
-    :global(.compact) & {
-      padding-left: 6rem;
-    }
-  }
-
   @include break(700, 900) {
-    padding: 0;
+    padding-left: 0;
   }
 
   :global(.compact) & {
@@ -475,6 +467,14 @@ hr {
 
   @include break(900) {
     padding: 9rem 0;
+  }
+}
+
+h2.indexTitle {
+  margin-left: 6rem;
+
+  @include break(700, 900) {
+    margin-left: 0;
   }
 }
 
