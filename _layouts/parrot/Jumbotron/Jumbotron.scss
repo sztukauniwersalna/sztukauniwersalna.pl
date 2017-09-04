@@ -44,13 +44,17 @@
   display: flex;
 
   align-items: stretch;
-  justify-content: center;
+  justify-content: space-between;
 
-  @include break(700, 900) {
-    justify-content: space-between;
+  .center & {
+    justify-content: center;
+
+    @include break(700, 900) {
+      justify-content: space-between;
+    }
   }
 
-  padding: 0 3rem;
+  padding: 0 4rem;
 }
 
 .text {
@@ -58,7 +62,9 @@
   flex-direction: column;
   padding: 1rem 0;
 
-  .fullscreen & {
+  .center & {
+    justify-content: center;
+
     padding-left: 8rem;
     padding-right: 6rem;
 
@@ -72,9 +78,6 @@
     }
   }
 
-  .center & {
-    justify-content: center;
-  }
   .bottom & {
     justify-content: flex-end;
   }

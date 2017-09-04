@@ -59,16 +59,8 @@ export class ParrotLayout extends Component<Props, State> {
         <div className={ s.main }>
           { jumbotronFor(website, page) }
           <main>
-            {
-              page.url !== '/' && !(page instanceof Category) && !(page instanceof Tag)
-              ? (
-                <div>
-                  <h1><Link to={ page.url }>{ page.title }</Link></h1>
-                  <Tags website={ website } page={ page } />
-                </div>
-              )
-              : null
-            }
+            { maybeRenderTitle(website, page) }
+
             <Body website={ website } page={ page } />
           </main>
         </div>
@@ -124,17 +116,42 @@ function jumbotronFor(website : Website, page : Page) {
       </Jumbotron>
     );
   }
+
   if (page instanceof Category) {
-    return null;
+    return (
+      <Jumbotron fullscreen align='bottom'>
+        <h2 className={ s.categoryTitle }>{ page.title }</h2>
+        <Crumbs website={ website } page={ page } />
+      </Jumbotron>
+    );
   }
+
   if (page instanceof Tag) {
-    return null;
+    return (
+      <Jumbotron fullscreen align='bottom'>
+        <h2 className={ s.categoryTitle }>{ page.title }</h2>
+        <Crumbs website={ website } page={ page } />
+      </Jumbotron>
+    );
   }
 
   return (
     <Jumbotron align='bottom'>
       <Crumbs website={ website } page={ page } />
     </Jumbotron>
+  );
+}
+
+function maybeRenderTitle(website : Website, page : Page) {
+  if (page.url === '/' || page instanceof Category || page instanceof Tag) {
+    return null;
+  }
+
+  return (
+    <div>
+      <h1><Link to={ page.url }>{ page.title }</Link></h1>
+      <Tags website={ website } page={ page } />
+    </div>
   );
 }
 

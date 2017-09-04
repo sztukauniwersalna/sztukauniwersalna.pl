@@ -478,3 +478,11 @@ hr {
   }
 }
 
+h2.categoryTitle {
+  margin-bottom: -6rem;
+
+  @include break(700, 900) {
+    margin-bottom: -8rem;
+  }
+}
+
