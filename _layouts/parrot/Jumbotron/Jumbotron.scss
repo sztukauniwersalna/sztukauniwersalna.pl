@@ -65,14 +65,22 @@
   .center & {
     justify-content: center;
 
-    padding-left: 8rem;
-    padding-right: 6rem;
+    width: 68rem;
+    padding-left: 0;
+    padding-right: 0;
+
+    @include break(500) {
+      width: 128rem;
+      padding-left: 8rem;
+    }
 
     @include break(700) {
+      width: auto;
       padding-left: 7rem;
       padding-right: 0;
     }
     @include break(900) {
+      width: auto;
       padding-left: 14rem;
       padding-right: 6rem;
     }
