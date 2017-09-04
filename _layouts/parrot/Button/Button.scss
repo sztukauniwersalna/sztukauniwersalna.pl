@@ -1,0 +1,103 @@
+@import '../_typography';
+@import '../_colors';
+@import '../_utils';
+
+.button {
+  a, button {
+    height: 10rem;
+
+    @include font(text, p, 700, $responsive: false);
+    line-height: 10rem;
+
+    &:link, &:visited, &:hover, &:active {
+      text-decoration: none;
+    }
+
+    text-transform: uppercase;
+    text-align: center;
+
+    border: 0;
+    display: block;
+    cursor: pointer;
+  }
+
+  display: inline-flex;
+  @include disable-text-selection;
+}
+
+.flat {
+  a, button {
+    background-color: transparent;
+    padding: 0 3rem;
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text', .9);
+
+      :global(.contrast) & {
+        @include color(color, 'text-contrast', .9);
+      }
+    }
+  }
+}
+
+.raised {
+  @extend .flat;
+
+  a, button {
+    box-shadow: 1px 1px 3px rgba(black, .4);
+  }
+}
+
+.action {
+  @extend .raised;
+
+  a, button {
+    width: 14rem;
+    height: 14rem;
+
+    box-sizing: border-box;
+    padding: (14rem - 6rem) / 2;
+    text-align: center;
+    border-radius: 50%;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  :global(.material-icons) {
+    display: block;
+    position: relative;
+    top: -1px;
+  }
+}
+
+.green {
+  a, button {
+    @include color(background-color, 'action-green');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
+  }
+}
+
+.purple {
+  a, button {
+    @include color(background-color, 'action-purple');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
+  }
+}
+
+.gray {
+  a, button {
+    @include color(background-color, 'action-gray');
+
+    &:link, &:visited, &:hover, &:active {
+      @include color(color, 'text-contrast', .9);
+    }
+  }
+}
+

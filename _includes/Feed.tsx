@@ -3,9 +3,8 @@ import { Link } from 'react-router-dom';
 
 import { Page, Website } from 'paramorph/models';
 
-import CategoryList from './CategoryList';
-import TagList from './TagList';
-import { Branch as TocBranch } from './TableOfContents';
+import Tile from 'parrot-layout/Tile';
+import { Branch as TocBranch } from 'includes/TableOfContents';
 
 export interface Props {
   website : Website;
@@ -15,27 +14,15 @@ export interface Props {
 };
 
 export function Feed({ website, page, feed, respectLimit = false, ...props } : Props) {
+  const pages = feed.filter(page => page.feed);
+
   if (respectLimit) {
-    return <TocBranch pages={ feed } shallow { ...props } />;
+    return <TocBranch pages={ pages } shallow { ...props } />;
   }
 
   return (
     <div>
-  { feed.map((page : Page, key : number) => {
-    const Body = page.body;
-
-    return (
-      <article key={ key }>
-        <h1><Link to={ page.url }>{ page.title }</Link></h1>
-        <CategoryList website={ website } page={ page } />
-        <TagList website={ website } page={ page } />
-
-        <Body website={ website } page={ page } respectLimit={ true } />
-
-        <Link to={ page.url }>Read more</Link>
-      </article>
-    );
-  }) }
+      { pages.map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
     </div>
   );
 }

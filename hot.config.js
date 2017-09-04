@@ -34,8 +34,10 @@ module.exports = {
   devtool: config.devtool,
   resolve: config.resolve,
   resolveLoader: config.resolveLoader,
+  externals: config.externals,
 
   module: {
+    noParse: config.module.noParse,
     rules: config.module.rules.map(rule => {
       if (rule.use instanceof Array && rule.use[0] === 'babel-loader') {
         rule.use[0] = HOT_BABEL;

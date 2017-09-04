@@ -1,0 +1,43 @@
+@import '../mixins';
+@import '../breaks';
+@import '../typography';
+
+.crumbs {
+  ul {
+    @extend %invisible-list;
+
+    display: none;
+
+    @include break(700) {
+      display: flex;
+      padding: 1rem 0;
+    }
+    @include break(900) {
+      display: flex;
+      padding: 2rem 0;
+    }
+  }
+
+  li {
+    @include font(text, p, 300, $responsive: false);
+    @include baseline(text, p, $responsive: false);
+
+    &:not(:first-child) {
+      &::before {
+        content: '>';
+        padding: 0 2rem;
+      }
+    }
+  }
+
+  a {
+    &:link, &:visited {
+      text-decoration: none;
+    }
+
+    &:hover, &:active {
+      text-decoration: underline;
+    }
+  }
+}
+

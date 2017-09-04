@@ -1,0 +1,64 @@
+@import './_variables';
+@import './_mixins';
+@import './_breaks';
+
+html {
+  font-size: $sizing-unit;
+}
+
+@function bigger-font-size($font-size) {
+  @return floor($font-size * 10 / 8 / 2) * 2;
+}
+@function bigger-line-height($line-height) {
+  @return floor($line-height * 9 / 7);
+}
+
+@mixin font($name, $size, $weight, $responsive: true) {
+  $font: map-get-strict($fonts, $name);
+  $size: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'size');
+  $family: map-get-strict($font, 'family');
+  $spacing: map-get-strict(map-get-strict($letter-spacing, $name), $size);
+
+  font-family: $family;
+  font-weight: $weight;
+  letter-spacing: $spacing;
+
+  font-size: $size;
+
+  @if $responsive {
+    @include break(900) {
+      font-size: bigger-font-size($size);
+    }
+  }
+}
+
+@mixin baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top) {
+  $cap-height-rem: $cap-height * ($font-size / $sizing-unit);
+  $offset: ($line-height - $cap-height-rem) / 2 + $shift;
+
+  padding-top: $offset + $padding-top;
+  padding-bottom: $line-height - $offset;
+}
+
+@mixin baseline($name, $size, $responsive: true, $shift: 0, $padding-top: 0) {
+  $font: map-get-strict($fonts, $name);
+  $cap-height: map-get-strict($font, 'cap-height');
+  $font-size: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'size');
+  $line-height: map-get-strict(map-get-strict(map-get-strict($font, 'sizes'), $size), 'line-height');
+
+  line-height: $line-height;
+
+  @include baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top);
+
+  @if $responsive {
+    @include break(900) {
+      $font-size: bigger-font-size($font-size);
+      $line-height: bigger-line-height($line-height);
+
+      line-height: $line-height;
+
+      @include baseline-shift($font-size, $cap-height, $line-height, $shift, $padding-top);
+    }
+  }
+}
+

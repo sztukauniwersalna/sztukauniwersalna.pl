@@ -1,0 +1,35 @@
+@import '../_colors.scss';
+
+.logo {
+  display: flex;
+
+  g {
+    @include color(fill, text);
+  }
+
+  :global(.contrast) & {
+    g {
+      @include color(fill, text-contrast);
+    }
+  }
+
+  .letterS {
+    fill: #e70c62;
+  }
+  .letterU {
+    fill: #9f2bd8;
+  }
+  .dot {
+    fill: #2daa3d;
+  }
+}
+
+.small {
+  margin: 2.5rem 2rem;
+  height: 7rem;
+}
+.inline {
+  margin: 2.5rem 3rem 2rem 3rem;
+  height: 5.5rem;
+}
+

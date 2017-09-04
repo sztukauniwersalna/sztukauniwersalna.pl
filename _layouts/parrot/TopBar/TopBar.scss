@@ -1,0 +1,73 @@
+@import '../_breaks';
+@import '../_colors';
+@import '../_mixins';
+
+.topBar {
+  padding: 1rem 0;
+
+  @include break(700, 900) {
+    padding: 3rem 0;
+  }
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.hamburger {
+  display: flex;
+
+  @include break(700, 900) {
+    display: none;
+  }
+
+  button {
+    height: 12rem !important;
+  }
+
+  i {
+    font-size: 7rem;
+    line-height: 12rem;
+    @include color(color, text, .72);
+  }
+}
+
+.inlineLogo {
+  display: none;
+
+  @include break(900) {
+    display: flex;
+  }
+}
+
+.smallLogo {
+  display: flex;
+
+  @include break(900) {
+    display: none;
+  }
+}
+
+.title {
+  display: none;
+}
+
+.topMenu {
+  ul {
+    @extend %invisible-list;
+    margin: 1rem 0;
+  }
+  a {
+    &:hover, &:active {
+      @include color(background, text, .05);
+    }
+  }
+
+  display: none;
+
+  @include break(700, 900) {
+    display: flex;
+  }
+}
+

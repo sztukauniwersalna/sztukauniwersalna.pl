@@ -1,0 +1,38 @@
+
+@function map-get-strict($map, $key) {
+  @if map-has-key($map, $key) {
+    @return map-get($map, $key);
+  } @else {
+    @error "ERROR: Index #{$key} does not exist in the mapping; existing keys: #{map-keys($map)}";
+  }
+}
+
+%invisible-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+
+  li {
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+    &::before {
+      content: '';
+      margin: 0;
+      padding: 0;
+      font-size: inherit;
+      font-weight: inherit;
+      line-height: inherit;
+      text-align: left;
+      vertical-align: inherit;
+      width: auto;
+      height: auto;
+      position: static;
+      opacity: 1;
+    }
+  }
+}
+

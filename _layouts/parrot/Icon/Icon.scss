@@ -1,0 +1,11 @@
+@import '../_colors';
+
+.icon {
+  display: block;
+  width: 6rem;
+
+  path {
+    @include color(fill, 'text-contrast', .9);
+  }
+}
+

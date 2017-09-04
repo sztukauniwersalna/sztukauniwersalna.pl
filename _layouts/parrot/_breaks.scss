@@ -1,0 +1,44 @@
+@import './_variables';
+@import './_mixins';
+
+@function next-break($point) {
+  $next: 0;
+
+  @each $key in map-keys($breaks) {
+    @if $next == 1 {
+      @return $key;
+    }
+    @if $key == $point {
+      $next: 1;
+    }
+  }
+
+  @return '';
+}
+
+@function width-for-query($break) {
+  @return map-get-strict($break, 'width') + map-get-strict($break, 'margin');
+}
+
+@function media-query-for-break($point) {
+  $lowerBound: map-get-strict($breaks, $point);
+  $upperBound: map-get($breaks, next-break($point));
+
+  $query: 'only screen';
+
+  $query: '#{$query} and (min-width: #{width-for-query($lowerBound)})';
+  @if $upperBound {
+    $query: '#{$query} and (max-width: #{width-for-query($upperBound) - 1px})';
+  }
+
+  @return $query;
+}
+
+@mixin break($points...) {
+  @each $point in $points {
+    @media #{media-query-for-break($point)} {
+      @content;
+    }
+  }
+}
+

@@ -5,19 +5,19 @@ collections:
   categories:
     title: Categories
     output: false
-    layout: PostLayout
+    layout: ParrotLayout
   drafts:
     title: Drafts
     output: false
-    layout: DraftLayout
+    layout: ParrotLayout
   pages:
     title: Pages
     output: false
-    layout: PageLayout
+    layout: ParrotLayout
   posts:
     title: Posts
     output: true
-    layout: PostLayout
+    layout: ParrotLayout
   uploads:
     title: Uploads
     output: false
@@ -26,20 +26,20 @@ menu:
 - title: Sztuka Ubioru
   short: Moda
   url: "/sztuka-ubioru"
-  icon: 
+  icon: content_cut
 - title: Sztuka Makijażu
   short: Makijaż
   url: "/sztuka-makijazu"
-  icon: 
+  icon: remove_red_eye
 - title: Sztuka Gotowania
   short: Kuchnia
   url: "/sztuka-gotowania"
-  icon: 
+  icon: restaurant
 - title: Sztuka dla Sztuki
   short: Sztuka
   url: "/sztuka-dla-sztuki"
-  icon: 
+  icon: palette
 - title: Kim jest Olela?
   short: O mnie
   url: "/kim-jest-olela"
-  icon: 
+  icon: mood

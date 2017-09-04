@@ -1,11 +1,12 @@
 ---
-title: Site Map
+title: Mapa Witryny
+permalink: /sitemap
 tags:
-- hello
 - sitemap
+- 'dla bota'
 ---
 
-<div>
+<div className='compact'>
   <TableOfContents {...data} />
 </div>
 

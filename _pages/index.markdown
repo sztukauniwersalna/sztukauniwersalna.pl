@@ -2,17 +2,21 @@
 title: SztukaUniwersalna.PL
 permalink: "/"
 tags:
-- hello
 - index
+- sztuka
+- uniwersalna
+- moda
+- makijaż
+- gotowanie
+- codzienność
+- współczesna
+- abstrakcja
+- inspiracje
 description: Sztuka w codzienności. Aleksandra Krawczyk prezentuje sposoby na odnalezienie
   odrobiny sztuki w codziennych czynnościach takich jak gotowanie, makijaż, oraz moda.
   Sztuka współczesna, sztuka abstrakcyjna, inspiracje dziełami wielkich twórców.
+feed: false
 ---
-
- * Hello?
- * Markdown!
-
-Is is hot?
 
 <div>
   <Feed {...data} feed={ data.website.getCollectionOfTitle('Posts').pages } />
