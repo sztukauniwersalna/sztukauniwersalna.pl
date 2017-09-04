@@ -451,3 +451,30 @@ ol {
   }
 }
 
+hr {
+  border: 0;
+  background: transparent;
+
+  @include color(color, text, .3);
+
+  :global(.contrast) & {
+    @include color(color, text-contrast, .3);
+  }
+
+  &::after {
+    content: '~ ~ ~';
+    display: block;
+    text-align: center;
+
+
+    @include font(text, p, 700);
+    @include baseline(text, p);
+  }
+
+  padding: 7rem 0;
+
+  @include break(900) {
+    padding: 9rem 0;
+  }
+}
+
