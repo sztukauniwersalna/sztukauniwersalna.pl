@@ -55,7 +55,7 @@ body {
   box-sizing: border-box;
 
   padding-top: 14rem;
-  padding-bottom: 3rem;
+  padding-bottom: 14rem;
   min-height: calc(#{100%} - #{152rem});
 
   @include break(500) {
