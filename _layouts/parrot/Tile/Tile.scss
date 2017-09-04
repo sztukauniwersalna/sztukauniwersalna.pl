@@ -3,7 +3,7 @@
 .tags {
   display: none;
 
-  @include break(700, 900) {
+  @include break(500, 700, 900) {
     display: block;
   }
 }
