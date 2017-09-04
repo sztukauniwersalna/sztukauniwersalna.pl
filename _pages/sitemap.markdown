@@ -1,9 +1,9 @@
 ---
 title: Mapa Witryny
-permalink: /sitemap
+permalink: "/sitemap"
 tags:
 - sitemap
-- 'dla bota'
+- dla bota
 ---
 
 <div className='compact'>
