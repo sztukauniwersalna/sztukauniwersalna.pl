@@ -14,13 +14,15 @@ export interface Props {
 };
 
 export function Feed({ website, page, feed, respectLimit = false, ...props } : Props) {
+  const pages = feed.filter(page => page.feed);
+
   if (respectLimit) {
-    return <TocBranch pages={ feed } shallow { ...props } />;
+    return <TocBranch pages={ pages } shallow { ...props } />;
   }
 
   return (
     <div>
-      { feed.map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
+      { pages.map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
     </div>
   );
 }
