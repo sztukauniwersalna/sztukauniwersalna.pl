@@ -3,8 +3,7 @@ import { Link } from 'react-router-dom';
 
 import { Page, Website } from 'paramorph/models';
 
-import Tags from 'parrot-layout/Tags';
-import Button from 'parrot-layout/Button';
+import Tile from 'parrot-layout/Tile';
 import { Branch as TocBranch } from 'includes/TableOfContents';
 
 export interface Props {
@@ -21,20 +20,7 @@ export function Feed({ website, page, feed, respectLimit = false, ...props } : P
 
   return (
     <div>
-  { feed.map((page : Page, key : number) => {
-    const Body = page.body;
-
-    return (
-      <article key={ key }>
-        <h1><Link to={ page.url }>{ page.title }</Link></h1>
-        <Tags website={ website } page={ page } />
-
-        <Body website={ website } page={ page } respectLimit={ true } />
-
-        <Button url={ page.url } variant='raised' color='purple'>Read More</Button>
-      </article>
-    );
-  }) }
+      { feed.map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
     </div>
   );
 }

@@ -1,0 +1,35 @@
+@import '../breaks.scss';
+
+.tags {
+  display: none;
+
+  @include break(700, 900) {
+    display: block;
+  }
+}
+
+.more {
+  padding: 7rem 0 14rem 0;
+
+  @include break(900) {
+    padding: 9rem 0 18rem 0;
+  }
+
+  text-align: center;
+
+  @include break(700, 900) {
+    text-align: left;
+  }
+
+  a {
+    padding: 0 13rem;
+
+    @include break(700) {
+      padding: 0 7rem;
+    }
+    @include break(900) {
+      padding: 0 9rem;
+    }
+  }
+}
+
