@@ -1,6 +1,13 @@
 ---
 title: Sztuka Gotowania
 role: category
+tags:
+- sztuka
+- gotowanie
+- kuchnia
+- dania
+- ciasta
+- inspiracje
 ---
 
 <div>

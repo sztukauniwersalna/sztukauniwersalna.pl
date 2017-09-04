@@ -2,8 +2,8 @@
 title: Mapa Witryny
 permalink: /sitemap
 tags:
-- hello
 - sitemap
+- 'dla bota'
 ---
 
 <div className='compact'>
