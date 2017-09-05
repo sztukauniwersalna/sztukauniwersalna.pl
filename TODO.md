@@ -29,4 +29,5 @@
 1. Analytics integration,
 1. Code spliting,
 1. Generated XML sitemap,
+1. Animations.
 
