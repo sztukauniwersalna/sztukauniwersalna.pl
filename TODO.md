@@ -23,8 +23,10 @@
 1. Main photos in posts,
 1. Tiles on pages with feeds,
 1. Auto-non-breaking-space,
+1. Disquis integration,
 1. Facebook integration,
 1. Instagram integration,
+1. Analytics integration,
 1. Code spliting,
 1. Generated XML sitemap,
 
