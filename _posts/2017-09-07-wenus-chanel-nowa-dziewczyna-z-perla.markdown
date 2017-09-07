@@ -14,6 +14,8 @@ tags:
 - moda
 ---
 
+[!http://payload540.cargocollective.com/1/23/750320/13118106/DSC_0084_2_1000.png][]
+
 <olela-narrative>
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
 </olela-narrative>
@@ -42,7 +44,7 @@ Umówiliśmy się po południu na rogu Park Avenue i 35tej alei. Podobno jest ta
 &mdash; Słucham?<br />
 &mdash; Nic, nic, przepraszam, zamyśliłem się. &mdash; Niewiele myśląc chwyciłem Laure pod kolana i za ramiona i podniosłem do góry.<br />
 &mdash; Hej, co robisz?<br />
-&mdash; Zdejmij też drugiego buta, proszę. W tej sukience i kolczykach wyglądasz genialnie. Nic więcej nie jest Ci potrzebne. Mam zamiar zanieść Cię najpierw do kawiarni, gdzie zamówimy sojowe latte na podwójnym espresso, a później, tam, gdzie tylko zapragniesz. &mdash; Laura obdarzyła mnie spojrzeniem pełnym niedowierzania, aby zaraz głęboko się uśmiechnąć.<br />
+&mdash; Zdejmij też drugiego buta, proszę. W tej sukience i kolczykach wyglądasz genialnie. Nic więcej nie jest Ci potrzebne. Mam zamiar zanieść Cię najpierw do kawiarni, gdzie zamówimy sojowe latte na podwójnym espresso, a później tam, gdzie tylko zapragniesz. &mdash; Laura obdarzyła mnie spojrzeniem pełnym niedowierzania, aby zaraz głęboko się uśmiechnąć.<br />
 &mdash; Zgadzam się, ale pod jednym warunkiem.<br />
 &mdash; Jakim?<br />
 &mdash; Zamówimy espresso.<br />
