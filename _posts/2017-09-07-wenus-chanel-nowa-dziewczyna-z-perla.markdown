@@ -14,7 +14,7 @@ tags:
 - moda
 ---
 
-[!http://payload540.cargocollective.com/1/23/750320/13118106/DSC_0084_2_1000.png][]
+![Zdjęcie przedstawiające rozmazaną twarz kobiety w jasnych kolorach.](http://payload540.cargocollective.com/1/23/750320/13118106/DSC_0084_2_1000.png)
 
 <olela-narrative>
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
