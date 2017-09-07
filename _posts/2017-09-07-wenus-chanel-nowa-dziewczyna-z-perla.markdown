@@ -31,6 +31,10 @@ Nie mogę oderwać wzroku.
 Jeszcze chwila.
 </olela-narrative>
 
+![Zdjęcie przedstawia usta kobiety pomalowane na biało, otoczone perłami.](http://payload540.cargocollective.com/1/23/750320/13118106/DSC_0189_3872.png)
+
+![Zdjęcie przedstawia usta kobiety pomalowane na biało, otoczone perłami.](http://payload540.cargocollective.com/1/23/750320/13118106/DSC_0174_3872.png)
+
 Przemysłowe hodowle pereł, tych w kształcie kuli, to zasługa Japończyków, a właściwie Kokichi Mikimoto – pioniera innowacyjnej metody. Podczas gdy Kokochi eksperymentuje z małżami na swiat przychodzi przyszła, największa fanka cudownych dzieci muszli – COCO CHANEL.
 Praktycznie na każdym archiwalnym zdjęciu Coco (Gabrielle Bonheur Chanel) nosi na sobie perły – nie jeden sznur a sześć. Z czasem, przylegają do jej tożsamości i w połączeniu z małą czarną stają się UNIWERSALNĄ klasyką.
 
