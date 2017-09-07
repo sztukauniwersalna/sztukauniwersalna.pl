@@ -191,7 +191,8 @@ $header-sizes: map-get-strict(map-get-strict($fonts, 'headers'), 'sizes');
   }
 }
 
-p, li, dt, dd, input, textarea {
+p, li, dt, dd, input, textarea, olela-narrative {
+  display: block;
   margin: 0;
 
   @include color(color, text);
@@ -213,18 +214,20 @@ p, li, dt, dd, input, textarea {
 }
 
 blockquote {
-  margin: 0;
   padding: 0 0 4rem 0;
+}
 
-  > p {
-    font-weight: 500;
-    @include color(color, text, .5);
+blockquote p,
+olela-narrative {
+  font-weight: 500;
+  @include color(color, text, .5);
 
-    :global(.contrast) & {
-      @include color(color, text-contrast, .5);
-    }
+  :global(.contrast) & {
+    @include color(color, text-contrast, .5);
   }
+}
 
+blockquote {
   @include break(900) {
     position: relative;
 
