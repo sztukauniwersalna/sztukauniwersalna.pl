@@ -1,5 +1,5 @@
 ---
-title: Wenus. Chanel. Nowa Dziewczyna z Perłą
+title: Wenus vs Chanel, czyli Nowa Dziewczyna z Perłą
 date: 2017-09-07 12:32:00 +02:00
 categories:
 - Sztuka Ubioru
