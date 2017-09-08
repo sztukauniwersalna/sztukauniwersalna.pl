@@ -22,7 +22,8 @@ export function Feed({ website, page, feed, respectLimit = false, ...props } : P
 
   return (
     <div>
-      { pages.map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
+      { pages.sort((a, b) => b.compareTo(a))
+        .map(page => (<Tile key={ page.url } page={ page } website={ website } />)) }
     </div>
   );
 }
