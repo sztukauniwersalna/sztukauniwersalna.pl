@@ -81,6 +81,20 @@ body {
       padding-top: 7rem;
     }
   }
+
+  img {
+    display: block;
+    width: 100vw;
+    margin-left: calc(#{50%} - #{50vw});
+
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+
+    @include break(900) {
+      margin-top: 7rem;
+      margin-bottom: 5rem;
+    }
+  }
 }
 
 .footer {
