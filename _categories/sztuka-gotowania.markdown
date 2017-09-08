@@ -1,5 +1,6 @@
 ---
 title: Sztuka Gotowania
+date: 2017-07-15 22:12:00 +02:00
 tags:
 - sztuka
 - gotowanie
