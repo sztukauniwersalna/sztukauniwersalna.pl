@@ -2,8 +2,6 @@
 title: Kim jest Olela?
 date: 2017-09-08 19:17:00 +02:00
 permalink: "/kim-jest-olela"
-categories:
-- o mnie
 ---
 
 ## Kim jest Olela?
