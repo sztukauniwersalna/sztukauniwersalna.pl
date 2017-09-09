@@ -5,8 +5,11 @@
 .topBar {
   padding: 1rem 0;
 
-  @include break(700, 900) {
+  @include break(700) {
     padding: 3rem 0;
+  }
+  @include break(900) {
+    padding: 4rem 0;
   }
 
   display: flex;
@@ -55,8 +58,9 @@
 
 .topMenu {
   ul {
-    @extend %invisible-list;
-    margin: 1rem 0;
+    @include invisible-list {
+      margin: 1rem 0;
+    }
   }
   a {
     &:hover, &:active {

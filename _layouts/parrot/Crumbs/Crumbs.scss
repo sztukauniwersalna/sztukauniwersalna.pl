@@ -6,18 +6,18 @@
   display: flex;
 
   ul {
-    @extend %invisible-list;
+    @include invisible-list {
+      padding: 1rem 0;
 
-    padding: 1rem 0;
+      @include break(900) {
+        padding: 2rem 0;
+      }
 
-    @include break(900) {
-      padding: 2rem 0;
-    }
+      flex-direction: column;
 
-    flex-direction: column;
-
-    @include break(700, 900) {
-      flex-direction: row;
+      @include break(700, 900) {
+        flex-direction: row;
+      }
     }
   }
 

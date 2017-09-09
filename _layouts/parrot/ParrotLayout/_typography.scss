@@ -146,11 +146,7 @@ button, input[type=submit], input[type=button] {
 ul, ol {
   list-style-type: none;
 
-  padding-left: 6rem;
-
-  @include break(700, 900) {
-    padding-left: 0;
-  }
+  padding-left: 0;
 
   :global(.compact) & {
     @include baseline(text, p, $responsive: false);
@@ -174,13 +170,23 @@ ul, ol {
   }
 }
 
-li {
-  &::before {
-    display: inline-block;
-    text-align: right;
-    vertical-align: top;
-    height: 1rem;
-    width: 7rem;
+ul, ol {
+  li {
+    &::before {
+      display: inline-block;
+      text-align: right;
+      vertical-align: top;
+      height: 1rem;
+      width: 7rem;
+
+      :not(ul) &, :not(ol) & {
+        width: auto;
+
+        @include break(700, 900) {
+          width: 7rem;
+        }
+      }
+    }
   }
 }
 
@@ -209,6 +215,21 @@ ul {
           margin-left: -8rem;
         }
       }
+
+      :not(ul) &, :not(ol) & {
+        margin-left: 0;
+
+        @include break(700) {
+          margin-left: -8rem;
+        }
+        @include break(900) {
+          margin-left: -10rem;
+
+          :global(.compact) & {
+            margin-left: -8rem;
+          }
+        }
+      }
     }
   }
 }
@@ -235,6 +256,21 @@ ol {
           opacity: .9;
           margin-right: 4rem;
           margin-left: -11rem;
+        }
+      }
+
+      :not(ul) &, :not(ol) & {
+        margin-left: 0;
+
+        @include break(700) {
+          margin-left: -11rem;
+        }
+        @include break(900) {
+          margin-left: -13rem;
+
+          :global(.compact) & {
+            margin-left: -11rem;
+          }
         }
       }
     }

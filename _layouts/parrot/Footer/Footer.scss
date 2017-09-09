@@ -27,31 +27,31 @@
     left: 3rem;
   }
 
-  @extend %invisible-list;
-
-  li {
-    margin-right: 5rem;
-  }
-  &:last-child {
-    margin-right: 0;
+  @include invisible-list {
+    li {
+      margin-right: 5rem;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
   }
 }
 
 .categories {
-  @extend %invisible-list;
+  @include invisible-list {
+    flex-direction: column;
 
-  flex-direction: column;
+    @include break(500, 700, 900) {
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+    @include break(700) {
+      padding-right: 40rem;
+    }
 
-  @include break(500, 700, 900) {
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-  @include break(700) {
-    padding-right: 40rem;
-  }
-
-  a, button {
-    margin: 1rem;
+    a, button {
+      margin: 1rem;
+    }
   }
 }
 
