@@ -11,17 +11,17 @@
   align-items: stretch;
   justify-content: stretch;
 
-  min-height: 44rem;
+  height: 44rem;
   max-height: calc(#{100vh} - #{14rem});
 
   @include break(500) {
-    min-height: 90rem;
+    height: 90rem;
   }
   @include break(700) {
-    min-height: 33rem;
+    height: 33rem;
   }
   @include break(900) {
-    min-height: 44rem;
+    height: 44rem;
   }
 
   transition: height 200ms ease-out, min-height 200ms ease-out;
@@ -50,7 +50,8 @@
   align-items: stretch;
   justify-content: space-between;
 
-  .center & {
+  .center &,
+  .fullscreen.bottom & {
     justify-content: center;
 
     @include break(700, 900) {
@@ -67,25 +68,28 @@
   padding: 1rem 0;
   max-width: 100%;
 
-  .center & {
+  .center &,
+  .fullscreen.bottom & {
     justify-content: center;
 
-    width: 68rem;
+    max-width: 68rem;
     padding-left: 0;
     padding-right: 0;
 
     @include break(500) {
-      width: 128rem;
-      padding-left: 8rem;
+      max-width: 128rem;
+      padding-right: 6rem;
     }
+  }
 
+  .center & {
     @include break(700) {
-      width: auto;
+      max-width: initial;
       padding-left: 7rem;
       padding-right: 0;
     }
     @include break(900) {
-      width: auto;
+      max-width: initial;
       padding-left: 14rem;
       padding-right: 6rem;
     }
@@ -93,6 +97,13 @@
 
   .bottom & {
     justify-content: flex-end;
+  }
+
+  .fullscreen.bottom & {
+    @include break(700, 900) {
+      max-width: initial;
+      justify-content: flex-end;
+    }
   }
 }
 
