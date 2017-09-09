@@ -1,13 +1,5 @@
 @import '../breaks.scss';
 
-.tags {
-  display: none;
-
-  @include break(500, 700, 900) {
-    display: block;
-  }
-}
-
 .more {
   padding: 7rem 0 12rem 0;
 
