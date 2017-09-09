@@ -1,7 +1,7 @@
 ---
 title: Uniwersalność Sztuki
 date: 2017-07-15 21:56:00 +02:00
-permalink: "/uniwersalnosc-sztuki"
+permalink: "/2017-07-15-uniwersalnosc-sztuki"
 categories:
 - Sztuka dla Sztuki
 tags:
