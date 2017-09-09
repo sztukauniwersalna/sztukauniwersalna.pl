@@ -1,5 +1,5 @@
 @import './_variables';
-@import './_mixins';
+@import './_utils';
 
 @function next-break($point) {
   $next: 0;

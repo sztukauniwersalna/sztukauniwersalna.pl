@@ -1,23 +1,10 @@
 
-@mixin disable-text-selection {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
-
-%full-width {
-  box-sizing: border-box;
-  width: 100%;
-  padding-left: 4rem;
-  padding-right: 4rem;
-  margin: 0;
-
-  @each $point in map-keys(map-remove($breaks, $fluid...)) {
-    @include break($point) {
-      width: map-get-strict(map-get-strict($breaks, $point), 'width');
-      margin: 0 auto;
-    }
+@function map-get-strict($map, $key) {
+  @if map-has-key($map, $key) {
+    @return map-get($map, $key);
+  } @else {
+    @error "ERROR: Index #{$key} does not exist in the mapping; existing keys: #{map-keys($map)}";
   }
 }
+
 
