@@ -3,18 +3,21 @@
 @import '../typography';
 
 .crumbs {
+  display: flex;
+
   ul {
     @extend %invisible-list;
 
-    display: none;
+    padding: 1rem 0;
 
-    @include break(700) {
-      display: flex;
-      padding: 1rem 0;
-    }
     @include break(900) {
-      display: flex;
       padding: 2rem 0;
+    }
+
+    flex-direction: column;
+
+    @include break(700, 900) {
+      flex-direction: row;
     }
   }
 
@@ -38,6 +41,10 @@
     &:hover, &:active {
       text-decoration: underline;
     }
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
 

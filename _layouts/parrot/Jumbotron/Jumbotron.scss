@@ -11,8 +11,12 @@
   align-items: stretch;
   justify-content: stretch;
 
-  min-height: 2rem;
+  min-height: 44rem;
+  max-height: calc(#{100vh} - #{14rem});
 
+  @include break(500) {
+    min-height: 90rem;
+  }
   @include break(700) {
     min-height: 33rem;
   }
@@ -61,6 +65,7 @@
   display: inline-flex;
   flex-direction: column;
   padding: 1rem 0;
+  max-width: 100%;
 
   .center & {
     justify-content: center;
