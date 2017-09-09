@@ -19,7 +19,7 @@ export function Jumbotron({ children, src, fullscreen = false, align = 'center' 
   return (
     <div className={ `${s.container} ${fullscreen ? s.fullscreen : ''} ${s[align]}` }>
       <div className={ `${s.jumbo} contrast compact strong` }>
-        <div className={ s.text }>
+        <div className={ `${s.text} ${align === 'center' ? 'centered' : ''}` }>
           { children }
         </div>
         { src ? renderImage(src) : null }

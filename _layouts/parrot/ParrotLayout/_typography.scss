@@ -186,6 +186,11 @@ ul, ol {
           width: 7rem;
         }
       }
+      :global(.centered) & {
+        &, :not(ul) &, :not(ol) & {
+          width: 7rem;
+        }
+      }
     }
   }
 }
@@ -230,6 +235,12 @@ ul {
           }
         }
       }
+
+      :global(.centered) & {
+        &, :not(ul) &, :not(ol) & {
+          margin-left: -8rem;
+        }
+      }
     }
   }
 }
@@ -271,6 +282,12 @@ ol {
           :global(.compact) & {
             margin-left: -11rem;
           }
+        }
+      }
+
+      :global(.centered) & {
+        &, :not(ul) &, :not(ol) & {
+          margin-left: -11rem;
         }
       }
     }
@@ -357,14 +374,6 @@ hr {
 
   @include break(900) {
     padding: 9rem 0;
-  }
-}
-
-h2.indexTitle {
-  margin-left: 6rem;
-
-  @include break(700, 900) {
-    margin-left: 0;
   }
 }
 

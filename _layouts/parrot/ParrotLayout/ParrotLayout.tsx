@@ -107,12 +107,14 @@ function jumbotronFor(website : Website, page : Page) {
   if (page.url === '/') {
     return (
       <Jumbotron fullscreen align='center' src={ image }>
-        <h2 className={ s.indexTitle }>uniwer•sal•ny; -na</h2>
-        <ol>
-          <li>«obejmujący całość, dotyczący wszystkiego lub wszystkich»</li>
-          <li>«mający wszechstronne zastosowanie»</li>
-          <li>«mający różne umiejętności»</li>
-        </ol>
+        <div className={ s.indexJumbo }>
+          <h2>uniwer•sal•ny; -na</h2>
+          <ol>
+            <li>«obejmujący całość, dotyczący wszystkiego lub wszystkich»</li>
+            <li>«mający wszechstronne zastosowanie»</li>
+            <li>«mający różne umiejętności»</li>
+          </ol>
+        </div>
       </Jumbotron>
     );
   }
