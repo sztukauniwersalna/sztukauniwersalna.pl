@@ -9,7 +9,7 @@
 
   text-align: center;
 
-  @include break(700, 900) {
+  @include break(500, 700, 900) {
     text-align: left;
   }
 
