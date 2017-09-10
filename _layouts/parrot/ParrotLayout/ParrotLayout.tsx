@@ -41,6 +41,7 @@ export class ParrotLayout extends Component<Props, State> {
     document.body.addEventListener('swipe-left', this.hideMenu);
     document.body.addEventListener('swipe-right', this.showMenu);
     window.scrollTo(0, 0);
+    document.title = `${this.props.page.title} | SztukaUniwersalna.PL`;
   }
   componentWillUnmount() {
     document.body.removeEventListener('swipe-left', this.hideMenu);
