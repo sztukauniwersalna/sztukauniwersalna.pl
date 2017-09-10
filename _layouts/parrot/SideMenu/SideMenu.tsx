@@ -95,7 +95,7 @@ export class SideMenu extends Component<Props, State> {
     if (currentUrl === item.props.url) {
       // just scroll to top and close the menu for already selected item
       return (
-        <li key={ item.props.url }>
+        <li key={ item.props.url } className={ s.current }>
           <a onClick={ () => { window.scrollTo(0, 0); onCloseRequested(); } }>
             <span className={ s.itemIcon }><Icon name={ item.props.icon } /></span>
             <span className={ s.itemTitle }>{ item.props.title }</span>
