@@ -377,11 +377,37 @@ hr {
   }
 }
 
-h2.categoryTitle {
-  margin-bottom: -6rem;
+.tagJumbo {
+  padding-left: 15rem;
 
   @include break(700, 900) {
-    margin-bottom: -8rem;
+    padding-left: 0;
+  }
+
+  h2 {
+    text-transform: uppercase;
+
+    &::before {
+      content: '#';
+      display: inline-block;
+
+      width: 0;
+      height: 1rem;
+
+      vertical-align: top;
+      margin: -3rem 20rem 0 -20rem;
+
+      font-size: 46rem;
+
+      opacity: .1;
+
+      @include break(700, 900) {
+        vertical-align: inherit;
+        margin: 0 5rem 0 -5rem;
+        font-size: inherit;
+        opacity: 1;
+      }
+    }
   }
 }
 
