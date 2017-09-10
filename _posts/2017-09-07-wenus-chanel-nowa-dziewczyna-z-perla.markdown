@@ -1,9 +1,9 @@
 ---
 title: Wenus vs Chanel, czyli_Nowa Dziewczyna z_Perłą
 date: 2017-09-07 12:32:00 +02:00
+permalink: "/2017-09-07-wenus-chanel-nowa-dziewczyna-z-perla"
 categories:
 - Sztuka Ubioru
-permalink: "/2017-09-07-wenus-chanel-nowa-dziewczyna-z-perla"
 tags:
 - chanel
 - perły
@@ -14,8 +14,6 @@ tags:
 - dzieło
 - artysta
 ---
-
-
 
 <olela-narrative>
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
