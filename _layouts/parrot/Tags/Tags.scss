@@ -2,6 +2,10 @@
 @import '../breaks';
 
 ul.tags {
+  max-height: 20rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
   @include invisible-list {
     margin: -5rem 0 5rem -3rem;
 
