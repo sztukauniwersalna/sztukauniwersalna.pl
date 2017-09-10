@@ -7,8 +7,11 @@
 
   ul {
     @include invisible-list {
-      padding: 1rem 0;
+      padding: 3rem 0;
 
+      @include break(700) {
+        padding: 1rem 0;
+      }
       @include break(900) {
         padding: 2rem 0;
       }
