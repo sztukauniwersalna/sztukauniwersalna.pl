@@ -17,7 +17,7 @@ limit: 3
 > Interesowało mnie utrwalanie wszystkich prostych czynności, bo są UNIWERSALNE. Każda z nich,
 > kiedy się na niej skupimy, zatrzymamy na sekundę, staje się dziełem SZTUKI.
 >
-> ~ Natalia Lach-Lachowicz (Natalia LL)
+> ~ Natalia Lach-Lachowicz (Natalia&nbsp;LL)
 
 Od pewnego czasu obserwuje zjawisko nagminnego pojawiania się słów ‘art’, ‘artist’ w nazewnictwie zawodowym. Dziś już nie jesteś tylko makijażystą, jesteś ‘make up artist’ - artystą od makijażu lub makijażowym artystą, chciałoby się przetłumaczyć, lub też jesteś po prostu artystą pracującym w technice ‘makijaż’. Dziś to nie fryzjerzy ścinają i farbują nam włosy lecz ‘styliści fryzur’, artyści od włosów, ‘hair artists’. Od niedawna także Ci styliści od mody przekwalifikowali swoje stanowiska na Fashion ART Directors (dosłownie ci, którzy wyznaczają artystyczny kierunek modzie). Skąd tyle tej sztuki, a raczej mody na sztukę, dlaczego dziś wszyscy nazywamy się artystami i dlaczego jest to tak ważne dla poczucia ‘siebie’ i swojej roli we współczesnym  społeczeństwie?
 
