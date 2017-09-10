@@ -142,6 +142,8 @@ body {
 }
 
 .sideMenu {
+  @include disable-text-selection;
+
   z-index: 1;
   position: fixed;
   top: 0;

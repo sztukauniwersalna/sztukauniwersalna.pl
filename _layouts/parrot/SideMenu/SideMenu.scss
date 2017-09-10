@@ -59,6 +59,7 @@
   }
 
   a {
+    @include disable-text-selection;
     cursor: pointer;
 
     margin: 0;
@@ -117,6 +118,7 @@
 .closeButton {
   align-self: flex-end;
 
+  @include disable-text-selection;
   @include color(background-color, background-menu);
 
   i {
