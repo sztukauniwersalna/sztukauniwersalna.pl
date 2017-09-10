@@ -123,7 +123,7 @@ function jumbotronFor(website : Website, page : Page) {
     return (
       <Jumbotron fullscreen align='bottom'>
         <div className={ s.categoryJumbo }>
-          <h2>{ page.title }</h2>
+          <h2><Link to={ page.url }>{ page.title }</Link></h2>
           <Crumbs responsive website={ website } page={ page } />
         </div>
       </Jumbotron>
@@ -134,7 +134,7 @@ function jumbotronFor(website : Website, page : Page) {
     return (
       <Jumbotron fullscreen align='bottom'>
         <div className={ s.tagJumbo }>
-          <h2>{ (page as Tag).originalTitle }</h2>
+          <h2><Link to={ page.url}>{ (page as Tag).originalTitle }</Link></h2>
           <Crumbs responsive website={ website } page={ page } />
         </div>
       </Jumbotron>
