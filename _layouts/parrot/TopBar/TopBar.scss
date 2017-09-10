@@ -4,14 +4,15 @@
 
 .topBar {
   @include disable-text-selection;
+  @extend %full-width;
 
-  padding: 1rem 0;
+  padding: 1rem 1rem;
 
   @include break(700) {
-    padding: 3rem 0;
+    padding: 3rem 2rem;
   }
   @include break(900) {
-    padding: 4rem 0;
+    padding: 4rem 2rem;
   }
 
   display: flex;
@@ -47,6 +48,7 @@
 }
 
 .smallLogo {
+  padding: 0 1rem;
   display: flex;
 
   @include break(900) {

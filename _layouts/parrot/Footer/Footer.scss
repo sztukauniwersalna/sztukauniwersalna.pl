@@ -4,17 +4,19 @@
 @import '../_mixins';
 
 .footer {
+  @extend %full-width;
+
   position: relative;
-  padding: 16rem 0;
+  padding: 16rem 1rem;
 
   @include break(500) {
-    padding: 18rem 0 10rem 0;
+    padding: 18rem 1rem 10rem 1rem;
   }
   @include break(700) {
-    padding: 18rem 0 16rem 0;
+    padding: 18rem 1rem 16rem 1rem;
   }
   @include break(900) {
-    padding: 14rem 0 12rem 0;
+    padding: 14rem 1rem 12rem 1rem;
   }
 }
 
@@ -24,7 +26,7 @@
   left: 5rem;
 
   @include break(500, 700, 900) {
-    left: 3rem;
+    left: 4rem;
   }
 
   @include invisible-list {
