@@ -23,6 +23,7 @@ export interface Props {
   onCloseRequested : () => void;
   onClosed : () => void;
   children ?: ReactElement<ItemProps>[];
+  currentUrl : string;
 }
 interface State {
   visible : boolean;
@@ -71,9 +72,45 @@ export class SideMenu extends Component<Props, State> {
           </div>
         </div>
         <ul className={ s.content }>
-          { renderItems(children) }
+          { this.renderItems() }
         </ul>
       </aside>
+    );
+  }
+
+  private renderItems() {
+    const { children } = this.props;
+
+    if (!children) {
+      return null;
+    }
+
+    return ([] as ReactElement<ItemProps>[]).concat(children as ReactElement<ItemProps>[])
+      .map(item => this.renderItem(item));
+  }
+
+  private renderItem(item : ReactElement<ItemProps>) {
+    const { currentUrl, onCloseRequested } = this.props;
+
+    if (currentUrl === item.props.url) {
+      // just scroll to top and close the menu for already selected item
+      return (
+        <li key={ item.props.url }>
+          <a onClick={ () => { window.scrollTo(0, 0); onCloseRequested(); } }>
+            <span className={ s.itemIcon }><Icon name={ item.props.icon } /></span>
+            <span className={ s.itemTitle }>{ item.props.title }</span>
+          </a>
+        </li>
+      );
+    }
+
+    return (
+      <li key={ item.props.url }>
+        <Link to={ item.props.url }>
+          <span className={ s.itemIcon }><Icon name={ item.props.icon } /></span>
+          <span className={ s.itemTitle }>{ item.props.title }</span>
+        </Link>
+      </li>
     );
   }
 
@@ -83,22 +120,6 @@ export class SideMenu extends Component<Props, State> {
     }
     this.props.onClosed();
   }
-}
-
-function renderItems(children ?: ReactElement<ItemProps>[]) {
-  if (!children) {
-    return null;
-  }
-
-  return ([] as ReactElement<ItemProps>[]).concat(children)
-    .map(item => (
-      <li key={ item.props.url }>
-        <Link to={ item.props.url }>
-          <span className={ s.itemIcon }><Icon name={ item.props.icon } /></span>
-          <span className={ s.itemTitle }>{ item.props.title }</span>
-        </Link>
-      </li>
-    ));
 }
 
 export default withStyles(s)(SideMenu);

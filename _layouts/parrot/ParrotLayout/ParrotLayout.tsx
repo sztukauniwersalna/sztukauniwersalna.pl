@@ -80,6 +80,7 @@ export class ParrotLayout extends Component<Props, State> {
             visible={ this.state.sideMenuClassName === s.visible }
             onCloseRequested={ () => this.hideMenu() }
             onClosed={ () => this.disableMenu() }
+            currentUrl={ page.url }
           >
           { website.menu.map(entry => (
             <Item key={ entry.url } url={ entry.url } title={ entry.title } icon={ entry.icon } />
