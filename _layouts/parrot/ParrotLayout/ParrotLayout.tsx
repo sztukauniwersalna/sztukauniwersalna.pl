@@ -10,6 +10,7 @@ import Crumbs from 'parrot-layout/Crumbs';
 import Tags from 'parrot-layout/Tags';
 import Footer from 'parrot-layout/Footer';
 import Logo from 'parrot-layout/Logo';
+import Icon from 'parrot-layout/Icon';
 import SideMenu, { Item } from 'parrot-layout/SideMenu';
 import Jumbotron from 'parrot-layout/Jumbotron';
 
@@ -104,7 +105,7 @@ export class ParrotLayout extends Component<Props, State> {
 }
 
 function jumbotronFor(website : Website, page : Page) {
-  if (page.url === '/') {
+    if (page.url === '/') {
     return (
       <Jumbotron fullscreen align='center' src={ image }>
         <div className={ s.indexJumbo }>
@@ -114,6 +115,20 @@ function jumbotronFor(website : Website, page : Page) {
             <li>«mający wszechstronne zastosowanie»</li>
             <li>«mający różne umiejętności»</li>
           </ol>
+        </div>
+      </Jumbotron>
+    );
+  }
+
+  if (website.menuContains(page)) {
+    return (
+      <Jumbotron fullscreen align='bottom'>
+        <div className={ s.menuEntryJumbo }>
+          <h2>
+            <Icon name={ website.getMenuEntry(page).icon } />
+            <Link to={ page.url }>{ page.title }</Link>
+          </h2>
+          <Crumbs responsive website={ website } page={ page } />
         </div>
       </Jumbotron>
     );
