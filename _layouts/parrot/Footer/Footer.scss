@@ -47,8 +47,8 @@
       flex-direction: row;
       flex-wrap: wrap;
     }
-    @include break(700) {
-      padding-right: 40rem;
+    @include break(500, 700) {
+      max-width: 160rem;
     }
 
     a, button {
