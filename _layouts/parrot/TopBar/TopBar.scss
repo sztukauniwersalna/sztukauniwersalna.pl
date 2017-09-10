@@ -3,6 +3,8 @@
 @import '../_mixins';
 
 .topBar {
+  @include disable-text-selection;
+
   padding: 1rem 0;
 
   @include break(700) {

@@ -1,7 +1,10 @@
 @import '../_colors';
 @import '../_typography';
+@import '../_mixins';
 
 .panel {
+  @include disable-text-selection;
+
   position: absolute;
   top: 0;
 
