@@ -48,3 +48,17 @@
   }
 }
 
+.responsive {
+  li {
+    &:not(:first-child) {
+      &, &::before {
+        display: none;
+
+        @include break(700, 900) {
+          display: inline-block;
+        }
+      }
+    }
+  }
+}
+

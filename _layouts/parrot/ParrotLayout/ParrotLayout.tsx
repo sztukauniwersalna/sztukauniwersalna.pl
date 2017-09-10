@@ -122,8 +122,10 @@ function jumbotronFor(website : Website, page : Page) {
   if (page instanceof Category) {
     return (
       <Jumbotron fullscreen align='bottom'>
-        <h2 className={ s.categoryTitle }>{ page.title }</h2>
-        <Crumbs website={ website } page={ page } />
+        <div className={ s.categoryJumbo }>
+          <h2>{ page.title }</h2>
+          <Crumbs responsive website={ website } page={ page } />
+        </div>
       </Jumbotron>
     );
   }
@@ -131,8 +133,10 @@ function jumbotronFor(website : Website, page : Page) {
   if (page instanceof Tag) {
     return (
       <Jumbotron fullscreen align='bottom'>
-        <h2 className={ s.categoryTitle }>{ page.title }</h2>
-        <Crumbs website={ website } page={ page } />
+        <div className={ s.tagJumbo }>
+          <h2>{ (page as Tag).originalTitle }</h2>
+          <Crumbs responsive website={ website } page={ page } />
+        </div>
       </Jumbotron>
     );
   }

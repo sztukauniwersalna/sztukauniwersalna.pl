@@ -9,11 +9,12 @@ const s = require('./Crumbs.scss');
 interface Props {
   website : Website;
   page : Page;
+  responsive ?: boolean;
 }
 
-export function Crumbs({ website, page } : Props) {
+export function Crumbs({ website, page, responsive = false } : Props) {
   return (
-    <div className={ s.crumbs }>
+    <div className={ `${s.crumbs} ${responsive ? s.responsive : ''}` }>
   { page.getCrumbs(website)
     .map((crumbs : Page[], key : number) => (
       <ul key={ key }>
