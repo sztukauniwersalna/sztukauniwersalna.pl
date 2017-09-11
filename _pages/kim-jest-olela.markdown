@@ -30,3 +30,5 @@ Skoro już tyle o mnie wiesz… mam nadzieje, że zostaniesz tu na dłużej. Czy
 
 Pozdrawiam,
 Olela
+
+![Zdjęcie przedstawia młodą, u](https://assets0.ello.co/uploads/asset/attachment/6213399/ello-optimized-c8bf4b66.jpg)
