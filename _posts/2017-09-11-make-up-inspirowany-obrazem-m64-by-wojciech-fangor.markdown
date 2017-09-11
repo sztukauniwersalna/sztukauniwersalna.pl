@@ -15,6 +15,8 @@ tags:
 - sztuka
 ---
 
+![Zdjęcie przedstawia młodą kobietę w makijażu na niebieskim tle, spoglądającą w swoją lewą stronę.](https://assets0.ello.co/uploads/asset/attachment/6212854/ello-optimized-8ec92992.jpg)
+
 <olela-narrative>
 Optyczne majaczenie. Gdzieś uciekam źrenicą, szukam granicy, jednej, ostrej, wyczuwalnej. Nie znajduję niczego, co pozwala zatrzymać wzrok na chwilę. W sumie czuję ból, podobny do tego, który dotyka mnie po wielu godzinach spędzonych przed ekranem komputera. Uciekam wzrokiem, spoglądam w dal. Coś jednak mówi mi ‘spójrz jeszcze’. Dochodzę do wniosku, że owe wzrokowe boleści w pewien sposób fascynują, hipnotyzują, są przyjemne. Ta swoiście masochistyczna postawa materializuje się w obrazach jednego z najznakomitszych malarzy XX wieku, mojego ulubionego – Wojciecha_Fangora.
 </olela-narrative>
