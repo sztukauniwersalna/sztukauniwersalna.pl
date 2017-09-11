@@ -4,14 +4,15 @@ date: 2017-09-11 18:52:00 +02:00
 categories:
 - Sztuka Makijażu
 tags:
-- sztuka
-- artysta
+- fangor
+- makeup
+- makijaż
 - dzieło
 - obraz
 - kreacja
-- inspiracja
-- makijaż
-- makeup
+- artysta
+- art
+- sztuka
 ---
 
 <olela-narrative>
