@@ -31,4 +31,4 @@ Skoro już tyle o mnie wiesz… mam nadzieje, że zostaniesz tu na dłużej. Czy
 Pozdrawiam,
 Olela
 
-![Zdjęcie przedstawia młodą, u](https://assets0.ello.co/uploads/asset/attachment/6213399/ello-optimized-c8bf4b66.jpg)
+![Zdjęcie przedstawia młodą, uśmiechniętą kobietę o szarych włosach, na niebieskim tle. Kobieta wykonuje gest trzymania ręką niebieskiej czapki, nosi kolorową chustkę na szyi i kolczyki.](https://assets0.ello.co/uploads/asset/attachment/6213399/ello-optimized-c8bf4b66.jpg)
