@@ -23,8 +23,8 @@ tags:
 Optyczne majaczenie. Gdzieś uciekam źrenicą, szukam granicy - jedynej, ostrej, wyczuwalnej. Nie znajduję niczego, co pozwala zatrzymać wzrok na chwilę. W sumie czuję ból, podobny do tego, który dotyka mnie po wielu godzinach spędzonych przed ekranem komputera. Uciekam okiem, spoglądam w dal. Coś jednak mówi mi ‘spójrz jeszcze’. Dochodzę do wniosku, że owe wzrokowe boleści w pewien sposób fascynują, hipnotyzują, są przyjemne.
 </olela-narrative>
 
-![Zdjęcie składa się z dwóch zdjęć przedstawiających młodą kobietę, raz z otwartymi oczami, raz z zamkniętymi. Kobieta ma opaskę na czole, makijaż, a za nią znajduje się niebieskie tło.](https://assets1.ello.co/uploads/asset/attachment/6212869/ello-optimized-a7c84043.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu na niebieskim tle, z okrągłym kolczykiem.](https://assets1.ello.co/uploads/asset/attachment/6212859/ello-optimized-14898cf4.jpg)
+![Zdjęcie składa się z dwóch zdjęć przedstawiających młodą kobietę, raz z otwartymi oczami, raz z zamkniętymi. Kobieta ma opaskę na czole, makijaż, a za nią znajduje się niebieskie tło.](https://assets1.ello.co/uploads/asset/attachment/6212869/ello-optimized-a7c84043.jpg)
 
 Ta swoiście masochistyczna postawa materializuje się w obrazach jednego z najznakomitszych malarzy XX wieku, mojego ulubionego – Wojciecha_Fangora. Myślę, że obrazy, z których dziś znamy postać artysty najbardziej (seria OpArtowskich kręgów i fal) miała swój początek wraz z uświadomieniem roli przestrzeni zastanej i kreowanej przez dzieło. 
 
