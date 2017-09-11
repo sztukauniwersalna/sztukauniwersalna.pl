@@ -32,3 +32,4 @@ Pozdrawiam,
 Olela
 
 ![Zdjęcie przedstawia młodą, uśmiechniętą kobietę o szarych włosach, na niebieskim tle. Kobieta wykonuje gest trzymania ręką niebieskiej czapki, nosi kolorową chustkę na szyi i kolczyki.](https://assets0.ello.co/uploads/asset/attachment/6213399/ello-optimized-c8bf4b66.jpg)
+![Zdjęcie podzielone jest na dwie części, część z lewej strony jest zbliżeniem na kobiecy kolczyk w kształcie twarzy. Z prawej strony widzimy połowę twarzy młodej kobiety z siwymi włosami, kolorową chustą i kolczykiem w kształcie twarzy.](https://assets2.ello.co/uploads/asset/attachment/6213404/ello-optimized-adcc0c71.jpg)
