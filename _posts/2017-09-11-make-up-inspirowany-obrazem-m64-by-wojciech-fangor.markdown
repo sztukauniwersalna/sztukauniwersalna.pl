@@ -2,7 +2,7 @@
 title: "Make-up inspirowany obrazem. \nM64 by Wojciech Fangor"
 date: 2017-09-11 18:52:00 +02:00
 categories:
-- Sztuka Makijazu
+- Sztuka Makijażu
 tags:
 - sztuka
 - artysta
