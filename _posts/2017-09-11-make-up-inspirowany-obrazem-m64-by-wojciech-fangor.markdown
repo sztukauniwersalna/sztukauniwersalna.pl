@@ -17,14 +17,14 @@ tags:
 
 ![Zdjęcie przedstawia młodą kobietę w makijażu na niebieskim tle, spoglądającą w swoją lewą stronę.](https://assets0.ello.co/uploads/asset/attachment/6212854/ello-optimized-8ec92992.jpg)
 
-![Zdjęcie przedstawia oczy młodej kobiety w makijażu, na niebieskim tle, patrzące w prawą stronę.](https://assets0.ello.co/uploads/asset/attachment/6212856/ello-optimized-aa292e9b.jpg)
+![Zdjęcie przedstawia oczy młodej kobiety w makijażu, na niebieskim tle, patrzące w prawą stronę.](https://ello-direct-uploads.s3.amazonaws.com/uploads/b99d9d5f-624b-4037-a038-bc015685d27d/ello-bf614c1c-cd7f-49fc-b164-bfebce214195.png)
 
 <olela-narrative>
 Optyczne majaczenie. Gdzieś uciekam źrenicą, szukam granicy - jedynej, ostrej, wyczuwalnej. Nie znajduję niczego, co pozwala zatrzymać wzrok na chwilę. W sumie czuję ból, podobny do tego, który dotyka mnie po wielu godzinach spędzonych przed ekranem komputera. Uciekam okiem, spoglądam w dal. Coś jednak mówi mi ‘spójrz jeszcze’. Dochodzę do wniosku, że owe wzrokowe boleści w pewien sposób fascynują, hipnotyzują, są przyjemne.
 </olela-narrative>
 
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu na niebieskim tle, z okrągłym kolczykiem.](https://assets1.ello.co/uploads/asset/attachment/6212859/ello-optimized-14898cf4.jpg)
-![Zdjęcie składa się z dwóch zdjęć przedstawiających młodą kobietę, raz z otwartymi oczami, raz z zamkniętymi. Kobieta ma opaskę na czole, makijaż, a za nią znajduje się niebieskie tło.](https://assets1.ello.co/uploads/asset/attachment/6212869/ello-optimized-a7c84043.jpg)
+![Zdjęcie składa się z dwóch zdjęć przedstawiających młodą kobietę, raz z otwartymi oczami, raz z zamkniętymi. Kobieta ma opaskę na czole, makijaż, a za nią znajduje się niebieskie tło.](https://ello-direct-uploads.s3.amazonaws.com/uploads/05a40b67-7ea4-43dc-91d2-d9782483a9c3/ello-3043c09e-d230-4e60-9285-2e5b4a739f72.png)
 
 Ta swoiście masochistyczna postawa materializuje się w obrazach jednego z najznakomitszych malarzy XX wieku, mojego ulubionego – Wojciecha_Fangora. Myślę, że obrazy, z których dziś znamy postać artysty najbardziej (seria OpArtowskich kręgów i fal) miała swój początek wraz z uświadomieniem roli przestrzeni zastanej i kreowanej przez dzieło. 
 
@@ -36,4 +36,4 @@ Dziś, przywołując w myślach obrazy i powidoki obrazów Wojciecha_Fangora, po
 
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, do góry nogami, z niebieskim światłem padającym na prawą część twarzy.](https://assets2.ello.co/uploads/asset/attachment/6212890/ello-optimized-b9dcd943.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, twarz przekręcona jest o 45 stopni.](https://assets0.ello.co/uploads/asset/attachment/6212884/ello-optimized-794ded76.jpg)
-![Zdjęcie podzielone jest na sześć części. Cztery z nich przedstawiają oczy młodej kobiety w makijażu w kolorach niebiesko-fioletowych. Jedno z nich jest w całości wypełnione kolorem niebieskim, a jedno z nich przedstawia rozmyte koło w kolorach niebiesko-fioletowych.](https://assets2.ello.co/uploads/asset/attachment/6212877/ello-optimized-9dd5aa1b.jpg)
+![Zdjęcie podzielone jest na sześć części. Cztery z nich przedstawiają oczy młodej kobiety w makijażu w kolorach niebiesko-fioletowych. Jedno z nich jest w całości wypełnione kolorem niebieskim, a jedno z nich przedstawia rozmyte koło w kolorach niebiesko-fioletowych.](https://ello-direct-uploads.s3.amazonaws.com/uploads/6f7a3152-646a-4b2f-8326-9e969fd8f72a/ello-467837ae-2de0-492c-b041-44bfb292e4e1.png)
