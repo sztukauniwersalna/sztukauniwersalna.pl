@@ -36,4 +36,4 @@ Dziś, przywołując w myślach obrazy i powidoki obrazów Wojciecha_Fangora, po
 
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, do góry nogami, z niebieskim światłem padającym na prawą część twarzy.](https://assets2.ello.co/uploads/asset/attachment/6212890/ello-optimized-b9dcd943.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, twarz przekręcona jest o 45 stopni.](https://assets0.ello.co/uploads/asset/attachment/6212884/ello-optimized-794ded76.jpg)
-![Zdjęcie podzielone jest na sześć czę](https://assets2.ello.co/uploads/asset/attachment/6212877/ello-optimized-9dd5aa1b.jpg)
+![Zdjęcie podzielone jest na sześć części. Cztery z nich przedstawiają oczy młodej kobiety w makijażu w kolorach niebiesko-fioletowych. Jedno z nich jest w całości wypełnione kolorem niebieskim, a jedno z nich przedstawia rozmyte koło w kolorach niebiesko-fioletowych.](https://assets2.ello.co/uploads/asset/attachment/6212877/ello-optimized-9dd5aa1b.jpg)
