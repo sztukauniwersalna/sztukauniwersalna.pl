@@ -65,3 +65,5 @@ Umówiliśmy się po południu na rogu Park Avenue i 35tej alei. Podobno jest ta
 ![Czarno-białe zdjęcie przedstawia postać kobiety od tyłu. Kobieta ma włosy spięte w kok i podnosi ręce do góry, jest ubrana w żakiet ozdobiony perłami.](https://assets0.ello.co/uploads/asset/attachment/6202837/ello-optimized-b2d459e4.jpg)
 ![Czarno-białe zdjęcie przedstawia popiersie kobiety w rozpiętym żakiecie ozdobionym perłami, kobieta nosi sznury pereł na szyi.](https://assets0.ello.co/uploads/asset/attachment/6216182/ello-optimized-8951e881.jpg)
 
+naszyjnik: zara / spódnica: reserved / żakiet: bik bok x olela
+
