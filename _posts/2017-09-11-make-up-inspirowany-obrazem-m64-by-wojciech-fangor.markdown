@@ -17,7 +17,7 @@ tags:
 
 ![Zdjęcie przedstawia młodą kobietę w makijażu na niebieskim tle, spoglądającą w swoją lewą stronę.](https://assets0.ello.co/uploads/asset/attachment/6212854/ello-optimized-8ec92992.jpg)
 
-![Zdjęcie przedstawia oczy młodej kobiety w makijażu, na niebieskim tle, patrzące w prawą stronę.](https://assets1.ello.co/uploads/asset/attachment/6213303/ello-optimized-b1f7e367.jpg)
+![Zdjęcie przedstawia oczy młodej kobiety w makijażu, na niebieskim tle, patrzące w prawą stronę.](https://assets1.ello.co/uploads/asset/attachment/6217685/ello-optimized-63cb1526.jpg)
 
 <olela-narrative>
 Optyczne majaczenie. Gdzieś uciekam źrenicą, szukam granicy - jedynej, ostrej, wyczuwalnej. Nie znajduję niczego, co pozwala zatrzymać wzrok na chwilę. W sumie czuję ból, podobny do tego, który dotyka mnie po wielu godzinach spędzonych przed ekranem komputera. Uciekam okiem, spoglądam w dal. Coś jednak mówi mi ‘spójrz jeszcze’. Dochodzę do wniosku, że owe wzrokowe boleści w pewien sposób fascynują, hipnotyzują, są przyjemne.
