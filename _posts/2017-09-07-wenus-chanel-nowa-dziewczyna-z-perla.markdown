@@ -15,8 +15,6 @@ tags:
 - artysta
 ---
 
-![Zdjęcie przedstawia rozmazaną twarz kobiety, odchyloną do tyłu. Kobieta ma usta pomalowane na biało i białe, okrągłe elementy poprzyklejane do twarzy.](https://assets1.ello.co/uploads/asset/attachment/6202792/ello-optimized-110270a6.jpg)
-
 <olela-narrative>
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
 </olela-narrative>
