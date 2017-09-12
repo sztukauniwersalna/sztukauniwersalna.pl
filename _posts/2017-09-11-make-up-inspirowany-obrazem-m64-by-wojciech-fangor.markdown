@@ -35,7 +35,7 @@ Będąc w Krakowie (2012r.) na wystawie pt. ‘Wojciech Fangor. Przestrzeń jako
 Dziś, przywołując w myślach obrazy i powidoki obrazów Wojciecha_Fangora, postanowiłam założyć je na siebie. Za wzór posłużył mi M64. Granat i fiolet, idealnie współgrają ze sobą w załamaniu powieki. 
 
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, do góry nogami, z niebieskim światłem padającym na prawą część twarzy.](https://assets2.ello.co/uploads/asset/attachment/6212890/ello-optimized-b9dcd943.jpg)
-![Zdjęcie przedstawia twarz młodej kobiety w makijażu, twarz przekręcona jest o 45 stopni.](https://assets0.ello.co/uploads/asset/attachment/6212884/ello-optimized-794ded76.jpg)
+![Zdjęcie przedstawia twarz młodej kobiety w makijażu, twarz przekręcona jest o 45 stopni.](https://assets0.ello.co/uploads/asset/attachment/6217691/ello-optimized-91c22814.jpg)
 ![Zdjęcie przedstawia zbliżenie na oko kobiety pomalowane na niebiesko-fioletowo, całość na niebieskim tle.](https://assets3.ello.co/uploads/asset/attachment/6217258/ello-optimized-9b841a4a.jpg)
 ![Zdjęcie przedstawia zbliżenie na oko kobiety, pomalowane na niebiesko-fioletowo.](https://assets1.ello.co/uploads/asset/attachment/6217267/ello-optimized-ccc695a4.jpg)
 ![Zdjęcie przedstawia zbliżenie na rzęsy powieki oka pomalowanej na niebiesko-fioletowo.](https://assets2.ello.co/uploads/asset/attachment/6213422/ello-optimized-b59eb7b9.jpg)
