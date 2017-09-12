@@ -59,3 +59,9 @@ Umówiliśmy się po południu na rogu Park Avenue i 35tej alei. Podobno jest ta
 &mdash; Zamówimy espresso.<br />
 </olela-narrative>
 
+![Czarno-białe zdjęcie przedstawia postać odwróconą tyłem w żakiecie ozdobionym perłami i skórzanej spódnicy zapinanej na zamek. Widać lewą dłoń postaci.](https://assets0.ello.co/uploads/asset/attachment/6202833/ello-optimized-7d07df99.jpg)
+![Czarno-białe zdjęcie przedstawia zbliżenie na żakietozdobiony perłą, zapinany na zamek błyskawiczny. Widać kawałek lewej dłoni postaci.](https://assets2.ello.co/uploads/asset/attachment/6202835/ello-optimized-9d462f06.jpg)
+![Czarno-białe zdjęcie przedstawia zbliżenie na żakietozdobiony perłą, zapinany na zamek błyskawiczny.](https://assets2.ello.co/uploads/asset/attachment/6202836/ello-optimized-8db76be4.jpg)
+![Czarno-białe zdjęcie przedstawia postać kobiety od tyłu. Kobieta ma włosy spięte w kok i podnosi ręce do góry, jest ubrana w żakiet ozdobiony perłami.](https://assets0.ello.co/uploads/asset/attachment/6202837/ello-optimized-b2d459e4.jpg)
+![
+
