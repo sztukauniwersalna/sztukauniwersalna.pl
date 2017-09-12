@@ -15,14 +15,21 @@ tags:
 - artysta
 ---
 
+![Zdjęcie przedstawia rozmazaną twarz kobiety, odchyloną do tyłu. Kobieta ma usta pomalowane na biało i białe, okrągłe elementy poprzyklejane do twarzy.](https://assets1.ello.co/uploads/asset/attachment/6202792/ello-optimized-110270a6.jpg)
+
 <olela-narrative>
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
 </olela-narrative>
+
+![Zdjęcie przedstawia usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets0.ello.co/uploads/asset/attachment/6202795/ello-optimized-dde7fa4a.jpg)
+![Zdjęcie przedstawia zbliżenie na usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets2.ello.co/uploads/asset/attachment/6202797/ello-optimized-4a87971c.jpg)
 
 Co dzieje się wewnątrz małży nie jesteśmy w stanie do końca wyjaśnić. Arystoteles to maleńkie cudo nanotechnologii porównywał do zapłodnienia kroplą oceanu. XV wiek to czas hipotez -perły są jajami małży. XVII – perły powstają w wyniku utwardzenia soków wydzielanych przez muszlę. XIX – i tutaj zbliżamy się do teorii ciała obcego, które małż traktuje jako intruza i odkłada wokół niego perlistą substancję.
 Właściwie, to wszystko może stać się perłą. Wyobraźmy sobie muszle wielkości samochodu – z podobnej przecież wyłoniła się Wenus na obrazie S. Botticellego „Narodziny Wenus”. Tak… Wenus była perłą! Wystarczy spojrzeć na odcień jej skóry, który praktycznie zlewa się z muszlą. Gest prawej dłoni podkreśla niewinność piersi - jakże kształtem swoim perliste! Simonetta Vespucci pozuje idealnie a Botticelli idealnie oddaje piękno boskiej perły – jedynej w swoim rodzaju. Nie ma dwóch takich samych, a kopia nigdy nie dorówna oryginalnemu pięknu.
 
 Pod koniec XVI wieku perły docierają do Europy i… nie wzbudzają większego zainteresowania. Za  to ok. pół roku później holenderski malarz popełnia dzieło uznawane za najwybitniejszy przykład XVII wecznego malarstwa - „Dziewczyna z perłą”, nazywany często Mona Lisą Północy. Kim była owa dziewczyna? Być może jest to kilkunastoletnia wówczas córka J. Vermeera.  Tracy Chevalier (autorka książki „Dziewczyna z Perłą”) interpretuje młodą damę jako służącą, a za jej śladem idzie Peter Webber, reżyser filmu o tym samym tytule.
+
+![Zdjęcie przedstawia portret kobiety z perłami przyczepionymi do twarzy i ust. Kobieta patrzy w swój lewy dolny róg, ma usta pomalowane na biało.](https://assets1.ello.co/uploads/asset/attachment/6216044/ello-optimized-c0bb333d.jpg)
 
 <olela-narrative>
 Twarz dziewczyny z obrazu zastyga na moment z lekko rozchylonymi ustami. Patrząc dłuższą chwilę odnoszę wrażenie jakbym przed chwilą zawołał jej imię, stąd gest skrętu głowy w moim kierunku.
@@ -33,6 +40,8 @@ Jeszcze chwila.
 
 Przemysłowe hodowle pereł, tych w kształcie kuli, to zasługa Japończyków, a właściwie Kokichi Mikimoto – pioniera innowacyjnej metody. Podczas gdy Kokochi eksperymentuje z małżami na swiat przychodzi przyszła, największa fanka cudownych dzieci muszli – COCO CHANEL.
 Praktycznie na każdym archiwalnym zdjęciu Coco (Gabrielle Bonheur Chanel) nosi na sobie perły – nie jeden sznur a sześć. Z czasem, przylegają do jej tożsamości i w połączeniu z małą czarną stają się UNIWERSALNĄ klasyką.
+
+![Zdjęcie przedstawia połowę twarzy kobiety, do której przyczepione są perły, a powieka oka pomalowana jest na biało.](https://assets2.ello.co/uploads/asset/attachment/6216049/ello-optimized-5ee2d384.jpg)
 
 <olela-narrative>
 Umówiliśmy się po południu na rogu Park Avenue i 35tej alei. Podobno jest tam jakaś bardzo fajna wegańska kawiarnia. Nie za bardzo wiedziałem czego się spodziewać. W głębi duszy nie chciałem, żeby było to spotkanie czysto biznesowe. Miałem na sobie sportowo-elegancką kurtkę od Armaniego, spodnie przypominające bryczesy i półbuty, których koloru nie jestem w stanie określić. Zerknąłem na zegarek i zacząłem nieco się niecierpliwić. W momencie, kiedy w mojej głowie pojawiła się myśl, że Laura jednak nie przyjdzie, zauważyłem w oddali kobietę zbliżającą się w moim kierunku szybkim, lekko chwiejnym krokiem.
