@@ -36,6 +36,6 @@ Dziś, przywołując w myślach obrazy i powidoki obrazów Wojciecha_Fangora, po
 
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, do góry nogami, z niebieskim światłem padającym na prawą część twarzy.](https://assets2.ello.co/uploads/asset/attachment/6212890/ello-optimized-b9dcd943.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety w makijażu, twarz przekręcona jest o 45 stopni.](https://assets0.ello.co/uploads/asset/attachment/6212884/ello-optimized-794ded76.jpg)
-![Zdjęcie przedstawia zbliżenie na oko kobiety pomalowane na niebiesko-fioletowo, całość na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/6213419/ello-optimized-80b022af.jpg)
-![Zdjęcie przedstawia zbliżenie na oko kobiety, pomalowane na niebiesko-fioletowo.](https://assets1.ello.co/uploads/asset/attachment/6213421/ello-optimized-d96c4e12.jpg)
+![Zdjęcie przedstawia zbliżenie na oko kobiety pomalowane na niebiesko-fioletowo, całość na niebieskim tle.](https://assets3.ello.co/uploads/asset/attachment/6217258/ello-optimized-9b841a4a.jpg)
+![Zdjęcie przedstawia zbliżenie na oko kobiety, pomalowane na niebiesko-fioletowo.](https://assets1.ello.co/uploads/asset/attachment/6217267/ello-optimized-ccc695a4.jpg)
 ![Zdjęcie przedstawia zbliżenie na rzęsy powieki oka pomalowanej na niebiesko-fioletowo.](https://assets2.ello.co/uploads/asset/attachment/6213422/ello-optimized-b59eb7b9.jpg)
