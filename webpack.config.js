@@ -126,6 +126,9 @@ module.exports = {
         ReactDOM: ReactDOM,
         ReactDOMServer: ReactDOMServer,
         ReactRouterDOM: ReactRouterDOM,
+        DISQUS: {
+          reset: () => undefined,
+        },
       },
       locals: {
         title: 'SztukaUniwersalna.pl',
@@ -133,7 +136,7 @@ module.exports = {
           'https://unpkg.com/react@15/dist/react.js',
           'https://unpkg.com/react-dom@15/dist/react-dom.js',
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
-          '/bundle.js',
+          '/bundle.js'
         ],
         stylesheets: [
           'https://fonts.googleapis.com/icon?family=Material+Icons|Andada|Roboto+Slab:300,400,700&amp;subset=latin-ext'

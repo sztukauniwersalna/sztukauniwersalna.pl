@@ -2,6 +2,7 @@ import * as React from 'react';
 import { Component, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
+import ReactDisqusComments from 'react-disqus-comments';
 
 import { Page, Category, Tag, Website, MenuEntry } from 'paramorph/models';
 
@@ -40,6 +41,7 @@ export class ParrotLayout extends Component<Props, State> {
   componentDidMount() {
     document.body.addEventListener('swipe-left', this.hideMenu);
     document.body.addEventListener('swipe-right', this.showMenu);
+
     window.scrollTo(0, 0);
     document.title = `${this.props.page.title} | SztukaUniwersalna.PL`;
   }
@@ -66,6 +68,7 @@ export class ParrotLayout extends Component<Props, State> {
             <Body website={ website } page={ page } />
           </main>
         </div>
+        { maybeRenderComments(page) }
         <div className={ `${s.footer} contrast` }>
           <Footer website={ website } page={ page } />
 
@@ -174,6 +177,23 @@ function maybeRenderTitle(website : Website, page : Page) {
     <div>
       <h1><Link to={ page.url }>{ page.title }</Link></h1>
       <Tags website={ website } page={ page } />
+    </div>
+  );
+}
+
+function maybeRenderComments(page: Page) {
+  if (page.url === '/' || page instanceof Category || page instanceof Tag) {
+    return null;
+  }
+
+  return (
+    <div className={ s.comments }>
+      <ReactDisqusComments
+        shortname='sztukauniwersalna'
+        identifier={ page.title }
+        title={ page.title }
+        url={ `http://sztukauniwersalna.pl${page.url}` }
+      />
     </div>
   );
 }

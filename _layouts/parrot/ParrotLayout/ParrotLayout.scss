@@ -92,12 +92,30 @@ body {
     width: 100vw;
     margin-left: calc(#{50%} - #{50vw});
 
-    margin-top: 5rem;
-    margin-bottom: 3rem;
+    margin-top: 5.2rem;
+    margin-bottom: 2.8rem;
 
     @include break(900) {
-      margin-top: 7rem;
-      margin-bottom: 5rem;
+      margin-top: 7.2rem;
+      margin-bottom: 4.8rem;
+    }
+  }
+}
+
+.comments {
+  @include color(background-color, 'background-comments');
+
+  > div {
+    @extend %full-width;
+
+    margin-top: -14rem;
+
+    padding-top: 14rem;
+    padding-bottom: 7rem;
+
+    @include break(900) {
+      padding-top: 18rem;
+      padding-bottom: 9rem;
     }
   }
 }
