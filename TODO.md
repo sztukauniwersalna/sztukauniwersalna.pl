@@ -23,7 +23,7 @@
 1. Social buttons in jumbotron,
 1. Main photos in posts,
 1. Auto-non-breaking-space,
-1. Disquis integration,
+1. ~Disqus integration~,
 1. Facebook integration,
 1. Instagram integration,
 1. Analytics integration,
