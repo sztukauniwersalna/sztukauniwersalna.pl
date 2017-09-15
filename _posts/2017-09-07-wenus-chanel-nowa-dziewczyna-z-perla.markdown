@@ -19,8 +19,8 @@ tags:
 Jestem tym, który delikatnie, z wielką precyzją i odwagą wsuwa maleńkie ziarnko piasku pomiędzy twarde uszy muszli. Jestem tym cierpliwym, który czeka wiele lat zanim jego dotyk urzeczywistni się w postaci nieśmiertelnego piękna. Jestem stwórcą, kreatorem nowej rzeczywistości w akcie nieznanym.
 </olela-narrative>
 
-![Zdjęcie przedstawia usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets0.ello.co/uploads/asset/attachment/6202795/ello-optimized-dde7fa4a.jpg)
-![Zdjęcie przedstawia zbliżenie na usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets2.ello.co/uploads/asset/attachment/6202797/ello-optimized-4a87971c.jpg)
+![Zdjęcie przedstawia zbliżenie na usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets0.ello.co/uploads/asset/attachment/6229492/ello-optimized-56e3e021.jpg)
+![Zdjęcie przedstawia usta kobiety, pomalowane na biało z perłami przyczepionymi do dolnej wargi i twarzy kobiety.](https://assets0.ello.co/uploads/asset/attachment/6229495/ello-optimized-01fb3dca.jpg)
 
 Co dzieje się wewnątrz małży nie jesteśmy w stanie do końca wyjaśnić. Arystoteles to maleńkie cudo nanotechnologii porównywał do zapłodnienia kroplą oceanu. XV wiek to czas hipotez -perły są jajami małży. XVII – perły powstają w wyniku utwardzenia soków wydzielanych przez muszlę. XIX – i tutaj zbliżamy się do teorii ciała obcego, które małż traktuje jako intruza i odkłada wokół niego perlistą substancję.
 Właściwie, to wszystko może stać się perłą. Wyobraźmy sobie muszle wielkości samochodu – z podobnej przecież wyłoniła się Wenus na obrazie S. Botticellego „Narodziny Wenus”. Tak… Wenus była perłą! Wystarczy spojrzeć na odcień jej skóry, który praktycznie zlewa się z muszlą. Gest prawej dłoni podkreśla niewinność piersi - jakże kształtem swoim perliste! Simonetta Vespucci pozuje idealnie a Botticelli idealnie oddaje piękno boskiej perły – jedynej w swoim rodzaju. Nie ma dwóch takich samych, a kopia nigdy nie dorówna oryginalnemu pięknu.
