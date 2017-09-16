@@ -1,7 +1,7 @@
 ---
 title: |-
-  Smaki Jesieni vol. 1
-  Sałatka z białej rzepy i rzodkiewki.
+  Smaki_Jesieni_vol._1
+  Sałatka z białej rzepy_i_rzodkiewki.
 date: 2017-09-16 18:51:00 +02:00
 categories:
 - Sztuka Gotowania
@@ -41,4 +41,4 @@ Przygotowanie:
 
 Brokuł gotuję w osolonej wodzie. Na suchej patelni prażę płatki migdałów, a później mielę na puder. Rzepę i rzodkiew kroję w drobne plasterki. Mleczko kokosowe redukuje przez chwilę na patelni. Ugotowanego brokuła blenduję na purée, doprawiam solą i pieprzem, a kolendrę miksuję razem z oliwą. Na talerz wylewam mleko kokosowe, w głowie wspominając wielkiego mistrza taszyzmu – Jackson'a Pollock'a. Układam rzepę i rzodkiew – tutaj wspomnienia nabierają geometrii Kandinsky’ego. Z boku nakładam odrobinę brokułowego purée, a całość dekoruję pudrem z migdałów, kolendrową oliwą i listkami kolendry. Takie proste, a takie pyszne! Smacznego!
 
-![[Zdjęcie przedstawia zbliżenie na ciemny talerz na jasnym tle. Na talerzu znajdują się warzywa, biały sos, zioła.](https://assets1.ello.co/uploads/asset/attachment/6234895/ello-optimized-24cdaed7.jpg)
+![Zdjęcie przedstawia zbliżenie na ciemny talerz na jasnym tle. Na talerzu znajdują się warzywa, biały sos, zioła.](https://assets1.ello.co/uploads/asset/attachment/6234895/ello-optimized-24cdaed7.jpg)
