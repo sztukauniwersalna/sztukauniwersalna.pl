@@ -3,11 +3,12 @@ title: |-
   Smaki_Jesieni_vol._1
   Sałatka z białej rzepy_i_rzodkiewki.
 date: 2017-09-16 18:51:00 +02:00
+permalink: "/sztuka-gotowania"
 categories:
 - Sztuka Gotowania
 tags:
 - smak
-- jesieni
+- jesień
 - przystawka
 - sałatka
 - sztuka
@@ -27,14 +28,14 @@ W ręce wpadł mi stary numer KukBuk’a (marzec/kwiecień 2015). Pamiętam, że
 <olela-narrative>
 Składniki:
 
-biała rzepa
-rzodkiewka (ok 3 sztuki)
-brokuł
-mleczko kokosowe (ok 4 łyżki)
-migdały w płatkach (garść)
-kolendra świeża (garść)
-oliwa z wytłoczyn z oliwek (ok 3 łyżki)
-pieprz i sól do smaku
+* biała rzepa
+* rzodkiewka (ok 3 sztuki)
+* brokuł
+* mleczko kokosowe (ok 4 łyżki)
+* migdały w płatkach (garść)
+* kolendra świeża (garść)
+* oliwa z wytłoczyn z oliwek (ok 3 łyżki)
+* pieprz i sól do smaku
 </olela-narrative>
 
 Przygotowanie:
