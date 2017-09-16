@@ -1,7 +1,7 @@
 ---
 title: |-
   Smaki Jesieni vol. 1
-  Sałatka z białej rzepy i rzodkiewki z_mlekiem kokosowym, purée brokułowym i pudrem z migdałów.
+  Sałatka z białej rzepy i rzodkiewki.
 date: 2017-09-16 18:51:00 +02:00
 categories:
 - Sztuka Gotowania
