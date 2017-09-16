@@ -17,7 +17,9 @@ tags:
 - kompozycja
 ---
 
+<olela-narrative>
 Jesień to czas, kiedy z lekkich letnich sałatek zaczynami przerzucać się na dania rozgrzewające. W końcu zima zbliża się wielkimi krokami. Imbir, chilli, kardamon – to zdecydowanie moje zimowe aromaty. A jesień? Zamyśliłam się chwile nad smakiem jesieni. Chciałam zrobić coś lekkiego, jednocześnie odchodząc od ogórkowych, orzeźwiających smaków lata, a nie dochodząc do ciężkich aromatów zimy.
+</olela-narrative>
 
 W ręce wpadł mi stary numer KukBuk’a (marzec/kwiecień 2015). Pamiętam, że jeszcze wtedy pracowałam w pewnej krakowskiej restauracji gotując wegańskie zupy. Zainspirowana przepisem Piotra Markowskiego dochodzę do wniosku, że jesień to dla mnie rzodkiewka – lekkie warzywo, ale o ostrym posmaku, brokuł, kalafior, cukinia, jabłka, no i oczywiście dynia. Dziś wyczarowałam jesienną przystawkę. Przepis znajdziecie poniżej.
 
