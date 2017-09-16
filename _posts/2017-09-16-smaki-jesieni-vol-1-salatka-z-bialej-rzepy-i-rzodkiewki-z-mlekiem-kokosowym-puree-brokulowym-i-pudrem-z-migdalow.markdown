@@ -1,7 +1,5 @@
 ---
-title: |-
-  Smaki_Jesieni_vol._1
-  Sałatka z białej rzepy_i_rzodkiewki.
+title: Smaki_Jesieni_vol._1. Sałatka z białej rzepy_i_rzodkiewki.
 date: 2017-09-16 18:51:00 +02:00
 permalink: "/sztuka-gotowania"
 categories:
