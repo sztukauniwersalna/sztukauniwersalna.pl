@@ -25,7 +25,7 @@ W ręce wpadł mi stary numer KukBuk’a (marzec/kwiecień 2015). Pamiętam, że
 
 ![Zdjęcie przedstawia ciemny talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajdują się warzywa, biały sos, zioła.](https://assets2.ello.co/uploads/asset/attachment/6234887/ello-optimized-033c3643.jpg)
 
-
+<olela-narrative>
 Składniki:
 
 * biała rzepa
@@ -37,6 +37,7 @@ Składniki:
 * oliwa z wytłoczyn z oliwek (ok 3 łyżki)
 * pieprz i sól do smaku
 
+</olela-narrative>
 
 Przygotowanie:
 
