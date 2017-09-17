@@ -23,12 +23,12 @@ Pomyśl przez chwilę o swoim ulubionym artyście. Może fascynują Cię kompozy
     <Ingredient title='koncentrat pomidorowy' quantity='2 łyżeczki' />
     <Ingredient title='czosnek' quantity='3 ząbki' />
     <Ingredient title='goździki' quantity='3 sztuki' />
-    <Ingredient title='papryka słodka mielona' quantity='1 łyżka' />
+    <Ingredient title='papryka słodka mielona' quantity='1 łyżka'/>
     <Ingredient title='świeża kolendra do przyozdobienia' />
     <Ingredient title='pieprz i sól do smaku' />
     <Ingredient title='ryż basmati' quantity='250 g' />
     <Ingredient title='daktyle suszone' quantity='garść' />
-    <Ingredient title='kurkuma lub przyprawa curry' quantity='ok jedna łyżka' 
+    <Ingredient title='kurkuma lub przyprawa curry' quantity='ok jedna łyżka' />
     <Method>
       Cebulę kroję w drobną kostkę, siekam 2 ząbki czosnku i wrzucam wszystko do garnka na rozgrzany olej. Dorzucam 3 goździki. Kiedy całość się podsmaża kroję w kostkę cukinię i jabłka. W osobnym garnku, w osolonej wodzie gotuję ryż. Cukinie dorzucam do cebuli, zasypuję solą i przykrywam. Duszę tak ok. 10min, po czym dodaję łyżkę słodkiej papryki i zostawiam jeszcze na chwilę. Kiedy ryż się ugotuję, odsączam go i dorzucam posiekane daktyle i ok. 2 łyżki kurkumy (lub przyprawy curry) i mieszam dokładnie (można dodać odrobinę oliwy). Do podduszonej cukinii wlewam pomidory i koncentrat, oraz dorzucam jabłka. Zostawiam całość na małym ogniu pod przykryciem na ok 10-15 min. Na sam koniec wyciskam jeszcze ząbek czosnku i doprawiam solą i pieprzem według uznania (można dodać też trochę pieprzu cayenne dla ostrości). Gotowe. 
     </Method>
