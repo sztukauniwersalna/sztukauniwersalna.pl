@@ -13,7 +13,7 @@ $header-sizes: map-get-strict(map-get-strict($fonts, 'headers'), 'sizes');
     @include color(color, text, .7);
 
     :global(.contrast) & {
-      @include color(color, text-contrast, .7);
+      @include color(color, text-contrast, .9);
     }
 
     @include font(headers, $tag, 400);
@@ -41,7 +41,7 @@ $header-sizes: map-get-strict(map-get-strict($fonts, 'headers'), 'sizes');
   }
 }
 
-p, li, dt, dd, input, textarea, olela-narrative {
+p, li, dt, dd, input, textarea, olela-narrative, img {
   display: block;
   margin: 0;
 

@@ -88,29 +88,22 @@ body {
   }
 
   img {
-    display: block;
-    width: 100vw;
-    margin-left: calc(#{50%} - #{50vw});
+    @extend %vw100;
 
-    margin-top: 5.2rem;
-    margin-bottom: 2.8rem;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
 
     @include break(900) {
-      margin-top: 7.2rem;
-      margin-bottom: 4.8rem;
+      margin-top: 8rem;
+      margin-bottom: 5rem;
     }
   }
 
   :global(.content) {
     p:first-child {
       img:first-child {
-        margin-top: -.8rem;
-        margin-bottom: .8rem;
-      }
-    }
-    p:last-child {
-      img:last-child {
-        margin-bottom: -6.8rem;
+        margin-top: -3rem;
+        margin-bottom: 3rem;
       }
     }
   }

@@ -1,0 +1,72 @@
+@import '../typography';
+@import '../colors';
+@import '../breaks';
+@import '../mixins';
+
+.recipe {
+  margin-top: 4rem;
+
+  @include break(900) {
+    margin-top: 7rem;
+  }
+
+  @extend %vw100;
+
+  @include color(background-color, 'background-contrast');
+}
+
+.header,
+.details {
+  @extend %full-width;
+}
+
+.header {
+  padding-top: 7rem;
+
+  @include break(900) {
+    padding-top: 9rem;
+  }
+
+  ul {
+    @include invisible-list {
+      margin-top: -7rem;
+      margin-bottom: -1rem;
+      flex-wrap: nowrap;
+
+      @include baseline(text, p);
+
+      li {
+        @include font(text, p, 500);
+        white-space: nowrap;
+
+        padding-right: 2rem;
+
+        @include break(500, 700, 900) {
+          padding-right: 4rem;
+        }
+      }
+      i {
+        margin-right: 1rem;
+
+        @include break(500, 700, 900) {
+          margin-right: 2rem;
+        }
+
+        font-size: 27px;
+
+        @include break(900) {
+          font-size: 33px;
+        }
+      }
+    }
+  }
+}
+
+.details {
+  padding-bottom: 7rem;
+
+  @include break(900) {
+    padding-bottom: 9rem;
+  }
+}
+
