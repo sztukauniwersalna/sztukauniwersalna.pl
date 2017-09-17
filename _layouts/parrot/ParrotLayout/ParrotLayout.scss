@@ -115,15 +115,19 @@ body {
   > div {
     @extend %full-width;
 
-    margin-top: -14rem;
-
     padding-top: 14rem;
-    padding-bottom: 7rem;
+    padding-bottom: 16rem;
 
     @include break(900) {
-      padding-top: 18rem;
-      padding-bottom: 9rem;
+      padding-top: 16rem;
+      padding-bottom: 20rem;
     }
+  }
+
+  #disqus_thread {
+    @include font(text, p, 400);
+    @include baseline(text, p);
+    @include color(color, 'text');
   }
 }
 
