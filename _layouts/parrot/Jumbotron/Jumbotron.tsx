@@ -18,7 +18,7 @@ export interface Props {
 export function Jumbotron({ children, src, fullscreen = false, align = 'center' } : Props) {
   return (
     <div className={ `${s.container} ${fullscreen ? s.fullscreen : ''} ${s[align]}` }>
-      <div className={ `${s.jumbo} contrast compact strong` }>
+      <div className={ `${s.jumbo} contrast compact non-responsive strong` }>
         <div className={ `${s.text} ${align === 'center' ? 'centered' : ''}` }>
           { children }
         </div>

@@ -53,7 +53,7 @@ p, li, dt, dd, input, textarea, olela-narrative, img {
     @include color(color, text-contrast);
   }
 
-  :global(.compact) & {
+  :global(.non-responsive) & {
     @include font(text, p, 300, $responsive: false);
     @include baseline(text, p, $responsive: false);
   }
@@ -149,12 +149,17 @@ ul, ol {
   padding-left: 0;
 
   :global(.compact) & {
-    @include baseline(text, p, $responsive: false);
 
     ul, ol, li {
       padding-top: 0;
       padding-bottom: 0;
     }
+  }
+
+  @include baseline(text, p);
+
+  :global(.non-reponsive) & {
+    @include baseline(text, p, $responsive: false);
   }
 
   ul, ol {
@@ -163,7 +168,7 @@ ul, ol {
     @include break(900) {
       padding-left: 8rem;
 
-      :global(.compact) & {
+      :global(.non-responsive) & {
         padding-left: 6rem;
       }
     }
@@ -211,7 +216,7 @@ ul {
         margin-left: -10rem;
       }
 
-      :global(.compact) & {
+      :global(.non-responsive) & {
         @include font(text, bullet, 400, $responsive: false);
 
         @include break(900) {
@@ -230,7 +235,7 @@ ul {
         @include break(900) {
           margin-left: -10rem;
 
-          :global(.compact) & {
+          :global(.non-responsive) & {
             margin-left: -8rem;
           }
         }
@@ -260,7 +265,7 @@ ol {
         margin-left: -13rem;
       }
 
-      :global(.compact) & {
+      :global(.non-responsive) & {
         @include font(headers, bullet, 400, $responsive: false);
 
         @include break(900) {
@@ -279,7 +284,7 @@ ol {
         @include break(900) {
           margin-left: -13rem;
 
-          :global(.compact) & {
+          :global(.non-responsive) & {
             margin-left: -11rem;
           }
         }
