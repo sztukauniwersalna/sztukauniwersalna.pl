@@ -28,7 +28,9 @@ module.exports = {
   }),
 
   output: Object.assign(config.output, {
-    publicPath: '/',
+    chunkFilename: '[id].bundle.js',
+    filename: '[name].bundle.js',
+    path: path.resolve(__dirname, './build'),
   }),
 
   devtool: config.devtool,
@@ -56,7 +58,7 @@ module.exports = {
         paths: plugin.paths,
         globals: plugin.globals,
         locals: Object.assign({}, plugin.locals, {
-          scripts: plugin.locals.scripts.concat([ '/hot-bootstrap.js' ]),
+          scripts: plugin.locals.scripts.concat([ 'hot-bootstrap' ]),
         }),
       });
     }

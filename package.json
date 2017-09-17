@@ -7,7 +7,7 @@
   "scripts": {
     "webpack": "webpack --progress --colors",
     "dev": "webpack-dev-server --progress --colors --inline --config ./hot.config.js",
-    "build": "npm run webpack",
+    "build": "rm -rf ./build && npm run webpack",
     "start": "npm run dev",
     "deploy": "./deploy.sh master https://github.com/sztukauniwersalna/sztukauniwersalna.github.io.git"
   },
@@ -62,7 +62,7 @@
     "typescript": "^2.3.2",
     "url-loader": "^0.5.9",
     "val-loader": "^1.0.2",
-    "webpack": "^3.0.0",
+    "webpack": "^3.6.0",
     "webpack-dev-server": "^2.4.5",
     "yml-loader": "^2.0.1"
   },

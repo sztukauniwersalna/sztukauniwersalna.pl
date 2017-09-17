@@ -1,5 +1,6 @@
 const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
+
 const { JSDOM } = require('jsdom');
 
 const React = require('react');
@@ -9,19 +10,19 @@ const ReactRouterDOM = require('react-router-dom');
 
 module.exports = {
 	entry: {
-    bundle: [
+    entry: [
       'paramorph/entry.ts',
     ],
   },
 
   output: {
-    filename: '[name].js',
+    chunkFilename: '[id]-[contenthash].bundle.js',
+    filename: '[name]-[hash].bundle.js',
     path: path.resolve(__dirname, './build'),
     libraryTarget: 'umd',
   },
 
   target: 'web',
-  devtool: 'source-map',
 
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.json', '.yml', '.yaml', '.markdown', '.scss'],
@@ -111,14 +112,27 @@ module.exports = {
 
   plugins: [
     new StaticSiteGeneratorPlugin({
-  		entry: 'bundle.js',
-
 			crawl: true,
 
       paths: [
         '/',
         '/404',
       ],
+
+      locals: {
+        title: 'SztukaUniwersalna.pl',
+        scripts: [
+          'entry',
+        ],
+        externalScripts: [
+          'https://unpkg.com/react@15/dist/react.js',
+          'https://unpkg.com/react-dom@15/dist/react-dom.js',
+          'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
+        ],
+        externalStylesheets: [
+          'https://fonts.googleapis.com/icon?family=Material+Icons|Andada|Roboto+Slab:300,400,700&amp;subset=latin-ext'
+        ],
+      },
 
       globals: {
         self: new JSDOM().window,
@@ -129,18 +143,6 @@ module.exports = {
         DISQUS: {
           reset: () => undefined,
         },
-      },
-      locals: {
-        title: 'SztukaUniwersalna.pl',
-        scripts: [
-          'https://unpkg.com/react@15/dist/react.js',
-          'https://unpkg.com/react-dom@15/dist/react-dom.js',
-          'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
-          '/bundle.js'
-        ],
-        stylesheets: [
-          'https://fonts.googleapis.com/icon?family=Material+Icons|Andada|Roboto+Slab:300,400,700&amp;subset=latin-ext'
-        ],
       },
     }),
   ],
