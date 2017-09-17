@@ -16,7 +16,7 @@ Pomyśl przez chwilę o swoim ulubionym artyście. Może fascynują Cię kompozy
     photo='https://assets1.ello.co/uploads/asset/attachment/6238659/ello-optimized-5191cd73.jpg'
     altText='Zdjęcie przedstawia seledynowy talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajdują się warzywa, czerwony sos, biały sos, żółty ryż, zioła, orzechy.'
   >
-    <Ingredient title='cukinia' quantity='1 ' />
+    <Ingredient title='cukinia' quantity='1  ' />
     <Ingredient title='rzodkiewka' quantity='ok 3 sztuki' />
     <Ingredient title='brokuł' />
     <Ingredient title='mleczko kokosowe' quantity='ok 4 łyżki' />
