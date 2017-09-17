@@ -13,6 +13,10 @@ tags:
 - artysta
 - kreacja
 - kompozycja
+- smak
+- jesień
+- kucharz
+- talerz
 ---
 
 <olela-narrative>
