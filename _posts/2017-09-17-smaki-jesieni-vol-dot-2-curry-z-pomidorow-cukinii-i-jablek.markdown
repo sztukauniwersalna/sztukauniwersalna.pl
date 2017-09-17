@@ -16,13 +16,15 @@ Pomyśl przez chwilę o swoim ulubionym artyście. Może fascynują Cię kompozy
     photo='https://assets1.ello.co/uploads/asset/attachment/6238659/ello-optimized-5191cd73.jpg'
     altText='Zdjęcie przedstawia seledynowy talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajdują się warzywa, czerwony sos, biały sos, żółty ryż, zioła, orzechy.'
   >
-    <Ingredient title='cukinia' quantity='1  ' />
-    <Ingredient title='rzodkiewka' quantity='ok 3 sztuki' />
-    <Ingredient title='brokuł' />
-    <Ingredient title='mleczko kokosowe' quantity='ok 4 łyżki' />
-    <Ingredient title='migdały w płatkach' quantity='garść' />
-    <Ingredient title='kolendra świeża' quantity='garść' />
-    <Ingredient title='oliwa z wytłoczyn z oliwek' quantity='ok 3 łyżki' />
+    <Ingredient title='cukinia' quantity='1 średnia ' />
+    <Ingredient title='jabłko' quantity='1 średnie' />
+    <Ingredient title='cebula' quantity='2 średnie' />
+    <Ingredient title='pomidory krojone' quantity='1 puszka' />
+    <Ingredient title='koncentrat pomidorowy' quantity='2 łyżeczki' />
+    <Ingredient title='czosnek' quantity='3 ząbki' />
+    <Ingredient title='goździki' quantity='3 sztuki' />
+    <Ingredient title='papryka słodka mielona' quantity='1 łyżka' />
+    <Ingredient title='' />
     <Ingredient title='pieprz i sól do smaku' />
     <Method>
       Brokuł gotuję w osolonej wodzie. Na suchej patelni prażę płatki migdałów,
