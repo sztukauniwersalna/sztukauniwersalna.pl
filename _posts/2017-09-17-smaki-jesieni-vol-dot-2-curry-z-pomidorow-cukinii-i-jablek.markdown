@@ -18,24 +18,19 @@ Pomyśl przez chwilę o swoim ulubionym artyście. Może fascynują Cię kompozy
   >
     <Ingredient title='cukinia' quantity='1 średnia ' />
     <Ingredient title='jabłko' quantity='1 średnie' />
-    <Ingredient title='cebula' quantity='2 średnie' />
+    <Ingredient title='cebula czerwona' quantity='2 średnie' />
     <Ingredient title='pomidory krojone' quantity='1 puszka' />
     <Ingredient title='koncentrat pomidorowy' quantity='2 łyżeczki' />
     <Ingredient title='czosnek' quantity='3 ząbki' />
     <Ingredient title='goździki' quantity='3 sztuki' />
     <Ingredient title='papryka słodka mielona' quantity='1 łyżka' />
-    <Ingredient title='' />
+    <Ingredient title='świeża kolendra do przyozdobienia' />
     <Ingredient title='pieprz i sól do smaku' />
+    <Ingredient title='ryż basmati' quantity='250 g' />
+    <Ingredient title='daktyle suszone' quantity='garść' />
+    <Ingredient title='kurkuma lub przyprawa curry' quantity='ok jedna łyżka' 
     <Method>
-      Brokuł gotuję w osolonej wodzie. Na suchej patelni prażę płatki migdałów,
-      a później mielę na puder. Rzepę i rzodkiew kroję w drobne plasterki.
-      Mleczko kokosowe redukuje przez chwilę na patelni.
-      Ugotowanego brokuła blenduję na purée, doprawiam solą i pieprzem,
-      a kolendrę miksuję razem z oliwą. Na talerz wylewam mleko kokosowe,
-      w głowie wspominając wielkiego mistrza taszyzmu – Jackson'a Pollock'a.
-      Układam rzepę i rzodkiew – tutaj wspomnienia nabierają geometrii Kandinsky’ego.
-      Z boku nakładam odrobinę brokułowego purée, a całość dekoruję pudrem z migdałów,
-      kolendrową oliwą i listkami kolendry. Takie proste, a takie pyszne! Smacznego!
+      Cebulę kroję w drobną kostkę, siekam 2 ząbki czosnku i wrzucam wszystko do garnka na rozgrzany olej. Dorzucam 3 goździki. Kiedy całość się podsmaża kroję w kostkę cukinię i jabłka. W osobnym garnku, w osolonej wodzie gotuję ryż. Cukinie dorzucam do cebuli, zasypuję solą i przykrywam. Duszę tak ok. 10min, po czym dodaję łyżkę słodkiej papryki i zostawiam jeszcze na chwilę. Kiedy ryż się ugotuję, odsączam go i dorzucam posiekane daktyle i ok. 2 łyżki kurkumy (lub przyprawy curry) i mieszam dokładnie (można dodać odrobinę oliwy). Do podduszonej cukinii wlewam pomidory i koncentrat, oraz dorzucam jabłka. Zostawiam całość na małym ogniu pod przykryciem na ok 10-15 min. Na sam koniec wyciskam jeszcze ząbek czosnku i doprawiam solą i pieprzem według uznania (można dodać też trochę pieprzu cayenne dla ostrości). Gotowe. 
     </Method>
   </Recipe>
 </div>
