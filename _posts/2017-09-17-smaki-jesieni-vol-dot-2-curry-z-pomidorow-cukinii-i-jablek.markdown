@@ -1,6 +1,17 @@
 ---
 title: Smaki_Jesieni vol._2. Curry z_pomidorów, cukinii i_jabłek.
 date: 2017-09-17 17:47:00 +02:00
+categories:
+- Sztuka Gotowania
+tags:
+- curry
+- cukinia
+- jabłka
+- kuchnia
+- sztuka
+- artysta
+- kreacja
+- kompozycja
 ---
 
 <olela-narrative>
