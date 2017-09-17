@@ -4,6 +4,7 @@ date: 2017-09-17 17:47:00 +02:00
 categories:
 - Sztuka Gotowania
 tags:
+- przepis
 - curry
 - cukinia
 - jabłka
