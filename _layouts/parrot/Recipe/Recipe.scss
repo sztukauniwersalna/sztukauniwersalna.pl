@@ -24,7 +24,7 @@
   padding-top: 7rem;
 
   @include break(900) {
-    padding-top: 9rem;
+    padding-top: 12rem;
   }
 
   ul {
@@ -63,10 +63,11 @@
 }
 
 .details {
-  padding-bottom: 7rem;
+  padding-top: 1rem;
+  padding-bottom: 9rem;
 
   @include break(900) {
-    padding-bottom: 9rem;
+    padding-bottom: 13rem;
   }
 }
 
