@@ -79,4 +79,4 @@ Obecnie Fuerteventura jest zielona. Rozejrzałam się dookoła w poszukiwaniu ow
 
 ![Zdjęcie przedstawia opuncję figową, trzy doniczki z kwiatami stojące na ziemi po prawej stronie, stolik wykonany ze szpuli po lewej, na stoliku stoją trzy małe doniczki z kwiatkami. Wszystko na tle ściany.](https://assets0.ello.co/uploads/asset/attachment/6242486/ello-optimized-5d0f0df6.jpg)
 ![Zdjęcie przedstawia zbliżenie na opuncję figową.](https://assets0.ello.co/uploads/asset/attachment/6242499/ello-optimized-ede9ae43.jpg)
-
+![Zdjęcie przedstawia kompozycje z dwóch plam czerwonej barwy i dwóch plam czarnych, wszystko łączone cienką czarną linią.](https://assets2.ello.co/uploads/asset/attachment/6242420/ello-optimized-d45dfd3c.jpg)
