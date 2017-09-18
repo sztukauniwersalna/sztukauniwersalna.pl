@@ -22,3 +22,5 @@ Podobno
 
 Na początku była Atlantyda. Cudowna kraina, w której diamenty występowały tak często, jak warzywa czy zioła. Góry odgradzały ziemie od nieprzyjaznych wiatrów. Mieszkańcy żyli w harmonii z naturą i sobą nawzajem. Mierzyli do dwóch metrów wzrostu, oczy ich były niebieskie, a włosy jasne , dotknięte słońcem. Nie wiadomo jak znaleźli się na wyspie, gdyż powszechnie znany był ich wstręt do wody, nie potrafili także budować łodzi. Istnieje hipoteza, że byli potomkami jednego z odgałęzień Celtów, oni bowiem oraz plemiona germańskie odbywały odległe podróże jeszcze przed erą rzymską.
 
+![Zdjęcie przedstawia plażę ze ](https://assets1.ello.co/uploads/asset/attachment/6235695/ello-optimized-50fa876a.jpg)
+
