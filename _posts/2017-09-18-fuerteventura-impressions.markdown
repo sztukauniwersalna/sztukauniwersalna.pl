@@ -25,4 +25,5 @@ Na początku była Atlantyda. Cudowna kraina, w której diamenty występowały t
 ![Zdjęcie przedstawia plażę ze śladami odciśniętymi w piasku, w oddali widać wodę i góry.](https://assets1.ello.co/uploads/asset/attachment/6235695/ello-optimized-50fa876a.jpg)
 ![Zdjęcie przedstawia piasek z odciśniętymi śladami stóp.](https://assets0.ello.co/uploads/asset/attachment/6235697/ello-optimized-62f6ec60.jpg)
 ![Zdjęcie przedstawia piasek z odciśniętymi śladami stóp, po lewej stronie w oddali widać dwie sylwetki ludzkie.](https://assets0.ello.co/uploads/asset/attachment/6235698/ello-optimized-ca951166.jpg)
+![Zdjęcie przedstawia krajobraz gór, w oddali widać wodę, a na pierwszym planie żółtą tabliczkę z czarnym znakiem wiewiórki.](https://assets0.ello.co/uploads/asset/attachment/6235700/ello-optimized-c11e111e.jpg)
 
