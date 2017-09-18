@@ -80,3 +80,14 @@ Obecnie Fuerteventura jest zielona. Rozejrzałam się dookoła w poszukiwaniu ow
 ![Zdjęcie przedstawia opuncję figową, trzy doniczki z kwiatami stojące na ziemi po prawej stronie, stolik wykonany ze szpuli po lewej, na stoliku stoją trzy małe doniczki z kwiatkami. Wszystko na tle ściany.](https://assets0.ello.co/uploads/asset/attachment/6242486/ello-optimized-5d0f0df6.jpg)
 ![Zdjęcie przedstawia zbliżenie na opuncję figową.](https://assets0.ello.co/uploads/asset/attachment/6242499/ello-optimized-ede9ae43.jpg)
 ![Zdjęcie przedstawia kompozycje z dwóch plam czerwonej barwy i dwóch plam czarnych, wszystko łączone cienką czarną linią.](https://assets2.ello.co/uploads/asset/attachment/6242420/ello-optimized-d45dfd3c.jpg)
+
+
+No i jest wreszcie, wreszcie kolor. Okrążam dookoła opuncję figową, pamiętając, żeby nie dotykać owoców. Zbieram delikatnie za pomocą palców białe, maleńkie robaczki, jakby pokryte pszenną mąką poznańską. Rozgniatam jednego (w głowie powtarzając mantrę ‘ w imię sztuki, w imię sztuki!’), oto jest – czerwień koszelinowa. Fuerteventura jest czerwona.
+
+<olela-narrative>
+Na pewno
+
+Kiedyś tam wrócę.
+</olela-narrative>
+
+
