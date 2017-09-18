@@ -44,3 +44,4 @@ Na Fuerteventurze mieszka 100 tysięcy ludzi, a 150 tysięcy kóz. Podczas nasze
 ![Zdjęcie przedstawia górę z drogą po środku, na tle niebieskiego nieba.](https://assets0.ello.co/uploads/asset/attachment/6242493/ello-optimized-03c9d495.jpg)
 ![Zdjęcie jest kolażem geometrycznych czerwono-niebieskich elementów z dwiema czarnymi liniami.](https://assets1.ello.co/uploads/asset/attachment/6242384/ello-optimized-247979b7.jpg)
 ![Zdjęcie jest kolażem geometrycznych elementów, na czerwonym tle, elementy są białe i niebieskie, a z lewej strony widzimy element roślinny.](https://assets2.ello.co/uploads/asset/attachment/6242412/ello-optimized-c8dd3711.jpg)
+![Zdjęcie przedstawia biało-żółty budynek z napisem cafe. Na pierwszym planie znajdują się rośliny w donicach i szklana balustrada.](https://assets2.ello.co/uploads/asset/attachment/6242502/ello-optimized-c7e3e36f.jpg)
