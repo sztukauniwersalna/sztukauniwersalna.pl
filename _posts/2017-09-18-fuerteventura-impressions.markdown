@@ -90,4 +90,5 @@ Kiedyś tam wrócę.
 </olela-narrative>
 
 ![Zdjęcie przedstawia kolaż geometrycznych elementów na czerwonym tle. Z lewej strony widzimy małe kobiece usta.](https://assets1.ello.co/uploads/asset/attachment/6242407/ello-optimized-d9c1ce8f.jpg)
-![Zdjęcie przedstawia kolaż białych elementów, ułożonych na samym ](https://assets1.ello.co/uploads/asset/attachment/6242416/ello-optimized-05d3d3e1.jpg)
+![Zdjęcie przedstawia kolaż białych elementów na czerwonym tle, ułożonych na samym środku na kształt płomieni.](https://assets1.ello.co/uploads/asset/attachment/6242416/ello-optimized-05d3d3e1.jpg)
+
