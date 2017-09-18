@@ -69,3 +69,10 @@ Czasami zdarza się też, że wiatry niosą ze sobą zjawiska, takie jak ‘kali
 ![Zdjęcie przedstawia ulicę z budynkami po bokach i samochodami stojącymi po bokach. Na ulicy z prawej strony widoczny jest cień osoby fotografującej.](https://assets1.ello.co/uploads/asset/attachment/6242526/ello-optimized-be05e84e.jpg)
 ![Zdjęcie przedstawia okrągłe okno przez które widać morze i skały.](https://assets2.ello.co/uploads/asset/attachment/6235686/ello-optimized-257bf96a.jpg)
 ![Zdjęcie przedstawia białe krzesła i stoliki stojące przy szklanej balustradzie tuż nad wodą.](https://assets1.ello.co/uploads/asset/attachment/6235684/ello-optimized-10f89506.jpg)
+
+
+<olela-narrative>
+Podobno
+</olela-narrative>
+
+Obecnie Fuerteventura jest zielona. Rozejrzałam się dookoła w poszukiwaniu owej flory. Dostrzegłam parę palm, których dominującym kolorem wcale nie był zielony, tylko coś, co jako malarz nazwałabym rozbieloną umbrą. Dalej mój wzrok napotkał aloes. No i tutaj rzeczywiście mam do czynienia z odcieniem zieleni, problem w tym, że zieleń ta nie jest zielenią nasyconą, nie krzyczy do mnie swoją soczystością, nie wywołuje nadprogramowej produkcji śliny w moich ustach, czy też dodatkowej porcji endorfin w mózgu. Ta zieleń też ma w sobie dużo bieli, świeci szarością. A może to wszystko przez afrykańskie słońce? Może to właśnie tak mocne światło sprawia, że widzę wszystko jak przez blendę. Szukam dalej.
