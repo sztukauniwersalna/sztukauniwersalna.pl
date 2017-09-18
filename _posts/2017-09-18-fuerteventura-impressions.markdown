@@ -49,3 +49,4 @@ Na Fuerteventurze mieszka 100 tysięcy ludzi, a 150 tysięcy kóz. Podczas nasze
 ![Zdjęcie przedstawia ulicę, przy której stoi budynek o zielonych oknach i drzwiach, a na niebie są białe chmury.](https://assets2.ello.co/uploads/asset/attachment/6242514/ello-optimized-212ccd8b.jpg)
 ![Zdjęcie przedstawia ulicę, przy której z lewej strony stoją samochody i rosną palmy, w tle widać biały budynek.](https://assets1.ello.co/uploads/asset/attachment/6242506/ello-optimized-34aa198e.jpg)
 ![Zdjęcie przedstawia prawy bok mężczyzny siedzącego w samochodzie. Mężczyzna ma niebieski kapelusz na głowie, czerwoną koszulkę i okulary, a w tle widać palmy i niebieskie niebo.](https://assets0.ello.co/uploads/asset/attachment/6242503/ello-optimized-090a1c7e.jpg)
+![Zdjęcie przedstawia drogę z żółtymi pasami, którą jadą samochody. Po bokach widzimy góry, a po prawej stronie żółty znak drogowy z liczbą 60.](https://assets1.ello.co/uploads/asset/attachment/6242527/ello-optimized-c8f56a61.jpg)
