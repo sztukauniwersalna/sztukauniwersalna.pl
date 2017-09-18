@@ -31,7 +31,7 @@ Jean de Béthencourt dotarł do wybrzeży Wysp Kanaryjskich 1 czerwca 1402r i w 
 
 ![Zdjęcie przedstawia pomnik mężczyzny z brązu, trzymającego włócznię, w ujęciu od dołu.](https://assets2.ello.co/uploads/asset/attachment/6242475/ello-optimized-d8a5d13e.jpg)
 ![Zdjęcie przedstawia połowę pomnika mężczyzny z brązu, trzymającego włócznię, w ujęciu od dołu](https://assets0.ello.co/uploads/asset/attachment/6242478/ello-optimized-c40dcdd8.jpg)
-![Zdjęcie przedstawia dłoń pomnika mężczyzny wykonanego z brązu, a w tle górski krajobraz.](https://assets0.ello.co/uploads/asset/attachment/6242481/ello-optimized-480397f0.jpg
+![Zdjęcie przedstawia dłoń pomnika mężczyzny wykonanego z brązu, a w tle górski krajobraz.](https://assets0.ello.co/uploads/asset/attachment/6242481/ello-optimized-480397f0.jpg)
 ![Zdjęcie przedstawia dwa pomniki mężczyzn z brązu, obaj trzymają w dłoniach włócznię.](https://assets1.ello.co/uploads/asset/attachment/6242483/ello-optimized-9531724e.jpg)
 
 <olela-narrative>
