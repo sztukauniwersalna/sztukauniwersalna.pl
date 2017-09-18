@@ -29,7 +29,7 @@ Pomyśl przez chwilę o swoim ulubionym artyście. Może fascynują Cię kompozy
     time='30 minut'
     level='łatwy'
     mealFor='4 osoby'
-    photo='https://assets1.ello.co/uploads/asset/attachment/6238659/ello-optimized-5191cd73.jpg'
+    photo='https://assets2.ello.co/uploads/asset/attachment/6243540/ello-optimized-936d4bdf.jpg'
     altText='Zdjęcie przedstawia seledynowy talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajdują się warzywa, czerwony sos, biały sos, żółty ryż, zioła, orzechy.'
   >
     <Ingredient title='cukinia' quantity='1 średnia ' />
