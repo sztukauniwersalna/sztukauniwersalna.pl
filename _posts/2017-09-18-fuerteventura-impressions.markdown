@@ -85,8 +85,7 @@ Obecnie Fuerteventura jest zielona. Rozejrzałam się dookoła w poszukiwaniu ow
 No i jest wreszcie, wreszcie kolor. Okrążam dookoła opuncję figową, pamiętając, żeby nie dotykać owoców. Zbieram delikatnie za pomocą palców białe, maleńkie robaczki, jakby pokryte pszenną mąką poznańską. Rozgniatam jednego (w głowie powtarzając mantrę ‘ w imię sztuki, w imię sztuki!’), oto jest – czerwień koszelinowa. Fuerteventura jest czerwona.
 
 <olela-narrative>
-Na pewno
-Kiedyś tam wrócę.
+Na pewno kiedyś tam wrócę.
 </olela-narrative>
 
 ![Zdjęcie przedstawia kolaż geometrycznych elementów na czerwonym tle. Z lewej strony widzimy małe kobiece usta.](https://assets1.ello.co/uploads/asset/attachment/6242407/ello-optimized-d9c1ce8f.jpg)
