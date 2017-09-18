@@ -33,3 +33,9 @@ Jean de Béthencourt dotarł do wybrzeży Wysp Kanaryjskich 1 czerwca 1402r i w 
 ![Zdjęcie przedstawia połowę pomnika mężczyzny z brązu, trzymającego włócznię, w ujęciu od dołu](https://assets0.ello.co/uploads/asset/attachment/6242478/ello-optimized-c40dcdd8.jpg)
 ![Zdjęcie przedstawia dłoń pomnika mężczyzny wykonanego z brązu, a w tle górski krajobraz.](https://assets0.ello.co/uploads/asset/attachment/6242481/ello-optimized-480397f0.jpg
 ![Zdjęcie przedstawia dwa pomniki mężczyzn z brązu, obaj trzymają w dłoniach włócznię.](https://assets1.ello.co/uploads/asset/attachment/6242483/ello-optimized-9531724e.jpg)
+
+<olela-narrative>
+Podobno
+</olela-narrative>
+
+Na Fuerteventurze mieszka 100 tysięcy ludzi, a 150 tysięcy kóz. Podczas naszej tygodniowej wyprawy kozy widziałam tylko dwa razy. W pomarańczowych skałach dostrzegłam o wiele więcej chartów kanaryjskich, gdyż na wyspie trwa sezon polowań na króliki. Owszem, próbowałam kozich serów, które przyznaje z ręką na sercu, były najpyszniejsze jakie w życiu jadłam. Kozy żywią się bowiem głównie ziołami i porostami. Sery dzięki temu mają posmak tymianku, migdałów, dzikiego miodu - Coś niesamowitego! Najlepiej smakują w połączeniu z dżemem figowym lub słodkim gofio (rodzaj mączki wyrabianej z uprażonych ziaren jęczmienia, kukurydzy i innych zbóż, która w połączeniu z wodą lub mlekiem daje konsystencje zbliżoną do chałwy). Udało nam się przywieźć trzy różne gatunki sera z lokalnej wytwórni. Żałuję, że nie kupiłam gofio, w Polsce jest je niesamowicie ciężko dostać. 
