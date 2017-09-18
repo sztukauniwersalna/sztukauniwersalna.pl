@@ -94,5 +94,4 @@ Na pewno kiedyś tam wrócę.
 ![Zdjęcie przedstawia widok z góry na plażę z czarnym piaskiem, na którym opalają się ludzie, po prawej stronie stoją kolorowe łódki, a w oddali widać góry.](https://assets0.ello.co/uploads/asset/attachment/6242531/ello-optimized-8b85d610.jpg)
 ![Zdjęcie przedstawia widok z góry na plażę z czarnym piaskiem, w oddali widać góry, po prawej stronie znajduje się woda.](https://assets1.ello.co/uploads/asset/attachment/6242530/ello-optimized-59a66b0b.jpg)
 ![Zdjęcie przedstawia obraz namalowany tuszami w kolorze czarnym, czerwonym i niebieskim. Obraz ma charakter abstrakcyjny.](https://assets0.ello.co/uploads/asset/attachment/6243115/ello-optimized-32987e2b.jpg)
-![Zdjęcie przedstawia kolaż geometrycznych elementów na białym tle. Elementy mają kolor czerwony, niebieski i czarny. Całość ma charakter abstrakcyjny.](https://assets2.ello.co/uploads/asset/attachment/6243065/ello-optimized-b692ecef.jpg)
 ![Zdjęcie przedstawia portret młodej kobiety w kapeluszu i okularach przeciwsłonecznych. W tle widać palmy.](https://assets0.ello.co/uploads/asset/attachment/6235694/ello-optimized-6e539694.jpg)
