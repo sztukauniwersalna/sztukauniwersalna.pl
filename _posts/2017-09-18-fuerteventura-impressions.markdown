@@ -57,3 +57,7 @@ Podobno
 </olela-narrative>
 
 Nazwa Fuerteventura pochodzi od mocno (fuerte) wiejących tu wiatrów (viento). Nic nie jest w stanie ich zatrzymać, gdyż wyspa w najwyższym punkcie ma zaledwie 807m wysokości. Bardziej wietrzna jest zachodnia strona wyspy, to istny raj dla surferów. Odbywają się tu Mistrzostwa Świata w Windsurfingu i Kiteboardingu.
+
+![Zdjęcie przedstawia postać ubraną na biało w kapeluszu stojącą tyłem na plaży. W oddali z prawej strony widać budynki, a z lewej na niebie unoszą się latawce.](https://assets1.ello.co/uploads/asset/attachment/6242538/ello-optimized-0e2b067e.jpg)
+![Zdjęcie przedstawia kolaż złożony z czarnych liniii jednego niebiesko-czerwonego elementu w prawym górnym rogu.](https://assets0.ello.co/uploads/asset/attachment/6242392/ello-optimized-3c4cd600.jpg)
+
