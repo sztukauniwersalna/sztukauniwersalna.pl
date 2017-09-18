@@ -77,5 +77,4 @@ Podobno
 
 Obecnie Fuerteventura jest zielona. Rozejrzałam się dookoła w poszukiwaniu owej flory. Dostrzegłam parę palm, których dominującym kolorem wcale nie był zielony, tylko coś, co jako malarz nazwałabym rozbieloną umbrą. Dalej mój wzrok napotkał aloes. No i tutaj rzeczywiście mam do czynienia z odcieniem zieleni, problem w tym, że zieleń ta nie jest zielenią nasyconą, nie krzyczy do mnie swoją soczystością, nie wywołuje nadprogramowej produkcji śliny w moich ustach, czy też dodatkowej porcji endorfin w mózgu. Ta zieleń też ma w sobie dużo bieli, świeci szarością. A może to wszystko przez afrykańskie słońce? Może to właśnie tak mocne światło sprawia, że widzę wszystko jak przez blendę. Szukam dalej.
 
-![Zdjęcie przedstawia opuncję figową, trzy doniczki z kwiatami stojące na ziemi po prawej stronie, stolik wykonany ze szpuli po lewej, na stoliku stoją trzy małe doniczki z kwiatkami. Wszystko na tle ](https://assets0.ello.co/uploads/asset/attachment/6242486/ello-optimized-5d0f0df6.jpg)
-![](
+![Zdjęcie przedstawia opuncję figową, trzy doniczki z kwiatami stojące na ziemi po prawej stronie, stolik wykonany ze szpuli po lewej, na stoliku stoją trzy małe doniczki z kwiatkami. Wszystko na tle ściany.](https://assets0.ello.co/uploads/asset/attachment/6242486/ello-optimized-5d0f0df6.jpg)
