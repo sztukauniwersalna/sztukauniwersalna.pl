@@ -27,3 +27,9 @@ Na początku była Atlantyda. Cudowna kraina, w której diamenty występowały t
 ![Zdjęcie przedstawia piasek z odciśniętymi śladami stóp, po lewej stronie w oddali widać dwie sylwetki ludzkie.](https://assets0.ello.co/uploads/asset/attachment/6235698/ello-optimized-ca951166.jpg)
 ![Zdjęcie przedstawia krajobraz gór, w oddali widać wodę, a na pierwszym planie żółtą tabliczkę z czarnym znakiem wiewiórki.](https://assets0.ello.co/uploads/asset/attachment/6235700/ello-optimized-c11e111e.jpg)
 
+Jean de Béthencourt dotarł do wybrzeży Wysp Kanaryjskich 1 czerwca 1402r i w zaledwie 4 lata zdobył Fuerteventurę, Lanzarotę, La Gomerę, El Hierro. Utworzone przez niego miasteczko Betancuria (istniejące do dziś) przez wiele lat było stolicą Fuerteventury. Pozostałe wyspy – Gran Canaria, La Palma i Teneryfa zostały podbite przez Alonso Fernández de Lugo . Liczne, krwawe walki doszczętnie zniszczyły kulturę i społeczeństwo Guanczów – niebieskookich blondynów, wysokich na dwa metry. Tak oto zginęły ostatnie, żywe dowody istnienia mitycznej krainy.
+
+![Zdjęcie przedstawia pomnik mężczyzny z brązu, trzymającego włócznię, w ujęciu od dołu.](https://assets2.ello.co/uploads/asset/attachment/6242475/ello-optimized-d8a5d13e.jpg)
+![Zdjęcie przedstawia połowę pomnika mężczyzny z brązu, trzymającego włócznię, w ujęciu od dołu](https://assets0.ello.co/uploads/asset/attachment/6242478/ello-optimized-c40dcdd8.jpg)
+![Zdjęcie przedstawia dłoń pomnika mężczyzny wykonanego z brązu, a w tle górski krajobraz.](https://assets0.ello.co/uploads/asset/attachment/6242481/ello-optimized-480397f0.jpg
+![Zdjęcie przedstawia dwa pomniki mężczyzn z brązu, obaj trzymają w dłoniach włócznię.](https://assets1.ello.co/uploads/asset/attachment/6242483/ello-optimized-9531724e.jpg)
