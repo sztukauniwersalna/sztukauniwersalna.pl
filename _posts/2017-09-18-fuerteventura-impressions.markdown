@@ -61,3 +61,7 @@ Nazwa Fuerteventura pochodzi od mocno (fuerte) wiejących tu wiatrów (viento). 
 ![Zdjęcie przedstawia postać ubraną na biało w kapeluszu stojącą tyłem na plaży. W oddali z prawej strony widać budynki, a z lewej na niebie unoszą się latawce.](https://assets1.ello.co/uploads/asset/attachment/6242538/ello-optimized-0e2b067e.jpg)
 ![Zdjęcie przedstawia kolaż złożony z czarnych linii jednego niebiesko-czerwonego elementu w prawym górnym rogu.](https://assets0.ello.co/uploads/asset/attachment/6242392/ello-optimized-3c4cd600.jpg)
 
+Czasami zdarza się też, że wiatry niosą ze sobą zjawiska, takie jak ‘kalima’. Mieliśmy okazję ją zobaczyć i doświadczyć w pierwsze dwa dni naszego pobytu na wyspie. Kiedy lądowaliśmy miałam wrażenie, że cały czas znajdujemy się w chmurze lub we mgle. ‘Kalima’ wiąże się z burzami piaskowymi nad Saharą i transportem pyłu przez wschodnie wiatry. To tak jakby ‘kanaryjski smog’. Pył zawieszony w powietrzu znacząco utrudnia widoczność, powietrze staje się suche, a temperatura wzrasta średnio do 40 stopni. Na szczęście furte vientos dość prędko uporały się z kalimą i prawdziwe kolory krajobrazów zaistniały na horyzoncie.
+
+
+
