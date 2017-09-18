@@ -39,3 +39,5 @@ Podobno
 </olela-narrative>
 
 Na Fuerteventurze mieszka 100 tysięcy ludzi, a 150 tysięcy kóz. Podczas naszej tygodniowej wyprawy kozy widziałam tylko dwa razy. W pomarańczowych skałach dostrzegłam o wiele więcej chartów kanaryjskich, gdyż na wyspie trwa sezon polowań na króliki. Owszem, próbowałam kozich serów, które przyznaje z ręką na sercu, były najpyszniejsze jakie w życiu jadłam. Kozy żywią się bowiem głównie ziołami i porostami. Sery dzięki temu mają posmak tymianku, migdałów, dzikiego miodu - Coś niesamowitego! Najlepiej smakują w połączeniu z dżemem figowym lub słodkim gofio (rodzaj mączki wyrabianej z uprażonych ziaren jęczmienia, kukurydzy i innych zbóż, która w połączeniu z wodą lub mlekiem daje konsystencje zbliżoną do chałwy). Udało nam się przywieźć trzy różne gatunki sera z lokalnej wytwórni. Żałuję, że nie kupiłam gofio, w Polsce jest je niesamowicie ciężko dostać. 
+
+![Zdjęcie przedstawia górski krajobraz z zieloną ro](https://assets0.ello.co/uploads/asset/attachment/6242470/ello-optimized-49f44a2b.jpg)
