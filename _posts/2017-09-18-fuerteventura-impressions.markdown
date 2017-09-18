@@ -90,4 +90,4 @@ Na pewno kiedyś tam wrócę.
 
 ![Zdjęcie przedstawia kolaż geometrycznych elementów na czerwonym tle. Z lewej strony widzimy małe kobiece usta.](https://assets1.ello.co/uploads/asset/attachment/6242407/ello-optimized-d9c1ce8f.jpg)
 ![Zdjęcie przedstawia kolaż białych elementów na czerwonym tle, ułożonych na samym środku na kształt płomieni.](https://assets1.ello.co/uploads/asset/attachment/6242416/ello-optimized-05d3d3e1.jpg)
-
+![Zdjęcie przedstawia górzysty krajobraz w ciepłych kolorach. Widać białe budynki i palmy.](https://assets2.ello.co/uploads/asset/attachment/6242529/ello-optimized-b9d42098.jpg)
