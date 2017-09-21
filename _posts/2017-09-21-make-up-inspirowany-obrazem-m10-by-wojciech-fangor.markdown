@@ -21,6 +21,8 @@ tags:
 ![Zdjęcie przedstawia twarz młodej kobiety w mocnym makijażu na żółtym tle. Kobieta ma kolczyki koła i niebieskie oczy.](https://assets0.ello.co/uploads/asset/attachment/6256766/ello-optimized-a6b7fb74.jpg)
 ![Zdjęcie przedstawia zbliżenie na oko kobiety w żółto-fioletowym makijażu.](https://assets2.ello.co/uploads/asset/attachment/6256769/ello-optimized-39312ab0.jpg)
 ![Zdjęcie przedstawia przedmioty leżące na kolorowym podłożu. Widzimy kawałek materiału, pudełko z napisami i pędzle.](https://assets1.ello.co/uploads/asset/attachment/6256785/ello-optimized-d0da4c12.jpg)
+![Zdjęcie przedstawia martwą naturę ułożoną z kolorowego materiału, pędzli i czarnego pudełka ze złotymi napisami. Całość na pomarańczowo-żółtym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256787/ello-optimized-2f878d13.jpg)
+![Zdjęcie przedstawia przedmioty sfotografowane z góry. Widzimu paletkę do makijażu, pędzle, kolorową tkaninę. Cało](https://assets2.ello.co/uploads/asset/attachment/6256790/ello-optimized-045c9718.jpg)
 
 
 * Paleta cieni Revolution 'Colour Chaos'
