@@ -23,6 +23,7 @@ tags:
 ![Zdjęcie przedstawia przedmioty leżące na kolorowym podłożu. Widzimy kawałek materiału, pudełko z napisami i pędzle.](https://assets1.ello.co/uploads/asset/attachment/6256785/ello-optimized-d0da4c12.jpg)
 ![Zdjęcie przedstawia martwą naturę ułożoną z kolorowego materiału, pędzli i czarnego pudełka ze złotymi napisami. Całość na pomarańczowo-żółtym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256787/ello-optimized-2f878d13.jpg)
 ![Zdjęcie przedstawia przedmioty sfotografowane z góry. Widzimy paletkę do makijażu, pędzle, kolorową tkaninę. Całość na pomarańczowym, żółtym i różowym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256790/ello-optimized-045c9718.jpg)
+![Zdjęcie podzielone jest na dwie części i przedstawia przedmioty sfotografowane z góry. Widzimy paletkę do makijażu, pędzle, kolorową tkaninę. Całość na pomarańczowym, żółtym i różowym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256792/ello-optimized-69787484.jpg)
 
 
 * Paleta cieni Revolution 'Colour Chaos'
