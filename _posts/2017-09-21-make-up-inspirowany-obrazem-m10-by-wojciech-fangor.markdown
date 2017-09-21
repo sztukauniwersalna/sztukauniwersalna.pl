@@ -27,8 +27,9 @@ tags:
 ![Zdjęcie przedstawia przedmioty sfotografowane z góry. Widzimy paletkę do makijażu, pędzle, kolorową tkaninę. Całość na pomarańczowym, żółtym i różowym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256790/ello-optimized-045c9718.jpg)
 ![Zdjęcie podzielone jest na dwie części i przedstawia przedmioty sfotografowane z góry. Widzimy paletkę do makijażu, pędzle, kolorową tkaninę. Całość na pomarańczowym, żółtym i różowym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6256792/ello-optimized-69787484.jpg)
 
-
+<olela-narrative>
 Do wykonania makijażu użyłam:
+</olela-narrative>
 
 * Paleta cieni Revolution 'Colour Chaos'
 * Tusz do rzęs Pupa Vamp
