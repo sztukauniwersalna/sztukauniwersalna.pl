@@ -24,6 +24,8 @@ Przez całe moje życie odczuwam paniczny lęk przed odebraniem telefonu. Przed 
 Podobno 1 litr na 30kg masy ciała. Możesz też podzielić swoją wagę przez 30, np. 60kg : 30 = 2, czyli powinieneś pić 2 litry wody dziennie.
 </olela-narrative>
 
+![Zdjęcie przedstawia zbliżenie na popiersie kobiety z fioletowymi ustami. Kobieta ma białą koszulę i ozdobę na szyi, widzimy żółte tło, a z lewej strony wzór złożony z ust.](https://assets2.ello.co/uploads/asset/attachment/6273366/ello-optimized-b2f1da19.jpg)
+
 Może to wcale nie jest tak, że Martyna nie dzwoni, bo mnie nie lubi. Może po prostu ma dużo na głowie i w natłoku tych spraw nie pamięta… W sumie, to Marcina też już dawno nie słyszałam… To niemożliwe, żeby wszyscy Ci ludzie łączyli się ze mną w telelęku. Od zawsze powtarzano mi, że muszę o wszystkie swoje sprawy zatroszczyć się sama, nikt inny za mnie tego nie zrobi. Jak nie podlejesz swoich kwiatków to uschną. Tak właśnie za sprawą głupiej obawy usłyszenia w dziwnym prostokątnym urządzeniu niewidzialnego głosu, głosu mechanicznie zmodyfikowanego, usychają moje znajomości i przyjaźnie. Widząc osobę na żywo, w głowie automatycznie przewija mi się tysiąc sytuacji, obrazów, dźwięków i zapachów z nią związanych. Zawsze towarzyszą temu spotkaniu emocje. Dobre emocje, bo te złe mam zwyczaj wypierać. Z tych wszystkich wspaniałych bodźców, pieszczot zmysłów, słuchawka telefonu oferuje nam tylko… głos. Nic dziwnego, że jest przyczyną nieporozumień, sprzeczek, kłótni. Nie widzę przecież Twojej twarzy, mimiki, źle odczytałam intonację słów (i vice versa). Rzuciłyśmy słuchawkami, a teraz żadna z nas, z uwagi na swoją dumę, nie zadzwoni.
 
 <olela-narrative>
