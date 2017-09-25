@@ -3,6 +3,13 @@ title: Podlewaj_swoje_kwiaty
 date: 2017-09-25 18:19:00 +02:00
 categories:
 - Sztuka Ubioru
+tags:
+- stylizacja
+- moda
+- kwiat
+- art
+- sztuka
+- kreacja
 ---
 
 ![Zdjęcie przedstawia kobietę ubraną na biało, na żółtym tle. Kobieta trzyma w ręku srebrne naczynie i podlewa roślinę, która znajduje się z lewej strony.](https://assets2.ello.co/uploads/asset/attachment/6273381/ello-optimized-aaf18cbf.jpg)
