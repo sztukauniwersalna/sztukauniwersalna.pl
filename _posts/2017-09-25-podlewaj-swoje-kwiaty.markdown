@@ -30,8 +30,10 @@ Może to wcale nie jest tak, że Martyna nie dzwoni, bo mnie nie lubi. Może po 
 
 ![Zdjęcie przedstawia młodą kobietę ubraną na biało ze srebrnym naczyniem w ręce. Kobieta podlewa kwiat znajdujący się z lewej strony na krześle. Tło jest żółte.](https://assets0.ello.co/uploads/asset/attachment/6273373/ello-optimized-25b3bbe8.jpg)
 
-
 Tak właśnie za sprawą głupiej obawy usłyszenia w dziwnym prostokątnym urządzeniu niewidzialnego głosu, głosu mechanicznie zmodyfikowanego, usychają moje znajomości i przyjaźnie. Widząc osobę na żywo, w głowie automatycznie przewija mi się tysiąc sytuacji, obrazów, dźwięków i zapachów z nią związanych. Zawsze towarzyszą temu spotkaniu emocje. Dobre emocje, bo te złe mam zwyczaj wypierać. Z tych wszystkich wspaniałych bodźców, pieszczot zmysłów, słuchawka telefonu oferuje nam tylko… głos. Nic dziwnego, że jest przyczyną nieporozumień, sprzeczek, kłótni. Nie widzę przecież Twojej twarzy, mimiki, źle odczytałam intonację słów (i vice versa). Rzuciłyśmy słuchawkami, a teraz żadna z nas, z uwagi na swoją dumę, nie zadzwoni.
+
+![Zdjęcie podzielone jest na dwie części, z lewej strony widzimy kształt liścia, a z prawej fragment postaci ubranej na biało, na żółym tle.](https://assets0.ello.co/uploads/asset/attachment/6273374/ello-optimized-5deed9bb.jpg)
+![Zdjęcie podzielone jest na dwie części, z prawej strony widzimy rozmazany fioletowy kształt, a z lewej rozmazane zdjęcie kobiety z fioletowymi ustami, ubranej na biało, na żółtym tle.](https://assets1.ello.co/uploads/asset/attachment/6273376/ello-optimized-b03f2b23.jpg)
 
 <olela-narrative>
 Dziś wypiłam tylko połowę dziennej dawki. Drugą przeznaczyłam na podlanie kwiatów. Narazie odżył tylko jeden listek, ale jeśli będę to robić codziennie to na pewno wkrótce zaowocuje.
