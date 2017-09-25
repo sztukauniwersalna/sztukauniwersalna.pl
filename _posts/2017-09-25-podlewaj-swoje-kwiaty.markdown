@@ -1,5 +1,5 @@
 ---
-title: Podlewaj_swoje_kwiaty
+title: Podlewaj_swoje_kwiaty.
 date: 2017-09-25 18:19:00 +02:00
 categories:
 - Sztuka Ubioru
@@ -38,3 +38,7 @@ Tak właśnie za sprawą głupiej obawy usłyszenia w dziwnym prostokątnym urz�
 <olela-narrative>
 Dziś wypiłam tylko połowę dziennej dawki. Drugą przeznaczyłam na podlanie kwiatów. Narazie odżył tylko jeden listek, ale jeśli będę to robić codziennie to na pewno wkrótce zaowocuje.
 </olela-narrative>
+
+![Zdjęcie przedstawia fioletowe usta ułożone w linię.](https://assets1.ello.co/uploads/asset/attachment/6273531/ello-optimized-ddbdc8a6.jpg)
+
+spódnica: Stradivarius / bluzka: Zara / choker: Stradivarius
