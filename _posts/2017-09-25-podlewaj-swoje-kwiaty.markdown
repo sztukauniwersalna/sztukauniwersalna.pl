@@ -5,7 +5,7 @@ categories:
 - Sztuka Ubioru
 ---
 
-![Zdjęcie przedstawia kobietę ubraną na biało, na żółtym tle. Kobieta trzyma w ręku srebrne naczynie i podlewa ro](https://assets2.ello.co/uploads/asset/attachment/6273381/ello-optimized-aaf18cbf.jpg)
+![Zdjęcie przedstawia kobietę ubraną na biało, na żółtym tle. Kobieta trzyma w ręku srebrne naczynie i podlewa roślinę, która znajduje się z lewej strony.](https://assets2.ello.co/uploads/asset/attachment/6273381/ello-optimized-aaf18cbf.jpg)
 
 Przez całe moje życie odczuwam paniczny lęk przed odebraniem telefonu. Przed wykonaniem zresztą też. Kiedy tylko na ekranie pojawiają się nieznane cyferki wewnątrz mojego brzucha rodzi się uczucie ścisku, podobne do tego, kiedy owijasz (dla zabawy) cienką nitką swój palec wskazujący. Kiedy wiem, że muszę do kogoś zatelefonować (i nieważne czy jest to ktoś znajomy, czy nie) dokładnie analizuje treść zdań, które wypowiem. Po cichu, w środku głowy symuluje rozmowę. Muszę być przygotowana na każdy z ewentualnych biegów zdarzeń. Zawsze najbardziej lubię ten, kiedy druga strona nie odpowiada. Wtedy mogę odłożyć niedoszłą rozmowę na później i  wrócić do swoich obecnych zajęć, przynajmniej przez moment nie będąc zmuszona pisać telefonicznych scenariuszy.
 
