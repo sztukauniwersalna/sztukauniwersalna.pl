@@ -10,7 +10,8 @@ categories:
 Przez całe moje życie odczuwam paniczny lęk przed odebraniem telefonu. Przed wykonaniem zresztą też. Kiedy tylko na ekranie pojawiają się nieznane cyferki wewnątrz mojego brzucha rodzi się uczucie ścisku, podobne do tego, kiedy owijasz (dla zabawy) cienką nitką swój palec wskazujący. Kiedy wiem, że muszę do kogoś zatelefonować (i nieważne czy jest to ktoś znajomy, czy nie) dokładnie analizuje treść zdań, które wypowiem. Po cichu, w środku głowy symuluje rozmowę. Muszę być przygotowana na każdy z ewentualnych biegów zdarzeń. Zawsze najbardziej lubię ten, kiedy druga strona nie odpowiada. Wtedy mogę odłożyć niedoszłą rozmowę na później i  wrócić do swoich obecnych zajęć, przynajmniej przez moment nie będąc zmuszona pisać telefonicznych scenariuszy.
 
 ![Zdjęcie przedstawia żółte tło, z lewej strony widać kawałek rośliny, a w prawym górnym rogu kawałek białej tkaniny.](https://assets1.ello.co/uploads/asset/attachment/6273369/ello-optimized-81fb1e90.jpg)
-![Zdjęcie podzielone jest na dwie cze](https://assets1.ello.co/uploads/asset/attachment/6273371/ello-optimized-12671c19.jpg)
+![Zdjęcie podzielone jest na dwie części. Z lewej strony widzimy białą tkaninę ze srebrnym kółkiem, a z prawej roślinę na żółtym tle.](https://assets1.ello.co/uploads/asset/attachment/6273371/ello-optimized-12671c19.jpg)
+![Zdjęcie przedstawia zbliżenie na szyję człowiek ubranego w białą koszulę, z tyłu widać żółte tło.](https://assets2.ello.co/uploads/asset/attachment/6273367/ello-optimized-ecc7f386.jpg)
 
 <olela-narrative>
 Podobno 1 litr na 30kg masy ciała. Możesz też podzielić swoją wagę przez 30, np. 60kg : 30 = 2, czyli powinieneś pić 2 litry wody dziennie.
