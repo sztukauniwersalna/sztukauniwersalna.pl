@@ -11,7 +11,7 @@ W latach 1917 - 1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl"
 * trzy kolory zasadnicze: żółty, czerwony, niebieski
 * trzy niekolory: biel, czerń, szarość
 Dodatkowo, każda barwa nacechowana jest inną ekspresją dynamiczną: żółty opisuje piony, niebieski poziomy, a czerwień łączy dwa poprzednie równoważąc je. Mondrian coraz bardziej upraszczając swoje kompozycje dotarł do zupełnej geometryzacji przestrzeni.
-Neoplastycyzm silnie podziałał na architekturę i wzornictwo, oraz na Bauhaus (uczelnię artystyczno-rzemieślniczą powstałą w Weimarze w 1919 r. z połączenia Akademii Sztuk Pięknych i Szkoły Rzemiosł Artystycznych. Sama idea Bauhaus'u zakładała zniesienie podziału pomiędzy artystą, architektem, przemysłowcem i rzemie). Do dziś widzimy jego wpływy niemal we wszystkich dziedzinach życia, przez modę, architekturę, po  
-
-
+Neoplastycyzm silnie podziałał na architekturę i wzornictwo, oraz na Bauhaus (uczelnię artystyczno-rzemieślniczą powstałą w Weimarze w 1919 r. z połączenia Akademii Sztuk Pięknych i Szkoły Rzemiosł Artystycznych. Sama idea Bauhaus'u zakładała zniesienie podziału pomiędzy artystą, architektem, przemysłowcem i rzemieślnikiem, stąd tak wiele projektów 'podchwyca' mondrianowskie założenia). Do dziś widzimy jego wpływy niemal we wszystkich dziedzinach, przez modę, architekturę, wzornictwo po charakteryzację i kuchnię. 
 </olela-narrative>
+
+![Zdjęcie jest bardzo długie i przedstawia kompozycję w kolorach czerwono-żółto-niebieskich. Widzimy zdjęcia okładek magazynów, dłoń, figury geometryczne, obuwie, torebkę, krzesła, elementy architektoniczne, ciasto. Na samym końcu na czerwonym tle znajdują się opisy poszczególnych elementów.](https://ello-direct-uploads.s3.amazonaws.com/uploads/18e7530f-9938-4614-8016-598ff16ad89a/ello-2da83c02-c68b-4436-97fb-5cec793c237e.jpeg)
