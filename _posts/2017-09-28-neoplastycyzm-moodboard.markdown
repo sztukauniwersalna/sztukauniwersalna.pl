@@ -1,5 +1,5 @@
 ---
-title: Neoplastycyzm_[moodboard]
+title: Neoplastycyzm [moodboard]
 date: 2017-09-28 19:15:00 +02:00
 categories:
 - Sztuka dla Sztuki
