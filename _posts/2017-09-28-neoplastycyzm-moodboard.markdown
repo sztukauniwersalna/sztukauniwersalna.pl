@@ -14,6 +14,7 @@ W latach 1917 - 1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl"
 
 Dodatkowo, każda barwa nacechowana jest inną ekspresją dynamiczną: żółty opisuje piony, niebieski poziomy, a czerwień łączy dwa poprzednie równoważąc je. Mondrian coraz bardziej upraszczając swoje kompozycje dotarł do zupełnej geometryzacji przestrzeni.
 Neoplastycyzm silnie podziałał na architekturę i wzornictwo, oraz na Bauhaus (uczelnię artystyczno-rzemieślniczą powstałą w Weimarze w 1919 r. z połączenia Akademii Sztuk Pięknych i Szkoły Rzemiosł Artystycznych. Sama idea Bauhaus'u zakładała zniesienie podziału pomiędzy artystą, architektem, przemysłowcem i rzemieślnikiem, stąd tak wiele projektów 'podchwyca' mondrianowskie założenia). Do dziś widzimy jego wpływy niemal we wszystkich dziedzinach, przez modę, architekturę, wzornictwo po charakteryzację i kuchnię. 
-</olela-narrative>
 
-![Zdjęcie jest bardzo długie i przedstawia kompozycję w kolorach czerwono-żółto-niebieskich. Widzimy zdjęcia okładek magazynów, dłoń, figury geometryczne, obuwie, torebkę, krzesła, elementy architektoniczne, ciasto. Na samym końcu na czerwonym tle znajdują się opisy poszczególnych elementów.](https://assets2.ello.co/uploads/asset/attachment/6288086/ello-optimized-9f35a6e8.jpg)
+
+![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich, oraz okładki magazynów.](https://assets1.ello.co/uploads/asset/attachment/6288152/ello-optimized-1e1c821b.jpg)
+![](
