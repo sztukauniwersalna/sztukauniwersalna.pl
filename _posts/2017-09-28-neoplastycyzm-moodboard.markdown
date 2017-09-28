@@ -5,7 +5,7 @@ categories:
 - Sztuka dla Sztuki
 ---
 
-W latach 1917 - 1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl" (po niderlandzku 'styl'). W pierwszym numerze wydrukowany został manifest malarza Piet'a Mondrian'a. Przedstawiał on zarys nowego programu artystycznego. 'Neoplastycyzm' zakładał oddziaływanie poprzez przeciwieństwa, piony vs poziomy, siła aktywna na przeciw biernej. W neoplastycyzmie wyróżniamy:
+W latach 1917-1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl" (po niderlandzku 'styl'). W pierwszym numerze wydrukowany został manifest malarza Piet'a Mondrian'a. Przedstawiał on zarys nowego programu artystycznego. 'Neoplastycyzm' zakładał oddziaływanie poprzez przeciwieństwa, piony vs poziomy, siła aktywna na przeciw biernej. W neoplastycyzmie wyróżniamy:
 
 * dwie podstawowe linie: wertykalną i horyzontalną
 * trzy kolory zasadnicze: żółty, czerwony, niebieski
