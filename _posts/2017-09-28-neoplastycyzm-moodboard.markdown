@@ -17,4 +17,7 @@ Neoplastycyzm silnie podziałał na architekturę i wzornictwo, oraz na Bauhaus 
 
 
 ![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich, oraz okładki magazynów.](https://assets1.ello.co/uploads/asset/attachment/6288152/ello-optimized-1e1c821b.jpg)
-![](
+![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich. Widzimy sukienkę, obuwie, dłoń z prawej strony, oraz stronę z czasopisma.](https://assets1.ello.co/uploads/asset/attachment/6288160/ello-optimized-f9b0b767.jpg)
+![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich. Widzimy damską dłoń trzymającą torebkę, panią ubrana na czarno i trzy kwadraty w kolorze żółtym, niebieskim i czerwonym.](https://assets2.ello.co/uploads/asset/attachment/6288164/ello-optimized-5b64a55f.jpg)
+![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich. Widzimy krzesła i elementy architektoniczne.](https://assets2.ello.co/uploads/asset/attachment/6288167/ello-optimized-c8623486.jpg)
+![Zdjęcie przedstawia elementy geometryczne w kolorach czerwonych, żółtych i niebieskich, oraz ciasto i białe napisy na czerwonym tle.](https://assets2.ello.co/uploads/asset/attachment/6288168/ello-optimized-f5c7f35c.jpg)
