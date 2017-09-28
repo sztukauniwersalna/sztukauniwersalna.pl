@@ -9,9 +9,9 @@ W latach 1917 - 1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl"
 
 <olela-narrative>
 
-* dwie podstawowe linie: wertykalną i horyzontalną
-* trzy kolory zasadnicze: żółty, czerwony, niebieski
-* trzy niekolory: biel, czerń, szarość
+- dwie podstawowe linie: wertykalną i horyzontalną
+- trzy kolory zasadnicze: żółty, czerwony, niebieski
+- trzy niekolory: biel, czerń, szarość
 
 </olela-narrative>
 
