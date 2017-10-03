@@ -37,10 +37,12 @@ Codziennie rano trzyma moje powieki tak mocno, że z trudem udaje mi się otworz
 Czasami, w środku dnia uda mi się włączyć ulubiony, taneczny utwór, a Ona wtedy traktuje to jako wyzwanie i zaczyna wygrywać melodie uderzając kroplami deszczu o parapet. W co Ty pogrywasz? - pytam. To jakiś Free Jazz? Podgłaśniam swoje brzmienie tak, że głośniki zaczynają trzeszczeć. Skaczę jak głupia po pokoju próbując o niej zapomnieć. Nagle orientuje się, że nie słyszę już ulubionej melodii, że nie wiem właściwie, co słyszę, że w sumie mogłabym to porównać do Możdżera, Bacha i Rammsteina zmiksowanych razem na gładką papkę w blenderze marki Bosch. Zaraz oszaleje! Wyłączam wszystkie sprzęty, oprócz czajnika, bo nastawiłam właśnie wodę na napar z imbiru, kurkumy, mięty, cytryny i miodu. Tak, tak jak chciałaś. Zadowolona? Chowam się pod koc, w ręku trzymam kubek naparu wielkości wiaderka, na głowie mam wełnianą czapkę,a na stopach ciepłe skarpety.
 
 ![Zdjęcie przedstawia zbliżenie na dłonie zapinające złote guziki żółtej kurtki. Na dłoniach jest dużo złotych pierścionków, a paznokcie są koloru srebrnego, widać też szare włosy.](https://assets1.ello.co/uploads/asset/attachment/6311234/ello-optimized-2662cd58.jpg)
-![Zdjęcie podzielone jest na cztery części i przedstawia dłonie z pier](https://assets2.ello.co/uploads/asset/attachment/6311216/ello-optimized-fcca9d40.jpg)
+![Zdjęcie podzielone jest na cztery części i przedstawia dłonie ze złotymi pierścionkami i srebrnymi paznokciami, całość na żółtym tle.](https://assets2.ello.co/uploads/asset/attachment/6311216/ello-optimized-fcca9d40.jpg)
+![Zdjęcie przedstawia twarz młodej kobiety oświetloną czerwonym światłem, kobieta ma na głowie czarny beret.](https://assets2.ello.co/uploads/asset/attachment/6311212/ello-optimized-c8bc9119.jpg)
 
 I nagle staje się coś, czego się nie spodziewałam. Przestaje padać, zza chmur przebija słońce, którego promienie ‘zapalają’ kolory liści. Żółcień kadmowa, pomarańcz, cynober, karmin, tyle odcieni, mieni się, wznosi za podmuchem wiatru, opada zgodnie z ziemskim prawem. No – mówię – może się jakoś dogadamy. Skinęła głową, odwróciła się i odeszła stukając spiczastymi botkami z czarnego zamszu o granitową posadzkę chodnika, a klasyczny beżowy trencz z obniżonym stanem budował jej posągowość. Z ławki po lewej stronie alejki zapomniała zabrać kaszkietu i szalika. Szybko złapałam dodatki sezonu i pobiegłam za nią.
 
 <olela-narrative>
 Ah, Cała Ta Jesień.
 </olela-narrative>
+
