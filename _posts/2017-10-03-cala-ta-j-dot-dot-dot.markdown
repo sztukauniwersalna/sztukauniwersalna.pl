@@ -51,3 +51,7 @@ Ah, Cała Ta Jesień.
 ![Zdjęcie przedstawia fragment ubioru, widać pasek z metalową klamrą i czerwoną kurtkę.](https://assets0.ello.co/uploads/asset/attachment/6311220/ello-optimized-08690ebd.jpg)
 ![Zdjęcie przedstawia zbliżenie na fragment ubioru, widać pasek z metalową klamrą i czerwoną kurtkę.](https://assets2.ello.co/uploads/asset/attachment/6311232/ello-optimized-83b24ae9.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety z jasnoszarymi włosami w czarnym berecie na niebieskim tle. Twarz oświetlona jest czerwonym światłem, całość na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6311242/ello-optimized-76446cc8.jpg)
+![Zdjęcie przedstawia fioletowe i żółte koła ułożone w linię.](https://assets1.ello.co/uploads/asset/attachment/6311427/ello-optimized-3456356e.jpg)
+
+Stylizacja 1.
+kurtka: The House Of Bruar / beret: Stradivarius / torebka: Tania Odzież x Olela
