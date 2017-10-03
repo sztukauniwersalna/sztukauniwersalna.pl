@@ -45,4 +45,9 @@ I nagle staje się coś, czego się nie spodziewałam. Przestaje padać, zza chm
 Ah, Cała Ta Jesień.
 </olela-narrative>
 
-![](
+![Zdjęcie przedstawia młodą kobietę ubraną w skórzaną spódnicę i czerwoną kurtkę. Kobieta ma na głowie beret i podpiera się rękami pod boki, całość na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/6311198/ello-optimized-d7b56e67.jpg)
+![Zdjęcie przedstawia kobietę w skórzanej spódnicy i czerwonej kurtce obróconą tyłem. Kobieta ma na głowie beret i ręce podniesione do góry, całość na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6311206/ello-optimized-1f445bc2.jpg)
+![Zdjęcie przedstawia młodą kobietę ubraną w skórzaną spódnicę i czerwoną kurtkę. Kobieta ma na głowie beret, jasnoszare włosy, a jej ciało jest wychylone do boku, całość na niebieskim tle.](https://assets1.ello.co/uploads/asset/attachment/6311214/ello-optimized-264c6711.jpg)
+![Zdjęcie przedstawia fragment ubioru, widać pasek z metalową klamrą i czerwoną kurtkę.](https://assets0.ello.co/uploads/asset/attachment/6311220/ello-optimized-08690ebd.jpg)
+![Zdjęcie przedstawia zbliżenie na fragment ubioru, widać pasek z metalową klamrą i czerwoną kurtkę.](https://assets2.ello.co/uploads/asset/attachment/6311232/ello-optimized-83b24ae9.jpg)
+![Zdjęcie przedstawia twarz młodej kobiety z jasnoszarymi włosami w czarnym berecie na niebieskim tle. Twarz oświetlona jest czerwonym światłem, całość na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6311242/ello-optimized-76446cc8.jpg)
