@@ -9,6 +9,8 @@ tags:
 - moda
 - sztuka
 - kreacja
+- artysta
+- dzieło
 ---
 
 <olela-narrative>
