@@ -53,5 +53,7 @@ Ah, Cała Ta Jesień.
 ![Zdjęcie przedstawia twarz młodej kobiety z jasnoszarymi włosami w czarnym berecie na niebieskim tle. Twarz oświetlona jest czerwonym światłem, całość na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6311242/ello-optimized-76446cc8.jpg)
 ![Zdjęcie przedstawia fioletowe i żółte koła ułożone w linię.](https://assets1.ello.co/uploads/asset/attachment/6311427/ello-optimized-3456356e.jpg)
 
-Stylizacja 1.
-kurtka: The House Of Bruar / beret: Stradivarius / torebka: Tania Odzież x Olela
+Stylizacja 1.:
+kurtka: The House Of Bruar / beret: Stradivarius / torebka: Tania Odzież x Olela / biżuteria: Yes, H&M
+Stylizacja 2.:
+kurtka: Ochnik / spódnica: Reserved / beret: Stradivarius / pasek: TK Maxx
