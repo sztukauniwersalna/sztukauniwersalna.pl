@@ -21,8 +21,6 @@ Nie przegoniły jej długie wieczory z przyjaciółmi na Placu Zbawiciela przy b
 Przyszła.
 </olela-narrative>
 
-
-![Zdjęcie przedstawia młodą kobietę ubraną w żółtą pikowaną kurtkę, kobieta ma czarny beret na głowie, pomarańczowe usta, całość na żółtym tle.](https://assets2.ello.co/uploads/asset/attachment/6311175/ello-optimized-adff9eaf.jpg)
 ![Zdjęcie przedstawia młodą kobietę ubraną w żółtą pikowaną kurtkę, która trzyma się za brzuch. Kobieta ma pomarańczowe usta, całość na żółtym tle.](https://assets1.ello.co/uploads/asset/attachment/6311178/ello-optimized-1d7944a6.jpg)
 
 Na nasze cienkie ramiączka zarzuciła szare swetry. Dobrze, że miałyśmy szanse poprosić ją o parę broszek, choć jej brwi zmarszczyły się wtedy groźnie. Przyszła, a wraz z nią w powietrzu zaczęło pachnieć wanilią, pieprzem, kardamonem i ryżem.
@@ -39,6 +37,7 @@ Czasami, w środku dnia uda mi się włączyć ulubiony, taneczny utwór, a Ona 
 ![Zdjęcie przedstawia zbliżenie na dłonie zapinające złote guziki żółtej kurtki. Na dłoniach jest dużo złotych pierścionków, a paznokcie są koloru srebrnego, widać też szare włosy.](https://assets1.ello.co/uploads/asset/attachment/6311234/ello-optimized-2662cd58.jpg)
 ![Zdjęcie podzielone jest na cztery części i przedstawia dłonie ze złotymi pierścionkami i srebrnymi paznokciami, całość na żółtym tle.](https://assets2.ello.co/uploads/asset/attachment/6311216/ello-optimized-fcca9d40.jpg)
 ![Zdjęcie przedstawia twarz młodej kobiety oświetloną czerwonym światłem, kobieta ma na głowie czarny beret.](https://assets2.ello.co/uploads/asset/attachment/6311212/ello-optimized-c8bc9119.jpg)
+![Zdjęcie przedstawia młodą kobietę ubraną w żółtą pikowaną kurtkę, kobieta ma czarny beret na głowie, pomarańczowe usta, całość na żółtym tle.](https://assets2.ello.co/uploads/asset/attachment/6311175/ello-optimized-adff9eaf.jpg)
 
 I nagle staje się coś, czego się nie spodziewałam. Przestaje padać, zza chmur przebija słońce, którego promienie ‘zapalają’ kolory liści. Żółcień kadmowa, pomarańcz, cynober, karmin, tyle odcieni, mieni się, wznosi za podmuchem wiatru, opada zgodnie z ziemskim prawem. No – mówię – może się jakoś dogadamy. Skinęła głową, odwróciła się i odeszła stukając spiczastymi botkami z czarnego zamszu o granitową posadzkę chodnika, a klasyczny beżowy trencz z obniżonym stanem budował jej posągowość. Z ławki po lewej stronie alejki zapomniała zabrać kaszkietu i szalika. Szybko złapałam dodatki sezonu i pobiegłam za nią.
 
@@ -46,3 +45,4 @@ I nagle staje się coś, czego się nie spodziewałam. Przestaje padać, zza chm
 Ah, Cała Ta Jesień.
 </olela-narrative>
 
+![](
