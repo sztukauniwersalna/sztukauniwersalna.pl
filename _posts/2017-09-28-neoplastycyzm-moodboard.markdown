@@ -3,6 +3,13 @@ title: Neoplastycyzm [moodboard]
 date: 2017-09-28 19:15:00 +02:00
 categories:
 - Sztuka dla Sztuki
+tags:
+- neoplasticism
+- moodboard
+- art
+- sztuka
+- artysta
+- kierunek
 ---
 
 W latach 1917-1928 Theo van Doesburg wydawał w Holandii czasopismo "De Stijl" (po niderlandzku 'styl'). W pierwszym numerze wydrukowany został manifest malarza Piet'a Mondrian'a. Przedstawiał on zarys nowego programu artystycznego. 'Neoplastycyzm' zakładał oddziaływanie poprzez przeciwieństwa, piony vs poziomy, siła aktywna na przeciw biernej. W neoplastycyzmie wyróżniamy:
