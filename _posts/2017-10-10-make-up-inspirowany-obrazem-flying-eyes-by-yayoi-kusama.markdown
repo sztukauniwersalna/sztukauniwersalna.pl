@@ -30,11 +30,11 @@ Działania Yayoi sięgają poprzez malarstwo, rzeźbę, instalację, literaturę
 
 ![Zdjęcie przedstawia młodą kobietę w mocnym makijażu w czerwonej bluzce, na żółto-niebieskim tle. Dookoła kobiety widzimy czerwone koła.](https://assets0.ello.co/uploads/asset/attachment/6343943/ello-optimized-ba04c6d0.jpg)
 
-Podobno Kusama już jako dziecko miewała halucynacje. Pierwszym z zapamiętanych przez nią obrazów jest przemawiająca do niej dynia. Był to też jej ulubiony obiekt ćwiczeń rysunkowych - 
+Podobno Kusama już jako dziecko miewała halucynacje. Pierwszym z zapamiętanych przez nią obrazów jest przemawiająca do niej dynia. Był to też jej ulubiony obiekt ćwiczeń rysunkowych: 
 <olela-narrative>
 „Gdy słońce wschodziło ponad Higashiyamą, stawałam przed dynią, zapominając o całym świecie, koncentrowałam całkowicie swój umysł na formie, która znajdowała się przede mną. Podobnie jak Bodhidharma [pierwszy patriarcha buddyzmu zen], który spędził dziesięć lat, zwracając się w stronę kamiennej ściany, spędziłam miesiąc na konfrontacji z pojedynczą dynią. Żałowałam nawet czasu na sen” 
 </olela-narrative>
-- wspomina.
+
 
 ![Zdjęcie przedstawia połowę twarzy młodej kobiety z czerwonymi ustami, druga połowa jest domalowana czarną kreską na białym tle.](https://assets0.ello.co/uploads/asset/attachment/6343945/ello-optimized-308e262c.jpg)
 
