@@ -19,9 +19,10 @@ Termin ten po raz pierwszy użyty został przez angielskiego krytyka sztuki Lawr
 
 ![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu graficznych czarnych i żółtych elementów, widzimy postać Marilyn Monroe, puszkę, kobiecą twarz zbudowaną z kropek z żółtymi włosami.](https://assets0.ello.co/uploads/asset/attachment/6354483/ello-optimized-42b4b370.jpg)
 ![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu białych i czarnych elementów. Widzimy torebkę, buty, marynarkę, sukienkę, kolczyki w kształcie oczu, twarz kobiety w mocnym makijażu, modelki pozujące w sukienkach.](https://assets0.ello.co/uploads/asset/attachment/6354488/ello-optimized-75a8c10d.jpg)
-![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu biało-czarno-żółtych elementów graficznych. Widzimy kobietę siedzącą, dwa krzesła, obraz ust palących papierosa, kanapę w kształcie ust.](https://assets0.ello.co/uploads/asset/attachment/6354490/ello-optimized-6a1370ee.jpg)
+![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu biało-czarno-żółtych elementów graficznych. Widzimy kobietę siedzącą, dwa krzesła, obraz ust palących papierosa, kanapę w kształcie ust.](https://assets0.ello.co/uploads/asset/attachment/6354739/ello-optimized-d610e265.jpg)
 ![Obraz przedstawia różne zdjęcia na niebieskim tle, widzimy komiksową chmurkę, hot doga, rękę trzymającą różowego banana, wielką rzeźbę loda na dachu budynku, kolaż znanego artysty.](https://assets2.ello.co/uploads/asset/attachment/6354494/ello-optimized-4b7f690d.jpg)
-![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu żółtych elementów, widzimy kolaż znanego artysty, fotografię przedstawiającą postać oblepioną produktami spożywczymi, zdjęcie kolorowego budynku, na samym dole znajdują się białe napisy na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6354496/ello-optimized-218339b6.jpg
+![Obraz przedstawia różne zdjęcia na niebieskim tle w otoczeniu żółtych elementów, widzimy kolaż znanego artysty, fotografię przedstawiającą postać oblepioną produktami spożywczymi, zdjęcie kolorowego budynku, na samym dole znajdują się białe napisy na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6354496/ello-optimized-218339b6.jpg)
 
 Zajrzyjcie do NINATEKI na odcinek 'Przewodnika po sztuce'
-http://ninateka.pl/film/przewodnik-po-sztuce-odc-4-pop-art
+
+* http://ninateka.pl/film/przewodnik-po-sztuce-odc-4-pop-art
