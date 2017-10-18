@@ -48,4 +48,33 @@ Przygotowałam parę wskazówek, na co warto zwracać uwagę w sklepach z tanią
 
 Jeśli przeszłaś przez wszystkie powyższe punkty i nadal nosisz daną rzecz w koszyku, to znaczy, że pora zapytać o cenę. W większości sklepów z tanią odzieżą towar sprzedaje się na wagę. To oznacza, że np. w poniedziałek kupimy kilogram ubrań za 70zł, a w środę już za 30zł. Zdarzają się sklepy, w których jednego dnia tygodnia wszystko kosztuje 1zł (nazywam to ‘czystki’, ponieważ właściciele w ten sposób pozbywają się większości rzeczy, robiąc miejsce na nową dostawę. Działa tutaj zasada: „Tylko złotówka? Kupuję!”). Istnieją też miejsca, gdzie odzież jest z góry wyceniona. Są to zazwyczaj sklepy, gdzie znajdziemy ubrania nie noszące zbytniej ilości śladów użytkowania, niezniszczone, czasami też nowe. Odłamem ‘taniej odzieży’ są tzw. ‘komisy’. Tam mamy pewność, że ubrania będą dobrej jakości, od dobrych projektantów lecz używane lub też sprzed kilku/kilkunastu sezonów. Cena ubrań w komisach nie jest już taka niska i nieraz sięga kilkuset złotych.
 
-Okej. Przyjmijmy, że znajdujesz się w sklepie, gdzie wszystko jest na wagę. Jeśli wybrana przez Ciebie rzecz jest zrobiona z aksamitu, czy też bawełny to zapewne zapłacisz stosunkowo niewiele, bo waga tych tkanin jest niewielka. Jeśli z kolei wybrałaś rzecz, która ma zamki błyskawiczne, ćwieki, sprzączki, czy inne metalowe elementy, wtedy możesz spodziewać się wyższej ceny. Od Ciebie zależy decyzja, czy jesteś w stanie wydać określoną sumę pieniędzy w zamian za daną rzecz. Nawet jeśli okaże się, że dana torebka kosztuje 80zł, a Ty masz pewność, że jest to oryginalna torebka od Versace to wtedy myślę, że wybór jest prosty. Nigdzie indziej nie znajdziesz jej za taką cenę. 
+![](
+![](
+
+Okej. Przyjmijmy, że znajdujesz się w sklepie, gdzie wszystko jest na wagę. Jeśli wybrana przez Ciebie rzecz jest zrobiona z aksamitu, czy też bawełny to zapewne zapłacisz stosunkowo niewiele, bo waga tych tkanin jest niewielka. Jeśli z kolei wybrałaś rzecz, która ma zamki błyskawiczne, ćwieki, sprzączki, czy inne metalowe elementy, wtedy możesz spodziewać się wyższej ceny. Od Ciebie zależy decyzja, czy jesteś w stanie wydać określoną sumę pieniędzy w zamian za daną rzecz. Nawet jeśli okaże się, że dana torebka kosztuje 80zł, a Ty masz pewność, że jest to oryginalna torebka od Versace to wtedy myślę, że wybór jest prosty. Nigdzie indziej nie znajdziesz jej za taką cenę.
+
+![Obraz przedstawia kwadraty w jednej linii, w trzech kolorach.](https://assets0.ello.co/uploads/asset/attachment/6380028/ello-optimized-fceec68e.jpg)
+
+<olela-narrative>
+Stylizacja 1:
+</olela-narrative>
+koszula: Ralph Lauren (tania odzież)
+pasek: Ralph Lauren (tania odzież)
+spódnica: Ankra handmade (uszyta z dresówki)
+skarpetki: Nessi sportswear
+buty: Stradivarius
+czapka: H&M
+
+<olela-narrative>
+Stylizacja 2:
+</olela-narrative>
+spódnica: Diesel (tania odzież)
+bluzka: Vila (tania odzież)
+kurtka: no name (tania odzież x Olela)
+rajstopy: Gatta
+skarpetki: Nessi sportswear
+buty: Zara
+zegarek: Timex
+choker: Stradivarius
+
+
