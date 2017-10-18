@@ -30,6 +30,9 @@ Chyba każda z nas marzyła kiedyś lub marzy o rzeczy od ‘znanego projektanta
 
 Żyjemy w świecie, który coraz bardziej pędzi. Chcemy więcej, szybciej, taniej. Dzisiejszym luksusem nie są już same materiały, lecz sposób ich obróbki. Rzeczy wykonane ręcznie z olbrzymią precyzją są świetne jakościowo, ale też drogie. Nie każdy może pozwolić sobie na szafę jedwabnych kreacji najwyższej jakości. Dlatego powstały sieciówki, tam znajdziemy modne fasony za niewielką cenę. Niestety takie sklepy często robią nas w przysłowiowego ‘konia’, gdyż chcąc zminimalizować koszty produkcji, a zmaksymalizować dochód, oszczędzają na materiałach i produkcji, a my zwyczajnie przepłacamy. Nie jest jednak z góry powiedziane, że wszystkie rzeczy wykonane z poliestru są marnej jakości. Czasami do włókien naturalnych dodaję się syntetyk, aby przedłużyć jego trwałość lub np. spowodować, że materiał nie będzie wymagał prasowania. Jak uniknąć przepłacania? Kupować taniej, kupować bardzo tanio – kupować w taniej odzieży!
 
+![Obraz przedstawia dwa zdjęcia, z lewej strony na mniejszym zdjęciu widzimy kobiecą postać odwróconą tyłem, w krótkiej spódniczce, białych skarpetkach, czarnych butach, całość na niebieskim tle. Z prawej strony, też na niebieskim tle, zbliżenie na postać ze zdjęcia po lewej stronie.](https://assets0.ello.co/uploads/asset/attachment/6379894/ello-optimized-21606a53.jpg)
+![Zdjęcie przedstawia młodą kobietę w tanecznej pozie na niebieskim tle, kobieta ubrana jest w krótką spódniczkę, kurtkę, białe skarpety, czarne buty, włosy ma zebrane w dwa koczki, a usta pomalowane na ciemny kolor.](https://assets1.ello.co/uploads/asset/attachment/6380026/ello-optimized-5b18d0cb.jpg)
+
 
 Przygotowałam parę wskazówek, na co warto zwracać uwagę w sklepach z tanią odzieżą. Dlatego jeśli jeszcze nie próbowałeś tego typu ‘łowów’, albo boisz się pierwszego razu – koniecznie przeczytaj, zanotuj i zapamiętaj!
 
