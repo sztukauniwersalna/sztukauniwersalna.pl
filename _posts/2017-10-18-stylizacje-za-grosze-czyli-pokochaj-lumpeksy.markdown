@@ -58,23 +58,13 @@ Okej. Przyjmijmy, że znajdujesz się w sklepie, gdzie wszystko jest na wagę. J
 <olela-narrative>
 Stylizacja 1:
 </olela-narrative>
-koszula: Ralph Lauren (tania odzież)
-pasek: Ralph Lauren (tania odzież)
-spódnica: Ankra handmade (uszyta z dresówki)
-skarpetki: Nessi sportswear
-buty: Stradivarius
-czapka: H&M
+
+koszula: Ralph Lauren (tania odzież) / pasek: Ralph Lauren (tania odzież) / spódnica: Ankra handmade (uszyta z dresówki) / skarpetki: Nessi sportswear / buty: Stradivarius / czapka: H&M
 
 <olela-narrative>
 Stylizacja 2:
 </olela-narrative>
-spódnica: Diesel (tania odzież)
-bluzka: Vila (tania odzież)
-kurtka: no name (tania odzież x Olela)
-rajstopy: Gatta
-skarpetki: Nessi sportswear
-buty: Zara
-zegarek: Timex
-choker: Stradivarius
+
+spódnica: Diesel (tania odzież) / bluzka: Vila (tania odzież) / kurtka: no name (tania odzież x Olela) / rajstopy: Gatta / skarpetki: Nessi sportswear / buty: Zara / zegarek: Timex / choker: Stradivarius
 
 
