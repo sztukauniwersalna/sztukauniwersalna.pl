@@ -67,4 +67,11 @@ Stylizacja 2:
 
 spódnica: Diesel (tania odzież) / bluzka: Vila (tania odzież) / kurtka: no name (tania odzież x Olela) / rajstopy: Gatta / skarpetki: Nessi sportswear / buty: Zara / zegarek: Timex / choker: Stradivarius
 
+<olela-narrative>
+Stylizacja 3:
+</olela-narrative>
+
+sukienka: Papaya (tania odzież) / golf: promod / rękawiczki: Edmins / beret: Liz Claiborne (tania odzież) / torebka: no name (tania odzież) / rajstopy: Gatta / buty: Badura
+
+
 
