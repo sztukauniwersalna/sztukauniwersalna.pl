@@ -23,7 +23,8 @@ tags:
 
 Chyba każda z nas marzyła kiedyś lub marzy o rzeczy od ‘znanego projektanta’, nie każdą z nas niestety na nie stać. Dlatego właśnie wymyślono tanią odzież, potocznie: lumpeksy, lumpy, szmateksy, ciucholandy itp. Osobiście jestem wielką zwolenniczką tego typu sklepów. Dlaczego? Nie tylko dlatego, że można tam upolować niezłe skarby, ale przede wszystkim dlatego, że kupuję tam rzeczy z historią i dokładam do nich kawałek swojej historii. Nieraz zdarza się też, że znajduję ubranie zupełnie nowe, z metką, nienoszone, a na dodatek dobrej jakości i za 1zł. Poza tym uwielbiam sam rytuał szukania, przeglądania ubrań, myślenia  z czym można daną rzecz połączyć, jak ewentualnie przerobić za duże spodnie czy bluzkę (nazywam to kreatywnością). Nigdy też nie wyrzucam ubrań na śmietnik, tylko daję komuś, komu się przydadzą, albo oddaję do domów opieki lub wrzucam do kontenera. 
 
-![Obraz podzielony jest na dwie czę](https://assets0.ello.co/uploads/asset/attachment/6379902/ello-optimized-28fb577d.jpg)
+![Obraz przedstawia dwa zdjęcia, po lewej stronie widzimy kobietę w krótkiej spódniczce i kurtce na niebieskim tle, po prawej stronie widzimy zdjęcie czarnego buta na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6379902/ello-optimized-28fb577d.jpg)
+![Zdjęcie przedstawia młodą kobietę na niebieskim tle, kobieta ubrana jest w spódniczkę, kurtkę, ma mocno pomalowane usta, a włosy związane w dwa koki.](https://assets0.ello.co/uploads/asset/attachment/6379891/ello-optimized-337c06d0.jpg)
 
 ## Poliester poliestrowi nierówny.
 
