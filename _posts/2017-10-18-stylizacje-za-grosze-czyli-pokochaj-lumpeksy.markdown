@@ -27,7 +27,7 @@ Chyba każda z nas marzyła kiedyś lub marzy o rzeczy od ‘znanego projektanta
 ![Zdjęcie przedstawia młodą kobietę na niebieskim tle, kobieta ubrana jest w spódniczkę, kurtkę, ma mocno pomalowane usta, a włosy związane w dwa koki.](https://assets0.ello.co/uploads/asset/attachment/6379891/ello-optimized-337c06d0.jpg)
 ![Zdjęcie przedstawia zbliżenie na zegarek, scena oświetlona chłodnym światłem.](https://assets2.ello.co/uploads/asset/attachment/6380128/ello-optimized-df7a57b7.jpg)
 
-## Poliester poliestrowi nierówny.
+## Poliester poliestrowi nierówny
 
 Żyjemy w świecie, który coraz bardziej pędzi. Chcemy więcej, szybciej, taniej. Dzisiejszym luksusem nie są już same materiały, lecz sposób ich obróbki. Rzeczy wykonane ręcznie z olbrzymią precyzją są świetne jakościowo, ale też drogie. Nie każdy może pozwolić sobie na szafę jedwabnych kreacji najwyższej jakości. Dlatego powstały sieciówki, tam znajdziemy modne fasony za niewielką cenę. Niestety takie sklepy często robią nas w przysłowiowego ‘konia’, gdyż chcąc zminimalizować koszty produkcji, a zmaksymalizować dochód, oszczędzają na materiałach i produkcji, a my zwyczajnie przepłacamy. Nie jest jednak z góry powiedziane, że wszystkie rzeczy wykonane z poliestru są marnej jakości. Czasami do włókien naturalnych dodaję się syntetyk, aby przedłużyć jego trwałość lub np. spowodować, że materiał nie będzie wymagał prasowania. Jak uniknąć przepłacania? Kupować taniej, kupować bardzo tanio – kupować w taniej odzieży!
 
