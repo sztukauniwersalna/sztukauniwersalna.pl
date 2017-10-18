@@ -25,6 +25,7 @@ Chyba każda z nas marzyła kiedyś lub marzy o rzeczy od ‘znanego projektanta
 
 ![Obraz przedstawia dwa zdjęcia, po lewej stronie widzimy kobietę w krótkiej spódniczce i kurtce na niebieskim tle, po prawej stronie widzimy zdjęcie czarnego buta na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/6379902/ello-optimized-28fb577d.jpg)
 ![Zdjęcie przedstawia młodą kobietę na niebieskim tle, kobieta ubrana jest w spódniczkę, kurtkę, ma mocno pomalowane usta, a włosy związane w dwa koki.](https://assets0.ello.co/uploads/asset/attachment/6379891/ello-optimized-337c06d0.jpg)
+![Zdjęcie przedstawia zbliżenie na zegarek, scena oświetlona chłodnym światłem.](https://assets2.ello.co/uploads/asset/attachment/6380128/ello-optimized-df7a57b7.jpg)
 
 ## Poliester poliestrowi nierówny.
 
