@@ -4,6 +4,7 @@ date: 2017-10-19 17:40:00 +02:00
 categories:
 - Sztuka dla Sztuki
 tags:
+- minimalizm
 - minimalism
 - minimal
 - art
