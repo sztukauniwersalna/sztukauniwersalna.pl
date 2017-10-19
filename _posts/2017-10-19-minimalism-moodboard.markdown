@@ -14,7 +14,9 @@ tags:
 - kreacja
 ---
 
-Minimalizm... Jak sama nazwa wskazuje artyści sztuki minimalnej dążyli do redukcji w dziele sztuki. Operowali uproszczoną bryłą, geometrycznymi kształtami, płaszczyznami i skalą. Daleko było im do ekspresji, abstrakcji, jakiegokolwiek przejawu subiektywu w dziele. Eliminowano ślad autorski, zapraszając w ten sposób odbiorcę do spotkania z anonimowym charakterem pracy.
+Minimalizm (lata 60te XX wieku)... Jak sama nazwa wskazuje artyści sztuki minimalnej dążyli do redukcji w dziele sztuki. Operowali uproszczoną bryłą, geometrycznymi kształtami, płaszczyznami i skalą. Daleko było im do ekspresji, do jakiegokolwiek przejawu subiektywu w dziele. Eliminowano ślad autorski, zapraszając w ten sposób odbiorcę do spotkania z anonimowym charakterem pracy.
+Minimalizm cechuje pokrewna postawa do konstruktywizmu w odniesieniu do dyscypliny formalnej, oraz do konceptualizmu na warstwie ideowej.
+Jednak rozmawiać o nim możemy nie tylko w kręgach sztuk wizualnych. Praktycznie równorzędnie na osi czasu zaznacza się minimalizm w muzyce współczesnej (nazywany też muzyką repetycyjną, co jednak trochę spłaszcza całą ideę ). 
 
 
 
