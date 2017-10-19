@@ -5,13 +5,18 @@ categories:
 - Sztuka dla Sztuki
 tags:
 - minimalism
-- moodboard
+- minimal
 - art
+- moodboard
 - sztuka
 - artist
 - artysta
 - kreacja
 ---
+
+Minimalizm... Jak sama nazwa wskazuje artyści sztuki minimalnej dążyli do redukcji w dziele sztuki. Operowali uproszczoną bryłą, geometrycznymi kształtami, płaszczyznami i skalą. Daleko było im do ekspresji, abstrakcji, jakiegokolwiek przejawu subiektywu w dziele. Eliminowano 
+
+
 
 ![Obraz przedstawia różne zdjęcia na białym tle. Widzimy biało-czarne figury geometryczne w paski, geometryczne rzeźby, postaci ubrane w białe koszule, biżuterię.](https://assets0.ello.co/uploads/asset/attachment/6381375/ello-optimized-88c1a139.jpg)
 ![Obraz przedstawia różne zdjęcia na białym tle. Widzimy geometryczne rzeźby, czarno-białe fotografie, głośniki, butelki, czekoladę.](https://assets0.ello.co/uploads/asset/attachment/6381378/ello-optimized-6dc1ba0b.jpg)
