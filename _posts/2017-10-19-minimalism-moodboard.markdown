@@ -18,13 +18,13 @@ Minimalizm (lata 60te XX wieku)... Jak sama nazwa wskazuje artyści sztuki minim
 Minimalizm cechuje pokrewna postawa do konstruktywizmu w odniesieniu do dyscypliny formalnej, oraz do konceptualizmu na warstwie ideowej.
 Jednak rozmawiać o nim możemy nie tylko w kręgach sztuk wizualnych. Praktycznie równorzędnie na osi czasu zaznacza się minimalizm w muzyce współczesnej (nazywany też muzyką repetycyjną, co jednak trochę spłaszcza całą ideę ). W założeniu minimalizm odrzucał skomplikowanie muzyki współczesnej (biorąc pod uwagę przeciętnego odbiorcę). Stawiał na prostotę materiału melodycznego, harmonię, eksponowanie struktur rytmicznych. Myślę, że warto tutaj wspomnieć o postaci John'a Cage'a, którego utwór '4'33' stanowi moim zdaniem kwintesencję ogólnego minimalizmu.
 
-![](
+![Obraz przedstawia kartkę z narysowaną pięciolinią.](https://assets1.ello.co/uploads/asset/attachment/6385513/ello-optimized-a0405c31.jpg)
 
 (http://www.kylegann.com/Miami-CageTalk.html)
 
 
 
-W literaturze znów - kiedy mówimy o redukcji środków wyrazu, ekonomi słów, powierzchowno
+W literaturze znów - kiedy mówimy o redukcji środków wyrazu, ekonomi słów, powierzchowności przekazu, kontekstem koniecznym do zrozumienia sytuacji przedstawianej -  mówimy o minimaliźmie. Postaci w powieściach minimalistycznych są nieprzewidywalni w swoich działaniach, jednak kreują się na przeciętnego człowieka.
 
 
 
