@@ -19,7 +19,6 @@ Minimalizm cechuje pokrewna postawa do konstruktywizmu w odniesieniu do dyscypli
 Jednak rozmawiać o nim możemy nie tylko w kręgach sztuk wizualnych. Praktycznie równorzędnie na osi czasu zaznacza się minimalizm w muzyce współczesnej (nazywany też muzyką repetycyjną, co jednak trochę spłaszcza całą ideę ). W założeniu minimalizm odrzucał skomplikowanie muzyki współczesnej (biorąc pod uwagę przeciętnego odbiorcę). Stawiał na prostotę materiału melodycznego, harmonię, eksponowanie struktur rytmicznych. Myślę, że warto tutaj wspomnieć o postaci John'a Cage'a, którego utwór '4'33' stanowi moim zdaniem kwintesencję minimalizmu w ogóle.
 
 ![Obraz przedstawia kartkę z narysowaną pięciolinią.](https://assets1.ello.co/uploads/asset/attachment/6385513/ello-optimized-a0405c31.jpg)
-
 (http://www.kylegann.com/Miami-CageTalk.html)
 
 
