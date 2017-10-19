@@ -26,7 +26,7 @@ Jednak rozmawiać o nim możemy nie tylko w kręgach sztuk wizualnych. Praktyczn
 
 W literaturze znów - kiedy mówimy o redukcji środków wyrazu, ekonomi słów, powierzchowności przekazu, kontekstem koniecznym do zrozumienia sytuacji przedstawianej -  mówimy o minimaliźmie. Postaci w powieściach minimalistycznych są nieprzewidywalni w swoich działaniach, jednak kreują się na przeciętnego człowieka.
 
-Ostatnio minimalistyczny styl życia święci swoje triumfy. Powstają różne artykuły, ba, całe blogi o tematyce minimalistycznej. Kobiety radzą nam jak ograniczyć zawartość swojej szafy do niezbędnych 'basic'ów, jak po prostu żyć minimalistycznie, z maksymą 'mniej znaczy więcej' na ustach i w głowie. Warto pamiętać, że minimalizm to nie tylko ograniczanie 'rzeczy', kształtów i kolorów, ale przede wszystkim mocne podłoże ideowe, a w odniesieniu do życia - duchowe. Spotkanie z dziełem sztuki minimalistycznej to medytacja, spokój, to przeżycie transcendentne. 
+Ostatnio minimalistyczny styl życia święci swoje triumfy. Powstają różne artykuły, ba, całe blogi o tematyce minimalistycznej. Kobiety radzą nam jak ograniczyć zawartość swojej szafy do niezbędnych 'basic'ów, jak po prostu żyć minimalistycznie, z maksymą 'mniej znaczy więcej' na ustach i w głowie. Warto pamiętać, że minimalizm to nie tylko ograniczanie 'rzeczy', kształtów i kolorów, ale przede wszystkim mocne podłoże ideowe, a w odniesieniu do życia - duchowe. Spotkanie z dziełem sztuki minimalistycznej to medytacja, spokój, to przeżycie transcendentne. Wkraczanie w jego obszar to spacer po ogrodzie zen, a ten, każdy z nas musi odnaleźć sam.
 
 
 
