@@ -19,3 +19,21 @@ tags:
 <olela-narrative>
 W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rodzinie od pokoleń) i dobry - to ciasto zawsze wychodzi, a dodatkowo zostawia pole do popisu Twojej wyobraźni (na wierzch ciasta położyłam pasy ciasta, tworząc kratę, a Ty - może masz pomysł na inne kształty?).
 </olela-narrative>
+
+<div>
+  <Recipe
+    title='Geometryczna szarlotka'
+    time='120 minut'
+    level='łatwy'
+    mealFor='15 osób'
+    photo='https://assets2.ello.co/uploads/asset/attachment/6401877/ello-optimized-acbac144.jpg'
+    altText='Zdjęcie przedstawia czerwony talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajduje się ciasto z jabłkami.'
+  >
+    <Ingredient title='jabłka' quantity='10 średnich' />
+    <Ingredient title='mąka pszenna' quantity='3 i 1/2 szklanki' />
+    <Ingredient title='cukier puder' quantity='1/2 szklanki' />
+    <Ingredient title='masło' quantity='1 kostka' />
+    <Ingredient title='jaja' quantity='4' />
+    <Ingredient title='proszek do pieczenia' quantity='2 czubate łyżeczki' />
+    <Method>
+Obieram wszystkie jabłka i kroję w drobną kostkę. Wrzucam do garnka, zalewam odrobiną wody i duszę do miękko
