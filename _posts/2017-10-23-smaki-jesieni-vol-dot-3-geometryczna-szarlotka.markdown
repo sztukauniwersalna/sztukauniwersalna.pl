@@ -41,3 +41,6 @@ Obieram wszystkie jabłka (u mnie odmiana 'ligol') i kroję w drobną kostkę. W
     </Method>
   </Recipe>
 </div>
+
+![Zdjęcie przedstawia ciasto z jabłkami na czerwonym talerzu.](https://assets1.ello.co/uploads/asset/attachment/6401889/ello-optimized-f23c386a.jpg)
+![Zdjęcie przedstawia zbliżenie na ciasto z jabłkami na czerwonym talerzu.](https://assets2.ello.co/uploads/asset/attachment/6401901/ello-optimized-01997911.jpg)
