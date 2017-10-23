@@ -37,4 +37,4 @@ W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rod
     <Ingredient title='jaja' quantity='4' />
     <Ingredient title='proszek do pieczenia' quantity='2 czubate łyżeczki' />
     <Method>
-Obieram wszystkie jabłka (u mnie odmiana 'ligol') i kroję w drobną kostkę. Wrzucam do garnka, zalewam odrobiną wody, kropię sokiem z cytryny, zasypuję brązowym cukrem i duszę do miękkości. W międzyczasie przygotowuję ciasto. Mieszam mąkę z proszkiem do pieczenia, cukrem pudrem i zimnym masłem (dokładnie tak, jak zagniata się kruche ciasto). Wbijam jaja i wyrabiam rękoma. Dzielę na dwie równe części i wsadzam na pół godziny do lodówki.
+Obieram wszystkie jabłka (u mnie odmiana 'ligol') i kroję w drobną kostkę. Wrzucam do garnka, zalewam odrobiną wody, kropię sokiem z cytryny, zasypuję brązowym cukrem i duszę do miękkości. W międzyczasie przygotowuję ciasto. Mieszam mąkę z proszkiem do pieczenia, cukrem pudrem i zimnym masłem (dokładnie tak, jak zagniata się kruche ciasto). Wbijam jaja i wyrabiam rękoma. Dzielę na dwie równe części i wsadzam na pół godziny do lodówki. Po tym czasie jedną z czę
