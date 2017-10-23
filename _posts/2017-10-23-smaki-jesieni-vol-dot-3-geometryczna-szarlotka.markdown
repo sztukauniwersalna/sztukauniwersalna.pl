@@ -17,7 +17,7 @@ tags:
 ---
 
 <olela-narrative>
-W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rodzinie od pokoleń) i dobry - to ciasto zawsze wychodzi, a dodatkowo zostawia pole do popisu Twojej wyobraźni (na wierzch ciasta położyłam pasy ciasta, tworząc kratę, a Ty - może masz pomysł na inne kształty?).
+W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rodzinie od pokoleń) i dobry - to ciasto zawsze wychodzi. Dodatkowo zostawia pole do popisu Twojej wyobraźni (na wierzch ciasta położyłam pasy ciasta, tworząc kratę, a Ty - może masz pomysł na inne kształty?). Je
 </olela-narrative>
 
 <div>
