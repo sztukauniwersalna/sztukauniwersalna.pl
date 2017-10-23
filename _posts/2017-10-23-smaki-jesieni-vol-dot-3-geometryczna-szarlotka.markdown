@@ -17,7 +17,7 @@ tags:
 ---
 
 <olela-narrative>
-W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rodzinie od pokoleń) i dobry - to ciasto zawsze wychodzi. Dodatkowo zostawia pole do popisu Twojej wyobraźni - ja na wierzch ciasta położyłam pasy ciasta, tworząc kratę. A Ty? Może masz pomysł na inne kształty? Możesz także oprószyć całość cukrem lub cynamonem. Podaj kawałek szarlotki na ciepło z gałką lodów waniliowych, a jesienna chandra minie jak ręką odjął!
+W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rodzinie od pokoleń) i dobry. To ciasto zawsze wychodzi. Dodatkowo zostawia pole do popisu Twojej wyobraźni - ja na wierzch ciasta położyłam pasy ciasta, tworząc kratę. A Ty? Może masz pomysł na inne kształty? Możesz także oprószyć całość cukrem lub cynamonem. Podaj kawałek szarlotki na ciepło z gałką lodów waniliowych, a jesienna chandra minie jak ręką odjął!
 </olela-narrative>
 
 <div>
@@ -35,7 +35,7 @@ W oryginale 'szarlotka babci Czesi'. Przepis jest bardzo klasyczny, stary (w rod
     <Ingredient title='cukier brązowy' quantity='3 łyżki' />
     <Ingredient title='masło' quantity='1 kostka' />
     <Ingredient title='jaja' quantity='4' />
-    <Ingredient title='proszek do pieczenia' quantity='2 czubate łyżeczki' />
+    <Ingredient title='proszek do pieczenia' quantity='2 łyżeczki' />
     <Method>
 Obieram wszystkie jabłka (u mnie odmiana 'ligol') i kroję w drobną kostkę. Wrzucam do garnka, zalewam odrobiną wody, kropię sokiem z cytryny, zasypuję brązowym cukrem i duszę do miękkości. W międzyczasie przygotowuję ciasto. Mieszam mąkę z proszkiem do pieczenia, cukrem pudrem i zimnym masłem (dokładnie tak, jak zagniata się kruche ciasto). Wbijam jaja i wyrabiam rękoma. Dzielę na dwie równe części i wsadzam na pół godziny do lodówki. Po tym czasie jedną z części rozwałkowuje i wykładam do blachy o średnicy 25 x 40 cm. Wykładam uduszone jabłka i przykrywam drugą częścią ciasta.Tak przygotowane ciasto ląduje na ok. 45 min. do nagrzanego do 180°C. Voilà - najlepiej smakuje na ciepło z lodami waniliowymi.
     </Method>
