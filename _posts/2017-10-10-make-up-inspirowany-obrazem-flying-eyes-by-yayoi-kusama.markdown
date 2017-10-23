@@ -1,6 +1,8 @@
 ---
 title: Make-up inspirowany obrazem. 'Flying_Eyes'_by_Yayoi Kusama
 date: 2017-10-10 18:25:00 +02:00
+categories:
+- Sztuka Makijażu
 tags:
 - kusama
 - yayoi
