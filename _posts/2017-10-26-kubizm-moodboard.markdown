@@ -21,3 +21,17 @@ Wyobraźcie sobie pewien zestaw przedmiotów stojących na stole. Niech to będz
 ![Obraz przedstawia różne zdjęcia na białym tle w otoczeniu geometrycznych granatowych elementów. Widzimy fotografie modelek ubranych w geometryczne stroje, twarze w artystycznym makijażu i rzeźbę.](https://assets1.ello.co/uploads/asset/attachment/6416638/ello-optimized-f69f7e37.jpg)
 ![Obraz przedstawia różne zdjęcia na białym tle w otoczeniu geometrycznych granatowych elementów. Widzimy wazon, torebkę, modelki na wybiegu, ceramiczną wazę, obrazy znanych malarzy.](https://assets1.ello.co/uploads/asset/attachment/6416644/ello-optimized-ebd98038.jpg)
 ![Obraz przedstawia różne zdjęcia na białym tle w otoczeniu geometrycznych granatowych elementów. Widzimy dwa zdjęcia budynków, a na samym dole białe napisy na granatowym tle.](https://assets1.ello.co/uploads/asset/attachment/6416649/ello-optimized-32ffc370.jpg)
+
+„Portret Gertrudy Stein’ Picassa to jeden z pierwszych przejawów nadejścia kubizmu. Przypatrzcie się twarzy kobiety. Zaznacza się na niej charakterystyczna geometryzacja i delikatne przesunięcie elementów. Z tłem również coś się stało, jakby zostało spłaszczone i wykazuje impresjonistyczny charakter. Ten etap rozwoju kubizmu zostanie później nazwany ‘prekubizmem’.
+Następnie przyszedł moment na ‘kubizm analityczny’ (1907 – 1912 r.). Jego charakterystyczną cechą jest monochromatyczna paleta, ograniczająca się do brązów, czerni i szarości. Obiekty na obrazach są jakby ‘pryzmatyczne’, rozbite na drobne elementy. Artyści w pewnym sense odrzucili oko, jako jedyne źródło prawdy o obrazie i zwrócili się w stronę umysłu, który to, przecież nie widzi przedmiotu tylko z jednej strony. Odwoływali się do intelektu widza, włączając w swoje płótna także element czasu. ‘Portret Ambrose Vollard’ (1910 r.) stanowi idealny przykład fragmentu tej osi czasu.
+Później przyszedł moment, kiedy to artyści nieco się zagalopowali i ich prace zaczęły mocno uciekać w stronę abstrakcji (nie można się było doszukać fragmentów przypominających rzeczywistość), co ich przestraszyło i zaczęli poszukiwać nowych sposobów obrazowania, bez konieczności doszczętnego zacierania śladów fizyczności. Okres hermetyczny (1912- 1913 r.) to czas kiedy kontury obiektu są ledwo widoczne, geometryczne kształty wzajemnie się przenikają, a dla podtrzymania formalnego charakteru zaczęto dodawać do obrazów drukowane litery. W następnym czasie dojdzie do włączenia wycinków z gazet w obraz. Kolażowanie to już cecha kubizmu syntetycznego (1914 – lata 20ste).
+
+Swój wkład w rozwój kubizmu wnieśli:
+* Juan Gris
+* Georges Braque
+* Fernand Leger
+* Pablo Picasso
+* Francis Picabia
+* Jean Metzinger
+* Albert Gleizes
+* Louis Marcoussis
