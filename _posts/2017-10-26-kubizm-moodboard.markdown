@@ -29,7 +29,7 @@ Później przyszedł moment, kiedy to artyści nieco się zagalopowali i ich pra
 Swój wkład w rozwój kubizmu wnieśli:
 * Juan Gris
 * Georges Braque
-* Fernand Leger
+* Fernand Léger
 * Pablo Picasso
 * Francis Picabia
 * Jean Metzinger
