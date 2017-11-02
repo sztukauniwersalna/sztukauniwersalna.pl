@@ -20,3 +20,11 @@ tags:
 ![Obraz przedstawia różne zdjęcia na blado-różowym tle. Widzimy kobietę w czerwonej sukni, naszyjnik na białym manekinie, obraz, filiżankę.](https://assets2.ello.co/uploads/asset/attachment/6434572/ello-optimized-291ac1d4.jpg)
 ![Obraz przedstawia różne zdjęcia na blado-różowym tle. Widzimy zdjęcia różnych budynków, fotografię, obraz z gołębiem.](https://assets0.ello.co/uploads/asset/attachment/6434576/ello-optimized-e3632a97.jpg)
 ![Zdjęcie przedstawia ciemno-brązowe napisy na beżowym tle.](https://assets2.ello.co/uploads/asset/attachment/6434577/ello-optimized-fba91b4c.jpg)
+
+<olela-narrative>
+André Breton, 'Manifest surrealizmu', fragmenty:
+</olela-narrative>
+
+> Droga wyobraźnio, najbardziej w tobie kocham to, 
+> że nie przebaczasz.
+
