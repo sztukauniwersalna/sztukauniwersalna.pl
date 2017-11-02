@@ -15,7 +15,7 @@ tags:
 ---
 
 <olela-narrative>
-André Breton, 'Manifest surrealizmu', 1924, fragmenty:
+André Breton, 'Manifest surrealizmu' (1924 r.), fragmenty:
 </olela-narrative>
 
 > Droga wyobraźnio, najbardziej w tobie kocham to, 
