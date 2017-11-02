@@ -64,5 +64,11 @@ we wszechpotęgę marzenia, w bezinteresowną grę myśli.
 >
 > ~ André Breton ('Manifest surrealizmu' 1924 r.) tłum. Adam Ważyk
 
+> Surrealizm to ja.
+>
+> ~ Salvador Dali (o sobie).
 
+> (…) wciąż jestem skłonny uważać surrealistów (…) za stuprocentowych wariatów.
+>
+> ~ Zygmunt Freud (po spotkaniu z Salvadorem Dalim) Źródło: „Przegląd powszechny”, Druk Wł. L. Anczyca i Spółki, 1996, s. 347.
 
