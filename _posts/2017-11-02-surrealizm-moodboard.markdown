@@ -34,5 +34,7 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 
 > Strach przed obłędem nie zmusi nas do zatrzymania sztandaru wyobraźni w połowie masztu.
 
-
+> Jeżeli w głębinach naszego umysłu kryją się dziwne siły, zdolne do pomnażania sił na powierzchni, 
+> albo do staczania z nimi zwycięskiej walki, to jak najbardziej warto je schwytać, przede wszystkim schwytać, aby potem, 
+> jeżeli zdołamy, poddać je kontroli naszego umysłu.
 
