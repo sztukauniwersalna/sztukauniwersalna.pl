@@ -38,4 +38,10 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > albo do staczania z nimi zwycięskiej walki, to jak najbardziej warto je schwytać, przede wszystkim schwytać, aby potem, 
 > jeżeli zdołamy, poddać je kontroli naszego umysłu.
 
-> Umysł człowieka 
+> Umysł człowieka śniącego jest całkowicie zadowolony z tego, co się dzieje. Nie wyłania się niepokojące pytanie, 
+> co jest, a co nie jest możliwe. Zabijaj, szybuj w powietrzu, kochaj, ile zechcesz. A jeśli umierasz, czy nie masz pewności, 
+> że powstaniesz z martwych? Pozwól się prowadzić, 
+> twoja zwłoka nie zwolni biegu wydarzeń. Nie masz imienia.
+> Wszystko przychodzi z nieocenioną łatwością.
+
+
