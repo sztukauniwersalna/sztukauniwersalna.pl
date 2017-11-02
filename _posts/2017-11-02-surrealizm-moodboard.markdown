@@ -28,12 +28,9 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 ![Obraz przedstawia różne zdjęcia na blado-różowym tle. Widzimy zdjęcia różnych budynków, fotografię, obraz z gołębiem.](https://assets0.ello.co/uploads/asset/attachment/6434576/ello-optimized-e3632a97.jpg)
 ![Zdjęcie przedstawia ciemno-brązowe napisy na beżowym tle.](https://assets2.ello.co/uploads/asset/attachment/6434577/ello-optimized-fba91b4c.jpg)
 
-<olela-narrative>
-André Breton, 'Manifest surrealizmu', fragmenty:
-</olela-narrative>
-
-> Droga wyobraźnio, najbardziej w tobie kocham to, 
-> że nie przebaczasz.
+> Mógłbym spędzić życie na zachęcaniu wariatów do zwierzeń. 
+> Są to ludzie nieposzlakowanej uczciwości, których prostoduszność może się równać tylko z moją. 
+> Dla odkrycia Ameryki trzeba było, ażeby Kolumb wybrał się w drogę z kupą wariatów. I spójrzcie, jak to wariactwo wcieliło się w życie i trwa po dzień dzisiejszy.
 
 
 
