@@ -68,9 +68,12 @@ we wszechpotęgę marzenia, w bezinteresowną grę myśli.
 
 
 
+
 > Surrealizm to ja.
 >
 > ~ Salvador Dali (o sobie).
+
+
 
 
 
