@@ -44,4 +44,6 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > twoja zwłoka nie zwolni biegu wydarzeń. Nie masz imienia.
 > Wszystko przychodzi z nieocenioną łatwością.
 
+> Wierzę w to, że te dwa na pozór tak przeciwstawne sobie stany, jak sen i jawa, w przyszłości stopią się w pewnego rodzaju rzeczywistość absolutną, w nadrealność, jeśli to można tak nazwać. Wyruszam na jej zdobycie, pewien, że jej nie osiągnę, 
+> ale tak mało myślę o swojej śmierci, że jednak po trosze liczę na radość tego osiągnięcia.
 
