@@ -15,7 +15,7 @@ tags:
 ---
 
 <olela-narrative>
-André Breton, 'Manifest surrealizmu', fragmenty:
+André Breton, 'Manifest surrealizmu', 1924, fragmenty:
 </olela-narrative>
 
 > Droga wyobraźnio, najbardziej w tobie kocham to, 
@@ -57,5 +57,12 @@ we wszechpotęgę marzenia, w bezinteresowną grę myśli.
 > działa jak narkotyk; podobnie jak narkotyk stwarza pewien stan łaknienia i może pchnąć człowieka do straszliwych wybuchów.
 
 > Z obrazami surrealistycznymi dzieje się tak samo, jak z obrazami wytwarzanymi przez opium, człowiek ich nie przywołuje,
-> ale "same się nasuwają spontanicznie, narzucają się przemocą. Nie może się ich pozbyć, bo wola jest bezsilna, i nie panuje już nad władzami umysłu".
+> ale "same się nasuwają spontanicznie, narzucają się przemocą. Nie może się ich pozbyć, bo wola jest bezsilna, i nie panuje już nad władzami umysłu". (cyt. Baudelaire)
+
+>Tylko słowo wolność potrafi mnie jeszcze porwać.
+
+>
+> ~ André Breton ('Manifest surrealizmu' 1924 r.) tłum. Adam Ważyk
+
+
 
