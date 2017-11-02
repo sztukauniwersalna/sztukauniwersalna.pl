@@ -48,9 +48,9 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > ale tak mało myślę o swojej śmierci, że jednak po trosze liczę na radość tego osiągnięcia.
 
 > Surrealizm; Czysty automatyzm psychiczny, który ma służyć do wyrażenia bądź w słowie, bądź w piśmie, bądź innym sposobem, rzeczywistego funkcjonowania myśli. 
-> Dyktowanie myśli wolne od wszelkiej kontroli umysłu, poza wszelkimi względami estetycznymi czy moralnymi. (...)
-> Surrealizm opiera się na wierze w nadrzędną rzeczywistość pewnych form skojarzeniowych dotąd lekceważonych, 
-> we wszechpotęgę marzenia, w bezinteresowną grę myśli. 
+Dyktowanie myśli wolne od wszelkiej kontroli umysłu, poza wszelkimi względami estetycznymi czy moralnymi. (...)
+Surrealizm opiera się na wierze w nadrzędną rzeczywistość pewnych form skojarzeniowych dotąd lekceważonych, 
+we wszechpotęgę marzenia, w bezinteresowną grę myśli. 
 > Dąży do ostatecznego zniszczenia wszelkich innych mechanizmów psychicznych i zajęcia ich miejsca w rozwiązywaniu podstawowych zagadnień życia.
 
 > Ci, którzy się poświęcają surrealizmowi, nie mogą go porzucić, kiedy im się podoba. Wszystko wskazuje na to, że surrealizm 
