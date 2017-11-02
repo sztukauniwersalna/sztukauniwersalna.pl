@@ -65,17 +65,13 @@ we wszechpotęgę marzenia, w bezinteresowną grę myśli.
 ~ André Breton ('Manifest surrealizmu' 1924 r.) tłum. Adam Ważyk
 </olela-narrative>
 
-
-
-
+![Obraz przedstawia trzy kształty przypominające fale w odcieniach beżu.](https://assets0.ello.co/uploads/asset/attachment/6450689/ello-optimized-8d3c19ae.jpg)
 
 > Surrealizm to ja.
 >
 > ~ Salvador Dali (o sobie).
 
-
-
-
+![Obraz przedstawia trzy kształty przypominające fale w odcieniach beżu.](https://assets0.ello.co/uploads/asset/attachment/6450689/ello-optimized-8d3c19ae.jpg)
 
 > (…) wciąż jestem skłonny uważać surrealistów (…) za stuprocentowych wariatów.
 >
