@@ -1,6 +1,17 @@
 ---
 title: Surrealizm [moodboard]
 date: 2017-11-02 15:12:00 +01:00
+categories:
+- Sztuka dla Sztuki
+tags:
+- surrealizm
+- surrealism
+- nadrealizm
+- moodboard
+- sztuka
+- artysta
+- art
+- kreacja
 ---
 
 ![Obraz przedstawia różne elementy i zdjęcia na blado-różowym tle. Widzimy kawałek pizzy, fotografię portretową i zdjęcia obrazów.](https://assets2.ello.co/uploads/asset/attachment/6434565/ello-optimized-6114c15d.jpg)
