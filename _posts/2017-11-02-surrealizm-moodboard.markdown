@@ -47,3 +47,15 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > Wierzę w to, że te dwa na pozór tak przeciwstawne sobie stany, jak sen i jawa, w przyszłości stopią się w pewnego rodzaju rzeczywistość absolutną, w nadrealność, jeśli to można tak nazwać. Wyruszam na jej zdobycie, pewien, że jej nie osiągnę, 
 > ale tak mało myślę o swojej śmierci, że jednak po trosze liczę na radość tego osiągnięcia.
 
+> Surrealizm; Czysty automatyzm psychiczny, który ma służyć do wyrażenia bądź w słowie, bądź w piśmie, bądź innym sposobem, rzeczywistego funkcjonowania myśli. 
+> Dyktowanie myśli wolne od wszelkiej kontroli umysłu, poza wszelkimi względami estetycznymi czy moralnymi. (...)
+> Surrealizm opiera się na wierze w nadrzędną rzeczywistość pewnych form skojarzeniowych dotąd lekceważonych, 
+> we wszechpotęgę marzenia, w bezinteresowną grę myśli. 
+> Dąży do ostatecznego zniszczenia wszelkich innych mechanizmów psychicznych i zajęcia ich miejsca w rozwiązywaniu podstawowych zagadnień życia.
+
+> Ci, którzy się poświęcają surrealizmowi, nie mogą go porzucić, kiedy im się podoba. Wszystko wskazuje na to, że surrealizm 
+> działa jak narkotyk; podobnie jak narkotyk stwarza pewien stan łaknienia i może pchnąć człowieka do straszliwych wybuchów.
+
+> Z obrazami surrealistycznymi dzieje się tak samo, jak z obrazami wytwarzanymi przez opium, człowiek ich nie przywołuje,
+> ale "same się nasuwają spontanicznie, narzucają się przemocą. Nie może się ich pozbyć, bo wola jest bezsilna, i nie panuje już nad władzami umysłu".
+
