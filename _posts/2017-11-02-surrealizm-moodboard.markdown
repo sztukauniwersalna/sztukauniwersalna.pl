@@ -61,8 +61,9 @@ we wszechpotęgę marzenia, w bezinteresowną grę myśli.
 
 >Tylko słowo wolność potrafi mnie jeszcze porwać.
 
->
-> ~ André Breton ('Manifest surrealizmu' 1924 r.) tłum. Adam Ważyk
+<olela-narrative>
+~ André Breton ('Manifest surrealizmu' 1924 r.) tłum. Adam Ważyk
+</olela-narrative>
 
 > Surrealizm to ja.
 >
