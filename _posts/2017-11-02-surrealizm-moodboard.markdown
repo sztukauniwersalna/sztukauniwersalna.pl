@@ -32,5 +32,7 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > Są to ludzie nieposzlakowanej uczciwości, których prostoduszność może się równać tylko z moją. 
 > Dla odkrycia Ameryki trzeba było, ażeby Kolumb wybrał się w drogę z kupą wariatów. I spójrzcie, jak to wariactwo wcieliło się w życie i trwa po dzień dzisiejszy.
 
+> Strach przed obłędem nie zmusi nas do zatrzymania sztandaru wyobraźni w połowie masztu.
+
 
 
