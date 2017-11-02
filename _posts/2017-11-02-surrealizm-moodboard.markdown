@@ -38,3 +38,4 @@ André Breton, 'Manifest surrealizmu', fragmenty:
 > albo do staczania z nimi zwycięskiej walki, to jak najbardziej warto je schwytać, przede wszystkim schwytać, aby potem, 
 > jeżeli zdołamy, poddać je kontroli naszego umysłu.
 
+> Umysł człowieka 
