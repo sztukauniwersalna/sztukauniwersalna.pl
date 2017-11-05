@@ -42,9 +42,9 @@
     "isomorphic-style-loader": "^4.0.0",
     "jsdom": "^11.3.0",
     "json-loader": "^0.5.4",
-    "loader-utils": "^1.1.0",
     "markdown-it": "^8.3.1",
     "npm": "^5.5.1",
+    "paramorph": "^1.4.5",
     "parrot-layout": "^1.2.4",
     "postcss-loader": "^2.0.8",
     "prop-types": "^15.6.0",
@@ -60,8 +60,7 @@
     "url-loader": "^0.5.9",
     "val-loader": "^1.0.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4",
-    "yml-loader": "^2.0.1"
+    "webpack-dev-server": "^2.9.4"
   },
   "dependencies": {}
 }

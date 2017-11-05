@@ -8452,17 +8452,35 @@
       "dev": true
     },
     "paramorph": {
-      "version": "1.0.2",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.0.2.tgz",
-      "integrity": "sha512-22y2ireQbUZplyctG7TWgCqvPhGk/OkmfqWB58FFphYdeb85MqarWu4uZ6jHQWN0Kcqv/3ikaS3EOhK4F4yHNg==",
+      "version": "1.4.5",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.4.5.tgz",
+      "integrity": "sha512-yAi5iWQeSKIcF7owrFfQfwDKrt/ZVbpqog5HKPga5kwQtTBHeq/MUIX0LRPDyi/AVQ1FFZfFoCm9Z9zVZkqqeQ==",
       "dev": true,
       "requires": {
+        "js-yaml": "3.10.0",
+        "loader-utils": "1.1.0",
         "react": "16.0.0",
         "react-dom": "16.0.0",
         "react-hot-loader": "3.1.1",
         "react-router-dom": "4.2.2"
       },
       "dependencies": {
+        "esprima": {
+          "version": "4.0.0",
+          "resolved": "https://registry.npmjs.org/esprima/-/esprima-4.0.0.tgz",
+          "integrity": "sha512-oftTcaMu/EGrEIu904mWteKIv8vMuOgGYo7EhVJJN00R/EED9DCua/xxHRdYnKtcECzVg7xOWhflvJMnqcFZjw==",
+          "dev": true
+        },
+        "js-yaml": {
+          "version": "3.10.0",
+          "resolved": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.10.0.tgz",
+          "integrity": "sha512-O2v52ffjLa9VeM43J4XocZE//WT9N0IiwDa3KSHH7Tu8CtH+1qM8SIZvnsTh6v+4yFy5KUY3BHUVwjpfAWsjIA==",
+          "dev": true,
+          "requires": {
+            "argparse": "1.0.9",
+            "esprima": "4.0.0"
+          }
+        },
         "react": {
           "version": "16.0.0",
           "resolved": "https://registry.npmjs.org/react/-/react-16.0.0.tgz",
@@ -8495,7 +8513,7 @@
       "integrity": "sha512-cU5uI1dJ0w+HcXPIH15pv7wq8Lm5ht685rJ16ytvRMgQzQAZgbCl0jdTk+kGJbfVlWiPBHUCRvewt5Jcuc7KMw==",
       "dev": true,
       "requires": {
-        "paramorph": "1.0.2"
+        "paramorph": "1.4.5"
       }
     },
     "parse-asn1": {
@@ -11436,34 +11454,6 @@
       "resolved": "https://registry.npmjs.org/yallist/-/yallist-2.1.2.tgz",
       "integrity": "sha1-HBH5IY8HYImkfdUS+TxmmaaoHVI=",
       "dev": true
-    },
-    "yml-loader": {
-      "version": "2.1.0",
-      "resolved": "https://registry.npmjs.org/yml-loader/-/yml-loader-2.1.0.tgz",
-      "integrity": "sha512-mo42d5FQWlXxpyTEpYywPu1LzK3F69pPPCOB8WKgJi8s+aqaogQP7XnXTjSobbKzzlZ/wXm7kg9CkP4x4ZnVMw==",
-      "dev": true,
-      "requires": {
-        "js-yaml": "3.9.1",
-        "loader-utils": "1.1.0"
-      },
-      "dependencies": {
-        "esprima": {
-          "version": "4.0.0",
-          "resolved": "https://registry.npmjs.org/esprima/-/esprima-4.0.0.tgz",
-          "integrity": "sha512-oftTcaMu/EGrEIu904mWteKIv8vMuOgGYo7EhVJJN00R/EED9DCua/xxHRdYnKtcECzVg7xOWhflvJMnqcFZjw==",
-          "dev": true
-        },
-        "js-yaml": {
-          "version": "3.9.1",
-          "resolved": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.9.1.tgz",
-          "integrity": "sha512-CbcG379L1e+mWBnLvHWWeLs8GyV/EMw862uLI3c+GxVyDHWZcjZinwuBd3iW2pgxgIlksW/1vNJa4to+RvDOww==",
-          "dev": true,
-          "requires": {
-            "argparse": "1.0.9",
-            "esprima": "4.0.0"
-          }
-        }
-      }
     }
   }
 }
