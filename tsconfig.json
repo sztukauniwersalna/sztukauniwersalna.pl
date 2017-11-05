@@ -25,7 +25,6 @@
     "types": [
       "webpack",
       "webpack-env",
-      "react",
       "react-dom",
       "react-router-dom",
       "react-hot-loader",

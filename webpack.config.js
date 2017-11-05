@@ -28,7 +28,6 @@ module.exports = {
     extensions: ['.ts', '.tsx', '.js', '.json', '.yml', '.yaml', '.markdown', '.scss'],
     alias: {
       'paramorph': path.resolve(__dirname, './__paramorph/'),
-      'parrot-layout': path.resolve(__dirname, './_layouts/parrot/'),
       'includes': path.resolve(__dirname, './_includes/'),
     }
   },
@@ -88,12 +87,11 @@ module.exports = {
         ]
       },
       {
-        test: /\.scss?$/,
+        test: /\.css?$/,
         use: [
           { loader: 'isomorphic-style-loader' },
           { loader: 'css-loader', options: { importLoaders: true, modules: true } },
           { loader: 'postcss-loader' },
-          { loader: 'sass-loader' },
         ],
       },
       {
