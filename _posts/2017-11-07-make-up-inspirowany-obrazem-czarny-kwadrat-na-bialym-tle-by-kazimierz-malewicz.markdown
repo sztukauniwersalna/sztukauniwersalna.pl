@@ -33,6 +33,7 @@ Kazimierz Malewicz urodził się w 1879 roku w Kijowie. Przez wiele lat pracowa�
 odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat przedstawień i pragnień. (...)
 > Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie nieprzedmiotowości: kwadrat = wrażenie,
 białe tło = »nicość« poza tym wrażeniem”
+>
 > ~ (Malewicz Kazimierz 2006, Świat bezprzedmiotowy, tłum. S. Fijałkowski, Słowo/Obraz Terytoria, Gdańsk: 66, 74)
 
 Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
@@ -48,14 +49,14 @@ Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemni
 
 > Za przyczyną suprematyzmu sztuka doszła do teraz do samej siebie – do swej czystej, nieutylitarnej formy – i poznała
 > oczywistość bezprzedmiotowego doznania, to w konsekwencji próbuje ustanowić nowy, prawdziwy porządek świata oraz nowy światopogląd.
+>
 > ~ (Kazimierz Malewicz, Świat bezprzedmiotowy, Słowo/Obraz/Terytoria, Gdańsk 2006, s. 98)
 
 
 ![Obraz przedstawia czarne kwadraty na białym tle ustawione obok siebie w linii.](https://assets1.ello.co/uploads/asset/attachment/6474062/ello-optimized-5aca4f04.jpg)
 
 1. Kazimierz Malewicz, Suprematystyczne zwierciadło [w:] Andrzej Turowski, Między sztuką a komuną: teksty awangardy rosyjskiej 1910-1932, Universitas, Kraków 1998, s. 178
-
-Korzystałam z tekstów:
-* Paweł Możdżyński „Inicjacje i transgresje. Antystrukturalność sztuki XX i XXI wieku w oczach socjologa”, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2011 (rozdział „Abstrakcja”).
+2. Korzystałam z tekstów:
+* Paweł Możdżyński „Inicjacje i transgresje. Antystrukturalność sztuki XX i XXI wieku w oczach socjologa”, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2011 (rozdział pt.: „Abstrakcja”).
 * Przemysław Chodań „Suprematyzm Kazimierza Malewicza jako przykład awangardowej utopii” (http://teksty.bunkier.art.pl/?id=46)
-* rynekisztuka.pl/2015/11/18/dwie-kompozycje-ukryte-pod-czarnym-kwadratem-malewicza/
+* (rynekisztuka.pl/2015/11/18/dwie-kompozycje-ukryte-pod-czarnym-kwadratem-malewicza/)
