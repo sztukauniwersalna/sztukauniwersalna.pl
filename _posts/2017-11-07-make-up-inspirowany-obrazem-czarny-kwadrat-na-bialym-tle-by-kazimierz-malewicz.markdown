@@ -25,3 +25,14 @@ tags:
 
 ![Obraz przedstawia dwa zdjęcia twarzy kobiety, która ma na ustach namalowany czarny kwadrat. Kobieta ma na jednym zdjęciu otwarte oczy a na drugim zamknięte.](https://assets0.ello.co/uploads/asset/attachment/6474040/ello-optimized-8daa4bf3.jpg)
 
+Kazimierz Malewicz urodził się w 1879 roku w Kijowie. Przez wiele lat pracował nad własną teorią sztuki. Szukał takiej formy komunikacji, która byłaby bezpośrednim wyrazem duchowej natury rzeczywistości. ‘Czarny kwadrat na białym tle’ po raz pierwszy pokazano w 1915 r. Obraz ten stanowi najmniejszy malarski atom, jednocześnie nie odsyła nas do żadnego innego obiektu, poza nim samym. Jest składnikiem wszystkiego i wszystkim zarazem. Jego moc oddziaływania równa jest mocy ikony. Obraz ten jest pierwszą próbą ujęcia świata w ramy bezprzedmiotowości. W następstwach, po okresie czarnym przyjdzie czas na okres barwny i biały. Szczytowym osiągnięciem okresu białego (1918 – 1919 r.), a zarazem punktem gdzie kończy i zaczyna się suprematyzm jest dzieło ‘Biały kwadrat na białym tle’. W rozumieniu artysty jest to kres malarstwa. Tu kończy się poznanie – idealna czystość, nicość, pustka, bezgraniczna przestrzeń, uniwersum, absolut. Jedyną formą artystycznego wyrazu miała od tej pory stać się filozofia.
+
+![Zdjęcie przedstawia twarz kobiety z szarymi włosami patrzącej w prawą stronę. Kobieta ma na ustach namalowany czarny kwadrat.](https://assets1.ello.co/uploads/asset/attachment/6474045/ello-optimized-4f16c7c7.jpg)
+
+> Nie wystawiłem »pustego kwadratu«, lecz wrażenie nieprzedmiotowości.
+> Zrozumiałem, że »przedmiot« i [jego] »wyobrażenie« były niesłusznie brane za 
+odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat przedstawień i 
+> pragnień. [...] Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie 
+nieprzedmiotowości: kwadrat = wrażenie, białe tło = »nicość« poza tym wrażeniem”
+> ~ (Malewicz Kazimierz 2006, Świat bezprzedmiotowy, tłum. S. Fijałkowski, Słowo/Obraz Terytoria, Gdańsk: 66, 74)
+
