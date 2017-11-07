@@ -36,6 +36,8 @@ odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat prze
 nieprzedmiotowości: kwadrat = wrażenie, białe tło = »nicość« poza tym wrażeniem”
 > ~ (Malewicz Kazimierz 2006, Świat bezprzedmiotowy, tłum. S. Fijałkowski, Słowo/Obraz Terytoria, Gdańsk: 66, 74)
 
+Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
+
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Na zdjęciach przedstawiona jest kobieta w białej bluzce z czarnym kwadratem na ustach. Zdjęcie z prawej strony jest mniejsze.](https://assets2.ello.co/uploads/asset/attachment/6474055/ello-optimized-11c8424b.jpg)
 
 
