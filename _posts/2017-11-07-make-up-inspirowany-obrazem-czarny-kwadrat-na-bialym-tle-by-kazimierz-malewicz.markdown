@@ -17,7 +17,7 @@ tags:
 - sztuka
 ---
 
-![Zdjęcie przedstawia kobietę ubraną na biało, na bialym tle. Kobieta ma szare włosy, a na ustach ma namalowany czarny kwadrat.](https://assets2.ello.co/uploads/asset/attachment/6474036/ello-optimized-b7d22d41.jpg)
+![Zdjęcie przedstawia kobietę ubraną na biało, na białym tle. Kobieta ma szare włosy, a na ustach ma namalowany czarny kwadrat.](https://assets2.ello.co/uploads/asset/attachment/6474036/ello-optimized-b7d22d41.jpg)
 
 <olela-narrative>
 ‘Phi! Takie coś to pięcioletnie dziecko potrafi namalować!’ Ty też słyszałeś podobne stwierdzenia w galerii sztuki współczesnej? Zapewne zastanowiłeś się, czy to ignorancja, czy niezrozumienie. W moim rozumieniu chodzi o to drugie. Wielu osobom ‘sztuka’ kojarzy się tylko i wyłącznie z wysoko rozwiniętym warsztatem, niejednokrotnie, a wręcz przeważnie, dotyka ono wątków realistycznych. Jeśli coś jest namalowane dobrze, odwzorowuje rzeczywistość w sposób dokładny, to wtedy można nazwać to sztuką. Problem w tym, że podstawowe pytanie jakie powinniśmy sobie zadać przełamując wieki naszych art studies to ‘Co’, a nie ‘Jak’. Ah, no i oczywiście najważniejsza kwestia – zapytaj, czy jesteś gotów zapytać.
@@ -31,8 +31,8 @@ Kazimierz Malewicz urodził się w 1879 roku w Kijowie. Przez wiele lat pracowa�
 
 > Nie wystawiłem »pustego kwadratu«, lecz wrażenie nieprzedmiotowości. Zrozumiałem, że »przedmiot« i [jego] »wyobrażenie« były niesłusznie brane za 
 odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat przedstawień i pragnień. (...)
-> Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie nieprzedmiotowości: kwadrat = wrażenie, 
-> białe tło = »nicość« poza tym wrażeniem”
+> Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie nieprzedmiotowości: kwadrat = wrażenie,
+białe tło = »nicość« poza tym wrażeniem”
 > ~ (Malewicz Kazimierz 2006, Świat bezprzedmiotowy, tłum. S. Fijałkowski, Słowo/Obraz Terytoria, Gdańsk: 66, 74)
 
 Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
@@ -44,8 +44,11 @@ Suprematyzm wierzy w możliwość dotarcia do Prawdy, do prawdziwej wiedzy. Inst
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Na zdjęciach przedstawiona jest kobieta w białej bluzce z czarnym kwadratem na ustach. Zdjęcie z prawej strony jest mniejsze.](https://assets2.ello.co/uploads/asset/attachment/6474055/ello-optimized-11c8424b.jpg)
 ![Zdjęcie przedstawia portret kobiety w geometrycznymi elementami. Kobieta ma usta pomalowane na czarno, szare włosy i białą bluzkę. Całość w czarnej ramce.](https://assets1.ello.co/uploads/asset/attachment/6474060/ello-optimized-c85f9324.jpg)
 
-Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemnicę obrazu ‘Czarny kwadrat na białym tle’. Pod tym, co na pierwszy rzut oka widać na płótnie kryją się dwie barwne kompozycje. Warstwa umieszczona najniżej to obraz w kubistycznym klimacie. Na nim natomiast (warstwa pośrodku) znajduje się kompozycje protosuprematyczna. Szczerze wątpię w celowość tego zabiegu. Malewicz zapewne, jak każdy artysta, poszukiwał właściwych środków wyrazu zamalowując nieudane kompozycje. Z doświadczenia wiem, że ten zabieg często stosuję się z czystej oszczędności. Myślę jednak, że stanowi to wartość dodaną dzieła. Teoria suprematyzmu w  odniesieniu do warstwowego charakteru nabiera dla mnie dodatkowej mocy przekazu. 
+Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemnicę obrazu ‘Czarny kwadrat na białym tle’. Pod tym, co na pierwszy rzut oka widać na płótnie kryją się dwie barwne kompozycje. Warstwa umieszczona najniżej to obraz w kubistycznym klimacie. Na nim natomiast (warstwa pośrodku) znajduje się kompozycje protosuprematyczna. Szczerze wątpię w celowość tego zabiegu. Malewicz zapewne, jak każdy artysta, poszukiwał właściwych środków wyrazu zamalowując nieudane kompozycje. Z doświadczenia wiem, że ten zabieg często stosuję się z czystej oszczędności. Myślę jednak, że stanowi to wartość dodaną dzieła. Teoria suprematyzmu w  odniesieniu do warstwowego charakteru nabiera dla mnie dodatkowej mocy przekazu.
 
+> Za przyczyną suprematyzmu sztuka doszła do teraz do samej siebie – do swej czystej, nieutylitarnej formy – i poznała
+> oczywistość bezprzedmiotowego doznania, to w konsekwencji próbuje ustanowić nowy, prawdziwy porządek świata oraz nowy światopogląd.
+> ~ (Kazimierz Malewicz, Świat bezprzedmiotowy, Słowo/Obraz/Terytoria, Gdańsk 2006, s. 98)
 
 
 ![Obraz przedstawia czarne kwadraty na białym tle ustawione obok siebie w linii.](https://assets1.ello.co/uploads/asset/attachment/6474062/ello-optimized-5aca4f04.jpg)
