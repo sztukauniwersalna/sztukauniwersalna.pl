@@ -38,7 +38,7 @@ białe tło = »nicość« poza tym wrażeniem”
 
 Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
 
-![Obraz przedstawia zdjęcie ust pomalowanych na czarno i czarny kwadrat na białym tle z prawej strony.](https://assets2.ello.co/uploads/asset/attachment/6474049/ello-optimized-c134bb1d.jpg)
+![Obraz przedstawia zdjęcie ust pomalowanych na czarno i czarny kwadrat na białym tle z prawej strony.](https://assets2.ello.co/uploads/asset/attachment/6474846/ello-optimized-7562029a.jpg)
 
 Suprematyzm wierzy w możliwość dotarcia do Prawdy, do prawdziwej wiedzy. Instrumentem poznawczym czyni Malewicz intuicję. Tylko ona bowiem pozwala odczuć jedność. ‘Bóg, Dusza, Życie, Religia, Technika, Sztuka, Nauka, Intelekt, Wizja świata, Praca, Ruch, Przestrzeń, Czas = 0’ [1]. Zero w tym wypadku symbolizuje istotę rzeczywistości, do której dotrzeć można tylko poprzez prawdę. W transformacji naszej świadomości na poziomie poznawczym ma pomóc suprematyzm.
 
