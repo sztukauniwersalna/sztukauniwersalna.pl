@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'Czarny_kwadrat_na_białym tle'_by_Kazimierz Malewicz
+title: Make-up inspirowany obrazem. 'Czarny_kwadrat_na_białym tle' by Kazimierz Malewicz
 date: 2017-11-07 14:44:00 +01:00
 categories:
 - Sztuka Makijażu
@@ -29,11 +29,10 @@ Kazimierz Malewicz urodził się w 1879 roku w Kijowie. Przez wiele lat pracowa�
 
 ![Zdjęcie przedstawia twarz kobiety z szarymi włosami patrzącej w prawą stronę. Kobieta ma na ustach namalowany czarny kwadrat.](https://assets1.ello.co/uploads/asset/attachment/6474045/ello-optimized-4f16c7c7.jpg)
 
-> Nie wystawiłem »pustego kwadratu«, lecz wrażenie nieprzedmiotowości.
-> Zrozumiałem, że »przedmiot« i [jego] »wyobrażenie« były niesłusznie brane za 
-odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat przedstawień i 
-> pragnień. [...] Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie 
-nieprzedmiotowości: kwadrat = wrażenie, białe tło = »nicość« poza tym wrażeniem”
+> Nie wystawiłem »pustego kwadratu«, lecz wrażenie nieprzedmiotowości. Zrozumiałem, że »przedmiot« i [jego] »wyobrażenie« były niesłusznie brane za 
+odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat przedstawień i pragnień. (...)
+> Czarny kwadrat na białym tle był pierwszą formą wyrażającą doznanie nieprzedmiotowości: kwadrat = wrażenie, 
+> białe tło = »nicość« poza tym wrażeniem”
 > ~ (Malewicz Kazimierz 2006, Świat bezprzedmiotowy, tłum. S. Fijałkowski, Słowo/Obraz Terytoria, Gdańsk: 66, 74)
 
 Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
