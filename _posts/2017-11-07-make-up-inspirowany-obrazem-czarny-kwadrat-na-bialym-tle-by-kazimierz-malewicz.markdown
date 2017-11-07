@@ -20,10 +20,10 @@ tags:
 ![Zdjęcie przedstawia kobietę ubraną na biało, na białym tle. Kobieta ma szare włosy, a na ustach ma namalowany czarny kwadrat.](https://assets2.ello.co/uploads/asset/attachment/6474036/ello-optimized-b7d22d41.jpg)
 
 <olela-narrative>
-‘Phi! Takie coś to pięcioletnie dziecko potrafi namalować!’ Ty też słyszałeś podobne stwierdzenia w galerii sztuki współczesnej? Zapewne zastanowiłeś się, czy to ignorancja, czy niezrozumienie. W moim rozumieniu chodzi o to drugie. Wielu osobom ‘sztuka’ kojarzy się tylko i wyłącznie z wysoko rozwiniętym warsztatem, niejednokrotnie, a wręcz przeważnie, dotyka ono wątków realistycznych. Jeśli coś jest namalowane dobrze, odwzorowuje rzeczywistość w sposób dokładny, to wtedy można nazwać to sztuką. Problem w tym, że podstawowe pytanie jakie powinniśmy sobie zadać przełamując wieki naszych art studies to ‘Co’, a nie ‘Jak’. Ah, no i oczywiście najważniejsza kwestia – zapytaj, czy jesteś gotów zapytać.
+‘Phi! Takie coś to pięcioletnie dziecko potrafi namalować!’ Ty też słyszałeś podobne stwierdzenia w galerii sztuki współczesnej? Zapewne zastanowiłeś się, czy to ignorancja, czy niezrozumienie. W moim rozumieniu chodzi o to drugie. Wielu osobom ‘sztuka’ kojarzy się tylko i wyłącznie z wysoko rozwiniętym warsztatem, niejednokrotnie, a wręcz przeważnie, dotyka ono wątków realistycznych. Jeśli coś jest namalowane dobrze, odwzorowuje rzeczywistość w sposób dokładny, to wtedy można nazwać to sztuką. Problem w tym, że podstawowe pytanie jakie powinniśmy sobie zadać przełamując wieki naszych art studies to ‘Co’, a nie ‘Jak’. Ach, no i oczywiście najważniejsza kwestia – zapytaj, czy jesteś gotów zapytać.
 </olela-narrative>
 
-![Obraz przedstawia dwa zdjęcia twarzy kobiety, która ma na ustach namalowany czarny kwadrat. Kobieta ma na jednym zdjęciu otwarte oczy a na drugim zamknięte.](https://assets0.ello.co/uploads/asset/attachment/6474040/ello-optimized-8daa4bf3.jpg)
+![Obraz przedstawia dwa zdjęcia twarzy kobiety, która ma na ustach namalowany czarny kwadrat. Kobieta ma na jednym zdjęciu otwarte oczy a na drugim zamknięte.](https://assets2.ello.co/uploads/asset/attachment/6474732/ello-optimized-780c137a.jpg)
 
 Kazimierz Malewicz urodził się w 1879 roku w Kijowie. Przez wiele lat pracował nad własną teorią sztuki. Szukał takiej formy komunikacji, która byłaby bezpośrednim wyrazem duchowej natury rzeczywistości. ‘Czarny kwadrat na białym tle’ po raz pierwszy pokazano w 1915 r. Obraz ten stanowi najmniejszy malarski atom, jednocześnie nie odsyła nas do żadnego innego obiektu, poza nim samym. Jest składnikiem wszystkiego i wszystkim zarazem. Jego moc oddziaływania równa jest mocy ikony. Obraz ten jest pierwszą próbą ujęcia świata w ramy bezprzedmiotowości. W następstwach, po okresie czarnym przyjdzie czas na okres barwny i biały. Szczytowym osiągnięciem okresu białego (1918 – 1919 r.), a zarazem punktem gdzie kończy i zaczyna się suprematyzm jest dzieło ‘Biały kwadrat na białym tle’. W rozumieniu artysty jest to kres malarstwa. Tu kończy się poznanie – idealna czystość, nicość, pustka, bezgraniczna przestrzeń, uniwersum, absolut. Jedyną formą artystycznego wyrazu miała od tej pory stać się filozofia.
 
@@ -56,7 +56,10 @@ Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemni
 ![Obraz przedstawia czarne kwadraty na białym tle ustawione obok siebie w linii.](https://assets1.ello.co/uploads/asset/attachment/6474062/ello-optimized-5aca4f04.jpg)
 
 1. Kazimierz Malewicz, Suprematystyczne zwierciadło [w:] Andrzej Turowski, Między sztuką a komuną: teksty awangardy rosyjskiej 1910-1932, Universitas, Kraków 1998, s. 178
-2. Korzystałam z tekstów:
+
+
+Korzystałam z tekstów:
+
 * Paweł Możdżyński „Inicjacje i transgresje. Antystrukturalność sztuki XX i XXI wieku w oczach socjologa”, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2011 (rozdział pt.: „Abstrakcja”).
 * Przemysław Chodań „Suprematyzm Kazimierza Malewicza jako przykład awangardowej utopii” (http://teksty.bunkier.art.pl/?id=46)
 * (rynekisztuka.pl/2015/11/18/dwie-kompozycje-ukryte-pod-czarnym-kwadratem-malewicza/)
