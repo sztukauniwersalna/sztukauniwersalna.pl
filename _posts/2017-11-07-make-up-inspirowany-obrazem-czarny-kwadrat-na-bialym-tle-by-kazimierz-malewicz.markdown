@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'Czarny_kwadrat_na_białym tle' by Kazimierz Malewicz
+title: Make-up inspirowany obrazem. 'Czarny_kwadrat_na_białym_tle' by Kazimierz Malewicz
 date: 2017-11-07 14:44:00 +01:00
 categories:
 - Sztuka Makijażu
@@ -53,4 +53,9 @@ Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemni
 
 ![Obraz przedstawia czarne kwadraty na białym tle ustawione obok siebie w linii.](https://assets1.ello.co/uploads/asset/attachment/6474062/ello-optimized-5aca4f04.jpg)
 
-1. Kazimierz Malewicz, Suprematystyczne zwierciadło [w:] Andrzej Turowski, Między sztuką a komuną: teksty awangardy rosyjskiej 1910-1932, Universitas, Kraków 1998, s. 178 
+1. Kazimierz Malewicz, Suprematystyczne zwierciadło [w:] Andrzej Turowski, Między sztuką a komuną: teksty awangardy rosyjskiej 1910-1932, Universitas, Kraków 1998, s. 178
+
+Korzystałam z tekstów:
+* Paweł Możdżyński „Inicjacje i transgresje. Antystrukturalność sztuki XX i XXI wieku w oczach socjologa”, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2011 (rozdział „Abstrakcja”).
+* Przemysław Chodań „Suprematyzm Kazimierza Malewicza jako przykład awangardowej utopii” (http://teksty.bunkier.art.pl/?id=46)
+* rynekisztuka.pl/2015/11/18/dwie-kompozycje-ukryte-pod-czarnym-kwadratem-malewicza/
