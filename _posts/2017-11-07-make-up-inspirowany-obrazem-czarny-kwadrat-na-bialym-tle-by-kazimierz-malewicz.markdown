@@ -37,6 +37,17 @@ odzwierciedlenie wrażenia, i zobaczyłem, jak nieprawdziwy był ten świat prze
 
 Więc chodzi o wrażenie z jakim pozostawia nas artysta. Jedynie świat bezprzedmiotowy jest światem realnym, wolnym od wyobrażeń, czystym. Sztuka przedstawiająca pełna jest złudzeń. Abstrakcja jest natomiast ‘wyrazem czystego doznania’. Kwadraty stają się nośnikiem metafizycznych treści.
 
+![Obraz przedstawia zdjęcie ust pomalowanych na czarno i czarny kwadrat na białym tle z prawej strony.](https://assets2.ello.co/uploads/asset/attachment/6474049/ello-optimized-c134bb1d.jpg)
+
+Suprematyzm wierzy w możliwość dotarcia do Prawdy, do prawdziwej wiedzy. Instrumentem poznawczym czyni Malewicz intuicję. Tylko ona bowiem pozwala odczuć jedność. ‘Bóg, Dusza, Życie, Religia, Technika, Sztuka, Nauka, Intelekt, Wizja świata, Praca, Ruch, Przestrzeń, Czas = 0’ [1]. Zero w tym wypadku symbolizuje istotę rzeczywistości, do której dotrzeć można tylko poprzez prawdę. W transformacji naszej świadomości na poziomie poznawczym ma pomóc suprematyzm.
+
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Na zdjęciach przedstawiona jest kobieta w białej bluzce z czarnym kwadratem na ustach. Zdjęcie z prawej strony jest mniejsze.](https://assets2.ello.co/uploads/asset/attachment/6474055/ello-optimized-11c8424b.jpg)
+![Zdjęcie przedstawia portret kobiety w geometrycznymi elementami. Kobieta ma usta pomalowane na czarno, szare włosy i białą bluzkę. Całość w czarnej ramce.](https://assets1.ello.co/uploads/asset/attachment/6474060/ello-optimized-c85f9324.jpg)
+
+Za pomocą nowoczesnej aparatury rentgenowskiej i mikroskopów ujawniono tajemnicę obrazu ‘Czarny kwadrat na białym tle’. Pod tym, co na pierwszy rzut oka widać na płótnie kryją się dwie barwne kompozycje. Warstwa umieszczona najniżej to obraz w kubistycznym klimacie. Na nim natomiast (warstwa pośrodku) znajduje się kompozycje protosuprematyczna. Szczerze wątpię w celowość tego zabiegu. Malewicz zapewne, jak każdy artysta, poszukiwał właściwych środków wyrazu zamalowując nieudane kompozycje. Z doświadczenia wiem, że ten zabieg często stosuję się z czystej oszczędności. Myślę jednak, że stanowi to wartość dodaną dzieła. Teoria suprematyzmu w  odniesieniu do warstwowego charakteru nabiera dla mnie dodatkowej mocy przekazu. 
 
 
+
+![Obraz przedstawia czarne kwadraty na białym tle ustawione obok siebie w linii.](https://assets1.ello.co/uploads/asset/attachment/6474062/ello-optimized-5aca4f04.jpg)
+
+1. Kazimierz Malewicz, Suprematystyczne zwierciadło [w:] Andrzej Turowski, Między sztuką a komuną: teksty awangardy rosyjskiej 1910-1932, Universitas, Kraków 1998, s. 178 
