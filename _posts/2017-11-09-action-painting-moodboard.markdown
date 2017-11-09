@@ -18,6 +18,7 @@ tags:
 ![Obraz przedstawia fotografie na szarym tle z elementami przypominającymi chlapnięcia farby. Widzimy obuwie, talerz, tabliczkę czekolady.](https://assets1.ello.co/uploads/asset/attachment/6479020/ello-optimized-5a140bef.jpg)
 ![Obraz przedstawia fotografie na szarym tle z elementami przypominającymi chlapnięcia farby. Widzimy obraz, modelkę na wybiegu, artystę przy pracy i czarne napisy na dole.](https://assets2.ello.co/uploads/asset/attachment/6479025/ello-optimized-a6f32712.jpg)
 
-> Moje malarstwo to moja egzystencja.
+> Moje malarstwo to 
+> moja egzystencja.
 >
 > ~ Jackson Pollock
