@@ -1,6 +1,8 @@
 ---
 title: Action_Painting [moodboard]
 date: 2017-11-09 19:05:00 +01:00
+categories:
+- Sztuka dla Sztuki
 tags:
 - action
 - painting
