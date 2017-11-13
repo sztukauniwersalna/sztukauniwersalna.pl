@@ -26,5 +26,7 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 ![Zdjęcie przedstawia serię siedmiu prac wykonanych w technice graficznej, zawieszonych na białej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511900/ello-optimized-0e903f20.jpg)
 ![Zdjęcie przedstawia trzy rysunki oprawione w ramki, na których widzimy ludzi grających na instrumentach, człowieka z bykiem i byka.](https://assets1.ello.co/uploads/asset/attachment/6511904/ello-optimized-9f75a68a.jpg)
 ![Zdjęcie przedstawia pracę znanego artysty Pabla Picassa zawieszoną na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511905/ello-optimized-4503451a.jpg)
+![Zdjęcie przedstawia trzy rysunki znanego artysty Pabla Picassa. Rysunki mają charakter abstrakcyjny.](https://assets1.ello.co/uploads/asset/attachment/6511910/ello-optimized-380747e1.jpg)
+![Zdjęcie przedstawia otwartą księgę z tekstem i rysunkiem w środku.](https://assets0.ello.co/uploads/asset/attachment/6511913/ello-optimized-1ccf30c0.jpg)
 
 ## Pikasy
