@@ -1,5 +1,5 @@
 ---
-title: "„Picasso – wizerunek wielokrotny” Muzeum Lubelskie_w_Lublinie"
+title: "„Picasso – wizerunek wielokrotny” Muzeum Lubelskie w Lublinie"
 date: 2017-11-13 19:32:00 +01:00
 categories:
 - Sztuka dla Sztuki
@@ -17,4 +17,12 @@ W kolejnej sali wita nas pokaźny zbiór grafik. Głównie są to litografie mon
 ![Zdjęcie przedstawia kobietę z krótkimi włosami oglądającą obraz Pabla Picassa.](https://assets0.ello.co/uploads/asset/attachment/6511882/ello-optimized-7650857d.jpg)
 ![Zdjęcie przedstawia jedną z grafik znanego artysty Pabla Picassa. Grafika przedstawia portret kobiety.](https://assets2.ello.co/uploads/asset/attachment/6511890/ello-optimized-457d8010.jpg)
 
-## 
+## Piętro II
+
+Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. Ciemne ściany z niewielkich rozmiarów pracami, które są reinterpretacją słynnego dzieła hiszpańskiego malarza Diego Velázquez’a ‘Las Meninas’, czyli ‘Panny dworskie’. Jest to seria 58 prac, które Pablo Picasso namalował w 1957 r. Znajdują się obecnie w [Museo Picasso](http://www.museupicasso.bcn.cat/) Barcelonie i jest to jedyna kompletna seria obrazów, która zachowała się w całości. Chwila, chwila. Skoro, prace są w Barcelonie, to z czym mamy do czynienia na wystawie, na której się znajdujemy? Otóż z wydrukami… Tak, wydruki niewielkich rozmiarów zostały umieszczone w ramkach i powieszone na ścianie. Niekiedy ukazują one fragmenty, zbliżenia, detale poszczególnych prac z cyklu. Drugie piętro przeszłyśmy zdecydowanie szybciej od pierwszego.
+
+![Zdjęcie przedstawia rysunek kobiety podpierającej głowę ręką.](https://assets2.ello.co/uploads/asset/attachment/6511885/ello-optimized-795df6ec.jpg)
+![Zdjęcie przedstawia dwie prace wykonane w technice graficznej, powieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511896/ello-optimized-fea2288d.jpg)
+![Zdjęcie przedstawia serię siedmiu prac zawieszonych na białej ](https://assets1.ello.co/uploads/asset/attachment/6511900/ello-optimized-0e903f20.jpg)
+
+## Pikasy
