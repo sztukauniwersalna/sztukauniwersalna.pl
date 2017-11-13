@@ -23,6 +23,6 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 
 ![Zdjęcie przedstawia rysunek kobiety podpierającej głowę ręką.](https://assets2.ello.co/uploads/asset/attachment/6511885/ello-optimized-795df6ec.jpg)
 ![Zdjęcie przedstawia dwie prace wykonane w technice graficznej, powieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511896/ello-optimized-fea2288d.jpg)
-![Zdjęcie przedstawia serię siedmiu prac zawieszonych na białej ](https://assets1.ello.co/uploads/asset/attachment/6511900/ello-optimized-0e903f20.jpg)
+![Zdjęcie przedstawia serię siedmiu prac wykonanych w technice graficznej, zawieszonych na białej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511900/ello-optimized-0e903f20.jpg)
 
 ## Pikasy
