@@ -46,4 +46,11 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 Zdecydowanie jedna z ciekawszych części ekspozycji. W gablotach znajdziemy tu porcelanowe figurki z Ćmielowa, figurki projektowane przez [IWP](http://www.iwp.com.pl/figurki_sprzedaz_galeria) przedstawiające głównie zwierzęta i ludzi o uproszczonych kształtach, jednak niesamowicie oddające charakter postaci (szczególnie wpadł mi w oko indyk). Wzory inspirowane twórczością Picassa, oraz inne cuda lat 60tych. Moja mama jest miłośniczką polskiego designu i jego kolekcjonerką, dlatego od razu poznała komplety z zakładów w Chodzieży, Wałbrzycha, czy pruszkowski porcelit. Całkiem nieźle bawiłam się wymyślając miejsca na owe okazy w moim domu. Cieszyło mnie to, że mimo tego, że Picasso odwiedził Polskę tylko raz, potrafiliśmy złożyć mu hołd w tak wspaniale twórczy sposób.
 
 ![Zdjęcie przedstawia plakat powieszony na czarnej ścianie. Plakat przedstawia gołębia, widzimy kolor niebieski i żółty akcent.](https://assets0.ello.co/uploads/asset/attachment/6511919/ello-optimized-6572a6dd.jpg)
-![](
+![Zdjęcie przedstawia serię pięciu prac znanego artysty Pabla Picassa zawieszonych na czarnej ścianie. Prace przedstawiają proste formy.](https://assets2.ello.co/uploads/asset/attachment/6511923/ello-optimized-4342ffc2.jpg)
+![Zdjęcie przedstawia pracę znanego artysty Pabla Picassa. Praca wykonana jest w graficznej technice, widzimy postaci i ekspresyjny czerwony kolor.](https://assets0.ello.co/uploads/asset/attachment/6511888/ello-optimized-4503c7e3.jpg)
+
+## Wnioski końcowe
+
+Niestety wyszłam z tej wystawy zawiedziona. Być może szum, który powstał na długo przed jej otwarciem zwiastował w moim rozumieniu coś o wiele lepszego. No cóż. Nie spotkałam rozmaitości dzieł Picassa (spodziewałam się chociaż jednego obrazu), a wydruki prac w ramkach dopełniły czarę rozczarowania. Owszem, zawsze warto zobaczyć na żywo prace tak wybitnego artysty (dodam tylko, że większość prezentowanych tam odbitek to odbitki nieautorskie), jednak to nie one przyczyniły się do mojej opinii. W tym wypadku chodzi głównie o przestrzeń wystawienniczą, światło, sposób rozmieszczenia prac. Zdecydowanie nie jest to wystawa, na którą chciałabym wrócić. Podsumowując:
+
+![Zdjęcie przedstawia rysunek, widzimy czarną zaokrągloną kreskę i kropkę na białym tle.](https://assets2.ello.co/uploads/asset/attachment/6511925/ello-optimized-469d64bb.jpg)
