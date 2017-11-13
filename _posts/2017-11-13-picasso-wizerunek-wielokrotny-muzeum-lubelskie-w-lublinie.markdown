@@ -1,5 +1,5 @@
 ---
-title: "„Picasso – wizerunek_wielokrotny” Muzeum_Lubelskie_w_Lublinie"
+title: "„Picasso – wizerunek wielokrotny” Muzeum Lubelskie_w_Lublinie"
 date: 2017-11-13 19:32:00 +01:00
 categories:
 - Sztuka dla Sztuki
@@ -16,3 +16,5 @@ W kolejnej sali wita nas pokaźny zbiór grafik. Głównie są to litografie mon
 ![Zdjęcie jest mocno zaciemnione, widzimy dłoń trzymającą kubek z kredkami, w tle mocne światło.](https://assets1.ello.co/uploads/asset/attachment/6511877/ello-optimized-e74c582c.jpg)
 ![Zdjęcie przedstawia kobietę z krótkimi włosami oglądającą obraz Pabla Picassa.](https://assets0.ello.co/uploads/asset/attachment/6511882/ello-optimized-7650857d.jpg)
 ![Zdjęcie przedstawia jedną z grafik znanego artysty Pabla Picassa. Grafika przedstawia portret kobiety.](https://assets2.ello.co/uploads/asset/attachment/6511890/ello-optimized-457d8010.jpg)
+
+## 
