@@ -1,8 +1,19 @@
 ---
-title: "„Picasso – wizerunek wielokrotny” Muzeum Lubelskie w Lublinie"
+title: "'Picasso – wizerunek wielokrotny' Muzeum Lubelskie w Lublinie"
 date: 2017-11-13 19:32:00 +01:00
 categories:
 - Sztuka dla Sztuki
+tags:
+- wystawa
+- exhibition
+- picasso
+- lublin
+- recenzja
+- artysta
+- art
+- sztuka
+- kreacja
+- grafika
 ---
 
 Z tą ekspozycją wiązałam dość duże nadzieje. Pablo Picasso na Zamku w Lublinie! Największa taka wystawa (ostatnia wystawa Picassa w tym mieście miała miejsce w 1969 r.), ukazująca ponad 300 dzieł, większość miała przeżyć swój pierwszy raz ‘oko w oko’ z lubelska publicznością. Okazy pochodzące z prywatnych kolekcji, jak i z pierwszego na świecie, powstałego jeszcze za życia mistrza, muzeum jemu poświęconemu - [Musee Picasso Antibes](http://www.antibes-juanlespins.com/culture/musee-picasso). ‘Ekspozycja ukaże różnorodność tematów i technik stosowanych przez Picassa’ przeczytamy na stronie Muzeum Lubelskiego. Czy aby na pewno? Jakie są moje wrażenia po obejrzeniu wystawy przeczytacie w dzisiejszym poście.
@@ -28,5 +39,10 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 ![Zdjęcie przedstawia pracę znanego artysty Pabla Picassa zawieszoną na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511905/ello-optimized-4503451a.jpg)
 ![Zdjęcie przedstawia trzy rysunki znanego artysty Pabla Picassa. Rysunki mają charakter abstrakcyjny.](https://assets1.ello.co/uploads/asset/attachment/6511910/ello-optimized-380747e1.jpg)
 ![Zdjęcie przedstawia otwartą księgę z tekstem i rysunkiem w środku.](https://assets0.ello.co/uploads/asset/attachment/6511913/ello-optimized-1ccf30c0.jpg)
+![Zdjęcie przedstawia dwa rysunki znanego artysty Pabla Picassa. Rysunki są oprawione w ramki i mają charakter abstrakcyjny.](https://assets2.ello.co/uploads/asset/attachment/6511915/ello-optimized-36de745d.jpg)
 
 ## Pikasy
+
+Zdecydowanie jedna z ciekawszych części ekspozycji. W gablotach znajdziemy tu porcelanowe figurki z Ćmielowa, figurki projektowane przez [IWP](http://www.iwp.com.pl/figurki_sprzedaz_galeria) przedstawiające głównie zwierzęta i ludzi o uproszczonych kształtach, jednak niesamowicie oddające charakter postaci (szczególnie wpadł mi w oko indyk). Wzory inspirowane twórczością Picassa, oraz inne cuda lat 60tych. Moja mama jest miłośniczką polskiego designu i jego kolekcjonerką, dlatego od razu poznała komplety z zakładów w Chodzieży, Wałbrzycha, czy pruszkowski porcelit. Całkiem nieźle bawiłam się wymyślając miejsca na owe okazy w moim domu. Cieszyło mnie to, że mimo tego, że Picasso odwiedził Polskę tylko raz, potrafiliśmy złożyć mu hołd w tak wspaniale twórczy sposób.
+
+![](
