@@ -1,5 +1,5 @@
 ---
-title: "'Picasso – wizerunek wielokrotny' Muzeum Lubelskie w Lublinie"
+title: Pablo_Picasso – wizerunek wielokrotny
 date: 2017-11-13 19:32:00 +01:00
 categories:
 - Sztuka dla Sztuki
@@ -45,4 +45,5 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 
 Zdecydowanie jedna z ciekawszych części ekspozycji. W gablotach znajdziemy tu porcelanowe figurki z Ćmielowa, figurki projektowane przez [IWP](http://www.iwp.com.pl/figurki_sprzedaz_galeria) przedstawiające głównie zwierzęta i ludzi o uproszczonych kształtach, jednak niesamowicie oddające charakter postaci (szczególnie wpadł mi w oko indyk). Wzory inspirowane twórczością Picassa, oraz inne cuda lat 60tych. Moja mama jest miłośniczką polskiego designu i jego kolekcjonerką, dlatego od razu poznała komplety z zakładów w Chodzieży, Wałbrzycha, czy pruszkowski porcelit. Całkiem nieźle bawiłam się wymyślając miejsca na owe okazy w moim domu. Cieszyło mnie to, że mimo tego, że Picasso odwiedził Polskę tylko raz, potrafiliśmy złożyć mu hołd w tak wspaniale twórczy sposób.
 
+![Zdjęcie przedstawia plakat powieszony na czarnej ścianie. Plakat przedstawia gołębia, widzimy kolor niebieski i żółty akcent.](https://assets0.ello.co/uploads/asset/attachment/6511919/ello-optimized-6572a6dd.jpg)
 ![](
