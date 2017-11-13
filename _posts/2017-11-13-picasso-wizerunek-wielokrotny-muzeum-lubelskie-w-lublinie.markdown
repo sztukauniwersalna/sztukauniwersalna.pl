@@ -5,7 +5,7 @@ categories:
 - Sztuka dla Sztuki
 ---
 
-Z tą ekspozycją wiązałam dość duże nadzieje. Pablo Picasso na Zamku w Lublinie! Największa taka wystawa (ostatnia wystawa Picassa w tym mieście miała miejsce w 1969 r.), ukazująca ponad 300 dzieł, większość miała przeżyć swój pierwszy raz ‘oko w oko’ z lubelska publicznością. Okazy pochodzące z prywatnych kolekcji, jak i z pierwszego na świecie, powstałego jeszcze za życia mistrza, muzeum jemu poświęconemu - Musee Picasso Antibes(http://www.antibes-juanlespins.com/culture/musee-picasso). ‘Ekspozycja ukaże różnorodność tematów i technik stosowanych przez Picassa’ przeczytamy na stronie Muzeum Lubelskiego. Czy aby na pewno? Jakie są moje wrażenia po obejrzeniu wystawy przeczytacie w dzisiejszym poście.
+Z tą ekspozycją wiązałam dość duże nadzieje. Pablo Picasso na Zamku w Lublinie! Największa taka wystawa (ostatnia wystawa Picassa w tym mieście miała miejsce w 1969 r.), ukazująca ponad 300 dzieł, większość miała przeżyć swój pierwszy raz ‘oko w oko’ z lubelska publicznością. Okazy pochodzące z prywatnych kolekcji, jak i z pierwszego na świecie, powstałego jeszcze za życia mistrza, muzeum jemu poświęconemu - [Musee Picasso Antibes](http://www.antibes-juanlespins.com/culture/musee-picasso). ‘Ekspozycja ukaże różnorodność tematów i technik stosowanych przez Picassa’ przeczytamy na stronie Muzeum Lubelskiego. Czy aby na pewno? Jakie są moje wrażenia po obejrzeniu wystawy przeczytacie w dzisiejszym poście.
 
 ## Przestrzeń i światło
 
@@ -24,5 +24,7 @@ Na drugim piętrze ciąg dalszy. Światło zdaje się być trochę mocniejsze. C
 ![Zdjęcie przedstawia rysunek kobiety podpierającej głowę ręką.](https://assets2.ello.co/uploads/asset/attachment/6511885/ello-optimized-795df6ec.jpg)
 ![Zdjęcie przedstawia dwie prace wykonane w technice graficznej, powieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511896/ello-optimized-fea2288d.jpg)
 ![Zdjęcie przedstawia serię siedmiu prac wykonanych w technice graficznej, zawieszonych na białej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511900/ello-optimized-0e903f20.jpg)
+![Zdjęcie przedstawia trzy rysunki oprawione w ramki, na których widzimy ludzi grających na instrumentach, człowieka z bykiem i byka.](https://assets1.ello.co/uploads/asset/attachment/6511904/ello-optimized-9f75a68a.jpg)
+![Zdjęcie przedstawia pracę znanego artysty Pabla Picassa zawieszoną na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6511905/ello-optimized-4503451a.jpg)
 
 ## Pikasy
