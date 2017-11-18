@@ -30,7 +30,6 @@ module.exports = {
   output: Object.assign(config.output, {
     chunkFilename: '[id].bundle.js',
     filename: '[name].bundle.js',
-    path: path.resolve(__dirname, './build'),
   }),
 
   devtool: config.devtool,
@@ -54,7 +53,7 @@ module.exports = {
     if (plugin instanceof StaticSiteGeneratorPlugin) {
       return new StaticSiteGeneratorPlugin({
         entry: plugin.entry,
-        crawl: plugin.crawl,
+        crawl: false,
         paths: plugin.paths,
         globals: plugin.globals,
         locals: Object.assign({}, plugin.locals, {

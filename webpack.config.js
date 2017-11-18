@@ -1,5 +1,6 @@
 const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 const { JSDOM } = require('jsdom');
 
@@ -25,7 +26,9 @@ module.exports = {
   target: 'web',
 
   resolve: {
-    extensions: ['.ts', '.tsx', '.js', '.json', '.yml', '.yaml', '.markdown', '.scss'],
+    extensions: [
+      '.ts', '.tsx', '.js', '.markdown',
+    ],
     alias: {
       'includes': path.resolve(__dirname, './_includes/'),
     }
@@ -77,29 +80,23 @@ module.exports = {
           'front-matter-loader',
         ],
       },
-      {
-        test: /\.css?$/,
-        use: [
-          { loader: 'isomorphic-style-loader' },
-          { loader: 'css-loader', options: { importLoaders: true, modules: true } },
-          { loader: 'postcss-loader' },
-        ],
-      },
-      {
-        test: /\.(png|jpg|gif)$/,
-        use: [
-          {
-            loader: 'url-loader',
-            options: {
-              limit: 40 * 1024,
-            },
-          },
-        ],
-      },
     ],
   },
 
   plugins: [
+    new CopyWebpackPlugin(
+      [
+        '*.css',
+        '*.jpg',
+        '*.png',
+        '*.svg',
+        '*.ttf',
+        '*.eot',
+        '*.woff',
+        '*.woff2',
+      ]
+      .map(from => ({ context: './node_modules/parrot-layout', from }))
+    ),
     new StaticSiteGeneratorPlugin({
 			crawl: true,
 
@@ -119,7 +116,7 @@ module.exports = {
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
         ],
         externalStylesheets: [
-          'https://fonts.googleapis.com/icon?family=Material+Icons|Andada|Roboto+Slab:300,400,700&amp;subset=latin-ext'
+          '/style.bundle.css',
         ],
       },
 
