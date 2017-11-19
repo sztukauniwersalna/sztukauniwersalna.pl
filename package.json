@@ -43,7 +43,7 @@
     "markdown-it": "^8.3.1",
     "npm": "^5.5.1",
     "paramorph": "^1.4.5",
-    "parrot-layout": "^1.5.5",
+    "parrot-layout": "^1.6.0",
     "prop-types": "^15.6.0",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
