@@ -35,3 +35,10 @@ Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji og
 
 ![Obraz przedstawia dwa zdjęcia, z lewej strony widzimy fragment materiału z koralikami, a z prawej kobietę o czerwonych ustach ubraną w koszulę z paskiem.](https://assets2.ello.co/uploads/asset/attachment/6573110/ello-optimized-4c3f9fec.jpg)
 ![Obraz przedstawia dwa zdjęcia, z lewej widzimy fragment materiału, a z prawej kobietę o siwych, długich włosach odwróconą tyłem i trzymającą pasek z napisem.](https://assets0.ello.co/uploads/asset/attachment/6573111/ello-optimized-a45bf635.jpg)
+
+## Perłowa czapa i beret
+
+Czapki i berety oferowane przez sieciówki to koszt od ok. 50zł do 150zł. Materiał z których te nakrycia głowy są wykonane to często akryl, poliester, wiskoza, a aplikacje nie są przyszyte, tylko naklejane. Zawsze zależy mi na jakości materiałów, które noszę, dlatego nie mogłam zdecydować się na żadną zaproponowaną akrylową opcję. Jednak na tyle spodobał mi się trend beretu i pereł, że postanowiłam zostać bereciarą po swojemu. Wełniany, doskonałej jakości beret kupiłam na targu za 20 zł. (można się targować, a co!), a perełki, jak już wspominałam, to koszt ok. 5zł za 50 sztuk. Całość wyniosła mnie zatem 25zł. A efekt ciepły, wytrzymały i przyjemnie modny.
+
+![Obraz przedstawia dwa zdjęcia różnej wielko](https://assets0.ello.co/uploads/asset/attachment/6573112/ello-optimized-a662d1a3.jpg)
+![](
