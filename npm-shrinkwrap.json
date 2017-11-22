@@ -8079,9 +8079,9 @@
       "dev": true
     },
     "paramorph": {
-      "version": "1.5.9",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.5.9.tgz",
-      "integrity": "sha512-j8c83zSkRkNyiNV2Su9tt+XyNCpehFqBH4v203YVgkoiWJvOt8crgnsgEw8YwcgYNBkIoFZcEW5U+ox7PulLVg==",
+      "version": "1.5.12",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.5.12.tgz",
+      "integrity": "sha512-zQeJtYXq6IzZlb7pxbfanGA9efDyV391R7K5rzKru3IdhSKl0H6yMRWKvv3rWKvCQEC1MP81BztpUONowSq/Iw==",
       "dev": true,
       "requires": {
         "js-yaml": "3.10.0",
