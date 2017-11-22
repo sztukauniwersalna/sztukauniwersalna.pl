@@ -47,3 +47,10 @@ Czapki i berety oferowane przez sieciówki to koszt od ok. 50zł do 150zł. Mate
 
 ## Satynowe sznurówki
 
+![Obraz przedstawia zdjęcia butów. Z lewej strony widzimy jednego czarnego buta z niebieskimi sznurówkami i w niebieskiej ramce, a z prawej parę butów.](https://assets2.ello.co/uploads/asset/attachment/6573125/ello-optimized-8bb0c604.jpg)
+
+Wstążkowe sznurówki akurat nie łapią się w tegoroczne trendy, ale to najprostszy możliwy sposób na odmianę butów. Wystarczy kupić odpowiedniej długości wstążki w pasmanterii. Do wyboru macie setki (dosłownie!) propozycji kolorystycznych i materiałowych. Mogą być niebieskie satynowe, czerwone aksamitne, taśmy plecione, rypsowe, gładkie, we wzory itd. itd. Wybierz odpowiednią dla swojej osobowości, modelu butów i innych ubrań, do których zakładać będziesz 'odpimpowane' buty. Czasami lubię też nosić w jednym bucie inny kolor niż w drugim. Oryginalnie, artystycznie i z humorem – na pewno zwrócisz na siebie uwagę!
+
+![Zdjęcie przedstawia czarne skórzane buty z niebieskimi sznurówkami na jasnym tle.](https://assets1.ello.co/uploads/asset/attachment/6573120/ello-optimized-fdcfd45b.jpg)
+
+
