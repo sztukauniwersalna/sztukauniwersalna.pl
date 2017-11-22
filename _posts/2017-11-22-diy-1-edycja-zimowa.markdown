@@ -23,3 +23,15 @@ Sieciowe sklepy serwują nam tzw. „szybką modę”. To znaczy, że odpowiadaj
 
 ![Zdjęcie przedstawia kobietę w koszuli z paskiem na niebieskim tle. Kobieta patrzy do góry, ma siwe włosy i czerwone usta, a przez środek zdjęcia przebiega czarna linia.](https://assets0.ello.co/uploads/asset/attachment/6573107/ello-optimized-c2a4b0f9.jpg)
 ![Zdjęcie przedstawia kobietę w koszuli z paskiem na niebieskim tle. Kobieta przekrzywia głowę w lewą stronę, ma szare włosy i czerwone usta, a przez środek zdjęcia przebiega czarna linia.](https://assets0.ello.co/uploads/asset/attachment/6573109/ello-optimized-60b8b9ad.jpg)
+
+## Koszula z dwóch koszul + perły 
+
+Ostatnio mój chłopak robił porządki w swojej szafie i znalazł kilka niepotrzebnych koszul. Położył je na mojej półce z myślą, że zostaną przeze mnie wykorzystane w pracowni jako ubranie robocze. Przeleżały tam trochę czasu, dopóki nie spojrzałam na nie w kreatywny sposób. Oto, co zrobić, aby zyskać nową koszulę z dwóch starych koszul:
+1. Przymierz i zadecyduj, która z koszul będzie Twoim ‘body’, a która rękawami. Istotny jest tutaj krój, ale też kolor i wzór.
+2. W obu koszulach utnij rękawy tuż za linią szwu.
+3. Wywróć swoje body i rękawy na lewą stronę i zszyj szew przy szwie, tak, by nitka nie była widoczna po właściwej stronie.
+4. Kup woreczek perełek w pasmanterii (koszt ok. 5zł) i przyszyj do koszuli w różnych miejscach. Możesz przyszyć je na rękawach, przy kołnierzyku lub zastąpić nimi guziki.
+Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji oglądania ulubionego serialu :).
+
+![Obraz przedstawia dwa zdjęcia, z lewej strony widzimy fragment materiału z koralikami, a z prawej kobietę o czerwonych ustach ubraną w koszulę z paskiem.](https://assets2.ello.co/uploads/asset/attachment/6573110/ello-optimized-4c3f9fec.jpg)
+![Obraz przedstawia dwa zdjęcia, z lewej widzimy fragment materiału, a z prawej kobietę o siwych, długich włosach odwróconą tyłem i trzymającą pasek z napisem.](https://assets0.ello.co/uploads/asset/attachment/6573111/ello-optimized-a45bf635.jpg)
