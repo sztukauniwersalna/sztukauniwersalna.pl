@@ -1,0 +1,22 @@
+---
+title: DIY 1. Edycja zimowa
+date: 2017-11-22 12:10:00 +01:00
+---
+
+<olela-narrative>
+Czy wiecie, jak niewiele trzeba aby odmienić stare ubranie? Pisząc ‘niewiele’ mam na myśli niewiele wysiłku, niewiele czasu i oczywiście niewiele pieniędzy. Jedyne czego potrzeba to inspiracji, a te akurat znajdziemy bez problemu oglądając zdjęcia w internecie, czy przechadzając się po sklepach. Wiadomo też, jak to jest z ciuchami – stare się nudzą, ale jeśli poświęcimy im odrobinę uwagi i włączymy swoją kreatywność, odmienimy je i pokochamy na nowo. Zatem do dzieła artystki!
+</olela-narrative>
+
+![Zdjęcie przedstawia młodą kobietę na niebieskim tle. Kobieta ubrana jest w koszulę z paskiem, ma czerwone usta i szare włosy, a przez środek zdjęcia przechodzi czarna linia.](https://ello-direct-uploads.s3.amazonaws.com/uploads/f1be1d0e-8b70-454f-be77-72c5831c97e0/ello-8ee042b5-0e7f-4c70-b90a-5c2de358430e.jpeg)
+
+## Winter Trends 2017
+
+Sieciowe sklepy serwują nam tzw. „szybką modę”. To znaczy, że odpowiadają na główne tendencje pojawiające się na wybiegach i wprowadzają modele, które przypominają nam kreacje znanych projektantów, a my możemy nabyć je za niską ceną. Tej zimy w sklepach typu Stradivarius, Zara, Mango znalazłam sporo podobieństw. Oto główne trendy i jednocześnie Must Have’y zimy 2017 r.:
+
+1. Perły. Wszechobecne, zawłaszczające prawie każdy skrawek materiału. Są na jeansach, bluzach, swetrach, bluzkach, sukienkach, w różnych rozmiarach i kolorach. Dodają ubraniu romantyczny, imprezowy charakter (w końcu sylwester tuż, tuż!).
+2. Futro. Futrzane kamizelki, kurtki, obszycia kapturów, ale również obszycia bluz przy rękawach, kołnierzykach.
+3. Beret. Taki w stylu francuskim. Skórzany, wełniany, noszony lekko na bok lub zsunięty na tył glowy.
+4. ‘Wielka czapka’. Wygląda jakby była wyjęta z większego świata, o grubym splocie, często kolorowa i z pomponem.
+5. Krata. Tak, to zdecydowanie pattern nr 1. Znajdziemy ją na płaszczach, spodniach, kamizelkach. Stylizować kratkę możemy na milion sposobów – od elegancji po sport.
+6. Butelkowa zieleń. Przepiękny kolor głębokiego szmaragdu. Wygląda super w total look’u lub jako pojedynczy akcent. 
+7. Wymieniać można jeszcze wiele: Oversizowe kurtki puchowe, bardzo wysokie kozaki (sięgające wręcz połowy uda), swetry z wielkim golfem, jednak chciałam skupić się na tych trendach, które w bardzo łatwy sposób możemy wcielić w naszą garderobę niekoniecznie kupując nowe rzeczy. Zobaczcie sami, co udało mi się wyczarować.
