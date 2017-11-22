@@ -1,6 +1,18 @@
 ---
 title: DIY 1. Edycja zimowa
 date: 2017-11-22 12:10:00 +01:00
+categories:
+- Sztuka Ubioru
+tags:
+- DIY
+- fashion
+- moda
+- sztuka
+- stylizacja
+- kreacja
+- trendy
+- zima
+- '2017'
 ---
 
 <olela-narrative>
