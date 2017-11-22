@@ -1,6 +1,7 @@
 const path = require('path');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 const { JSDOM } = require('jsdom');
 
@@ -27,7 +28,7 @@ module.exports = {
 
   resolve: {
     extensions: [
-      '.ts', '.tsx', '.js', '.markdown',
+      '.js', '.markdown', '.css',
     ],
     alias: {
       'includes': path.resolve(__dirname, './_includes/'),
@@ -39,6 +40,11 @@ module.exports = {
       root: 'React',
       commonjs: 'react',
       commonjs2: 'react',
+    },
+    'prop-types': {
+      root: 'React.PropTypes',
+      commonjs: 'prop-types',
+      commonjs2: 'prop-types',
     },
     'react-dom': {
       root: 'ReactDOM',
@@ -60,14 +66,14 @@ module.exports = {
   module: {
     noParse: [
       require.resolve('react'),
+      require.resolve('prop-types'),
       require.resolve('react-dom'),
       require.resolve('react-dom/server'),
       require.resolve('react-router-dom'),
     ],
     rules: [
-      { test: require.resolve('./node_modules/paramorph/data/config'), use: 'val-loader' },
       { test: require.resolve('./node_modules/paramorph/data/requireContext'), use: 'val-loader' },
-      { test: /\.tsx?$/, use: [ 'babel-loader', 'ts-loader' ] },
+      { test: require.resolve('./node_modules/paramorph/data/config'), use: 'val-loader' },
       { enforce: 'pre', test: /\.js$/, use: 'source-map-loader' },
       {
         test: /\.markdown$/,
@@ -80,13 +86,17 @@ module.exports = {
           'front-matter-loader',
         ],
       },
+      {
+        test: /\.css$/,
+        use: ExtractTextPlugin.extract({ use: 'raw-loader' }),
+      },
     ],
   },
 
   plugins: [
+    new ExtractTextPlugin('style-[hash].bundle.css'),
     new CopyWebpackPlugin(
       [
-        '*.css',
         '*.jpg',
         '*.png',
         '*.svg',
@@ -98,25 +108,16 @@ module.exports = {
       .map(from => ({ context: './node_modules/parrot-layout', from }))
     ),
     new StaticSiteGeneratorPlugin({
-			crawl: true,
-
       paths: [
         '/',
-        '/404',
       ],
 
       locals: {
         title: 'SztukaUniwersalna.pl',
-        scripts: [
-          'entry',
-        ],
-        externalScripts: [
+        js: [
           'https://unpkg.com/react@15/dist/react.js',
           'https://unpkg.com/react-dom@15/dist/react-dom.js',
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
-        ],
-        externalStylesheets: [
-          '/style.bundle.css',
         ],
       },
 

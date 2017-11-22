@@ -49,19 +49,6 @@ module.exports = {
     }),
   },
 
-  plugins: HOT_PLUGINS.concat(config.plugins.map(plugin => {
-    if (plugin instanceof StaticSiteGeneratorPlugin) {
-      return new StaticSiteGeneratorPlugin({
-        entry: plugin.entry,
-        crawl: false,
-        paths: plugin.paths,
-        globals: plugin.globals,
-        locals: Object.assign({}, plugin.locals, {
-          scripts: plugin.locals.scripts.concat([ 'hot-bootstrap' ]),
-        }),
-      });
-    }
-    return plugin;
-  })),
+  plugins: HOT_PLUGINS.concat(config.plugins),
 };
 
