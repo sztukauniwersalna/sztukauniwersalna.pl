@@ -4,7 +4,7 @@ date: 2017-11-22 12:10:00 +01:00
 categories:
 - Sztuka Ubioru
 tags:
-- DIY
+- diy
 - fashion
 - moda
 - sztuka
@@ -50,12 +50,12 @@ Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji og
 
 ## Perłowa czapa i beret
 
-Czapki i berety oferowane przez sieciówki to koszt od ok. 50 zł do 150 zł. Materiał z których te nakrycia głowy są wykonane to często akryl, poliester, wiskoza, a aplikacje nie są przyszyte, tylko naklejane. Zawsze zależy mi na jakości materiałów, które noszę, dlatego nie mogłam zdecydować się na żadną zaproponowaną akrylową opcję. Jednak na tyle spodobał mi się trend beretu i pereł, że postanowiłam zostać bereciarą po swojemu. Wełniany, doskonałej jakości beret kupiłam na targu za 20 zł. (można się targować, a co!), a perełki, jak już wspominałam, to koszt ok. 5 zł za 50 sztuk. Całość wyniosła mnie zatem 25zł. A efekt ciepły, wytrzymały i przyjemnie modny.
+Czapki i berety oferowane przez sieciówki to koszt od ok. 50 zł do 150 zł. Materiał z których te nakrycia głowy są wykonane to często akryl, poliester, wiskoza, a aplikacje nie są przyszywane, tylko naklejane. Zawsze zależy mi na jakości materiałów, które noszę, dlatego nie mogłam zdecydować się na żadną zaproponowaną akrylową opcję. Jednak na tyle spodobał mi się trend beretu i pereł, że postanowiłam zostać bereciarą po swojemu. Wełniany, doskonałej jakości beret kupiłam na targu za 20 zł. (można się targować, a co!), a perełki, jak już wspominałam, to koszt ok. 5 zł za 50 sztuk. Całość wyniosła mnie zatem 25 zł. A efekt ciepły, wytrzymały i przyjemnie modny.
 
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Z lewej strony widzimy kobietę z różowymi ustami, siwymi włosami i czarną czapką, która zasłania jej oczy. Z prawej strony widzimy zbliżenie na czapkę.](https://assets0.ello.co/uploads/asset/attachment/6573112/ello-optimized-a662d1a3.jpg)
 ![Zdjęcie przedstawia portret kobiety w czarnej czapce. Kobieta ma szare włosy, różowe usta i uśmiecha się. Całość na niebieskim tle.](https://assets1.ello.co/uploads/asset/attachment/6573116/ello-optimized-8d89fded.jpg)
 
-Na czapce widzicie jeszcze agrafkę kupioną za 6zł w pasmanterii. Czapkę kupiłam rok temu w h&m, bo była jedyną w pełni bawełnianą czapką jaką wtedy znalazłam.
+Na czapce widzicie jeszcze agrafkę kupioną za 6 zł w pasmanterii. Czapkę kupiłam rok temu w h&m, bo była jedyną w pełni bawełnianą czapką jaką wtedy znalazłam.
 
 ## Satynowe sznurówki
 
