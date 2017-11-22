@@ -20,3 +20,6 @@ Sieciowe sklepy serwują nam tzw. „szybką modę”. To znaczy, że odpowiadaj
 5. Krata. Tak, to zdecydowanie pattern nr 1. Znajdziemy ją na płaszczach, spodniach, kamizelkach. Stylizować kratkę możemy na milion sposobów – od elegancji po sport.
 6. Butelkowa zieleń. Przepiękny kolor głębokiego szmaragdu. Wygląda super w total look’u lub jako pojedynczy akcent. 
 7. Wymieniać można jeszcze wiele: Oversizowe kurtki puchowe, bardzo wysokie kozaki (sięgające wręcz połowy uda), swetry z wielkim golfem, jednak chciałam skupić się na tych trendach, które w bardzo łatwy sposób możemy wcielić w naszą garderobę niekoniecznie kupując nowe rzeczy. Zobaczcie sami, co udało mi się wyczarować.
+
+![Zdjęcie przedstawia kobietę w koszuli z paskiem na niebieskim tle. Kobieta patrzy do góry, ma siwe włosy i czerwone usta, a przez środek zdjęcia przebiega czarna linia.](https://assets0.ello.co/uploads/asset/attachment/6573107/ello-optimized-c2a4b0f9.jpg)
+![Zdjęcie przedstawia kobietę w koszuli z paskiem na niebieskim tle. Kobieta przekrzywia głowę w lewą stronę, ma szare włosy i czerwone usta, a przez środek zdjęcia przebiega czarna linia.](https://assets0.ello.co/uploads/asset/attachment/6573109/ello-optimized-60b8b9ad.jpg)
