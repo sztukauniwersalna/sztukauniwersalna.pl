@@ -42,7 +42,7 @@ Ostatnio mój chłopak robił porządki w swojej szafie i znalazł kilka niepotr
 1. Przymierz i zadecyduj, która z koszul będzie Twoim ‘body’, a która rękawami. Istotny jest tutaj krój, ale też kolor i wzór.
 2. W obu koszulach utnij rękawy tuż za linią szwu.
 3. Wywróć swoje body i rękawy na lewą stronę i zszyj szew przy szwie, tak, by nitka nie była widoczna po właściwej stronie.
-4. Kup woreczek perełek w pasmanterii (koszt ok. 5zł) i przyszyj do koszuli w różnych miejscach. Możesz przyszyć je na rękawach, przy kołnierzyku lub zastąpić nimi guziki.
+4. Kup woreczek perełek w pasmanterii (koszt ok. 5 zł) i przyszyj do koszuli w różnych miejscach. Możesz przyszyć je na rękawach, przy kołnierzyku lub zastąpić nimi guziki.
 Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji oglądania ulubionego serialu :).
 
 ![Obraz przedstawia dwa zdjęcia, z lewej strony widzimy fragment materiału z koralikami, a z prawej kobietę o czerwonych ustach ubraną w koszulę z paskiem.](https://assets0.ello.co/uploads/asset/attachment/6573330/ello-optimized-a4f6ddd7.jpg)
@@ -50,12 +50,12 @@ Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji og
 
 ## Perłowa czapa i beret
 
-Czapki i berety oferowane przez sieciówki to koszt od ok. 50zł do 150zł. Materiał z których te nakrycia głowy są wykonane to często akryl, poliester, wiskoza, a aplikacje nie są przyszyte, tylko naklejane. Zawsze zależy mi na jakości materiałów, które noszę, dlatego nie mogłam zdecydować się na żadną zaproponowaną akrylową opcję. Jednak na tyle spodobał mi się trend beretu i pereł, że postanowiłam zostać bereciarą po swojemu. Wełniany, doskonałej jakości beret kupiłam na targu za 20 zł. (można się targować, a co!), a perełki, jak już wspominałam, to koszt ok. 5zł za 50 sztuk. Całość wyniosła mnie zatem 25zł. A efekt ciepły, wytrzymały i przyjemnie modny.
+Czapki i berety oferowane przez sieciówki to koszt od ok. 50 zł do 150 zł. Materiał z których te nakrycia głowy są wykonane to często akryl, poliester, wiskoza, a aplikacje nie są przyszyte, tylko naklejane. Zawsze zależy mi na jakości materiałów, które noszę, dlatego nie mogłam zdecydować się na żadną zaproponowaną akrylową opcję. Jednak na tyle spodobał mi się trend beretu i pereł, że postanowiłam zostać bereciarą po swojemu. Wełniany, doskonałej jakości beret kupiłam na targu za 20 zł. (można się targować, a co!), a perełki, jak już wspominałam, to koszt ok. 5 zł za 50 sztuk. Całość wyniosła mnie zatem 25zł. A efekt ciepły, wytrzymały i przyjemnie modny.
 
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Z lewej strony widzimy kobietę z różowymi ustami, siwymi włosami i czarną czapką, która zasłania jej oczy. Z prawej strony widzimy zbliżenie na czapkę.](https://assets0.ello.co/uploads/asset/attachment/6573112/ello-optimized-a662d1a3.jpg)
 ![Zdjęcie przedstawia portret kobiety w czarnej czapce. Kobieta ma szare włosy, różowe usta i uśmiecha się. Całość na niebieskim tle.](https://assets1.ello.co/uploads/asset/attachment/6573116/ello-optimized-8d89fded.jpg)
 
-(Na czapce widzicie jeszcze agrafkę kupioną za 6zł w pasmanterii. Czapkę kupiłam rok temu w h&m, bo była jedyną w pełni bawełnianą czapką jaką wtedy znalazłam.)
+Na czapce widzicie jeszcze agrafkę kupioną za 6zł w pasmanterii. Czapkę kupiłam rok temu w h&m, bo była jedyną w pełni bawełnianą czapką jaką wtedy znalazłam.
 
 ## Satynowe sznurówki
 
