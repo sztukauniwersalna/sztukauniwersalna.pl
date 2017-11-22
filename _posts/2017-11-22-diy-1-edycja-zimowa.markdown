@@ -45,8 +45,8 @@ Ostatnio mój chłopak robił porządki w swojej szafie i znalazł kilka niepotr
 4. Kup woreczek perełek w pasmanterii (koszt ok. 5zł) i przyszyj do koszuli w różnych miejscach. Możesz przyszyć je na rękawach, przy kołnierzyku lub zastąpić nimi guziki.
 Voilà! Prawda, że proste? Mi cała robota zajęła dwa wieczory przy okazji oglądania ulubionego serialu :).
 
-![Obraz przedstawia dwa zdjęcia, z lewej strony widzimy fragment materiału z koralikami, a z prawej kobietę o czerwonych ustach ubraną w koszulę z paskiem.](https://assets2.ello.co/uploads/asset/attachment/6573110/ello-optimized-4c3f9fec.jpg)
-![Obraz przedstawia dwa zdjęcia, z lewej widzimy fragment materiału, a z prawej kobietę o siwych, długich włosach odwróconą tyłem i trzymającą pasek z napisem.](https://assets0.ello.co/uploads/asset/attachment/6573111/ello-optimized-a45bf635.jpg)
+![Obraz przedstawia dwa zdjęcia, z lewej strony widzimy fragment materiału z koralikami, a z prawej kobietę o czerwonych ustach ubraną w koszulę z paskiem.](https://assets0.ello.co/uploads/asset/attachment/6573330/ello-optimized-a4f6ddd7.jpg)
+![Obraz przedstawia dwa zdjęcia, z lewej widzimy fragment materiału, a z prawej kobietę o siwych, długich włosach odwróconą tyłem i trzymającą pasek z napisem.](https://assets1.ello.co/uploads/asset/attachment/6573331/ello-optimized-ba4ef117.jpg)
 
 ## Perłowa czapa i beret
 
