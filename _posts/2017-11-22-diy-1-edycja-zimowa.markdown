@@ -54,6 +54,7 @@ Czapki i berety oferowane przez sieciówki to koszt od ok. 50 zł do 150 zł. Ma
 
 ![Obraz przedstawia dwa zdjęcia różnej wielkości. Z lewej strony widzimy kobietę z różowymi ustami, siwymi włosami i czarną czapką, która zasłania jej oczy. Z prawej strony widzimy zbliżenie na czapkę.](https://assets0.ello.co/uploads/asset/attachment/6573112/ello-optimized-a662d1a3.jpg)
 ![Zdjęcie przedstawia portret kobiety w czarnej czapce. Kobieta ma szare włosy, różowe usta i uśmiecha się. Całość na niebieskim tle.](https://assets1.ello.co/uploads/asset/attachment/6573116/ello-optimized-8d89fded.jpg)
+![Obraz podzielony jest na dwie części, z lewej strony widzimy duże zdjęcie kobiety w czarnym berecie na niebieskim tle, a z prawej mniejsze zdjęcie beretu i fragmentu twarzy kobiety.](https://assets1.ello.co/uploads/asset/attachment/6575280/ello-optimized-097d7025.jpg)
 
 Na czapce widzicie jeszcze agrafkę kupioną za 6 zł w pasmanterii. Czapkę kupiłam rok temu w h&m, bo była jedyną w pełni bawełnianą czapką jaką wtedy znalazłam.
 
