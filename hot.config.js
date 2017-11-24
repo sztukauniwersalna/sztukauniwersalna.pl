@@ -1,6 +1,9 @@
-const path = require('path');
 const webpack = require('webpack');
-const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
+const HtmlPlugin = require('html-webpack-plugin');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+
+const path = require('path');
 
 const config = require('./webpack.config');
 
@@ -17,22 +20,21 @@ const HOT_BABEL = {
   },
 };
 
-const HOT_PLUGINS = [
-  new webpack.NamedModulesPlugin(),
-  new webpack.HotModuleReplacementPlugin(),
-];
-
 module.exports = {
   entry: Object.assign({}, config.entry, {
     'hot-bootstrap': HOT_ENTRY,
   }),
 
-  output: Object.assign(config.output, {
+  output: {
     chunkFilename: '[id].bundle.js',
     filename: '[name].bundle.js',
-  }),
+    path: path.resolve(__dirname, './build'),
+    publicPath: path.resolve(__dirname, '/'),
+    libraryTarget: 'umd',
+  },
 
   devtool: config.devtool,
+  target: config.target,
   resolve: config.resolve,
   resolveLoader: config.resolveLoader,
   externals: config.externals,
@@ -49,6 +51,27 @@ module.exports = {
     }),
   },
 
-  plugins: HOT_PLUGINS.concat(config.plugins),
+  plugins: [
+    new webpack.NamedModulesPlugin(),
+    new webpack.HotModuleReplacementPlugin(),
+    new ExtractTextPlugin('bundle.css'),
+    new CopyWebpackPlugin(
+      [
+        '*.jpg',
+        '*.png',
+        '*.svg',
+        '*.ttf',
+        '*.eot',
+        '*.woff',
+        '*.woff2',
+      ]
+      .map(from => ({ context: './node_modules/parrot-layout', from }))
+    ),
+    new HtmlPlugin({
+      template: 'test.html',
+      filename: 'index.html',
+      inject: true,
+    }),
+  ],
 };
 
