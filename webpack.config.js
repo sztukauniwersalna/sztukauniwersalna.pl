@@ -85,6 +85,7 @@ module.exports = {
         title: 'SztukaUniwersalna.pl',
         js: [
           'https://unpkg.com/react@15/dist/react.js',
+          'https://unpkg.com/prop-types@15.6.0/prop-types.min.js',
           'https://unpkg.com/react-dom@15/dist/react-dom.js',
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
         ],
