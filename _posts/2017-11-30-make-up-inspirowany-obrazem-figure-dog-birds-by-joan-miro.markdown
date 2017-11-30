@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'Figure, Dog, Birds' by Joan Miró
+title: Make-up inspirowany obrazem. 'Figure, Dog, Birds' by Joan_Miró
 date: 2017-11-30 20:32:00 +01:00
 categories:
 - Sztuka Makijażu
@@ -21,7 +21,7 @@ Kiedy patrzysz na obraz budzi on w Tobie emocje. Jedne płótna niosą ze sobą 
 
 ![Zdjęcie przedstawia portret młodej kobiety w artystycznym makijażu i siwych włosach oraz abstrakcyjny czarno-niebieski kształt.](https://assets0.ello.co/uploads/asset/attachment/6623239/ello-optimized-f916976a.jpg)
 
-Joan Miró urodził się 20stego kwietnia 1893 r. w Barcelonie. Kształcił się w kierunku biznesu, jednocześnie uczęszczając na lekcje sztuki w La Lonja’s Escuela Superior de Artes Industriales y Bellas Artes. Po trzech latach nauki objął stanowisko urzędnika, by zaraz potem przejść załamanie nerwowe, po którym na dobre porzucił biznes i wznowił studia artystyczne. W latach 1912-1915  kształcił się w Francesc Galí’s Escola d’Art w Barcelonie, w tym samym mieście miał również miejsce pierwszy solowy pokaz jego prac w galerii José Dalmau w 1918 r. (rok wcześniej młody malarz poznaje Francis’a Picabia, artystę z kręgu dadaistów i surrealistów).
+Joan Miró urodził się 20-tego kwietnia 1893 r. w Barcelonie. Kształcił się w kierunku biznesu, jednocześnie uczęszczając na lekcje sztuki w La Lonja’s Escuela Superior de Artes Industriales y Bellas Artes. Po trzech latach nauki objął stanowisko urzędnika, by zaraz potem przejść załamanie nerwowe, po którym na dobre porzucił biznes i wznowił studia artystyczne. W latach 1912-1915  kształcił się w Francesc Galí’s Escola d’Art w Barcelonie, w tym samym mieście miał również miejsce pierwszy solowy pokaz jego prac w galerii José Dalmau w 1918 r. (rok wcześniej młody malarz poznaje Francis’a Picabia, artystę z kręgu dadaistów i surrealistów).
 
 ![Zdjęcie przedstawia portret młodej kobiety na szarym tle w artystycznym makijażu. Kobieta ma zamknięte oczy i siwe wlosy.](https://assets0.ello.co/uploads/asset/attachment/6623243/ello-optimized-b221decb.jpg)
 
@@ -33,7 +33,7 @@ W 1980 r. Miró został odznaczony Złotym Medalem Sztuk Pięknych z rąk samego
 
 ![Zdjęcie przedstawia zbliżenie na oko pomalowane w geometryczne czarno-niebieskie kształty.](https://assets2.ello.co/uploads/asset/attachment/6623247/ello-optimized-6a354477.jpg)
 
-Pod koniec swojego życia artysta odkrył technikę ceramiki i pozostawił nam w spadku setki ceramicznych prac. Zmarł 25ego grudnia 1983 r. w Palma de Mallorca, prawdopodobnie na skutek choroby serca i problemów z oddychaniem. 
+Pod koniec swojego życia artysta odkrył technikę ceramiki i pozostawił nam w spadku setki ceramicznych prac. Zmarł 25-tego grudnia 1983 r. w Palma de Mallorca, prawdopodobnie na skutek choroby serca i problemów z oddychaniem. 
 Podobno jako człowiek Miró był skromny, zdyscyplinowany, pracowity i zawsze punktualny. Swoim wyglądem nie przypominał artysty, lecz klasycznego burżuja.
 
 ![Zdjęcie przedstawia portret kobiety w artystycznym makijażu na szarym tle. Kobieta ma czerwone usta i niebiesko-czarne kształty na powiekach.](https://assets2.ello.co/uploads/asset/attachment/6623250/ello-optimized-78ec0c1c.jpg)
