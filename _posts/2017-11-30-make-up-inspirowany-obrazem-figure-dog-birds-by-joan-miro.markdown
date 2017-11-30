@@ -25,3 +25,16 @@ Joan Miró urodził się 20stego kwietnia 1893 r. w Barcelonie. Kształcił się
 
 ![Zdjęcie przedstawia portret młodej kobiety na szarym tle w artystycznym makijażu. Kobieta ma zamknięte oczy i siwe wlosy.](https://assets0.ello.co/uploads/asset/attachment/6623243/ello-optimized-b221decb.jpg)
 
+W 1920 r. Joan po raz pierwszy odwiedza Paryż i poznaje Pabla Picassa. Od tego momentu jego życie toczy się pomiędzy Hiszpanią a Francją. Jednoczy się z francuskimi poetami zapoznając się z ruchem Dada, by niedługo później dołączyć do Surrealistów i w 1925 r. brać udział w pierwszej w pełni poświęconej Surrealizmowi wystawie w Galerie Pierre w Paryżu. Kolejne lata obfitują w artystyczne poszukiwania. Miró zgłębia technikę kolażu. W 1929 r. eksperymentuje z litografią, pracuje także nad rzeźbami z pomalowanych kamieni i znalezionych obiektów. Rzeźbą większych rozmiarów zajmie się w latach 60tych.
+
+![Zdjęcie przedstawia zbliżenie na usta pomalowane czerwoną pomadką oraz czerwony owalny kształt na białym tle.](https://assets0.ello.co/uploads/asset/attachment/6623246/ello-optimized-17f72946.jpg)
+
+W 1980 r. Miró został odznaczony Złotym Medalem Sztuk Pięknych z rąk samego króla Hiszpanii Juana Carlosa.
+
+![Zdjęcie przedstawia zbliżenie na oko pomalowane w geometryczne czarno-niebieskie kształty.](https://assets2.ello.co/uploads/asset/attachment/6623247/ello-optimized-6a354477.jpg)
+
+Pod koniec swojego życia artysta odkrył technikę ceramiki i pozostawił nam w spadku setki ceramicznych prac. Zmarł 25ego grudnia 1983 r. w Palma de Mallorca, prawdopodobnie na skutek choroby serca i problemów z oddychaniem. 
+Podobno jako człowiek Miró był skromny, zdyscyplinowany, pracowity i zawsze punktualny. Swoim wyglądem nie przypominał artysty, lecz klasycznego burżuja.
+
+![Zdjęcie przedstawia portret kobiety w artystycznym makijażu na szarym tle. Kobieta ma czerwone usta i niebiesko-czarne kształty na powiekach.](https://assets2.ello.co/uploads/asset/attachment/6623250/ello-optimized-78ec0c1c.jpg)
+
