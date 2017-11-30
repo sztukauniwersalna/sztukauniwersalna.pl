@@ -49,4 +49,4 @@ Podobno jako człowiek Miró był skromny, zdyscyplinowany, pracowity i zawsze p
 
 
 Korzystałam z tekstu:
-https://www.guggenheim.org/artwork/artist/joan-miro
+* https://www.guggenheim.org/artwork/artist/joan-miro
