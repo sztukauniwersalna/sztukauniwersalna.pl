@@ -38,3 +38,11 @@ Podobno jako człowiek Miró był skromny, zdyscyplinowany, pracowity i zawsze p
 
 ![Zdjęcie przedstawia portret kobiety w artystycznym makijażu na szarym tle. Kobieta ma czerwone usta i niebiesko-czarne kształty na powiekach.](https://assets2.ello.co/uploads/asset/attachment/6623250/ello-optimized-78ec0c1c.jpg)
 
+> Ważniejszy od samego dzieła jest efekt, jaki ono wywołuje. 
+> Sztuka może umrzeć, obraz może ulec zniszczeniu. Istotne jest ziarno, które zostało zasiane.
+>
+> ~ (Joan Miró)
+
+> Pocieszny i okrutny, radośnie i niewinnie skandaliczny styl magiczny Miró zbija z tropu i przekonuje jak słowa dziecka.
+>
+> ~ (Jean Marcel; Źródło: Krystyna Janicka, Surrealizm, Wydawnictwa Artystyczne i Filmowe, Warszawa 1985, s. 148.)
