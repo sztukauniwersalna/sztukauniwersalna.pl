@@ -23,7 +23,7 @@ Kiedy patrzysz na obraz budzi on w Tobie emocje. Jedne płótna niosą ze sobą 
 
 Joan Miró urodził się 20-tego kwietnia 1893 r. w Barcelonie. Kształcił się w kierunku biznesu, jednocześnie uczęszczając na lekcje sztuki w La Lonja’s Escuela Superior de Artes Industriales y Bellas Artes. Po trzech latach nauki objął stanowisko urzędnika, by zaraz potem przejść załamanie nerwowe, po którym na dobre porzucił biznes i wznowił studia artystyczne. W latach 1912-1915  kształcił się w Francesc Galí’s Escola d’Art w Barcelonie, w tym samym mieście miał również miejsce pierwszy solowy pokaz jego prac w galerii José Dalmau w 1918 r. (rok wcześniej młody malarz poznaje Francis’a Picabia, artystę z kręgu dadaistów i surrealistów).
 
-![Zdjęcie przedstawia portret młodej kobiety na szarym tle w artystycznym makijażu. Kobieta ma zamknięte oczy i siwe wlosy.](https://assets0.ello.co/uploads/asset/attachment/6623243/ello-optimized-b221decb.jpg)
+![Zdjęcie przedstawia portret młodej kobiety na szarym tle w artystycznym makijażu. Kobieta ma zamknięte oczy i siwe włosy.](https://assets0.ello.co/uploads/asset/attachment/6623243/ello-optimized-b221decb.jpg)
 
 W 1920 r. Joan po raz pierwszy odwiedza Paryż i poznaje Pabla Picassa. Od tego momentu jego życie toczy się pomiędzy Hiszpanią a Francją. Jednoczy się z francuskimi poetami zapoznając się z ruchem Dada, by niedługo później dołączyć do Surrealistów i w 1925 r. brać udział w pierwszej w pełni poświęconej Surrealizmowi wystawie w Galerie Pierre w Paryżu. Kolejne lata obfitują w artystyczne poszukiwania. Miró zgłębia technikę kolażu. W 1929 r. eksperymentuje z litografią, pracuje także nad rzeźbami z pomalowanych kamieni i znalezionych obiektów. Rzeźbą większych rozmiarów zajmie się w latach 60tych.
 
