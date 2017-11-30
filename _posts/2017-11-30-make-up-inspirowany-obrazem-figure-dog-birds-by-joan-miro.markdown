@@ -46,3 +46,7 @@ Podobno jako człowiek Miró był skromny, zdyscyplinowany, pracowity i zawsze p
 > Pocieszny i okrutny, radośnie i niewinnie skandaliczny styl magiczny Miró zbija z tropu i przekonuje jak słowa dziecka.
 >
 > ~ (Jean Marcel; Źródło: Krystyna Janicka, Surrealizm, Wydawnictwa Artystyczne i Filmowe, Warszawa 1985, s. 148.)
+
+
+Korzystałam z tekstu:
+https://www.guggenheim.org/artwork/artist/joan-miro
