@@ -1,5 +1,5 @@
 ---
-title: Op-Art [moodboard]
+title: Op-art [moodboard]
 date: 2017-12-07 17:37:00 +01:00
 categories:
 - Sztuka dla Sztuki
