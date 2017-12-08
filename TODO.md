@@ -24,12 +24,13 @@
 1. Main photos in posts,
 1. Auto-non-breaking-space,
 1. ~Disqus integration~,
-1. Facebook integration,
+1.  Facebook integration,
 1. Instagram integration,
-1. Analytics integration,
+1. ~Analytics integration~,
 1. Generated XML sitemap,
 1. Code spliting,
 1. Smart image loading,
 1. Tiles on pages with feeds,
 1. Animations.
+1. Async analytics script loading.
 
