@@ -20,7 +20,7 @@
 1. ~ToC rendered partially when in feed~,
 1. ~Layout coded in HTML/CSS~,
 1. ~Photos in posts~,
-1. Social buttons in jumbotron,
+1. ~Social buttons in jumbotron~,
 1. Main photos in posts,
 1. Auto-non-breaking-space,
 1. ~Disqus integration~,
