@@ -75,6 +75,12 @@ module.exports = {
         '*.woff2',
       ]
       .map(from => ({ context: './node_modules/parrot-layout', from }))
+      .concat([
+        {
+          context: '.',
+          from: 'googlec8e6fdafef950e07.html',
+        }
+      ])
     ),
     new StaticSiteGeneratorPlugin({
       paths: [
