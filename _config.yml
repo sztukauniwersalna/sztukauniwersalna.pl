@@ -21,7 +21,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-baseUrl: "http://sztukauniwersalna.pl"
+baseUrl: http://sztukauniwersalna.pl
 locale: pl_PL
 menu:
 - title: Sztuka Ubioru
