@@ -1,8 +1,6 @@
 ---
 title: SztukaUniwersalna.PL
 timezone: Europe/Warsaw
-baseUrl: "http:////sztukauniwersalna.pl/"
-locale: pl_PL
 collections:
   categories:
     title: Categories
@@ -23,6 +21,8 @@ collections:
   uploads:
     title: Uploads
     output: false
+baseUrl: http:////sztukauniwersalna.pl/
+locale: pl_PL
 menu:
 - title: Sztuka Ubioru
   short: Moda
