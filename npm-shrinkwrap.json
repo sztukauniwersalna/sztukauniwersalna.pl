@@ -8442,9 +8442,9 @@
       }
     },
     "paramorph": {
-      "version": "1.6.0",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.6.0.tgz",
-      "integrity": "sha512-ohZ+agauVHyMbxeqEgj9bYXst/0H1iAwslfOp51YVbZBmDebrJdcdF/Z9ecEEmxl+ADuSEk4o6hnJtxx6Ozd8Q==",
+      "version": "1.7.3",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.7.3.tgz",
+      "integrity": "sha512-ZPqbE7NXqUo3gxiV2lw7wpV9wii0fRfBVxtz5eUa+hOMcWBgZUaAo94d5ByU+5qCMy8CbbNktEfU1md93ZpbPQ==",
       "dev": true,
       "requires": {
         "js-yaml": "3.10.0",
