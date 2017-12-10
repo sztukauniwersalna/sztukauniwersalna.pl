@@ -11,6 +11,7 @@ tags:
 - art
 - sztuka
 - artysta
+description: Koło Moodboard by Olela Krawczyk
 ---
 
 ![Obrazek przedstawia cztery zdjęcia kobiet w strojach o kształcie koła, na tle geometrycznych czarno-białych figur.](https://assets0.ello.co/uploads/asset/attachment/6321789/ello-optimized-10c170fc.jpg)

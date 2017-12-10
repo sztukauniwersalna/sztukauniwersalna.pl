@@ -11,6 +11,7 @@ tags:
 - artist
 - artysta
 - sztuka
+description: Impressionism moodboard by Olela Krawczyk
 ---
 
 ![Obraz przedstawia fotografie na niebieskim tle. Widzimy torebkę, obrazy znanego artysty, modelki w sukniach.](https://assets2.ello.co/uploads/asset/attachment/6535912/ello-optimized-1ea87931.jpg)

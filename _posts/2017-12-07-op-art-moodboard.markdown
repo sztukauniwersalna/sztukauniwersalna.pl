@@ -11,6 +11,7 @@ tags:
 - artist
 - artysta
 - sztuka
+description: Op Art Moodboard by Olela Krawczyk
 ---
 
 ![Obraz przedstawia fotografie różnych dzieł znanych artystów. Wszystko na ciemno-szarym tle.](https://assets0.ello.co/uploads/asset/attachment/6664021/ello-optimized-55517a7b.jpg)
