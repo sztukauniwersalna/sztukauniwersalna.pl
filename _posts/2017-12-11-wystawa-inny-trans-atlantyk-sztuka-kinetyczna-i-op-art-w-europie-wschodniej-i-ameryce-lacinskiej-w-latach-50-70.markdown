@@ -50,7 +50,9 @@ Dziełem, które przykuło moja uwagę na ok. pół godziny był ‘Obiekt kinet
 
 ## Przestrzenne
 
-Oprócz prac ‘ściennych’ - obrazów i reliefów (Henryk Stażewski) możemy też na wystawie „Inny Trans-Atlantyk ‘ doświadczyć obiektów w przestrzeni. Za słowo ‘obiekt’ zapewne obraziłaby się Lygia Clark – artystka wizualna, rzeźbiarka, performerka, która swoje prace nazywała „quasi-ciałami”. Jej quasi-ciało ‘Stwór ptak z przestrzeni’ to rzeźba z aluminium, którą widz może dowolnie kształtować. Specjalnie zamontowane zawiasy pozwalają na zmianę kierunku płaszczyzn dzieła. Lygia zaznacza, że chciała nie tylko ożywić dzieło sztuki, ale też zaangażować odbiorców w akt twórczy.
+![Obraz przedstawia trzy fotografie. Na zdjęciach z prawej strony widzimy sylwetki ludzkie, z lewej pracę artystyczną przedstawiającą figury geometryczne czarne i czerwone.](https://assets2.ello.co/uploads/asset/attachment/6690639/ello-optimized-3502d85e.jpg)
+
+Oprócz prac ‘ściennych’ - obrazów i reliefów (Henryk Stażewski - zdjęcie powyżej) możemy też na wystawie „Inny Trans-Atlantyk ‘ doświadczyć obiektów w przestrzeni. Za słowo ‘obiekt’ zapewne obraziłaby się Lygia Clark – artystka wizualna, rzeźbiarka, performerka, która swoje prace nazywała „quasi-ciałami”. Jej quasi-ciało ‘Stwór ptak z przestrzeni’ to rzeźba z aluminium, którą widz może dowolnie kształtować. Specjalnie zamontowane zawiasy pozwalają na zmianę kierunku płaszczyzn dzieła. Lygia zaznacza, że chciała nie tylko ożywić dzieło sztuki, ale też zaangażować odbiorców w akt twórczy.
 
 ![Obraz przedstawia dwa zdjęcia. Na zdjęciu po lewej stronie widzimy obraz na białej ścianie, na zdjęciu po prawej rzeźbę z metalu, a w tle obrazy na białej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6690627/ello-optimized-1ac23d9d.jpg)
 
@@ -59,3 +61,8 @@ Mira Schendel z kolei proponuje nam spacer dookoła ‘Zatrzymane fale prawdopod
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy fotografię ukazującą fragment nóg osób stojących za białą ścianą, całość przykrywa biały szum. Z prawej strony widzimy oświetlone pomieszczenie z napisem na ścianie.](https://assets0.ello.co/uploads/asset/attachment/6690645/ello-optimized-b6bcdaf1.jpg)
 
 Mniej więcej w środku zwiedzania wystawy „Inny Trans-Atlantyk’ napotykamy na tajemniczą kotarę, za którą znajduje się ciemne pomieszczenie, a w nim… Chwilę po adaptacji naszego wzroku napotykamy na pudełko ze źródłem światła. Nad nim na suficie zawieszone zostały metalowe płytki o różnych kształtach. Rozglądamy się dookoła dostrzegając refleksy świetlne na ścianach, które w poruszają się w subtelny sposób. Ruchu nie dostrzeżemy nigdzie indziej, tylko w ‘zajączkach na ścianach. Wydaje mi się, że artysta w sprytny sposób wykorzystał cyrkulację powietrza tak, aby wprawić w drżenie metalowe płytki. Julio Le Parc znany jest ze swoich eksperymentów ze światłem w roli głównej.
+
+## Wnioski końcowe
+
+Wystawa ‘Inny Trans-Atlantyk. Sztuka kinetyczna i op-art w Europie Wschodniej i Ameryce Łacińskiej w latach 50. – 70.’ jest po prostu świetna. Wyważenie przestrzenne, wzajemne stosunki dzieł, odległości zostały wyszukane w 100%. Możemy oglądać prace w przez nas samych wyznaczonym kierunku i na każdym kroku zaskoczy nas coś niesamowitego. Zaraz obok obrazu znajdziemy obiekt, stół z materiałami prasowymi, filmem, a jeśli spojrzymy w górę dostrzeżemy kształty zawieszone tuż nad sufitem. Wystawa jest spójna, a jednocześnie pełna niespodzianek. Doświadczanie dzieł każdy z nas musi zainicjować, niczym innym jak… ruchem. Prawdziwy wydźwięk tej ekspozycji dostrzeżemy tylko wtedy, kiedy będziemy w nieustannym ruchu. Myślę, że jest to też genialna propozycja dla osób, które nie mają wielkiego pojęcia o sztuce, a chcą dowiedzieć się czym jest op-art i sztuka kinetyczna. Przyjdź, doświadcz, zrozum!
+
