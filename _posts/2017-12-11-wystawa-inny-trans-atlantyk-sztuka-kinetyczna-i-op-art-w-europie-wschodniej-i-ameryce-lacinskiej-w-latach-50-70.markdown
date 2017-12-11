@@ -73,3 +73,9 @@ Wystawa ‘Inny Trans-Atlantyk. Sztuka kinetyczna i op-art w Europie Wschodniej 
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy obrazek przedstawiający kwadratowe linie. Z prawej strony widzimy trzy obrazki w ramkach przedstawiające kwadraty różnych rozmiarów.](https://assets0.ello.co/uploads/asset/attachment/6690613/ello-optimized-a8b1bdcd.jpg)
 ![Zdjęcie przedstawia metalową konstrukcję, przez którą możemy dostrzec resztę pomieszczenia.](https://assets2.ello.co/uploads/asset/attachment/6690620/ello-optimized-2e713fd1.jpg)
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony na pierwszym planie widzimy złotą rzeźbę, a w tle obraz. Z prawej strony widzimy kwadratowy obraz przedstawiający małe kółka.](https://assets1.ello.co/uploads/asset/attachment/6690633/ello-optimized-050ee119.jpg)
+
+Wystawa trwa od 17.11.2017 r. do 11.02.2018 r. i można jej doświadczyć od wtorku do piątku w godz. 12:00-20:00, w sobotę od 11:00-20:00 i niedzielę od 11:00-18:00.
+Wstęp na wystawę jest DARMOWY.
+MUZEUM nad Wisłą
+Wybrzeże Kościuszkowskie 22 (Skwer Kpt. S. Skibniewskiego "Cubryny"), 
+Więcej informacji o wystawie, artystach i dodatkowych wydarzeniach znajdziecie [tutaj](http://transatlantic.artmuseum.pl/pl)
