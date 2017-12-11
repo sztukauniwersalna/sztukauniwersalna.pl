@@ -50,4 +50,10 @@ Dziełem, które przykuło moja uwagę na ok. pół godziny był ‘Obiekt kinet
 
 ## Przestrzenne
 
+Oprócz prac ‘ściennych’ - obrazów i reliefów (Henryk Stażewski) możemy też na wystawie „Inny Trans-Atlantyk ‘ doświadczyć obiektów w przestrzeni. Za słowo ‘obiekt’ zapewne obraziłaby się Lygia Clark – artystka wizualna, rzeźbiarka, performerka, która swoje prace nazywała „quasi-ciałami”. Jej quasi-ciało ‘Stwór ptak z przestrzeni’ to rzeźba z aluminium, którą widz może dowolnie kształtować. Specjalnie zamontowane zawiasy pozwalają na zmianę kierunku płaszczyzn dzieła. Lygia zaznacza, że chciała nie tylko ożywić dzieło sztuki, ale też zaangażować odbiorców w akt twórczy.
 
+![Obraz przedstawia dwa zdjęcia. Na zdjęciu po lewej stronie widzimy obraz na białej ścianie, na zdjęciu po prawej rzeźbę z metalu, a w tle obrazy na białej ścianie.](https://assets1.ello.co/uploads/asset/attachment/6690627/ello-optimized-1ac23d9d.jpg)
+
+Mira Schendel z kolei proponuje nam spacer dookoła ‘Zatrzymane fale prawdopodobieństwa’. Ta instalacja to swoisty paradoks – pojedyncza żyłka nylonowa jest dla ludzkiego oka niewidoczna, dopiero po pomnożeniu jej przez 20 000 zaczyna zawłaszczać przestrzeń, w której się znajduje, a my na własnej skórze odczuwamy siłę w jej transparentności. Całości towarzyszy cytat z Biblii: ‘Wtedy rzekł: «Wyjdź, aby stanąć na górze wobec Pana!» A oto Pan przechodził. Gwałtowna wichura rozwalająca góry i druzgocąca skały [szła] przed Panem; ale Pan nie był w wichurze. A po wichurze - trzęsienie ziemi: Pan nie był w trzęsieniu ziemi. Po trzęsieniu ziemi powstał ogień: Pan nie był w ogniu. A po tym ogniu - szmer łagodnego powiewu.’ (Stary Testament; I Księga Królewska; 19: 11-12). Ta instalacja została specjalnie przygotowana przez artystkę na X Biennale w São Paulo w 1969 roku jako komentarz do represyjnej polityki kulturalnej i rządów dyktatury w Brazylii tamtego czasu.
+
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy fotografię ukazującą fragment nóg osób stojących za białą ścianą, całość przykrywa biały szum. Z prawej strony widzimy o](https://assets0.ello.co/uploads/asset/attachment/6690645/ello-optimized-b6bcdaf1.jpg)
