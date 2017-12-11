@@ -25,4 +25,5 @@ Wystawę ‘Inny Trans-Atlantyk. Sztuka kinetyczna i op-art w Europie Wschodniej
 
 ![Zdjęcie przedstawia geometryczną czerwono-czarną rzeźbę stojącą na śniegu na tle budynku ozdobionego rysunkami.](https://assets1.ello.co/uploads/asset/attachment/6690686/ello-optimized-14031b74.jpg)
 ![Zdjęcie przedstawia krajobraz. Widzimy biało-niebieską rzeźbę i budynek w tle. Ziemię pokrywa śnieg.](https://assets2.ello.co/uploads/asset/attachment/6690680/ello-optimized-96bc6563.jpg)
-![Zdjęcie przedstawia ziemię pokrytą roztopionym śniegiem,do ziemi przytwierdzona jest tabliczka z napisem. Widzimy też czę](https://assets0.ello.co/uploads/asset/attachment/6690691/ello-optimized-618944d8.jpg)
+![Zdjęcie przedstawia ziemię pokrytą roztopionym śniegiem,do ziemi przytwierdzona jest tabliczka z napisem. Widzimy też fragment nogi w czarnym obuwiu.](https://assets0.ello.co/uploads/asset/attachment/6690691/ello-optimized-618944d8.jpg)
+![Zdjęcie przedstawia obraz widziany poprzez niebieskie pionowe linie.](https://assets0.ello.co/uploads/asset/attachment/6690702/ello-optimized-baf931ef.jpg)
