@@ -27,3 +27,13 @@ Wystawę ‘Inny Trans-Atlantyk. Sztuka kinetyczna i op-art w Europie Wschodniej
 ![Zdjęcie przedstawia krajobraz. Widzimy biało-niebieską rzeźbę i budynek w tle. Ziemię pokrywa śnieg.](https://assets2.ello.co/uploads/asset/attachment/6690680/ello-optimized-96bc6563.jpg)
 ![Zdjęcie przedstawia ziemię pokrytą roztopionym śniegiem,do ziemi przytwierdzona jest tabliczka z napisem. Widzimy też fragment nogi w czarnym obuwiu.](https://assets0.ello.co/uploads/asset/attachment/6690691/ello-optimized-618944d8.jpg)
 ![Zdjęcie przedstawia obraz widziany poprzez niebieskie pionowe linie.](https://assets0.ello.co/uploads/asset/attachment/6690702/ello-optimized-baf931ef.jpg)
+
+## Otwarcie
+
+W momencie, kiedy tylko weszłam do środka totalnie zakochałam się w przestrzeni. Przede wszystkim to miejsce wydaje się być olbrzymie, a to za sprawą wysokości pawilonu. Wewnątrz ‘można oddychać’, a co z tym idzie również poszczególne prace oddychają i nie przeszkadzają sobie wzajemnie w odbiorze.
+
+![Zdjęcie przedstawia pomieszczenie z białymi ścianami. Na ścianach wiszą obrazy, a na podłodze stoją rzeźby.](https://assets0.ello.co/uploads/asset/attachment/6690610/ello-optimized-9f4adbba.jpg)
+
+Na wystawie zobaczymy dzieła ponad 30stu artystów związanych z op-artem i sztuką kinetyczną. Gwoli wyjaśnienia:
+1. Op-art, czyli ang. ‘optical art’ - sztuka optyczna, inaczej: wizualizm. Kierunek w malarstwie, grafice, sztuce użytkowej, modzie, którego głównym założeniem było oddziaływać na oko widza (zobacz koniecznie [moodboard op-art](http://sztukauniwersalna.pl/2017-12-07-op-art-moodboard)). Prace op-artu wciągają nas w iluzje optyczne, ‘trenują’ nasz narząd wzroku, proponują grę złudzeń pozorując trójwymiarowość. Pionierem tego kierunku jest Victor Vasarely – Węgier, który już w latach 30’ eksperymentował z geometryczną abstrakcją, która zaprowadziła go do późniejszych fascynacji teoriami percepcji i aktem widzenia (jedną serigrafię Victor’a pt.:’Caracas’ z 1956 r. zobaczymy na wystawie ‘Inny Trans-Atlantyk’). Op-art jest często utożsamiany ze sztuką wizualnych trików, która nie ma na celu wzbudzać większych refleksji. Jednak można go porównać do dziedziny nauki zajmującej się badaniem aparatu widzenia. Najbardziej intensywny czas rozwoju op-art’u przypadł na lata 50. i 60. XX wieku.
+2. Sztuka kinetyczna - (z gr. kinēma 'ruch') kierunek w sztuce koncentrujący się na zagadnieniu ruchu – rzeczywistym lub pozornym. W prostym wyjaśnieniu, to sztuka wykorzystująca pewne mechanizmy (naturalne lub sztuczne) dla oddania ruchu lub jego wrażenia. Tak, jak np. w przypadku wyżej opisanej instalacji Jesús’a Rafael’a Soto – który dzięki naturalnemu czynnikowi, jakim jest wiatr stwarza w obiekcie ruch, który to z kolei buduje obraz.
