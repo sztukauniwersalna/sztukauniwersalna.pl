@@ -1,5 +1,5 @@
 ---
-title: Pablo_Picasso – wizerunek wielokrotny
+title: 'Wystawa: Pablo_Picasso – wizerunek wielokrotny'
 date: 2017-11-13 19:32:00 +01:00
 categories:
 - Sztuka dla Sztuki
