@@ -79,7 +79,11 @@ module.exports = {
         {
           context: '.',
           from: 'googlec8e6fdafef950e07.html',
-        }
+        },
+        {
+          context: '.',
+          from: 'logo-gradient.png',
+        },
       ])
     ),
     new StaticSiteGeneratorPlugin({

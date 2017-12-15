@@ -22,6 +22,7 @@ collections:
     title: Uploads
     output: false
 baseUrl: http://sztukauniwersalna.pl
+image: http://sztukauniwersalna.pl/logo-gradient.png
 locale: pl_PL
 menu:
 - title: Sztuka Ubioru
