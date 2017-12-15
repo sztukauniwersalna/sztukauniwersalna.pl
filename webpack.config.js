@@ -97,6 +97,12 @@ module.exports = {
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
           'https://www.googletagmanager.com/gtag/js?id=UA-110945340-1',
         ],
+        meta: [
+          {
+            property: 'fb:app_id',
+            content: '1679148002129886',
+          },
+        ],
       },
 
       globals: {
