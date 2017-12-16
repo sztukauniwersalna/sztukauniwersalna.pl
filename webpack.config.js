@@ -103,7 +103,7 @@ module.exports = {
         ],
         meta: [
           {
-            property: 'fb:app_id',
+            property: 'fb:site_id',
             content: '1679148002129886',
           },
         ],
