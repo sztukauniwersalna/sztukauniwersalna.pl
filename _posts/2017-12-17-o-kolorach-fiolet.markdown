@@ -1,5 +1,5 @@
 ---
-title: O kolorach – fiolet.
+title: 'O kolorach: Fiolet'
 date: 2017-12-17 19:40:00 +01:00
 categories:
 - Sztuka Makijażu
@@ -12,7 +12,6 @@ tags:
 - sztuka
 - art
 - artysta
-- kreacja
 - makeup
 ---
 
@@ -54,4 +53,5 @@ Moschino na wiosnę 2018 serwuje głęboki fiolet tiulowych spódnic w połącze
 > Oto jest fiolet – drzewa cień idący żwirem,
 > fiolet łączący miłość czerwieni z szafirem.
 >
-> ~ Maria Pawlikowska-Jasnorzewska; Barwy 
+> ~ Maria Pawlikowska-Jasnorzewska; Barwy
+
