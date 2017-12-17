@@ -11,6 +11,8 @@ const ReactDOM = require('react-dom');
 const ReactDOMServer = require('react-dom/server');
 const ReactRouterDOM = require('react-router-dom');
 
+const window = new JSDOM().window;
+
 module.exports = {
 	entry: {
     entry: [
@@ -101,16 +103,12 @@ module.exports = {
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
           'https://www.googletagmanager.com/gtag/js?id=UA-110945340-1',
         ],
-        meta: [
-          {
-            property: 'fb:site_id',
-            content: '1679148002129886',
-          },
-        ],
       },
 
       globals: {
-        self: new JSDOM().window,
+        self: window,
+        window: window,
+        document: window.document,
         React: React,
         ReactDOM: ReactDOM,
         ReactDOMServer: ReactDOMServer,
