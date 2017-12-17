@@ -51,3 +51,9 @@ Moschino na wiosnę 2018 serwuje głęboki fiolet tiulowych spódnic w połącze
 
 ![Obraz przedstawia zdjęcie fragmentu kobiecej twarzy w makijażu oraz geometryczne fioletowe kształty na białym tle.](https://assets0.ello.co/uploads/asset/attachment/6766585/ello-optimized-d7e2233f.jpg)
 
+> Oto jest fiolet – drzewa cień idący żwirem,
+> fiolet łączący miłość czerwieni z szafirem.
+>
+> ~ Maria Pawlikowska-Jasnorzewska; Barwy 
+
+![Zdjęcie przedstawia kobietę z siwymi lokowanymi włosami. Kobieta patrzy w obiektyw, ma lekko rozchylone, pomalowane usta. Z lewej strony pada delikatne fioletowe światło.](https://assets1.ello.co/uploads/asset/attachment/6766586/ello-optimized-5bb48308.jpg)
