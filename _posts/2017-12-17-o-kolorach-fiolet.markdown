@@ -6,6 +6,14 @@ categories:
 tags:
 - kolor
 - fiolet
+- pantone
+- cmyk
+- rgb
+- sztuka
+- art
+- artysta
+- kreacja
+- makeup
 ---
 
 Tak! Już jest! Kolorem roku 2018 według Pantone został ‘Ultra Violet 18-3838’!  Cieszę się niezmiernie, bo to jeden z moich ulubionych kolorów. Fiolet kryje w sobie twórczy potencjał, inspiruje do kreatywnego działania. Nie bez powodu nazywa się go kolorem artystów. Działa na nasze zmysły kojąco, uspokaja, sprzyja medytacji. Mam też wrażenie, że jest symbolem tajemnicy, kojarzy się z luksusem, gdyż kiedyś drogocennym purpurowym barwnikiem farbowano szaty władców. W identyfikacjach wizualnych marek pojawia się dość rzadko, gdyż wymaga umiejętnego użycia. Zazwyczaj możemy go zobaczyć w reklamach ekskluzywnych perfum, na opakowaniach kosmetyków, ale też np. w salonach pewnej znanej firmy telekomunikacyjnej. Jedno jest pewne – dobrze wykorzystany na pewno sprzyja wszystkim dookoła.
