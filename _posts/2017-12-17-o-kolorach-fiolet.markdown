@@ -55,5 +55,3 @@ Moschino na wiosnę 2018 serwuje głęboki fiolet tiulowych spódnic w połącze
 > fiolet łączący miłość czerwieni z szafirem.
 >
 > ~ Maria Pawlikowska-Jasnorzewska; Barwy 
-
-![Zdjęcie przedstawia kobietę z siwymi lokowanymi włosami. Kobieta patrzy w obiektyw, ma lekko rozchylone, pomalowane usta. Z lewej strony pada delikatne fioletowe światło.](https://assets1.ello.co/uploads/asset/attachment/6766586/ello-optimized-5bb48308.jpg)
