@@ -9639,9 +9639,9 @@
       }
     },
     "parrot-layout": {
-      "version": "1.9.5",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.9.5.tgz",
-      "integrity": "sha512-kwZKEBNLXOhlh1sZop0xcxupzdbsh+MARxTRGl8Yg9t2GRV32oFB4lB64VDw6BV0FDTCj2u9XVZrFSygyzlYEQ==",
+      "version": "1.9.7",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.9.7.tgz",
+      "integrity": "sha512-ifillSiA3v2vu7TGYtq91UR0my4xAzUQx5RrARgyfMTFPU/k6Wbm9E4aSx1pcTmv8oj9k+NaqRbe3f1DYt/oEg==",
       "dev": true,
       "requires": {
         "react-disqus-comments": "1.1.1"
