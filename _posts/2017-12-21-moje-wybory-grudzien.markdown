@@ -51,3 +51,9 @@ Model Palermo by Sabrina Pilewicz to pudełkowa klasyka. Ma w sobie niewinność
 
 ![Zdjęcie przedstawia białą małą torebkę na zielonym tle. Obok widzimy trzy białe dekoracyjne elementy w kształcie gwiazdek.](https://assets0.ello.co/uploads/asset/attachment/6785640/ello-optimized-e664d092.jpg)
 ![Zdjęcie przedstawia zbliżenie na fragment białej torebki ze srebrnym łańcuszkiem, która leży na zielonym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6785642/ello-optimized-be9a28d0.jpg)
+
+Shop My Choices
+* [Because It's You Emporio Armani](https://m.douglas.pl/Perfumy-Perfumy%20damskie-Perfumy-Giorgio-Armani-Because-it%27s-you-Stronger-with-you-Because-it%27s-you_productbrand_3000082426.html)
+* [Barbara Hulanicki. Judyta Fibiger rozmawia z kultową projektantką mody](http://www.empik.com/barbara-hulanicki-fibiger-judyta,p1138911653,ksiazka-p)
+* [Teint Miracle Lancôme](https://www.douglas.pl/productbrand_781291.html?wt_cc4=marin_bid&wt_cc1=&mkwid=sIbFnvtay_dc&pcrid=85015148776&pkw=&pmt=&trac=pl.01psh.goo.3915227426.781291.22752209536.000000)
+* [Palermo Bag by Sabrina Pilewicz](http://www.sklep.sabrinapilewicz.com/index.php?do_search=true)
