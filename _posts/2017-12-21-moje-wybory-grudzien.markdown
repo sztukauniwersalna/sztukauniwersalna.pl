@@ -29,8 +29,13 @@ Zima to zdecydowanie okres cięższych, słodszych zapachów. Z białymi wieczor
 „Barbara Hulanicki. Judyta Fibiger rozmawia z kultową projektantką mody.” - to pozycja nie tylko dla wielbicieli mody. Z obszernego wywiadu z założycielką kultowej marki ‘Biba’ dowiemy się wiele o życiu i kulturze swingującego Londynu lat 60-tych. Kiedy światem zawładnął bunt wolności, młodzi mogli w końcu pozwolić sobie na kupowanie ubrań – jest to moment, kiedy moda zaczyna powstawać specjalnie z myślą o nich. Triumf świętują małe butiki z ubraniami od projektantów. Powstaje coś, do czego dziś przywiązuje się olbrzymią wagę w sferze marketingu internetowego, a mianowicie ‘UX’ (User Experience). Pojęcia obecnie używa się głównie w odniesieniu do sfery wszelkich urządzeń elektronicznych i programowania, ale w tamtych czasach doświadczenie budowało się poprzez samą przestrzeń, w której klient spotykał się z produktem. Właśnie w takich miejscach jak butik ‘Biby’ chciało się przebywać. To było coś więcej niż tylko sklep, to była idea. „Uosobieniem filozofii Biby stały się ‘Biba girls’, pracujące tam dziewczyny. Swoim wyglądem i postawą manifestowały absolutną niezależność. Były wyniosłe, bardzo szczupłe, wyzwolone, ‘twarde jak skała’.” (str. 87) W skrócie: szaleli za nimi mężczyźni, a wszystkie kobiety chciały być takie jak one. 
 Ciemne wnętrza butików (czwarty sklep Biby był już monumentalnym domem towarowym, w którym można było kupić ubrania, jedzenie, kosmetyki, meble, książki…) sprawiały wrażenie świątyń tajemnicy, a głośna muzyka czyniła miejsce handlu miejscem spotkań, miejscem, w którym ‘należało się pokazać’.
 
+![Zdjęcie przedstawia książkę postawioną pionowo na tle niebiesko-bordowym.](https://assets1.ello.co/uploads/asset/attachment/6785633/ello-optimized-94b8a939.jpg)
+![Obraz przedstawia dwa zdjęcia rozłożonej książki leżącej na niebiesko-bordowym podłożu.](https://assets2.ello.co/uploads/asset/attachment/6785636/ello-optimized-db196dda.jpg)
+
 > Wielki przebłysk jej geniuszu polega na tworzeniu nie 
 > tylko mody, ale całego wizerunku. 
 > Zupełnie nowego świata.
 >
 > ~ The London Collections Magazine, lata 80-te, Brazylia; str. 230
+
+## Kosmetyk
