@@ -39,3 +39,14 @@ Ciemne wnętrza butików (czwarty sklep Biby był już monumentalnym domem towar
 > ~ The London Collections Magazine, lata 80-te, Brazylia; str. 230
 
 ## Kosmetyk
+
+Teint Miracle Lancôme – podkład rozświetlający idealny na zimę. Doskonale nawilżający, pozostawia cerę promienną i odżywioną na cały dzień. Wysoka koncentracja wody i 10 razy mniej pudrowych substancji wypełniających niż w innych podkładach tej marki. Zdarza się, że nie stosuję dodatkowego kremu na skórę, bo właściwości nawilżające podkładu w zupełności wystarczają, aby moja skóra czuła się komfortowo przez cały dzień (mam suchą cerę). Często nie utrwalam też całości pudrem, chcąc zachować efekt ‘świetlistości’. Podkład po całym dniu wygląda bardzo dobrze (nawet kiedy używasz chusteczki do nosa, ściera się w praktycznie niezauważalny sposób). Ważne: do aplikacji użyj specjalnego pędzla tzw. ‘stippling brush’ - zamocz go w odrobinie podkładu i delikatnie omiataj nim twarz, dzięki temu uzyskasz naturalny efekt drugiej skóry.
+
+![Zdjęcie przedstawia flakonik podkładu leżący na białych piórach, całość na jasno-żółtym tle.](https://assets1.ello.co/uploads/asset/attachment/6785639/ello-optimized-ea156e4c.jpg)
+
+## Torebka
+
+Idealne wykończenie każdej stylizacji… Nieodłączny element kobiecej garderoby, niezastąpiona na co dzień i od święta. Duże shopperki na zakupy z przyjaciółką, małe kopertówki na randkę wieczorową porą. Pokaż mi zawartość swojej torebki, a powiem Ci jaka jesteś. Czy znacie kobietę, która nie nosi torebki?!
+Model Palermo by Sabrina Pilewicz to pudełkowa klasyka. Ma w sobie niewinność ‘zabawki’ dla dużej dziewczynki, a jednocześnie jest niezwykle kobieca. Klasa sama w sobie. Wykonana z grubej skóry, na regulowanym łańcuszku stwarza możliwość kombinacji jej noszenia. Grudzień to świąteczny czas spotkań z rodziną i przyjaciółmi, ale i czas szalonej zabawy sylwestrowej – te okazje to doskonały moment na wybór tej torebki. Mroźnego charakteru dodaje jej kolor pierwszego śniegu i srebrne wykończenia. Czuje, że stanie się ona moją ulubienicą na kolejne 3 miesiące.
+
+![Zdjęcie przedstawia białą małą torebkę na zielonym tle. Obok widzimy trzy białe dekoracyjne elementy w kształcie gwiazdek.](https://assets0.ello.co/uploads/asset/attachment/6785640/ello-optimized-e664d092.jpg)
