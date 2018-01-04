@@ -21,3 +21,11 @@ Nazwa złożona z dwóch nazw – ekspresjonizm abstrakcyjny. Ekspresja (łac. e
 * ‘color field painting’ - malarstwo płaszczyzn, którego królem jest Mark Rothko. Barwy rozpościerające swoją energię na wielkich płaszczyznach (polach) płótna. Kiedy stoi się przed dziełem w odpowiedniej odległości ma się wrażenie ‘zawłaszczenia’ przez dzieło, a pozornie jednolita płaszczyzna zaczyna wibrować i przybliża nas do swoistego rodzaju uczucia transcendencji.
 </olela-narrative>
 
+![Obraz przedstawia zdjęcia dzieł znanych artystów, widzimy także modelkę na wybiegu, całość na fioletowym tle.](https://assets0.ello.co/uploads/asset/attachment/6832049/ello-optimized-5f9bd386.jpg)
+![Obraz przedstawia trzy fotografie na fioletowym tle. Widzimy talerz z daniem oraz obrazy znanych artystów.](https://assets1.ello.co/uploads/asset/attachment/6832050/ello-optimized-43ae6d90.jpg)
+![Obraz przedstawia pięć zdjęć na fioletowym tle, z czego dwa to zdjęcia dań na talerzach, a trzy to zdjęcia obrazów znanych artystów.](https://assets0.ello.co/uploads/asset/attachment/6832051/ello-optimized-26df2553.jpg)
+![Obraz przedstawia dwa zdjęcia na fioletowym tle. Jedno z nich przedstawia czarno-biały obraz olejny, a drugie modelkę w kolorowych ubraniach.](https://assets0.ello.co/uploads/asset/attachment/6832054/ello-optimized-60b1e3cc.jpg)
+![Zdjęcie przedstawia fotografię modelki w kolorowych ubraniach, która w ręku trzyma torebkę. Dookoła znajduje się fioletowa ramka.](https://assets0.ello.co/uploads/asset/attachment/6832055/ello-optimized-e70d1a99.jpg)
+![Obraz przedstawia pięć fotografii. Na dwóch z nich widzimy obrazy znanych artystów, a na trzech pozostałych modelki na wybiegu. Całość na fioletowym tle.](https://assets3.ello.co/uploads/asset/attachment/6832059/ello-optimized-ca60c562.jpg)
+![Obraz przedstawia cztery zdjęcia, z czego dwa pokazują obrazy abstrakcyjne, a dwa pozostałe to kobiece portrety. Całość na fioletowym tle.](https://assets0.ello.co/uploads/asset/attachment/6832060/ello-optimized-1a5b7620.jpg)
+![Zdjęcie przedstawia jasne napisy na fioletowym tle.](https://assets1.ello.co/uploads/asset/attachment/6832061/ello-optimized-806e0255.jpg)
