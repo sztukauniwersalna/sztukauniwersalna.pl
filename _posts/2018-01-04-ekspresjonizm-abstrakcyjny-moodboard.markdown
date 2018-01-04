@@ -19,7 +19,7 @@ tags:
 Nazwa złożona z dwóch nazw – ekspresjonizm abstrakcyjny. Ekspresja (łac. exspressio – wyciskanie soku), czyli uzewnętrznienie, wyraz. Obecna od najmłodszych lat, często nieuświadomiona – ekspresja mimiki, ekspresja słowna, wszystkie gesty składające się na obraz naszych emocji i wewnętrznych przeżyć.<br/> 
 Abstrakcja (łac. abstractio – oderwanie ), forma pozbawiona cech ilustracyjności, nieprzedstawiająca. W jednym zdaniu: ekspresjonizm abstrakcyjny to spontaniczny (w pewnym sensie również automatyczny/podświadomy) akt twórczy, łączący w sobie chęć samowyrażenia z antyfiguratywną estetyką. Termin ten dotyczy głównie tzw. „Szkoły Nowojorskiej”, gdzie w latach 40-tych XX wieku miał szansę zaistnieć pod wpływem nowoczesnego malarstwa europejskiego.<br/>
 W jej obrębie wyróżniamy główne nurty tj:<br/>
-1. ‘action painting’ (tutaj znajdziesz moodboard, który przybliży temat) – malarstwo gestu. Słynne ‘chlapanie po płótnie’ Jacksona Pollocka. Odwołuje się do spontanicznej łaski tworzenia i podświadomej siły wyrazu artysty. 
+1. ‘action painting’ (tutaj znajdziesz moodboard, który przybliży temat) – malarstwo gestu. Słynne ‘chlapanie po płótnie’ Jacksona Pollocka. Odwołuje się do spontanicznej łaski tworzenia i podświadomej siły wyrazu artysty.<br/>
 2. ‘color field painting’ - malarstwo płaszczyzn, którego królem jest Mark Rothko. Barwy rozpościerające swoją energię na wielkich płaszczyznach (polach) płótna. Kiedy stoi się przed dziełem w odpowiedniej odległości ma się wrażenie ‘zawłaszczenia’ przez dzieło, a pozornie jednolita płaszczyzna zaczyna wibrować i przybliża nas do swoistego rodzaju uczucia transcendencji.
 </olela-narrative>
 
