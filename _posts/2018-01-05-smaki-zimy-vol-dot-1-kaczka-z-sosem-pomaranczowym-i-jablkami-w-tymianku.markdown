@@ -27,7 +27,7 @@ Sezon na pomarańcze w pełni. Chociaż według medycyny chińskiej ten owoc o p
     time='60 minut'
     level='średni'
     mealFor='2 osoby'
-    photo='https://assets1.ello.co/uploads/asset/attachment/6842176/ello-optimized-553af22a.jpg'
+    photo='https://assets1.ello.co/uploads/asset/attachment/6845527/ello-optimized-6cca09d3.jpg'
     altText='Zdjęcie przedstawia biały kwadratowy talerz z perspektywy lotu ptaka, na talerzu znajdują się kawałki mięsa, pomarańcze, jabłka, żółty sos. Całość na białym tle.'
   >
     <Ingredient title='filety z piersi kaczki' quantity='2' />
@@ -53,4 +53,4 @@ Smacznego!
 </div>
 
 ![Zdjęcie przedstawia talerz ujęty z perspektywy lotu ptaka. Na talerzu znajdziemy mięso, pomarańczę, jabłka, koper, żółty sos. Talerz jest kwadratowy i biały, a tło ma odcień pomarańczu.](https://assets3.ello.co/uploads/asset/attachment/6842177/ello-optimized-3659e865.jpg)
-![Zdjęcie przedstawia potrawę złożoną z mięsa, jabłek, żółtego sosu. Całość na białym talerzu.](https://assets3.ello.co/uploads/asset/attachment/6842180/ello-optimized-02fbb2b3.jpg)
+![Zdjęcie przedstawia potrawę złożoną z mięsa, jabłek, żółtego sosu. Całość na białym talerzu.](https://assets2.ello.co/uploads/asset/attachment/6845526/ello-optimized-088a9070.jpg)
