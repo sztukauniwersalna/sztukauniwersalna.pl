@@ -25,13 +25,13 @@ Sezon na pomarańcze w pełni. Chociaż według medycyny chińskiej ten owoc o p
   <Recipe
     title='Kaczka z sosem pomarańczowym i jabłkami w tymianku'
     time='60 minut'
-    level=''
-    mealFor='15 osób'
-    photo='https://assets2.ello.co/uploads/asset/attachment/6401877/ello-optimized-acbac144.jpg'
-    altText='Zdjęcie przedstawia czerwony talerz na jasnym tle z perspektywy lotu ptaka. Na talerzu znajduje się ciasto z jabłkami.'
+    level='średni'
+    mealFor='2 osoby'
+    photo='https://assets1.ello.co/uploads/asset/attachment/6842176/ello-optimized-553af22a.jpg'
+    altText='Zdjęcie przedstawia biały kwadratowy talerz z perspektywy lotu ptaka, na talerzu znajdują się kawałki mięsa, pomarańcze, jabłka, żółty sos. Całość na białym tle.'
   >
-    <Ingredient title='jabłka' quantity='10 średnich' />
-    <Ingredient title='mąka pszenna' quantity='3 i 1/2 szklanki' />
+    <Ingredient title='filety z piersi kaczki' quantity='2' />
+    <Ingredient title='jabłko' quantity='1 ' />
     <Ingredient title='cukier puder' quantity='1/2 szklanki' />
     <Ingredient title='cukier brązowy' quantity='3 łyżki' />
     <Ingredient title='masło' quantity='1 kostka' />
