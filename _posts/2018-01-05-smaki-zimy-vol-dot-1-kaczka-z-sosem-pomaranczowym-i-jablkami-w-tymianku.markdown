@@ -18,4 +18,4 @@ tags:
 ---
 
 <olela-narrative>
-Sezon na pomarańcze w pełni. Zima to czas, kiedy nasz organizm na wszelkie sposoby poszukuje ciepła. Zauważyli
+Sezon na pomarańcze w pełni. Zima to czas, kiedy nasz organizm na wszelkie sposoby poszukuje ciepła. Zauważyliście, że wła
