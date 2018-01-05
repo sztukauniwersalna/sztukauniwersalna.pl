@@ -39,3 +39,15 @@ Sezon na pomarańcze w pełni. Chociaż według medycyny chińskiej ten owoc o p
     <Ingredient title='świeży imbir' quantity='kawałek' />
     <Ingredient title='sól, pieprz, tymianek, kurkuma' />
     <Method>
+Zaczynam od sparzenia wrzątkiem dwóch pomarańczy. Z jednej obieram skórkę i siekam na drobne kawałki. Siekam także kawałek imbiru. Sok z obu owoców wyciskam do małego rondelka i dodaję od razu łyżkę miodu (u mnie rzepakowy), oraz odrobinę pieprzu i soli. Tak przygotowany rondelek i posiekaną skórkę z imbirem odstawiam na bok.<br/>
+Przygotowuję blachę pod mięso – wykładam ją papierem do pieczenia i wyciskam na niego czosnek w miejsca, gdzie później umieszczę filety. Posypuję go odrobiną tymianku.<br/>
+Filety z kaczki myję pod ZIMNĄ (ważne!) wodą i usuwam (jeśli są) piórka pincetką (można tez opalić palnikiem). Skórę nacinam delikatnie, uważając by nie przyciąć mięsa, a samo mięso przyprawiam świeżo mielonym pieprzem. Kładę na SUCHĄ (ważne!) patelnie od strony skóry, smażę tak do momentu zrumienienia, odwracam na stronę mięsa i smażę podobną ilość czasu. Zrumienione filety wykładam na wcześniej przygotowaną blachę wprost na czosnek z tymiankiem (w ten sposób aromaty przypraw wnikną w mięso) i wkładam do piekarnika nagrzanego do 180°C na 8-10 minut (długo.<br/>
+Podczas kiedy mięso ‘dochodzi w piekarniku’ kroję jabłko w półksiężyce i wrzucam na ciepły tłuszcz wytopiony wcześniej z kaczki. Chwilę podsmażam posypując całość tymiankiem. Zdejmuję na osobny talerz.<br/>
+Przygotowany wcześniej rondelek z sokiem z pomarańczy i miodem wstawiam na niewielki gaz i doprowadzam do wrzenia. Następnie wrzucam posiekaną skórkę pomarańczową z imbirem. Pozwalam tej mieszance chwilę się pogotować i następnie wlewam na patelnię, na której przed chwilą smażyłam jabłka. Dodaję łyżeczkę masła, szczyptę kurkumy i redukuję całość. Kiedy sos zgęstnieje przecedzam go przez drobne sitko do miseczki.
+Mięso po wyjęciu z piekarnika powinno chwilę odpocząć. Dlatego, zanim zaczniemy wykładać danie na talerz odczekajmy około 5-8 min.<br/>
+Po tym czasie zaczynamy serwować. Malujemy sosem po talerzu, nań kładziemy kawałki mięsa, obok jabłka z tymiankiem, a całość świetnie dopełnią świeże kawałki pomarańczy. Niech talerz będzie Twoim płótnem. Zdecyduj o kompozycji – centralna, zamknięta, otwarta, dynamiczna? Je się przecież przede wszystkim oczami… 
+PS. Do dekoracji możesz również użyć skórek pomarańczowych z imbirem, które zostały Ci po przecedzeniu sosu. Rzuć też zielony akcent (u mnie koperek).<br/>
+Smacznego!
+</Method>
+  </Recipe>
+</div>
