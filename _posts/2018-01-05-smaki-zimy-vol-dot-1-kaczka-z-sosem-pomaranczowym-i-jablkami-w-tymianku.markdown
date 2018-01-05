@@ -51,3 +51,6 @@ Smacznego!
 </Method>
   </Recipe>
 </div>
+
+![Zdjęcie przedstawia talerz ujęty z perspektywy lotu ptaka. Na talerzu znajdziemy mięso, pomarańczę, jabłka, koper, żółty sos. Talerz jest kwadratowy i biały, a tło ma odcień pomarańczu.](https://assets3.ello.co/uploads/asset/attachment/6842177/ello-optimized-3659e865.jpg)
+![Zdjęcie przedstawia potrawę złożoną z mięsa, jabłek, żółtego sosu. Całość na białym talerzu.](https://assets3.ello.co/uploads/asset/attachment/6842180/ello-optimized-02fbb2b3.jpg)
