@@ -31,10 +31,11 @@ Sezon na pomarańcze w pełni. Chociaż według medycyny chińskiej ten owoc o p
     altText='Zdjęcie przedstawia biały kwadratowy talerz z perspektywy lotu ptaka, na talerzu znajdują się kawałki mięsa, pomarańcze, jabłka, żółty sos. Całość na białym tle.'
   >
     <Ingredient title='filety z piersi kaczki' quantity='2' />
-    <Ingredient title='jabłko' quantity='1 ' />
-    <Ingredient title='cukier puder' quantity='1/2 szklanki' />
-    <Ingredient title='cukier brązowy' quantity='3 łyżki' />
-    <Ingredient title='masło' quantity='1 kostka' />
-    <Ingredient title='jaja' quantity='4' />
-    <Ingredient title='proszek do pieczenia' quantity='2 łyżeczki' />
+    <Ingredient title='jabłko' quantity='1 średnie' />
+    <Ingredient title='pomarańcze' quantity='2+1 do dekoracji' />
+    <Ingredient title='czosnek' quantity='4 ząbki' />
+    <Ingredient title='masło' quantity='1 łyżeczka' />
+    <Ingredient title='miód' quantity='1 łyżka' />
+    <Ingredient title='świeży imbir' quantity='kawałek' />
+    <Ingredient title='sól, pieprz, tymianek, kurkuma' />
     <Method>
