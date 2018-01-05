@@ -14,6 +14,7 @@ tags:
 - artysta
 - kreacja
 ---
+
 Nazwa złożona z dwóch nazw – ekspresjonizm abstrakcyjny. Ekspresja (łac. exspressio – wyciskanie soku), czyli uzewnętrznienie, wyraz. Obecna od najmłodszych lat, często nieuświadomiona – ekspresja mimiki, ekspresja słowna, wszystkie gesty składające się na obraz naszych emocji i wewnętrznych przeżyć.
 
 Abstrakcja (łac. abstractio – oderwanie ), forma pozbawiona cech ilustracyjności, nieprzedstawiająca. W jednym zdaniu: ekspresjonizm abstrakcyjny to spontaniczny (w pewnym sensie również automatyczny/podświadomy) akt twórczy, łączący w sobie chęć samowyrażenia z antyfiguratywną estetyką. Termin ten dotyczy głównie tzw. „Szkoły Nowojorskiej”, gdzie w latach 40-tych XX wieku miał szansę zaistnieć pod wpływem nowoczesnego malarstwa europejskiego.
