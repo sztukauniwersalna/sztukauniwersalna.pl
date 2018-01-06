@@ -10113,9 +10113,9 @@
       }
     },
     "paramorph": {
-      "version": "1.10.9",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.10.9.tgz",
-      "integrity": "sha512-r6WBoLLm5tXHnnUXThnMP5HE//N5yqD2xt7IXzPMCxzSjI0USK8BLaI4nuhZTwlP7DzyFJwGNITpT/mJ+xWuEQ==",
+      "version": "1.10.10",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-1.10.10.tgz",
+      "integrity": "sha512-g88tAFgXRadP98oh9EsupJGJD47ay4RQh70IxnBpBOAM0L8r5Zdv7ViclYPtJCBpHpLy+x3c7KNPZlWew1vV3g==",
       "dev": true,
       "requires": {
         "js-yaml": "3.10.0",
