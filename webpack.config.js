@@ -1,4 +1,6 @@
 const path = require('path');
+
+const webpack = require('webpack');
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
@@ -11,12 +13,20 @@ const ReactDOM = require('react-dom');
 const ReactDOMServer = require('react-dom/server');
 const ReactRouterDOM = require('react-router-dom');
 
+// global.GA_TRACKING_ID must be set before loading parrot-layout/Root
+const GA_TRACKING_ID = global.GA_TRACKING_ID = 'UA-110945340-1';
+const Root = require('parrot-layout/Root').Root;
+
 const window = new JSDOM().window;
+
 
 module.exports = {
 	entry: {
     entry: [
       'paramorph/entry',
+    ],
+    gtagConfig: [
+      'parrot-layout/gtag'
     ],
   },
 
@@ -43,8 +53,14 @@ module.exports = {
   module: {
     noParse: externalReact.noParse,
     rules: [
-      { test: require.resolve('./node_modules/paramorph/data/requireContext'), use: 'val-loader' },
-      { test: require.resolve('./node_modules/paramorph/data/config'), use: 'val-loader' },
+      {
+        test: require.resolve('./node_modules/paramorph/data/requireContext'),
+        use: 'val-loader',
+      },
+      {
+        test: require.resolve('./node_modules/paramorph/data/config'),
+        use: 'val-loader',
+      },
       { enforce: 'pre', test: /\.js$/, use: 'source-map-loader' },
       {
         test: /\.markdown$/,
@@ -65,9 +81,13 @@ module.exports = {
   },
 
   plugins: [
+    new webpack.DefinePlugin({
+      GA_TRACKING_ID: JSON.stringify(GA_TRACKING_ID),
+    }),
     new ExtractTextPlugin('style-[hash].bundle.css'),
     new CopyWebpackPlugin(
       [
+        '*.ico',
         '*.jpg',
         '*.png',
         '*.svg',
@@ -89,11 +109,14 @@ module.exports = {
       ])
     ),
     new StaticSiteGeneratorPlugin({
+      entry: 'entry',
+
       paths: [
         '/',
       ],
 
       locals: {
+        Root,
         title: 'SztukaUniwersalna.pl',
         js: [
           'https://unpkg.com/react@15/dist/react.js',
@@ -101,7 +124,6 @@ module.exports = {
           'https://unpkg.com/react-dom@15/dist/react-dom.js',
           'https://unpkg.com/react-dom@15.6.1/dist/react-dom-server.min.js',
           'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
-          'https://www.googletagmanager.com/gtag/js?id=UA-110945340-1',
         ],
       },
 
