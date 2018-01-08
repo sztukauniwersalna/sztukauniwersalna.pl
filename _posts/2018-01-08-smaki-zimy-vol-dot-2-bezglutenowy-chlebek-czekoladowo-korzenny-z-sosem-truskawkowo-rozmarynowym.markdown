@@ -4,4 +4,4 @@ date: 2018-01-08 20:26:00 +01:00
 ---
 
 <olela-narrative>
-Już po 
+Święta, święta i po świętach. Makowce, pierniki i inne ciasta zostały spałaszowane (zazdroszczę tym, którzy czę
