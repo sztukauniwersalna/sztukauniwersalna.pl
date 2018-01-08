@@ -41,7 +41,7 @@ tags:
     <Ingredient title='jajka' quantity='2 sztuki' />
     <Ingredient title='olej kokosowy' quantity='3 łyżki' />
     <Ingredient title='miód' quantity='2 czubate łyżki' />
-    <Ingredient title='cukier brązowy' quantity='3 łyżki + 1 łyżka do sosu' />
+    <Ingredient title='cukier brązowy' quantity='3 łyżki+1 łyżka do sosu' />
     <Ingredient title='mrożone truskawki' quantity='garść' />
     <Ingredient title='sól, rozmaryn, ostra mielona papryka' quantity='szczypta' />
     <Method>
