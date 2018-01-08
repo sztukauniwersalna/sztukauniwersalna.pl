@@ -50,7 +50,7 @@ W małym rondelku rozpuszczam olej kokosowy z miodem (u mnie rzepakowy) i cukrem
 W tym czasie przygotowuje sos. W garnku rozmrożone wcześniej truskawki zalewam odrobiną wody, dodaję brązowy cukier (łyżkę lub dwie), rozmaryn i całość gotuję na najmniejszym ogniu (ok. 10 min). Odstawiam na chwilę garnek na bok i daję truskawkom spokojnie ‘odparować’. Po tym czasie blenduję wszystko na gładko i przecedzam przez sitko (po blendowaniu na sosie zbierze się piana, której nie chcemy). Na samym końcu dodaję odrobinę ostrej, mielonej papryki. Gotowy sos odstawiam do ostygnięcia.
     </Method>
     <Method>
-Kiedy ciasto ostygnie kroję kawałek i układam na talerzu dekorując sosem, bazylią i ostrą papryką.
+Kiedy chlebek ostygnie kroję kawałek i układam na talerzu dekorując sosem, bazylią i ostrą papryką.
     </Method>
   </Recipe>
 </div>
