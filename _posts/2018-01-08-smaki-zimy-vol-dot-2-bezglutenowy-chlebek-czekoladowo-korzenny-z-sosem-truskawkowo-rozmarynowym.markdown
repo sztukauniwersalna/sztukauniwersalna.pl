@@ -44,7 +44,6 @@ tags:
     <Ingredient title='cukier brązowy' quantity='3 łyżki + 1 łyżka do sosu' />
     <Ingredient title='mrożone truskawki' quantity='garść' />
     <Ingredient title='sól, rozmaryn, ostra mielona papryka' quantity='szczypta' />
-
     <Method>
 W małym rondelku rozpuszczam olej kokosowy z miodem i cukrem. W osobnej misce łączę ze sobą suche składniki (mąki, sodę, kakao, przyprawę do piernika, sól), po czym dodaję 2 jaja, mleko sojowe i zawartość rondelka. Całość energicznie mieszam, aż wszystkie składniki dokładnie się połączą, a wszelkie grudki znikną. Przekładam zawartość do blaszki (12x30 cm) wysmarowanej wcześniej olejem kokosowym i posypanej mąką kokosową. Tak przygotowane ciasto ląduje w piekarniku nagrzanym do 180°C na ok. godzinę.
     </Method>
