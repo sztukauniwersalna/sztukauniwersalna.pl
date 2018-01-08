@@ -41,8 +41,8 @@ tags:
     <Ingredient title='olej kokosowy' quantity='3 łyżki' />
     <Ingredient title='miód (u mnie rzepakowy)' quantity='2 czubate łyżki' />
     <Ingredient title='cukier brązowy' quantity='3 łyżki + 1 łyżka do sosu' />
-    <Ingredient title='mrożone truskawki' quantity='gar' />
-
+    <Ingredient title='mrożone truskawki' quantity='garść' />
+    <Ingredient title='sól, rozmaryn, ostra mielona papryka' quantity='szczypta' />
 
     <Method>
 Zaczynam od sparzenia wrzątkiem dwóch pomarańczy. Z jednej obieram skórkę i siekam na drobne kawałki. Siekam także kawałek imbiru. Sok z obu owoców wyciskam do małego rondelka i dodaję od razu łyżkę miodu (u mnie rzepakowy), oraz odrobinę pieprzu i soli. Tak przygotowany rondelek i posiekaną skórkę z imbirem odstawiam na bok.
