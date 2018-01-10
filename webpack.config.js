@@ -108,6 +108,10 @@ module.exports = {
           context: '.',
           from: 'logo-gradient.png',
         },
+        {
+          context: '.',
+          from: 'robots.txt',
+        },
       ])
     ),
     new StaticSiteGeneratorPlugin({
