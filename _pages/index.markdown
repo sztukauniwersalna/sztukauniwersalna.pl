@@ -6,13 +6,13 @@ tags:
 - index
 - sztuka
 - uniwersalna
+- kreacja
 - moda
 - makijaż
 - gotowanie
-- codzienność
-- współczesna
-- abstrakcja
-- inspiracje
+- moodboard
+- artysta
+- art
 description: Sztuka w codzienności. Znajdź sposoby na odnalezienie odrobiny sztuki
   w codziennych czynnościach takich jak gotowanie, makijaż, oraz moda.
   Sztuka współczesna, sztuka abstrakcyjna, inspiracje dziełami wielkich twórców.
