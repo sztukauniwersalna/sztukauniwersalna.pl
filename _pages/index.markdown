@@ -13,8 +13,8 @@ tags:
 - współczesna
 - abstrakcja
 - inspiracje
-description: Sztuka w codzienności. Aleksandra Krawczyk prezentuje sposoby na odnalezienie
-  odrobiny sztuki w codziennych czynnościach takich jak gotowanie, makijaż, oraz moda.
+description: Sztuka w codzienności. Znajdź sposoby na odnalezienie odrobiny sztuki
+  w codziennych czynnościach takich jak gotowanie, makijaż, oraz moda.
   Sztuka współczesna, sztuka abstrakcyjna, inspiracje dziełami wielkich twórców.
 feed: false
 ---
