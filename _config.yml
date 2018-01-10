@@ -6,10 +6,6 @@ collections:
     title: Categories
     output: false
     layout: ParrotLayout
-  drafts:
-    title: Drafts
-    output: false
-    layout: ParrotLayout
   pages:
     title: Pages
     output: false
