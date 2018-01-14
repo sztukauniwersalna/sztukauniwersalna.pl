@@ -17,10 +17,10 @@ tags:
 
 Czerwień… Miłość, namiętność, pożądanie. Kolor kochanków. Czerwień wywołuje silniejsze reakcje naszej podświadomości niż inne kolory. We wschodniej kulturze jest symbolem szczęścia. Panny młode z Indii, Chin i Wietnamu zakładają ją na siebie w dniu swojego ślubu. W czerwieni pełno jest także opozycji – krwi, nienawiści, niebezpieczeństwa. Przoduje rewolucji, nastraja do walki. Róż na ustach i policzkach młodej dziewczyny dają efekt ‘dziewiczego rumieńca’, który rozsyła dookoła sygnały erotyczne. Ze względu na swój ładunek emocjonalny czerwień jest bardzo często stosowana w reklamie. Ma za zadanie przykuć uwagę odbiorcy. Zwróciłeś uwagę, że wszelkie napisy typu ‘promocje’, ‘rabaty’, ‘wyprzedaż’ pisane są zazwyczaj kolorem czerwonym? Dłuższe przebywanie w czerwonym pomieszczeniu może rozpraszać, denerwować, dezorientować. Jest to kolor niezwykle dynamiczny, dlatego jeśli chodzi o pomieszczenia świetnie sprawdzi się w holach, korytarzach tzw.: ‘miejscach przejściowych’ lub np. w salach do ćwiczeń fizycznych.
 
-> Jako obcego zawcześnie ujrzałam!
-> Jako lubego zapóźno poznałam!
-> Dziwny miłości traf się na mnie iści,
-> Że muszę kochać przedmiot nienawiści.
+> Jako obcego zawcześnie ujrzałam!<br/>
+> Jako lubego zapóźno poznałam!<br/>
+> Dziwny miłości traf się na mnie iści,<br/>
+> Że muszę kochać przedmiot nienawiści.<br/>
 > 
 > ~ Romeo i Julia. akt I, sc. 5, wyd. Gebethner i Wolff 1913, s. 26, tłum. Józef Paszkowski.
 
@@ -51,5 +51,5 @@ Obecnie czerwień ust stała się klasyką. Nosiła ją Marilyn Monroe w wyzywaj
 
 ![Zdjęcie przedstawia figury geometryczne, trójkąty i koła w kolorze czerwonym.](https://assets2.ello.co/uploads/asset/attachment/6897315/ello-optimized-8b327957.jpg)
 
-Korzystałam z książki 'Face Paint. Historia makijażu' by Lisa Eldridge, str.19-33
+Korzystałam z książki 'Face Paint. Historia makijażu' by Lisa Eldridge, str. 19-33
 
