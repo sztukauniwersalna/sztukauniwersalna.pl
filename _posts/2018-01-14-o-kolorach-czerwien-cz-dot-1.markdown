@@ -43,3 +43,9 @@ Podobnie rzecz miała się w XVIII wiecznej Francji. Madame de Pompadour został
 Obecnie czerwień ust stała się klasyką. Nosiła ją Marilyn Monroe w wyzywającym wydaniu z pieprzykiem obok ust. Zakładała ją Coco Chanel do swoich perfekcyjnych garniturów. Kobietę w czerwonych ustać widać z daleka. Dobrze dobrana do cery potrafi wydobyć piękno kobiecej twarzy, źle dobrany odcień rujnuje makijaż. Po dziś dzień pełna jest skrajności. Kojarzy się zarówno z wyrafinowaniem elegancją i klasą, jak i kiczem i prostytucją Jedno jest pewne – wystarczy tylko ona, aby zbudować cały makijaż (przy mocnym kolorze ust należy ograniczyć makijaż oczu). Delikatniejszy, malinowy odcień na dzień, mocniejszy karmin na wieczór. Czy znacie kobietę, która nie ma swojej kosmetyczce choć jednej czerwonej szminki? Jeszcze raz: Czy znacie kobietę, która nie ma w swojej kosmetyczce choć jednej czerwonej szminki i różu?
 
 ![Zdjęcie przedstawia twarz kobiety w mocnym makijażu i czerwonym świetle.](https://assets1.ello.co/uploads/asset/attachment/6897108/ello-optimized-7420eedb.jpg)
+
+> To, co czerwień może zrobić dla ducha, potrafi też zrobić 
+> dla twarzy
+> 
+> ~ Sophia Loren; Women & Beauty
+
