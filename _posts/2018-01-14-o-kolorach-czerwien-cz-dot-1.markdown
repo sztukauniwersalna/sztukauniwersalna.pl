@@ -49,3 +49,7 @@ Obecnie czerwień ust stała się klasyką. Nosiła ją Marilyn Monroe w wyzywaj
 > 
 > ~ Sophia Loren; Women & Beauty
 
+![Zdjęcie przedstawia figury geometryczne, trójkąty i koła w kolorze czerwonym.](https://assets2.ello.co/uploads/asset/attachment/6897315/ello-optimized-8b327957.jpg)
+
+Korzystałam z książki 'Face Paint. Historia makijażu' by Lisa Eldridge, str.19-33
+
