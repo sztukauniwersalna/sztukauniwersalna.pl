@@ -30,6 +30,6 @@ Jej obrazy przywodzą na myśl subtelność wiosennych pejzaży. Kolory rozmywaj
 ![Zdjęcie przedstawia młodą kobietę na zielonym tle w mocnym makijażu oczu. Z lewej strony widzimy niebieską plamkę na białym tle.](https://assets0.ello.co/uploads/asset/attachment/6960381/ello-optimized-6fb0b5fb.jpg)
 ![Zdjęcie przedstawia portret młodej kobiety w mocnym makijażu. Dookoła znajduje się ramka z geometrycznymi elementami.](https://assets2.ello.co/uploads/asset/attachment/6960383/ello-optimized-9fc89e7b.jpg)
 
-Helen była niedosłowną malarką przyrody, a każda z jej kompozycji odkrywa przed nami pogodowe kaprysy i zmienność pór roku. Jak dobrze jest uświadomić sobie ile sztuki znajduje się zaraz obok nas i spojrzeć za okno w nieco ‘inny’, bardziej abstrakcyjny sposób.
+Helen była malarką niedosłownej przyrody. Każda z jej kompozycji odkrywa przed nami pogodowe kaprysy i zmienność pór roku. Jak dobrze jest uświadomić sobie ile sztuki znajduje się zaraz obok nas i spojrzeć za okno w nieco ‘inny’, bardziej abstrakcyjny sposób.
 
 ![Obraz przedstawia kolorową kompozycję z lewej strony oraz fotografię damskich oczy z prawej strony.](https://assets3.ello.co/uploads/asset/attachment/6960386/ello-optimized-d9c64e3d.jpg)
