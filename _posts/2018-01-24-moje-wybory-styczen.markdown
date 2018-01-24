@@ -27,3 +27,21 @@ Nowość – paletka Mint Chocolate od Make Up Revolution. Kolory w tej palecie 
 ![Zdjęcie przedstawia otwartą paletę z cieniami do makijażu oczu, obok leżą pędzle kosmetyczne, biała tkanina w kolorowe kwiaty, liść.](https://assets2.ello.co/uploads/asset/attachment/6975384/ello-optimized-cd4bfb05.jpg)
 ![Zdjęcie przedstawia paletkę z cieniami do makijażu oczu. Całość na różowym tle ujęta z perspektywy lotu ptaka. Dookoła znajdują się strzałki i napisy.](https://assets2.ello.co/uploads/asset/attachment/6975385/ello-optimized-4472875e.jpg)
 
+## Zapach
+
+W tym okresie nadal królują u mnie słodkie zapachy. Jednymi z najsłodszych perfum jakie znam jest klasyczny flakonik Lolity Lempickiej. Niech Was nie zmyli kształt owocu, w który zamknięte są te pudrowe nuty. Bazę zapachu stanowi wanilia, piżmo, pralina, wetyweria (rodzaj wysokiej trawy wywodzącej się z Inii – daje kompozycjom słodkie, balsamiczne akcenty). W środkowej woni znajdziemy trochę kwiatów: irys, fiołek, zwartnica, oraz lukrecja. Mocne górne tony stanowi anyż, bluszcz i wiśnia, która moim zdaniem zaraz po uwolnieniu mgiełki niknie przykryta słodyczą wanilii. Perfumy są bardzo trwałe i idealnie komponują się z ciepłym, wełnianym swetrem. Osoba, która nimi pachnie rozsiewa wokół siebie aurę spokoju i optymizmu. Polecam styczniowo.
+
+![Zdjęcie przedstawia niebieski flakonik perfum ze złotymi elementami. Na zdjęciu widoczne są efekty świetlne.](https://assets0.ello.co/uploads/asset/attachment/6975389/ello-optimized-706e7185.jpg)
+
+## Lektura
+
+Wszystkim miłośnikom makijażu, ale też fanom historii i ciekawostek polecam książkę ‘FACE PAINT Historia makijażu’ napisaną przez znaną wizażystkę Lisę Eldridge. Na ponad 220 przepiękne zaprojektowanych stronach znajdziemy solidną wiedzę na temat początków i rozwoju make-up’u. Ponad to zainspirujemy się cytatami, cudownymi fotografiami w stylu ‘beauty’, oraz kobietami, które stały się ikonami swoich czasów. Każdy rozdział oddzielony został od siebie stronami poświęconymi muzom makijażu. Ta książka to istne cudeńko, które trzeba czytać, oglądać, wąchać, ale nade wszystko, do którego warto wracać. Odsyłam też na stronę [autorki](http://www.lisaeldridge.com/) i zachęcam do traktowania makijażu nie tylko w formie codziennego rytuału, ale też w formie sztuki, dzięki której możemy wszystko.
+
+![Zdjęcie przedstawia okładkę książki sfotografowaną od góry. Dookoła kolorowe papiery w kolorze czerwonym, niebieskim i żółtym.](https://assets1.ello.co/uploads/asset/attachment/6975391/ello-optimized-fa62ff1d.jpg)
+
+## Akcesoria
+
+[Turtle Story](http://www.turtlestory.eu/) - design’erskie akcesoria do włosów. Cudowne kształty spinek ożywają wplecione w warkocze, koki, czy po prostu proste włosy. Nieskończone możliwości i pomysły na kreatywną fryzurę. Mój komplet (oko i usta) dostałam na urodziny. W tym momencie można je kupić na targach np. [Mustache Yardsale](https://www.mustache.pl/yard-sale/dla-wystawcow?exhibitors=1), ale mam nadzieję, że niedługo ruszy sklep online. Marka odnosi się do filozofii Slow Life. Na opakowaniu czytamy: ‘Pracujemy z każdym elementem, upewniając się, że jego odważny i zabawny design łączy się z doskonałymi proporcjami i dopasowaniem. Turtle Story jest tam, gdzie nowy, zadziorny design spotyka tradycyjną jakość ręcznego wykonania. To nasza historia. A jaka jest Twoja?’
+
+![Obraz przedstawia dwa zdjęcia różnej wielkości. Na jednym widzimy pomarańczowe pudełko leżące na szaro-pomarańczowym podłożu w otoczeniu szarych, papierowych lampek. Na mniejszym zdjęciu widzimy zbliżenie na pudełko z białymi napisami.](https://assets0.ello.co/uploads/asset/attachment/6975392/ello-optimized-dc18463a.jpg)
+![Zdjęcie przedstawia szare włosy, w które wpięte są spinki w kształcie ust i oka. Obok czarne, graficzne kształty ust i oka.](https://assets2.ello.co/uploads/asset/attachment/6975394/ello-optimized-9706c5c5.jpg)
