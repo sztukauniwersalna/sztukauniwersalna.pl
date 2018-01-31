@@ -29,12 +29,17 @@ Musiałam ochłonąć. Minęły trzy dni od wizyty na wystawie ‘David Lynch. S
 ## Zapowiedź
 
 Na wystawę wchodzi się przez słynną czerwoną kotarę. Waham się przez moment przypominając sobie postać karła mówiącego od tyłu.</br> 
-‘Black Lodge’, czyli ‘czarna loża’ to miejsce znajdujące się w innym wymiarze, miejsce ciemności i zła (przeciwieństwo loży białej). Połączenie obu tych miejsc stanowi tzw.: ‘Red Room’, czyli Czerwony Pokój, w którym to Agent Cooper (główna postać ‘Miasteczko Twin Peaks’) widzi siebie starszego o 25 lat. Tam też niejednokrotnie spotyka on wspomnianego wyżej karła.</br>
+"Black Lodge", czyli "czarna loża" to miejsce znajdujące się w innym wymiarze, miejsce ciemności i zła (przeciwieństwo loży białej). Połączenie obu tych miejsc stanowi tzw.: "Red Room", czyli Czerwony Pokój, w którym to Agent Cooper (główna postać ‘Miasteczko Twin Peaks’) widzi siebie starszego o 25 lat. Tam też niejednokrotnie spotyka on wspomnianego wyżej karła.</br>
 Powoli odsłaniam purpurowy ciężar kaskad materiału. Dostrzegam charakterystyczną, czarno-białą podłogę. Znajduję się w półmroku, ale pomimo tego nie ma we mnie lęku, jedynie zaciekawienie i ekscytacja.
-
-![Obraz przedstawia czarny szkic na białym tle.](https://assets2.ello.co/uploads/asset/attachment/7022120/ello-optimized-eee79b4c.jpg)
-
+![Obraz przedstawia czarny szkic na białym tle. Plama ma tutaj charakter ekspresyjny.](https://assets2.ello.co/uploads/asset/attachment/7022120/ello-optimized-eee79b4c.jpg)
 Pierwsza sala to przestrzeń w całości poświęcona litografiom. Na czarnych ścianach wiszą monochromatyczne prace oprawione w ramy. Większość z nich zdaje się nie przekraczać formatu B1. Umieszczone blisko siebie tworzą jedną spójną rodzinę. Przyjemnie przygaszone, ciepłe światło sprzyja kontemplacji. Zatrzymuję się przez chwilę przy każdym dziele. Jestem zachwycona ich mocą, ekspresyjną formą, w pewnym sensie także komiksowością. Na środku sali znajdziemy gablotę z talerzami. Zwykłe talerze – zdawałoby się. Jest ich 12 i ułożone w linii opowiadają historię stworzenia świata. Oczywiście całość utrzymana jest w surrealistycznej koncepcji. Są to zdecydowanie najbardziej niezwykłe talerze jakie w życiu widziałam.
 
 ![Obraz przedstawia czarny szkic na białym tle. Widzimy geometryczne elementy i napis.](https://assets2.ello.co/uploads/asset/attachment/7022200/ello-optimized-04a2a1b4.jpg)
+
+## Rozwinięcie
+
+Na przejściu do kolejnej sali witają nas trzy wydruki pigmentowe z 1999 roku pt.: ‘Wypaczona Nagość’ #5, #2, #1. Jest w nich coś, co sprawia, że nie można od nich oderwać wzroku. Wykorzystany tutaj rodzaj druku daje efekt ‘migotania’. Fascynują obrazem wynaturzenia i brzydotą. 
+Ta druga jest wszechobecna w twórczości Lynch’a. Stwarza on światy zupełnie przeciwne do obecnie panującego kanonu piękna. Jednak chcemy z nimi i w nich obcować, często częściej i chętniej niż w laboratorium lalki barbie. Są to sytuacje, których na co dzień nie doświadczamy, albo o nich nie mówimy. Nie przyznajemy się do pociągu w stronę tego, co obrzydliwe i groteskowe. A przecież to właśnie nasze życie pełne jest płynów ustrojowych, wczorajszych wymiocin, spalenizny i brudu. Stoimy nadzy wobec tych prac. Odnajdujemy wypaczenia w sobie. Jesteśmy częścią ekspozycji, która z każdym kolejnych krokiem powszednieje, aż na samym końcu możemy poczuć się ‘jak w domu’. 
+
+![Zdjęcie przedstawia trzy prostokątne obrazy zawieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/7022131/ello-optimized-93741387.jpg)
 
