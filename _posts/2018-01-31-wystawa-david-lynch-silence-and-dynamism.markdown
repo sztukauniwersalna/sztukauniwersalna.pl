@@ -54,7 +54,7 @@ Drugie pomieszczenie obfituje w różnorodność technik. Znajdziemy tu fotograf
 ![Obraz przedstawia dwa zdjęcia. Na jednym widzimy obraz znanego artysty, na drugim zbliżenie na ten sam obraz.](https://assets0.ello.co/uploads/asset/attachment/7022132/ello-optimized-78375ae8.jpg)
 ![Zdjęcie przedstawia pracę znanego artysty, na pracę składa się duża ilość czarnej farby i plastikowe oczy.](https://assets1.ello.co/uploads/asset/attachment/7022182/ello-optimized-9f26eadd.jpg)
 ![Zdjęcie przedstawia zbliżenie na fragment pracy artysty, widzimy czarną i pomarańczową farbę oraz plastikowe oko.](https://assets2.ello.co/uploads/asset/attachment/7022189/ello-optimized-e65084d4.jpg)
-![Zdjęcie przedstawia zbliżenie na obraz, widzimy gęstą czarną farbę.](https://assets2.ello.co/uploads/asset/attachment/7022192/ello-optimized-9274affe.jpg
+![Zdjęcie przedstawia zbliżenie na obraz, widzimy gęstą czarną farbę.](https://assets2.ello.co/uploads/asset/attachment/7022192/ello-optimized-9274affe.jpg)
 ![Obraz przedstawia dwa zdjęcia. Na jednym widzimy obraz artysty utrzymany w monochromatycznej tonacji. Drugie przedstawia zbliżenie na fragment tego obrazu.](https://assets2.ello.co/uploads/asset/attachment/7022139/ello-optimized-a9ee804e.jpg)
 
 Zaraz obok kolejna czerwona kotara – tym razem znajdziemy za nią przekrój krótkich form filmowych. Eksperymenty z młodych lat, wideoart, reklama, muzyczne animacje. Na próżno czekać tutaj na najważniejsze i najbardziej popularne dzieła artysty. Ta wystawa to portret Davida Lyncha ukazująca drugą połowę – tę połowę księżyca, której do tej pory nie widzieliśmy.
