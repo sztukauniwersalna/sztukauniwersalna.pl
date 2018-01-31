@@ -46,7 +46,19 @@ Ta druga jest wszechobecna w twórczości Lynch’a. Stwarza on światy zupełni
 ![Zdjęcie przedstawia trzy prostokątne obrazy zawieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/7022131/ello-optimized-93741387.jpg)
 
 Drugie pomieszczenie obfituje w różnorodność technik. Znajdziemy tu fotografie, obrazy olejne, szkice z notatników, obiekty, czy małe formy takie jak szkice na pudełkach od zapałek. Czuję się trochę tak, jakbym znalazła się w głowie artysty, który jedną wizję przekuwa na milion sposobów. Dostrzegam kolejną czerwoną kotarę, zza której dobiegają różne dźwięki. Wchodzę do środka, wchodzę w ciemność, palcami odnajduję kanapę, siadam na środku sali i zatapiam się w muzyce skomponowanej przez Davida. Wiedziałam, że sam tworzy muzykę do filmów, ale nie wiedziałam, że wydał płytę! Wystarczy mi jeden przesłuchany utwór z ‘The Big Dream’, aby zdecydować o zakupie całego krążka. 
-Zaraz obok kolejna czerwona kotara – tym razem znajdziemy za nią przekrój krótkich form filmowych. Eksperymenty z młodych lat, wideoart, reklama, muzyczne animacje. Na próżno czekać tutaj na najważniejsze i najbardziej popularne dzieła artysty. Ta wystawa to portret Davida Lyncha ukazująca drugą połowę – tę połowę księżyca, której do tej pory nie widzieliśmy.
+
 
 ![Obraz przedstawia trzy fotografie obrazów znanego artysty. Obrazy są ciemne, widzimy na nich postaci i napisy.](https://assets1.ello.co/uploads/asset/attachment/7022122/ello-optimized-1f8e34ff.jpg)
 ![Zdjęcie przedstawia wnętrze galerii i obrazy zawieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/7022126/ello-optimized-07744f78.jpg)
+![Zdjęcie przedstawia czarno-białe obrazy znanego artysty namalowane na płótnie.](https://assets1.ello.co/uploads/asset/attachment/7022171/ello-optimized-d868aea1.jpg)
+![Obraz przedstawia dwa zdjęcia. Na jednym widzimy obraz znanego artysty, na drugim zbliżenie na ten sam obraz.](https://assets0.ello.co/uploads/asset/attachment/7022132/ello-optimized-78375ae8.jpg)
+![Zdjęcie przedstawia pracę znanego artysty, na pracę składa się duża ilość czarnej farby i plastikowe oczy.](https://assets1.ello.co/uploads/asset/attachment/7022182/ello-optimized-9f26eadd.jpg)
+![Zdjęcie przedstawia zbliżenie na fragment pracy artysty, widzimy czarną i pomarańczową farbę oraz plastikowe oko.](https://assets2.ello.co/uploads/asset/attachment/7022189/ello-optimized-e65084d4.jpg)
+![Zdjęcie przedstawia zbliżenie na obraz, widzimy gęstą czarną farbę.](https://assets2.ello.co/uploads/asset/attachment/7022192/ello-optimized-9274affe.jpg
+
+
+Zaraz obok kolejna czerwona kotara – tym razem znajdziemy za nią przekrój krótkich form filmowych. Eksperymenty z młodych lat, wideoart, reklama, muzyczne animacje. Na próżno czekać tutaj na najważniejsze i najbardziej popularne dzieła artysty. Ta wystawa to portret Davida Lyncha ukazująca drugą połowę – tę połowę księżyca, której do tej pory nie widzieliśmy.
+
+![Zdjęcie przedstawia czerwoną kotarę i fragment czarno-białej geometrycznej podłogi.](https://assets2.ello.co/uploads/asset/attachment/7022143/ello-optimized-0646de9a.jpg)
+![Zdjęcie przedstawia zaciemnioną salę z kinowym ekranem, na którym wyświetlane są napisy.](https://assets2.ello.co/uploads/asset/attachment/7022205/ello-optimized-f21ae302.jpg)
+![Zdjęcie przedstawia kadr z kina. Na filmie widzimy trzech mężczyzn.](https://assets1.ello.co/uploads/asset/attachment/7022140/ello-optimized-f211fb23.jpg)
