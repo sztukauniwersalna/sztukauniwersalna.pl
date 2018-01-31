@@ -28,8 +28,8 @@ Musiałam ochłonąć. Minęły trzy dni od wizyty na wystawie ‘David Lynch. S
 
 ## Zapowiedź
 
-Na wystawę wchodzi się przez słynną czerwoną kotarę. Waham się przez moment przypominając sobie postać karła mówiącego od tyłu.</br> 
-Black Lodge, czyli "czarna loża" to miejsce znajdujące się w innym wymiarze, miejsce ciemności i zła (przeciwieństwo loży białej). Połączenie obu tych miejsc stanowi tzw.: "Red Room", czyli Czerwony Pokój, w którym to Agent Cooper (główna postać ‘Miasteczko Twin Peaks’) widzi siebie starszego o 25 lat. Tam też niejednokrotnie spotyka on wspomnianego wyżej karła.</br>
+Na wystawę wchodzi się przez słynną czerwoną kotarę. Waham się przez moment przypominając sobie postać karła mówiącego od tyłu.
+"Black Lodge", czyli "czarna loża" to miejsce znajdujące się w innym wymiarze, miejsce ciemności i zła (przeciwieństwo loży białej). Połączenie obu tych miejsc stanowi tzw.: "Red Room", czyli Czerwony Pokój, w którym to Agent Cooper (główna postać ‘Miasteczko Twin Peaks’) widzi siebie starszego o 25 lat. Tam też niejednokrotnie spotyka on wspomnianego wyżej karła.
 Powoli odsłaniam purpurowy ciężar kaskad materiału. Dostrzegam charakterystyczną, czarno-białą podłogę. Znajduję się w półmroku, ale pomimo tego nie ma we mnie lęku, jedynie zaciekawienie i ekscytacja.
 
 ![Obraz przedstawia czarny szkic na białym tle. Plama ma tutaj charakter ekspresyjny.](https://assets2.ello.co/uploads/asset/attachment/7022120/ello-optimized-eee79b4c.jpg)
@@ -48,4 +48,5 @@ Ta druga jest wszechobecna w twórczości Lynch’a. Stwarza on światy zupełni
 Drugie pomieszczenie obfituje w różnorodność technik. Znajdziemy tu fotografie, obrazy olejne, szkice z notatników, obiekty, czy małe formy takie jak szkice na pudełkach od zapałek. Czuję się trochę tak, jakbym znalazła się w głowie artysty, który jedną wizję przekuwa na milion sposobów. Dostrzegam kolejną czerwoną kotarę, zza której dobiegają różne dźwięki. Wchodzę do środka, wchodzę w ciemność, palcami odnajduję kanapę, siadam na środku sali i zatapiam się w muzyce skomponowanej przez Davida. Wiedziałam, że sam tworzy muzykę do filmów, ale nie wiedziałam, że wydał płytę! Wystarczy mi jeden przesłuchany utwór z ‘The Big Dream’, aby zdecydować o zakupie całego krążka. 
 Zaraz obok kolejna czerwona kotara – tym razem znajdziemy za nią przekrój krótkich form filmowych. Eksperymenty z młodych lat, wideoart, reklama, muzyczne animacje. Na próżno czekać tutaj na najważniejsze i najbardziej popularne dzieła artysty. Ta wystawa to portret Davida Lyncha ukazująca drugą połowę – tę połowę księżyca, której do tej pory nie widzieliśmy.
 
-![](
+![Obraz przedstawia trzy fotografie obrazów znanego artysty. Obrazy są ciemne, widzimy na nich postaci i napisy.](https://assets1.ello.co/uploads/asset/attachment/7022122/ello-optimized-1f8e34ff.jpg)
+![Zdjęcie przedstawia wnętrze galerii i obrazy zawieszone na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/7022126/ello-optimized-07744f78.jpg)
