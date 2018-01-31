@@ -92,4 +92,4 @@ Czy jednak właśnie To nie jest zadaniem sztuki, by budzić skrajne emocje? Pod
 Wystawa trwa od 12.11.2017 r. do 18.02.2018 r. i można jej doświadczyć od wtorku do czwartku w godz. 10:00-18:00, w piątek od 10:00-20:00 i w weekend od 12:00-18:00.
 * Bilety: 12 zł normalny / 8 zł ulgowy
 * Centrum Sztuki Współczesnej w Toruniu - ul. Wały gen. Sikorskiego 13
-* Więcej informacji o wystawie, artystach i dodatkowych wydarzeniach znajdziecie [tutaj](http://csw.torun.pl/)
+* Więcej informacji o wystawie i dodatkowych wydarzeniach znajdziecie [tutaj](http://csw.torun.pl/)
