@@ -55,10 +55,21 @@ Drugie pomieszczenie obfituje w różnorodność technik. Znajdziemy tu fotograf
 ![Zdjęcie przedstawia pracę znanego artysty, na pracę składa się duża ilość czarnej farby i plastikowe oczy.](https://assets1.ello.co/uploads/asset/attachment/7022182/ello-optimized-9f26eadd.jpg)
 ![Zdjęcie przedstawia zbliżenie na fragment pracy artysty, widzimy czarną i pomarańczową farbę oraz plastikowe oko.](https://assets2.ello.co/uploads/asset/attachment/7022189/ello-optimized-e65084d4.jpg)
 ![Zdjęcie przedstawia zbliżenie na obraz, widzimy gęstą czarną farbę.](https://assets2.ello.co/uploads/asset/attachment/7022192/ello-optimized-9274affe.jpg
-
+![Obraz przedstawia dwa zdjęcia. Na jednym widzimy obraz artysty utrzymany w monochromatycznej tonacji. Drugie przedstawia zbliżenie na fragment tego obrazu.](https://assets2.ello.co/uploads/asset/attachment/7022139/ello-optimized-a9ee804e.jpg)
 
 Zaraz obok kolejna czerwona kotara – tym razem znajdziemy za nią przekrój krótkich form filmowych. Eksperymenty z młodych lat, wideoart, reklama, muzyczne animacje. Na próżno czekać tutaj na najważniejsze i najbardziej popularne dzieła artysty. Ta wystawa to portret Davida Lyncha ukazująca drugą połowę – tę połowę księżyca, której do tej pory nie widzieliśmy.
 
 ![Zdjęcie przedstawia czerwoną kotarę i fragment czarno-białej geometrycznej podłogi.](https://assets2.ello.co/uploads/asset/attachment/7022143/ello-optimized-0646de9a.jpg)
 ![Zdjęcie przedstawia zaciemnioną salę z kinowym ekranem, na którym wyświetlane są napisy.](https://assets2.ello.co/uploads/asset/attachment/7022205/ello-optimized-f21ae302.jpg)
 ![Zdjęcie przedstawia kadr z kina. Na filmie widzimy trzech mężczyzn.](https://assets1.ello.co/uploads/asset/attachment/7022140/ello-optimized-f211fb23.jpg)
+
+## Olbrzym
+
+Ostatnia sala jest olbrzymia. Niesamowicie wysokie pomieszczenie delikatnie otula światło padające wprost z obrazów. Dzieła tutaj to w większości asamblaże w wielkich, głębokich ramach. Ich przestrzenny charakter podkreślają materiały, z których są wykonane – żarówki, druty, często elementy organiczne, drewno. Wszystko zamknięte za wielką szybą przypomina ekran telewizora. Artysta wykorzystuje w swoich dziełach naturalne ‘składowe’ człowieka, takie jak krew, zęby czy włosy. Przypominają mi się prace krakowskiego artysty [Michała Kastory](http://michalkastory.blogspot.com/?view=flipcard), z których wręcz kapie obrzydliwie ludzki egzystencjalizm. U Lynch’a, pomimo użycia ludzkich ‘elementów’ obrzydliwość pozostaje po stronie fantazji i kreacji. Postaci na płótnach niczym nie przypominają ludzi lecz groteskowe charaktery rodem z zakazanych kreskówek lat 40-tych.
+
+![Zdjęcie przedstawia panoramę wnętrza galerii sztuki.](https://assets2.ello.co/uploads/asset/attachment/7022118/ello-optimized-144937e1.jpg)
+![Zdjęcie przedstawia wnętrze galerii sztuki i postać spacerującą po wystawie.](https://assets1.ello.co/uploads/asset/attachment/7022127/ello-optimized-a93bb489.jpg)
+![Zdjęcie przedstawia trzy olbrzymie obrazy w złotych ramach zawieszone na ścianach jednej z galerii sztuki.](https://assets1.ello.co/uploads/asset/attachment/7022145/ello-optimized-897ada79.jpg)
+![Zdjęcie przedstawia wnętrze jednej z galerii sztuki. Na ścianie wiszą obrazy i wyświetlany jest film. Ludzie spacerują.](https://assets2.ello.co/uploads/asset/attachment/7022141/ello-optimized-a935e5d0.jpg)
+![Zdjęcie przedstawia trzy obrazy zawieszone na białej ścianie galerii sztuki.](https://assets1.ello.co/uploads/asset/attachment/7022173/ello-optimized-380c28ce.jpg)
+![Zdjęcie przedstawia fragment obrazu z namalowaną sztuczną raną i napisem.](https://assets2.ello.co/uploads/asset/attachment/7022176/ello-optimized-bf532d44.jpg)
