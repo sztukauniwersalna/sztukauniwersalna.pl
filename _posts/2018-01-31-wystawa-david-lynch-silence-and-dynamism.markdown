@@ -21,4 +21,8 @@ Musiałam ochłonąć. Minęły trzy dni od wizyty na wystawie ‘David Lynch. S
 </olela-narrative>
 
 ![Zdjęcie w półmroku przedstawia czerwone zasłony i czarno-białą podłogę.](https://assets0.ello.co/uploads/asset/attachment/7022198/ello-optimized-62e544a2.jpg)
+![Zdjęcie przedstawia wnętrze galerii z obrazami zawieszonymi na czarnej ścianie.](https://assets1.ello.co/uploads/asset/attachment/7022148/ello-optimized-e847845e.jpg)
+![Zdjęcie przedstawia dwie czarno-białe litografie w ramach zawieszone na czarnej ścianie.](https://assets2.ello.co/uploads/asset/attachment/7022153/ello-optimized-1b6c282e.jpg)
+![Zdjęcie przedstawia dwie fotografie. Na jednej widnieją obrazy znanego artysty zawieszone na czarnej ścianie, na drugiej zbliżenie na konkretny czerwony obraz.](https://assets0.ello.co/uploads/asset/attachment/7022138/ello-optimized-6c9eb791.jpg)
+![Zdjęcie przedstawia sześć obrazów w ramach zawieszonych na czarnej ścianie. Obrazy są czerwono-czarno--białe.](https://assets0.ello.co/uploads/asset/attachment/7022136/ello-optimized-66ce9e3b.jpg)
 
