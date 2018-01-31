@@ -77,3 +77,14 @@ Ostatnia sala jest olbrzymia. Niesamowicie wysokie pomieszczenie delikatnie otul
 Na samym środku – wielki hologram z twarzą Olbrzyma (postać z ‘Miasteczko Twin Peaks’, która pojawia się niespodziewanie i udziela wskazówek Agentowi Cooper’owi pomocnych przy śledztwie dotyczącym morderstwa Laury Palmer). Twarz znika, a na jej miejscu pojawia się obraz rzeźby przypominający ‘głowę kurczako-sera’ z 2013 roku.
 
 ![Zdjęcie przedstawia ruszającą się w powietrzu rzeźbę białej głowy.](https://assets1.ello.co/uploads/asset/attachment/7022217/ello-optimized-a0a4aeaa.gif)
+
+## Światło
+
+Czy jednak właśnie To nie jest zadaniem sztuki, by budzić skrajne emocje? Podobno przez cały czas oglądania wystawy wyraz mojej twarzy ujawniał strach, przerażenie, lęk. Podobno podchodziłam do obrazów tak ostrożnie, że przypominało to skradanie się. Nie skradanie się na polowaniu, gdzie obierasz pozycję atakującego, lecz skradanie się podwładnego ku Panu, który bywa nieprzewidywalny w swoich czynach. Te obrazy sprawiały, że trudno było mi przełknąć ślinę. Chciałam uciec od nich jak najdalej, a jednocześnie coś trzymało mnie przy nich i w nich. To jedna z niewielu tak prawdziwych wystaw jakie widziałam. Rozmawianie o niej w kryteriach ‘ładne-nieładne’ albo ‘podoba mi się-nie podoba mi się’ nie ma najmniejszego sensu. Jej po prostu trzeba doświadczyć.
+
+![Zdjęcie przedstawia trzy obrazy w złotych ramach zawieszone na szarej ścianie galerii sztuki.](https://assets2.ello.co/uploads/asset/attachment/7022207/ello-optimized-db3ee89d.jpg)
+![Zdjęcie przedstawia postać oglądającą obraz. Widzimy ją od tyłu, ma długie włosy i chustkę na szyi.](https://assets2.ello.co/uploads/asset/attachment/7022211/ello-optimized-59de0e77.jpg)
+![Zdjęcie przedstawia obraz w złotej ramie oglądany przez kobietę o długich włosach, z torebką i chustą na szyi.](https://assets1.ello.co/uploads/asset/attachment/7022213/ello-optimized-943ca74c.jpg)
+![Zdjęcie przedstawia wnętrze z wielką czerwoną kotarą, obrazem w tle i ludźmi.](https://assets2.ello.co/uploads/asset/attachment/7022134/ello-optimized-43f654fa.jpg)
+![Zdjęcie przedstawia rozchyloną czerwoną kotarę. Widzimy fragment czarno-białej podłogi i kolejny czerwony materiał w tle.](https://assets1.ello.co/uploads/asset/attachment/7022165/ello-optimized-0f78407c.jpg)
+![Czarno-biała fotografia przedstawia kobietę opartą o ścianę z napisami. Całość sfotografowana pod światło.](https://assets0.ello.co/uploads/asset/attachment/7022218/ello-optimized-cf91f7a9.jpg)
