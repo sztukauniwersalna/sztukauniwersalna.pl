@@ -73,3 +73,7 @@ Ostatnia sala jest olbrzymia. Niesamowicie wysokie pomieszczenie delikatnie otul
 ![Zdjęcie przedstawia wnętrze jednej z galerii sztuki. Na ścianie wiszą obrazy i wyświetlany jest film. Ludzie spacerują.](https://assets2.ello.co/uploads/asset/attachment/7022141/ello-optimized-a935e5d0.jpg)
 ![Zdjęcie przedstawia trzy obrazy zawieszone na białej ścianie galerii sztuki.](https://assets1.ello.co/uploads/asset/attachment/7022173/ello-optimized-380c28ce.jpg)
 ![Zdjęcie przedstawia fragment obrazu z namalowaną sztuczną raną i napisem.](https://assets2.ello.co/uploads/asset/attachment/7022176/ello-optimized-bf532d44.jpg)
+
+Na samym środku – wielki hologram z twarzą Olbrzyma (postać z ‘Miasteczko Twin Peaks’, która pojawia się niespodziewanie i udziela wskazówek Agentowi Cooper’owi pomocnych przy śledztwie dotyczącym morderstwa Laury Palmer). Twarz znika, a na jej miejscu pojawia się obraz rzeźby przypominający ‘głowę kurczako-sera’ z 2013 roku.
+
+![Zdjęcie przedstawia ruszającą się w powietrzu rzeźbę białej głowy.](https://assets1.ello.co/uploads/asset/attachment/7022217/ello-optimized-a0a4aeaa.gif)
