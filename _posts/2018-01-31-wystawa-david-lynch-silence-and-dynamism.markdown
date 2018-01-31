@@ -88,3 +88,8 @@ Czy jednak właśnie To nie jest zadaniem sztuki, by budzić skrajne emocje? Pod
 ![Zdjęcie przedstawia wnętrze z wielką czerwoną kotarą, obrazem w tle i ludźmi.](https://assets2.ello.co/uploads/asset/attachment/7022134/ello-optimized-43f654fa.jpg)
 ![Zdjęcie przedstawia rozchyloną czerwoną kotarę. Widzimy fragment czarno-białej podłogi i kolejny czerwony materiał w tle.](https://assets1.ello.co/uploads/asset/attachment/7022165/ello-optimized-0f78407c.jpg)
 ![Czarno-biała fotografia przedstawia kobietę opartą o ścianę z napisami. Całość sfotografowana pod światło.](https://assets0.ello.co/uploads/asset/attachment/7022218/ello-optimized-cf91f7a9.jpg)
+
+Wystawa trwa od 12.11.2017 r. do 18.02.2018 r. i można jej doświadczyć od wtorku do czwartku w godz. 10:00-18:00, w piątek od 10:00-20:00 i w weekend od 12:00-18:00.
+* Bilety: 12 zł normalny / 8 zł ulgowy
+* Centrum Sztuki Współczesnej w Toruniu - ul. Wały gen. Sikorskiego 13
+* Więcej informacji o wystawie, artystach i dodatkowych wydarzeniach znajdziecie [tutaj](http://csw.torun.pl/)
