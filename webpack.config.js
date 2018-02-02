@@ -17,6 +17,8 @@ const ReactRouterDOM = require('react-router-dom');
 const GA_TRACKING_ID = global.GA_TRACKING_ID = 'UA-110945340-1';
 const Root = require('parrot-layout/Root').Root;
 
+const ThumbnailsPlugin = require('parrot-layout/thumbnails');
+
 const window = new JSDOM().window;
 Object.defineProperty(window.document, 'readyState', {
   value: 'server-side',
@@ -118,6 +120,7 @@ module.exports = {
         },
       ])
     ),
+    new ThumbnailsPlugin(),
     new StaticSiteGeneratorPlugin({
       entry: 'entry',
 

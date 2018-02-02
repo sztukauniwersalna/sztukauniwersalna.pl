@@ -2,6 +2,7 @@ const webpack = require('webpack');
 const HtmlPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const ThumbnailsPlugin = require('parrot-layout/thumbnails');
 
 const path = require('path');
 
@@ -67,10 +68,14 @@ module.exports = {
       ]
       .map(from => ({ context: './node_modules/parrot-layout', from }))
     ),
+    new ThumbnailsPlugin({ output: 'thumbs.js' }),
     new HtmlPlugin({
       template: 'test.html',
       filename: 'index.html',
       inject: true,
+    }),
+    new webpack.DefinePlugin({
+      GA_TRACKING_ID: JSON.stringify(''),
     }),
   ],
 };
