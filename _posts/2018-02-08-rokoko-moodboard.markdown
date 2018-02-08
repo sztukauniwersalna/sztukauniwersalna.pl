@@ -32,6 +32,15 @@ Nazwa ‘rokoko’ pochodzi od nazwy ornamentu obficie obecnego w tamtym czasie.
 Nurt utrzymał się do mniej więcej 1790 roku. Z Francji rozprzestrzenił się na inne kraje m.in.: Austrię, Rosję, Bawarię, Saksonię, Czechy, Polskę.
 
 > Różnica pomiędzy barokiem a rokokiem polega na sublimacji. 
-> Faza późniejsza jest jasna, gdy wcześniejsza jest ciemna; jest > delikatna, gdy tamta była potężna; jest radosna, gdy tamta była namiętna. Lecz jest ona równie ruchliwa (mouvemenetée), równie żywa, równie zmysłowa jak barok
+> Faza późniejsza jest jasna, gdy wcześniejsza jest ciemna; jest > delikatna, gdy tamta była potężna; jest radosna, gdy tamta była namiętna. Lecz jest ona równie ruchliwa (mouvemenetée), równie żywa, równie zmysłowa jak barok.
 >
 > ~ Nikolaus Pevsner
+
+> Nie mają chleba? To niech jedzą ciastka! 
+>
+> ~ Maria Antonina Habsburg (1755–1793)
+
+
+> (...) rokoko to przede wszystkim bezinteresowny wdzięk i harmonia małych form, kapryśnych linii, pastelowych kolorów, gra > czarujących słów, pikantnych sformułowań, migotliwych masek. To swobodne piękno, bez obciążeń moralnych, bez celów dydaktycznych. > Ma tylko uczynić życie słodszym, ciekawszym, może nawet ekscytującym. Ma oddalić nudę i niepokój.
+>
+> ~ Jerzy Snopek; Oświecenie. Szkic do portretu epoki (1999)
