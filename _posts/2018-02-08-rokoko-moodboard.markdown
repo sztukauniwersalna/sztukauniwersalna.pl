@@ -23,7 +23,7 @@ tags:
 
 
 
-Niektórzy nazywają ten okres schyłkowym czasem baroku. Jednak styl rokoko subtelnie różni się od ‘ciężaru’ swojego poprzednika. 
+Niektórzy nazywają ten okres schyłkowym czasem baroku. Jednak styl rokoka subtelnie różni się od ‘ciężaru’ swojego poprzednika. 
 
 Kolebką rokoko jest Francja. Wraz ze śmiercią Ludwika XIV w 1715 roku rządy przejmuje (5-cio letni wówczas) Ludwik XV. Z racji małoletności króla do 1723 roku za państwowe stery chwyci Filip Orleański. To właśnie czasy jego regencji wiąże się z początkiem stylu, który do tej pory nieprzerwanie inspiruje największych kreatorów mody, wizażystów, ludzi sztuki.<br/>
 Atmosfera rokoka była delikatniejsza od ciężkich kotar, bardziej ‘uwolniona’. Ożywione życie towarzyskie Paryża szło w parze z duchem erotyzmu. Rokoko to czas kobiety. Ważnym elementem stroju i wyznacznikiem statusu staje się makijaż. Puder i róż idą w parze z groteskowo dużymi śnieżnobiałymi perukami.
