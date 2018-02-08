@@ -20,3 +20,16 @@ tags:
 ![Obraz przedstawia cztery zdjęcia. Widzimy budynki, kobiecą twarz pomalowaną na biało oraz wnętrze w stylu rokoka.](https://assets1.ello.co/uploads/asset/attachment/7093603/ello-optimized-5361a4cd.jpg)
 ![Obraz przedstawia cztery zdjęcia. Widzimy stoliki, figurkę z porcelany i wnętrze pałacu w stylu rokoka.](https://assets2.ello.co/uploads/asset/attachment/7093606/ello-optimized-8bc14b41.jpg)
 ![Obraz przedstawia dwie fotografie i tekst. Na zdjęciach widzimy modelki na wybiegu. Całość na jasnobeżowym tle.](https://assets0.ello.co/uploads/asset/attachment/7093608/ello-optimized-c27a7ff8.jpg)
+
+
+
+Niektórzy nazywają ten okres schyłkowym czasem Baroku. Jednak styl rokoko subtelnie różni się od ‘ciężaru’ swojego poprzednika. 
+
+Kolebką rokoko jest Francja. Wraz ze śmiercią Ludwika XIV w 1715 roku rządy przejmuje (5-cio letni wówczas) Ludwik XV. Z racji małoletności króla do 1723 roku za państwowe stery chwyci Filip Orleański. To właśnie czasy jego regencji wiąże się z początkiem stylu, który do tej pory nieprzerwanie inspiruje największych kreatorów mody, wizażystów, ludzi sztuki.</br>
+
+Atmosfera rokoka była delikatniejsza od ciężkich kotar, bardziej ‘uwolniona’. Ożywione życie towarzyskie Paryża szło w parze z duchem erotyzmu. Rokoko to czas kobiety. Ważnym elementem stroju i wyznacznikiem statusu staje się makijaż. Puder i róż idą w parze z groteskowo dużymi śnieżnobiałymi perukami.</br>
+
+Nazwa ‘rokoko’ pochodzi od nazwy ornamentu obficie obecnego w tamtym czasie. ‘Rocaille’ przypomina przekrój muszli z kogucim grzebieniem u góry. Używano go w architekturze jak i przy okazji zdobień mebli. Wszystko musiało być ‘przesadnie nieprzesadne’ tzn. ilość zdobień była ogromna, ale jednocześnie nie sprawiała wrażenia ‘ciężaru’, wręcz uosabiała lekkość, delikatność, romantyczny powiew. We wnętrzach zamieszczano lustra, sztukaterie, boazerie, plafony. Dominowały barwy pastelowe, delikatne.</br>
+
+Nurt utrzymał się do mniej więcej 1790 roku. Z Francji rozprzestrzenił się na inne kraje m.in.: Austrię, Rosję, Bawarię, Saksonię, Czechy, Polskę.
+
