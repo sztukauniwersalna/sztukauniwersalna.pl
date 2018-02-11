@@ -26,4 +26,8 @@ W Chrześcijaństwie gołębica jest symbolem Ducha Świętego. Objawił się on
 
 To właśnie tego ptaka uważa się za pierwszego udomowionego skrzydlatego przyjaciela. Od dawnych czasów gołębie pocztowe pomagały człowiekowi w dostarczaniu wiadomości. W mitologii Greckiej pod postacią gołębicy kryła się postać Afrodyty. Na dalekim wschodzie ptak ten jest symbolem długiego życia, w Indiach natomiast jego ciemne upierzenie zwiastuje śmierć.
 
+![Zdjęcie przedstawia portret kobiety w makijażu, a obok widać drugie mniejsze zdjęcie ze zbliżeniem na oko.](https://assets1.ello.co/uploads/asset/attachment/7123616/ello-optimized-dc2172ad.jpg)
+
 Gołębiem pokoju nazywa się wizerunek białej gołębicy z zieloną gałązką oliwną w dziobie. Był on stosowany w celach propagandowych przez komunistów po II wojnie światowej. W czasie VI Festiwalu Młodzieży w Moskwie w 1957 roku wypuszczono z klatek parę tysięcy gołębi. Nie przewidziano, że ptaki te rozmnażają się bardzo szybko. W dwa lata później naliczono w stolicy ponad 35 tysięcy gołębi tego gatunku…
+
+![Obraz przedstawia zdjęcie kobiety w makijażu patrzącej w  dół oraz graficzne elementy, takie jak faliste linie i żółte koło.](https://assets2.ello.co/uploads/asset/attachment/7123612/ello-optimized-77f6ca4e.jpg)
