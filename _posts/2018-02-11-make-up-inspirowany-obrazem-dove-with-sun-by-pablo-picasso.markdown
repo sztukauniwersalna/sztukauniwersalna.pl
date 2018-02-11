@@ -24,7 +24,7 @@ Są wszędzie. Są upierdliwe i są wszędzie. Łażą takie szare po szarych ch
 
 W Chrześcijaństwie gołębica jest symbolem Ducha Świętego. Objawił się on między innymi podczas chrztu Jezusa. W Starym Testamencie gołąb przynosi Noemu zieloną gałązkę w dziobie, zwiastując tym samym koniec potopu. Gołąb (hebr. jonah) jest bardzo często wspominanym symbolem w Piśmie Świętym (pojawia się ok. 50 razy). 
 
-To właśnie tego ptaka uważa się za pierwszego udomowionego skrzydlatego przyjaciela. Od dawnych czasów gołębie pocztowe pomagały człowiekowi w dostarczaniu wiadomości. W mitologii Greckiej pod postacią gołębicy kryła się postać Afrodyty. Na dalekim wschodzie ptak ten jest symbolem długiego życia, w Indiach natomiast jego ciemne upierzenie zwiastuje śmierć.
+To właśnie tego ptaka uważa się za pierwszego udomowionego skrzydlatego przyjaciela. Od dawnych czasów gołębie pocztowe pomagały człowiekowi w dostarczaniu wiadomości. W mitologii greckiej pod postacią gołębicy kryła się postać Afrodyty. Na dalekim wschodzie ptak ten jest symbolem długiego życia, w Indiach natomiast jego ciemne upierzenie zwiastuje śmierć.
 
 ![Zdjęcie przedstawia portret kobiety w makijażu, a obok widać drugie mniejsze zdjęcie ze zbliżeniem na oko.](https://assets1.ello.co/uploads/asset/attachment/7123616/ello-optimized-dc2172ad.jpg)
 
