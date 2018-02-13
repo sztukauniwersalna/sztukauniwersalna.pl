@@ -45,4 +45,4 @@ Mniam!
   </Recipe>
 </div>
 
-![](
+![Zdjęcie przedstawia zbliżenie na omlet jajeczny z serem. Danie znajduje się na ciemnym talerzu.](https://assets1.ello.co/uploads/asset/attachment/7141513/ello-optimized-ff606c34.jpg)
