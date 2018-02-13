@@ -1,5 +1,5 @@
 ---
-title: Smaki_Zimy_vol._3. Omlet francuski z cheddarem i czarnuszką
+title: Smaki_Zimy_vol._3. Omlet francuski z serem cheddar i czarnuszką
 date: 2018-02-13 12:33:00 +01:00
 categories:
 - Sztuka Gotowania
@@ -7,6 +7,8 @@ tags:
 - przepis
 - omlet
 - francuski
+- ser
+- cheddar
 - śniadanie
 - kompozycja
 - sztuka
@@ -18,7 +20,7 @@ Sprawdzony przepis na pożywne, zimowe śniadania. Omlet, który zazwyczaj gośc
 
 <div>
   <Recipe
-    title='Omlet francuski z cheddarem i czarnuszką'
+    title='Omlet francuski z serem cheddar i czarnuszką'
     time='15 minut'
     level='łatwy'
     mealFor='2 osoby'
