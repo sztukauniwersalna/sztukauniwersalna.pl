@@ -7,6 +7,9 @@ tags:
 - przepis
 - omlet
 - francuski
+- śniadanie
+- kompozycja
+- sztuka
 ---
 
 <olela-narrative>
