@@ -39,3 +39,18 @@ W galeriach handlowych można zjeść, załatwić się, dobrze się ubrać, zrob
 
 ## Po co przepłacać?
 
+Sukienka kosztowała 299 zł, a na wyprzedaży 199 zł. Później były tak zwane Price Cut’y, czyli ‘cięcia cen’. Jedne, drugie trzecie. Finalnie sukienka kosztuje 69 zł. Opłaca się? Myślę, że tak. Trzeba mieć jednak na uwadze to, że w sieciowych sklepach ceny ubrań są zawyżone. Ubrania te są szyte masowo, także koszt materiału jak i produkcji jest stosunkowo niższy od ceny sugerowanej w późniejszej sprzedaży (na czymś w końcu trzeba zarabiać).
+
+W okresie wyprzedaży warto zwrócić uwagę na sklepy niszowych projektantów. Tam ceny są zdecydowanie wyższe, nigdy nie zejdą one tak nisko jak w popularnej Zarze. Okazy w takich butikach są zwykle niepowtarzalne, doskonale uszyte z dobrej jakości materiałów. Dlatego zachęcam do korzystania z wyprzedażowego szaleństwa z rozsądkiem. Kupmy mniej rzeczy lecz świetnej jakości, które posłużą nam przez długi czas. Nie wrzucajmy bezmyślnie butów do koszyka, aby później w domu zorientować się, że właśnie nabyłyśmy dwa lewe… Warto jest także wstrzymać się na początku, aby później kupić jeszcze taniej (wyprzedaże trwają zazwyczaj do początku marca).
+
+Podsumowując pro-konsumpcyjny styl życia, który chyba nigdy nie wyjdzie z mody, zacytuję ponadczasowe słowa Ojca Stanów Zjednoczonych (znów):
+
+> Kto rzeczy zbyteczne kupuje, sprzedać na koniec będzie musiał niezbędne.
+>
+> ~ Benjamin Franklin
+
+Kupujmy więc kochani, kupujmy. Z głową.
+
+![Zdjęcie przedstawia ciąg kolorowych liter na białym tle.](https://assets2.ello.co/uploads/asset/attachment/7175488/ello-optimized-38bc7281.jpg)
+
+* SZTUKA UNIWERSALNA nie promuje żadnego stanowiska w sprawie rekreacyjnych zastosowań brokatu prezentowanych na zdjęciach.
