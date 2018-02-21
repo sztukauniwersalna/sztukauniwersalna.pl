@@ -51,3 +51,6 @@ Kompozycja Suprematyczna: białe na białym. Szczytowe dzieło ze wszystkich ‘
 
 Cera nieskażona promieniami słonecznymi była niegdyś oznaką statusu społecznego. Arystokratki (zazwyczaj zamknięte w czterech ścianach) nie doświadczały palącego słońca podczas pracy w polu. Greckie kobiety rozjaśniały swą cerę za pomocą węglanu ołowiu (Ateny słynęły z bogactw kopalni srebra, przy którego wydobyciu pozostaje sporo białego barwnika). Liczne znaleziska archeologiczne świadczą o istnieniu specyfików podobnych do dzisiejszego pudru. Nikt w tamtym czasie nie chciał zamalować dokładnie powierzchni skóry lecz lekko ją wybielić. Z czasem toksyczne związki ołowiu nadawały skórze starczy, szary wygląd.
 
+![Obraz przedstawia dwa zdjęcia postaci pomalowanej białą farbą, która ma zamknięte oczy i odchyla delikatnie głowę do tyłu.](https://assets2.ello.co/uploads/asset/attachment/7195729/ello-optimized-0b111f40.jpg)
+![Zdjęcie przedstawia białe kartony umieszczone jeden na drugim, na które pada światło słoneczne.](https://assets0.ello.co/uploads/asset/attachment/7195731/ello-optimized-3bb7b955.jpg)
+
