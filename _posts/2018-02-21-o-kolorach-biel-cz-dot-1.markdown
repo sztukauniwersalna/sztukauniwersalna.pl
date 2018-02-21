@@ -62,6 +62,6 @@ W tradycyjnej medycynie chińskiej używano pudru perłowego, czyli pudru uzyska
 
 ![Zdjęcie przedstawia postać pomalowaną na biało z uniesionymi do góry rękami.](https://assets0.ello.co/uploads/asset/attachment/7195743/ello-optimized-bf037280.jpg)
 
-Białą kredką podkreśl dolną linię wodną oka. W ten sposób stanie się ono większe, bardziej 'otwarte'. Białej kredki możesz użyć także w kąciku oka (dla jego wydobycia i roz
+Białą kredką podkreśl dolną linię wodną oka. W ten sposób stanie się ono większe, bardziej 'otwarte'. Białej kredki możesz użyć także w kąciku oka (dla jego wydobycia i rozświetlenia) lub rozetrzeć jej odrobinę na łuku kupidyna (wklęsłe miejsce pomiędzy nosem a ustami).
 
 
