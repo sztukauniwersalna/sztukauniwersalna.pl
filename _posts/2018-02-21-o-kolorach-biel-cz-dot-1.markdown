@@ -28,7 +28,7 @@ Istnieje również taki parametr jak temperatura barwowa i tutaj źródła świa
 
 Butoh (舞踏 Butō) to japoński ‘taniec cienia’. Jest wynikiem kolaboracji Tatsumi Hijikaty i Kazuo Ohno, którzy w odpowiedzi na sytuację w Japonii po Drugiej Wojnie Światowej (napięcia społeczne, industrializacja, horror wojny) stworzyli coś na kształt sztuki performance, teatru, tańca odmiennego od klasycznych założeń. Tancerze Butoh malują swoje wychudzone ciała (sposób bycia Butoh wymaga zachowania ascetyzmu) na biało wykrzywiając twarze w groteskowych minach. Taniec ten czerpie z buddyjskich założeń – nasycony cierpieniem utrzymuje ciało i umysł tancerza ‘tu i teraz’ w stanie totalnej obecności. Malowanie ciała może w tym wypadku służyć zdjęciu z siebie tożsamości, zamazaniu własnego ‘ja’. Biel to jednocześnie kolor nadziei i jasności kontrastujący z mrokiem przedstawienia Butoh. 
 
-> Taniec zachodni zaczyna się od stóp mocno osadzonych na ziemi, > podczas gdy Butoh rozpoczyna się tańcem, w którym tancerz na próżno próbuje znaleźć swoje stopy’
+> Taniec zachodni zaczyna się od stóp mocno osadzonych na ziemi, podczas gdy Butoh rozpoczyna się tańcem, w którym tancerz na próżno próbuje znaleźć swoje stopy’
 >
 > ~ Tatsumi Hijikata
 
