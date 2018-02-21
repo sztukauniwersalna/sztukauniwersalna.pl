@@ -49,8 +49,19 @@ Kompozycja Suprematyczna: białe na białym. Szczytowe dzieło ze wszystkich ‘
 
 ## Sztuka makijażu
 
+Kobiety mają zasadniczo jaśniejszą karnację od mężczyzn (mamy mniej hemoglobiny i melaniny). Odcień skóry świadczy również o płodności. W trakcie owulacji kobieca skóra staje się jaśniejsza. Wygląd skóry zmienia się również po ciąży. Wraz z przyjściem dziecka na świat tracimy dziewiczą karnację.
+
 Cera nieskażona promieniami słonecznymi była niegdyś oznaką statusu społecznego. Arystokratki (zazwyczaj zamknięte w czterech ścianach) nie doświadczały palącego słońca podczas pracy w polu. Greckie kobiety rozjaśniały swą cerę za pomocą węglanu ołowiu (Ateny słynęły z bogactw kopalni srebra, przy którego wydobyciu pozostaje sporo białego barwnika). Liczne znaleziska archeologiczne świadczą o istnieniu specyfików podobnych do dzisiejszego pudru. Nikt w tamtym czasie nie chciał zamalować dokładnie powierzchni skóry lecz lekko ją wybielić. Z czasem toksyczne związki ołowiu nadawały skórze starczy, szary wygląd.
 
 ![Obraz przedstawia dwa zdjęcia postaci pomalowanej białą farbą, która ma zamknięte oczy i odchyla delikatnie głowę do tyłu.](https://assets2.ello.co/uploads/asset/attachment/7195729/ello-optimized-0b111f40.jpg)
 ![Zdjęcie przedstawia białe kartony umieszczone jeden na drugim, na które pada światło słoneczne.](https://assets0.ello.co/uploads/asset/attachment/7195731/ello-optimized-3bb7b955.jpg)
+
+Pudry ryżowe – doskonale matują skórę i idealnie nadają się do ‘baking’u’. Znane i używane były już w Starożytnych Chinach i Japonii.
+
+W tradycyjnej medycynie chińskiej używano pudru perłowego, czyli pudru uzyskanego ze sproszkowanych pereł. Początkowo leczył on różne dolegliwości, później stał się kosmetykiem. Idealnie wygładzał i rozjaśniał skórę. Współczesne badania dowodzą także innych cudownych właściwości pudru z pereł. Podobno stymuluje on komórki do produkcji kolagenu, czym przyczynia się do stanowczego odsunięcia w czasie procesów starzenia się skóry (wiecie może, gdzie można obecnie kupić taki puder?)
+
+![Zdjęcie przedstawia postać pomalowaną na biało z uniesionymi do góry rękami.](https://assets0.ello.co/uploads/asset/attachment/7195743/ello-optimized-bf037280.jpg)
+
+Białą kredką podkre
+
 
