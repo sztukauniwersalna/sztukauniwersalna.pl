@@ -41,3 +41,13 @@ O tym, że biel nie jest biała wiedział doskonale Julian Fałat. W swoich zimo
 
 ![Zdjęcie przedstawia postać pomalowaną na biało w lekko zgarbionej pozycji ciała.](https://assets0.ello.co/uploads/asset/attachment/7195744/ello-optimized-80b9589c.jpg)
 ![Zdjęcie przedstawia fragment białej tkaniny na białym tle.](https://assets0.ello.co/uploads/asset/attachment/7195745/ello-optimized-645ada0c.jpg)
+
+Kompozycja Suprematyczna: białe na białym. Szczytowe dzieło ze wszystkich ‘malarskich atomów’, zamykające cykl obrazów z jedną figurą jako głównym tematem. ‘Suprematyzm’ - skąd w ogóle ta nazwa? Łacińskie supremus oznacza ‘najwyższy’. Kazimierz Malewicz dąży do pozbycia się narracji i przedmiotowości w sztuce. Świat przedstawień i pragnień to złudzenie. Suprematyzm to wyraz czystego doznania. O ile przy pracy ‘Czarny kwadrat na białym tle’ artysta zostawia nas z pewnym solidnym znakiem, o tyle przy ‘Białym kwadracie na białym tle’ pozostajemy jedynie z pustką. Nic nie ma. Dotarliśmy do ściany. Koniec sztuki. Artysta nie namaluje później już żadnej kompozycji suprematycznej.
+
+![Zdjęcie przedstawia postać pomalowaną na biało z zamkniętymi oczami i rękami podniesionymi do góry.](https://assets1.ello.co/uploads/asset/attachment/7195732/ello-optimized-a8ac227e.jpg)
+![Zdjęcie przedstawia fragment białego papieru, na który pada światło słoneczne.](https://assets0.ello.co/uploads/asset/attachment/7195734/ello-optimized-6cc504d4.jpg)
+
+## Sztuka makijażu
+
+Cera nieskażona promieniami słonecznymi była niegdyś oznaką statusu społecznego. Arystokratki (zazwyczaj zamknięte w czterech ścianach) nie doświadczały palącego słońca podczas pracy w polu. Greckie kobiety rozjaśniały swą cerę za pomocą węglanu ołowiu (Ateny słynęły z bogactw kopalni srebra, przy którego wydobyciu pozostaje sporo białego barwnika). Liczne znaleziska archeologiczne świadczą o istnieniu specyfików podobnych do dzisiejszego pudru. Nikt w tamtym czasie nie chciał zamalować dokładnie powierzchni skóry lecz lekko ją wybielić. Z czasem toksyczne związki ołowiu nadawały skórze starczy, szary wygląd.
+
