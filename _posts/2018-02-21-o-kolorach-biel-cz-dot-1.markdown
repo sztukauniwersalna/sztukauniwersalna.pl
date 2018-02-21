@@ -58,7 +58,7 @@ Cera nieskażona promieniami słonecznymi była niegdyś oznaką statusu społec
 
 Pudry ryżowe – doskonale matują skórę i idealnie nadają się do ‘baking’u’. Znane i używane były już w Starożytnych Chinach i Japonii.
 
-W tradycyjnej medycynie chińskiej używano pudru perłowego, czyli pudru uzyskanego ze sproszkowanych pereł. Początkowo leczył on różne dolegliwości, później stał się kosmetykiem. Idealnie wygładzał i rozjaśniał skórę. Współczesne badania dowodzą także innych cudownych właściwości pudru z pereł. Podobno stymuluje on komórki do produkcji kolagenu, czym przyczynia się do stanowczego odsunięcia w czasie procesów starzenia się skóry (wiecie może, gdzie można obecnie kupić taki puder?)
+W tradycyjnej medycynie chińskiej używano pudru perłowego, czyli pudru uzyskanego ze sproszkowanych pereł. Początkowo leczył on różne dolegliwości, później stał się kosmetykiem. Idealnie wygładzał i rozjaśniał skórę. Współczesne badania dowodzą także innych cudownych właściwości pudru z pereł. Podobno stymuluje on komórki do produkcji kolagenu, czym przyczynia się do stanowczego odsunięcia w czasie procesów starzenia się skóry (wiecie może, gdzie można obecnie kupić taki puder?).
 
 ![Zdjęcie przedstawia postać pomalowaną na biało z uniesionymi do góry rękami.](https://assets0.ello.co/uploads/asset/attachment/7195743/ello-optimized-bf037280.jpg)
 
