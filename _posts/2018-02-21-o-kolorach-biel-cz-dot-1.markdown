@@ -20,9 +20,9 @@ Chyba każdy z nas kojarzy szklaną piramidę zwaną pryzmatem. To Newton jako p
 Istnieje również taki parametr jak temperatura barwowa i tutaj źródła światła białego dzieli się kolejno na: ciepłe, neutralne, chłodne, dzienne, dzienne chłodne. Jednak ta sama wartość temperatury barwowej może być różnie określana w zależności od producenta produktów oświetleniowych. Co ciekawe, im wyższa temperatura barwowa, tym chłodniejsza biel.
 
 
-![Zdjęcie przedstawia człowieka pomalowanego białą farbą, który wystawia język.](https://assets1.ello.co/uploads/asset/attachment/7195724/ello-optimized-14ad1146.jpg)
+![Zdjęcie przedstawia człowieka pomalowanego białą farbą, który wystawia język.](https://assets0.ello.co/uploads/asset/attachment/7196140/ello-optimized-439f6456.jpg)
 ![Zdjęcie przedstawia fragment pogniecionej białej tkaniny, na którą pada światło słoneczne.](https://assets0.ello.co/uploads/asset/attachment/7195726/ello-optimized-448f2521.jpg)
-![Zdjęcie przedstawia człowieka pomalowanego białą farbą, który przekrzywia głowę i usta.](https://assets2.ello.co/uploads/asset/attachment/7195727/ello-optimized-34cf6c64.jpg)
+![Zdjęcie przedstawia człowieka pomalowanego białą farbą, który przekrzywia głowę i usta.](https://assets0.ello.co/uploads/asset/attachment/7196141/ello-optimized-51f39d1f.jpg)
 
 ## Sztuka tańca
 
