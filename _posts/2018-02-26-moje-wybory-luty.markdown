@@ -34,7 +34,7 @@ Zapewne zauważyliście już, że jestem fanką słodkich zapachów. Są jednak 
 
 ## Lektura
 
-‘Małe Wielkie Rzeczy’ - pierwsza książka Jodi Picoult, po którą sięgnęłam i przeczytałam w zaledwie dwa wieczory. Niesamowita historia czarnoskórej położnej (profesjonalistki w swoim fachu), która zostaje oskarżona o spowodowanie śmierci nowo narodzonego dziecka (oskarżycielem jest członek pro-faszystowskiej organizacji, który nie życzy sobie opieki afro-amerykańskiego personelu). Autorka bierze na warsztat uprzedzenia rasowe, wnikliwie je analizując z perspektywy osób uczestniczących w całym zamieszaniu. Świetny kawałek treści na lutowe, zimne dni. Polecam i pędzę do księgarni po inną papierową przyjemność od Judi.
+‘Małe Wielkie Rzeczy’ - pierwsza książka Jodi Picoult, po którą sięgnęłam i przeczytałam w zaledwie dwa wieczory. Niesamowita historia czarnoskórej położnej (profesjonalistki w swoim fachu), która zostaje oskarżona o spowodowanie śmierci nowo narodzonego dziecka (oskarżycielem jest członek pro-faszystowskiej organizacji, który nie życzy sobie opieki afroamerykańskiego personelu). Autorka bierze na warsztat uprzedzenia rasowe, wnikliwie je analizując z perspektywy osób uczestniczących w całym zamieszaniu. Świetny kawałek treści na lutowe, zimne dni. Polecam i pędzę do księgarni po inną papierową przyjemność od Judi.
 
 ![Zdjęcie przedstawia książkę leżącą na niebieskim papierze.](https://assets0.ello.co/uploads/asset/attachment/7228054/ello-optimized-3709e2a3.jpg)
 
