@@ -15,7 +15,7 @@ tags:
 ---
 
 <olela-narrative>
-W nocy w Warszawie termometr ma pokazać -15°C. Nieosiągalnym wydaje się spacer po parku, bez uprzedniego założenia na siebie podkoszulki, koszulki, koszulki z długim rękawem, swetra, kurtki puchowej. Dodatkowo koniecznym jest opatulenie szyi (wraz z nosem) wełnianym szalem. Nosiciele okularów korekcyjnych w takie dni jak ten widzą świat bardziej zamazanym niż zdaję się on być bez szkieł (szkła parują pod wpływem wydychanego, gorącego powietrza). Cały obrządek opatulania trwa dłużej niż standardowy spacer do sklepu. Istnieje jednak bardzo szybki sposób na otulenie swojej skóry pielęgnacją nawilżającą – olejek myjący). Istnieje też cudowny sposób na otulenie zmysłów – zapach. Na rozgrzanie duszy natomiast zadziała dobra lektura pod ciepłym kocem i herbata z miodem w ulubionym kubku w rozmiarze XXL.
+W nocy w Warszawie termometr ma pokazać -15°C. Nieosiągalnym wydaje się spacer po parku bez uprzedniego założenia na siebie podkoszulki, koszulki, koszulki z długim rękawem, swetra, kurtki puchowej. Dodatkowo koniecznym jest opatulenie szyi (wraz z nosem) wełnianym szalem. Nosiciele okularów korekcyjnych w takie dni jak ten widzą świat bardziej zamazanym niż zdaję się on być bez szkieł (szkła parują pod wpływem wydychanego, gorącego powietrza). Cały obrządek opatulania trwa dłużej niż standardowy spacer do sklepu. Istnieje jednak bardzo szybki sposób na otulenie swojej skóry pielęgnacją nawilżającą – olejek myjący). Istnieje też cudowny sposób na otulenie zmysłów – zapach. Na rozgrzanie duszy natomiast zadziała dobra lektura pod ciepłym kocem i herbata z miodem w ulubionym kubku w rozmiarze XXL.
 </olela-narrative>
 
 ## Biżuteria
