@@ -44,3 +44,8 @@ Teraz, właśnie teraz skóra twarzy wymaga szczególnej pielęgnacji. Wyjście 
 
 ![Zdjęcie przedstawia flakonik z olejkiem myjącym koloru żołtego, który leży na żółto-szarym papierze, a dookoła niego porozrzucane są ozdobne cekiny.](https://assets2.ello.co/uploads/asset/attachment/7228056/ello-optimized-66a8b23b.jpg)
 
+Shop My Choices
+* [‘Queen B’ Collection by Yes](http://yes.pl/bizuteria?kolekcja=queen-b)
+* [‘Poison Girl’ Dior Perfume](https://www.iperfumy.pl/dior/poison-girl-woda-perfumowana-dla-kobiet/)
+* [Jodi Picoult ‘Małe Wielkie Rzeczy’](http://www.taniaksiazka.pl/male-wielkie-rzeczy-jodi-picoult-p-843351.html)
+* [Cleanest Coconut Cleansing Oil by Skin79](https://skin79-sklep.pl/73949-skin79-cleanest-coconut-cleansing-oil---150-ml.)
