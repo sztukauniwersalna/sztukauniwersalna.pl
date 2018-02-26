@@ -26,3 +26,21 @@ Te delikatne cudeńka w kształcie pszczoły i plastra miodu to kolekcja ‘Quee
 ![Obraz przedstawia dwa zdjęcia, na jednym widzimy dłoń ze złotymi bransoletkami, a na drugim bransoletki w pudełku.](https://assets2.ello.co/uploads/asset/attachment/7228045/ello-optimized-e6371a95.jpg)
 
 ## Zapach
+
+Zapewne zauważyliście już, że jestem fanką słodkich zapachów. Są jednak takie słodycze, które zarezerwowane są jedynie na wieczór. W ‘Poison Girl’ od Dior’a dominują słodkie, balsamiczne nuty migdałów i wanilii. Jest to jeden z tych ‘cięższych’ zapachów, który nie powoduje uczucia duszności ani bólu głowy. Zdarzało mi się (w okresie zimowym) nosić je na co dzień. Luty zaskoczył nas minusową temperaturą, dlatego znów po nie sięgam. Zaraz po górnych, cytrusowych nutach wyczuwam różę, której płatki spadają na słodką podstawę. Uwielbiam je jeszcze bardziej po dwóch godzinach od aplikacji. Może to właśnie wtedy ujawnia się ich serce?
+
+![Obraz przedstawia dwa zbliżenia na napis na flakonie czerwonych perfum.](https://assets2.ello.co/uploads/asset/attachment/7228048/ello-optimized-edd90f04.jpg)
+![Zdjęcie przedstawia flakon perfum stojący na czerwonym papierze.](https://assets2.ello.co/uploads/asset/attachment/7228050/ello-optimized-cd1e49aa.jpg)
+
+## Lektura
+
+‘Małe Wielkie Rzeczy’ - pierwsza książka Jodi Picoult, po którą sięgnęłam i przeczytałam w zaledwie dwa wieczory. Niesamowita historia czarnoskórej położnej (profesjonalistki w swoim fachu), która zostaje oskarżona o spowodowanie śmierci nowo narodzonego dziecka (oskarżycielem jest członek pro-faszystowskiej organizacji, który nie życzy sobie opieki afro-amerykańskiego personelu). Autorka bierze na warsztat uprzedzenia rasowe, wnikliwie je analizując z perspektywy osób uczestniczących w całym zamieszaniu. Świetny kawałek treści na lutowe, zimne dni. Polecam i pędzę do księgarni po inną papierową przyjemność od Judi.
+
+![Zdjęcie przedstawia książkę leżącą na niebieskim papierze.](https://assets0.ello.co/uploads/asset/attachment/7228054/ello-optimized-3709e2a3.jpg)
+
+## Kosmetyk
+
+Teraz, właśnie teraz skóra twarzy wymaga szczególnej pielęgnacji. Wyjście z domu bez odpowiedniego zabezpieczenia cery grozi jej podrażnieniem, zaczerwienieniem, suchością, popękanymi naczynkami. Z mrozem, zimnem i wiatrem nie ma żartów. Dobra wiadomość dla fanek make-up’u – malując twarz odpowiednim podkładem w pewien sposób dajemy jej filtr ochronny przed tymi czynnikami. A co ze zmywaniem makijażu? Warto wtedy użyć olejku myjącego, którydokładnie oczyszcza, ale nie pozbawia skóry bariery hydrolipidowej. Ten na zdjęciu idealnie sprawdzi się przy cerze bardzo suchej, suchej, normalnej i mieszanej. Należy nałożyć odrobinę na zwilżone dłonie i masować twarz przez ok. minutę. Zawiera olej z krokosza barwierskiego znanego ze swoich odżywczych i przeciwzmarszczkowych właściwości, oraz olej kokosowy o działaniu bakteriobójczym i łagodzącym. Coconut Cleansing Oil marki Skin79 idealnie zadba o nawilżenie i elastyczność skóry twarzy w lutym. Na dodatek tak obłędnie pachnie… 
+
+![Zdjęcie przedstawia flakonik z olejkiem myjącym koloru żołtego, który leży na żółto-szarym papierze, a dookoła niego porozrzucane są ozdobne cekiny.](https://assets2.ello.co/uploads/asset/attachment/7228056/ello-optimized-66a8b23b.jpg)
+
