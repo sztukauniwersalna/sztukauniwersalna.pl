@@ -1,0 +1,33 @@
+---
+title: 'Wystawa: Przyszłość będzie inna - wizje i praktyki modernizacji społecznych
+  po roku 1918'
+date: 2018-02-28 14:59:00 +01:00
+categories:
+- Sztuka dla Sztuki
+tags:
+- wystawa
+- exhibition
+- zachęta
+- warszawa
+- przyszłość
+- sztuka
+---
+
+![Czarno-białe zdjęcie przedstawia ekran z napisami.](https://assets2.ello.co/uploads/asset/attachment/7244948/ello-optimized-b6208cdf.jpg)
+<olela-narrative>
+Właściwie sama nie wiedziałam czego spodziewać się po tej wystawie. Wybraliśmy się na nią dzień po wernisażu, czyli w sobotę. Wydaje mi się, że oczekiwałam kompletnie innych wrażeń, czegoś wizualnie zachwycającego, a dostałam porządną lekcję historii. Sama staram się nie rozpamiętywać przeszłych zdarzeń, jak i nie wspominać ubiegłego wieku w babcinym stylu: ‘a kiedyś to było...’. Jednak ta ekspozycja będzie świetną opcją zarówno dla osób, które za ‘komuny’ się wychowywały, jak i dla millenialsów, którzy ‘komunę’ znają tylko z opowiadań (choć coś im świta). Młodsze pokolenia mogą tę wystawę uznać jednak za nudną i czmychnąć czym prędzej do kawiarni na rurkę z kremem, bo przecież ‘biedy na starych zdjęciach nie będą oglądać’. A przecież właśnie tak było po wojnie (wojnach). Było biednie.
+</olela-narrative>
+
+
+## Przyszłość
+
+‘Przyszłość będzie inna’ - to hasło zawiera w sobie stanowczy manifest nadziei jak i westchnienie rezygnacji. Wiara w lepszą przyszłość to stan ducha dwudziestolecia międzywojennego. To ulga po horrorze wojny i radość, ale też zmartwienie: ‘co teraz?’ Wystawa stara się pokazać momenty (starania) odbudowy zniszczonej państwowości oraz społeczeństwa. Pojawiają się nowe koncepcje organizacji życia takich grup społecznych jak robotnicy, kobiety, dzieci. Wszystko podzielone jest na segmenty takie jak architektura, urbanistyka, prasa, teatr, sport. W wyjątkowy sposób uderza plakat propagandowy, ciągnący się przez całą długość ściany, na którym możemy zobaczyć porównanie tego ‘jak było’ z tym ‘jak będzie’. Problem w tym, że zdjęcia ukazujące np. przedszkola (te sprzed i po modernizacji) niczym praktycznie się od siebie nie różnią…
+
+![Zdjęcie przedstawia fragment plakatu ze starymi fotografiami.](https://assets1.ello.co/uploads/asset/attachment/7244906/ello-optimized-9a925292.jpg)
+![Zdjęcie przedstawia okładkę starego czasopisma.](https://assets0.ello.co/uploads/asset/attachment/7244918/ello-optimized-25e18827.jpg)
+
+## M2
+
+Pierwsza sala obfituje w obiekty. Mamy przed sobą stelaż, na którym stoją różne krzesła (raj dla współczesnych dizajnerów!), niektóre z nich pochodzą z pracowni W. Strzemińskiego i K. Kobro. Szklane gabloty wypełniają historyczne magazyny ‘Dom Osiedle Mieszkanie’ z lat 40-tych (raj dla współczesnych grafików!). Na ścianach z kolei plakaty promujące spółdzielczość. Piękna jest estetyka tych plakatów i piękne jest to, że większość (jak nie wszystkie) prezentowane na wystawie są namalowane ręcznie. Przyglądając się z bliska dostrzec możemy czarny tusz położony z niezwykłą precyzją, białą farbkę, ołówkowy szkic. Najbardziej fascynuje mnie jednak rekonstrukcja projektu kuchni funkcjonalnej do mieszkania robotniczego. W tak malutkiej przestrzeni, że dwie osoby miałyby problem usiąść, znajduje się biurko, zlew, kuchenka, blat roboczy, szafki… ‘Kuchnia przeznaczona dla 5-7 osobowej rodziny, bez służącej...’ czytam dalej. Jestem w szoku. Projekt po raz pierwszy zrealizowano w 1930 roku w ramach wystawy ‘mieszkanie najmniejsze’ na Żoliborzu. Jestem w ciężkim szoku.
+
+
