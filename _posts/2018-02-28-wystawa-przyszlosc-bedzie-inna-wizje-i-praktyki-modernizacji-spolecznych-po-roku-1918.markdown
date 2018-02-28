@@ -45,6 +45,7 @@ Socjalizm był czasem pracy. Zewsząd huczały plakaty ukazujące robotników ja
 ![Zdjęcie przedstawia plakat propagandowy z dawnych czasów.](https://assets1.ello.co/uploads/asset/attachment/7244940/ello-optimized-93c5dd9a.jpg)
 ![Zdjęcie przedstawia trzy kolaże, na których widnieją ludzkie dłonie.](https://assets0.ello.co/uploads/asset/attachment/7244932/ello-optimized-35e2aea1.jpg)
 ![Zdjęcie przedstawi cztery plakaty z dawnych lat oprawione w ramy i powieszone na ścianie galerii.](https://assets1.ello.co/uploads/asset/attachment/7244942/ello-optimized-043593a1.jpg)
+![Obraz przedstawia dwa zdjęcia, na których widać rzutnik i obraz rzutowany na ścianę.](https://assets0.ello.co/uploads/asset/attachment/7244949/ello-optimized-8701bc67.jpg)
 
 ## Film
 
@@ -56,3 +57,7 @@ Filarem całej ekspozycji jest medium filmowe. Praktycznie w każdym pomieszczen
 ![Zdjęcie przedstawia salę z dużym ekranem na środku.](https://assets0.ello.co/uploads/asset/attachment/7244936/ello-optimized-d9338982.jpg)
 ![Zdjęcie przedstawia model budowli na pierwszym planie, a w tle widzimy ekran z filmem.](https://assets0.ello.co/uploads/asset/attachment/7244923/ello-optimized-1e174987.jpg)
 ![Zdjęcie przedstawia czarno-biały film ukazujący skok człowieka do wody.](https://assets2.ello.co/uploads/asset/attachment/7244929/ello-optimized-bac80f85.gif)
+
+Jeśli ktoś ma bzika na punkcie starych fotografii i filmów lub z zapałem studiuje  historyczne stanowiska różnych osób wobec różnych tematów, niech wybierze się na tę wystawę, bo jest to dobra wystawa. Jeśli ktoś jest architektem, dizajnerem, grafikiem z miłością do liter, niech wybierze się na tę wystawę, bo jest to dobra wystawa. Jeśli ktoś jest polakiem (a tym bardziej warszawiakiem), niech wybierze się na tę wystawę, ale niech nie rodzą się w nim nadzieje, że przyszłość będzie inna.
+
+![](
