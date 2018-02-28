@@ -60,4 +60,12 @@ Filarem całej ekspozycji jest medium filmowe. Praktycznie w każdym pomieszczen
 
 Jeśli ktoś ma bzika na punkcie starych fotografii i filmów lub z zapałem studiuje  historyczne stanowiska różnych osób wobec różnych tematów, niech wybierze się na tę wystawę, bo jest to dobra wystawa. Jeśli ktoś jest architektem, dizajnerem, grafikiem z miłością do liter, niech wybierze się na tę wystawę, bo jest to dobra wystawa. Jeśli ktoś jest polakiem (a tym bardziej warszawiakiem), niech wybierze się na tę wystawę, ale niech nie rodzą się w nim nadzieje, że przyszłość będzie inna.
 
-![](
+![Zdjęcie przedstawia model budynku w przekroju.](https://assets2.ello.co/uploads/asset/attachment/7244945/ello-optimized-704f01d3.jpg)
+![Obraz przedstawia trzy geometryczne figury z tekstem umieszczone na białym tle.](https://assets1.ello.co/uploads/asset/attachment/7244933/ello-optimized-565f7db4.jpg)
+
+Wystawa trwa od 24.02.2018 r. do 27.05.2018 r. i można jej doświadczyć od wtorku do niedzieli w godz. 12:00-20:00.
+* Bilety: 15 zł normalny / w czwartki wstęp jest bezpłatny
+* Zachęta – Narodowa Galeria Sztuki; pl. Małachowskiego 3, 00-916 Warszawa
+* Więcej informacji o wystawie i dodatkowych wydarzeniach znajdziecie [tutaj](https://zacheta.art.pl/pl/wystawy/przyszlosc-bedzie-inna?filters=eyJpZCI6WyIzMjI0Il0sIm9yZGVyIjoiRklFTEQgKGlkLDMyMjQpIn0%3D)
+
+![Zdjęcie przedstawia biały model skoczni basenowej, a za nią widzimy obraz wiszący na ścianie.](https://assets1.ello.co/uploads/asset/attachment/7244920/ello-optimized-27380617.jpg)
