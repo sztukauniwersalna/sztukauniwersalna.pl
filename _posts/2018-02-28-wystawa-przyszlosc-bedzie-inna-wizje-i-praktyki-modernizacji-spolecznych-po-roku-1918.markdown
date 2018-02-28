@@ -34,3 +34,14 @@ Pierwsza sala obfituje w obiekty. Mamy przed sobą stelaż, na którym stoją r�
 ![Zdjęcie przedstawia szare pomieszczenie. Widzimy biurko, krzesło, szafki, kuchenkę.](https://assets0.ello.co/uploads/asset/attachment/7244904/ello-optimized-615da7d3.jpg)
 ![Zdjęcie przedstawia model biało-czarnego budynku.](https://assets1.ello.co/uploads/asset/attachment/7244908/ello-optimized-1b482d76.jpg)
 ![Zdjęcie przedstawia szklaną gablotę z czasopismami z lat trzydziestych.](https://assets1.ello.co/uploads/asset/attachment/7244924/ello-optimized-47adb487.jpg)
+![Zdjęcie przedstawia okładkę starego magazynu dla kobiet.](https://assets1.ello.co/uploads/asset/attachment/7244943/ello-optimized-5b49aaae.jpg)
+
+## Ręce pracujące
+
+Socjalizm był czasem pracy. Zewsząd huczały plakaty ukazujące robotników jako fundament społeczeństwa. Praca miała dawać szczęście i godny byt. W czasie odbudowy państwa była niezwykle trudna i wiązała się z wysiłkiem ponad siły. Osłabione państwo nie mogło pozwolić sobie na stratę pracowników. Dlatego też zachęcano do ostrożnego korzystania z maszyn, zakładania okularów ochronnych, oraz ubezpieczeń zdrowotnych. Projekt ‘ręka pracująca’ zrealizowany został przez fotografkę lwowskiego pochodzenia Janinę Mierzecką wraz z mężem Henrykiem. Cykl fotografii okazał się być nie tylko świetną realizacją artystyczną, ale też projektem badawczym. Obejmował on 120 zdjęć dłoni przedstawicieli różnych zawodów. Posłużył do obserwacji dermatologicznych w temacie zmian skórnych związanych z wykonywaniem danego zawodu.
+
+![Zdjęcie przedstawia zdjęcia w białych ramkach zawieszone na białej ścianie galerii.](https://assets0.ello.co/uploads/asset/attachment/7244934/ello-optimized-6f2ad6ff.jpg)
+![Zdjęcie przedstawia plakat propagandowy z dawnych lat.](https://assets1.ello.co/uploads/asset/attachment/7244938/ello-optimized-6a552324.jpg)
+![Zdjęcie przedstawia plakat propagandowy z dawnych czasów.](https://assets1.ello.co/uploads/asset/attachment/7244940/ello-optimized-93c5dd9a.jpg)
+![Zdjęcie przedstawia trzy kolaże, na których widnieją ludzkie dłonie.](https://assets0.ello.co/uploads/asset/attachment/7244932/ello-optimized-35e2aea1.jpg)
+![Zdjęcie przedstawi cztery plakaty z dawnych lat oprawione w ramy i powieszone na ścianie galerii.](https://assets1.ello.co/uploads/asset/attachment/7244942/ello-optimized-043593a1.jpg)
