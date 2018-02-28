@@ -58,7 +58,7 @@ Filarem całej ekspozycji jest medium filmowe. Praktycznie w każdym pomieszczen
 ![Zdjęcie przedstawia model budowli na pierwszym planie, a w tle widzimy ekran z filmem.](https://assets0.ello.co/uploads/asset/attachment/7244923/ello-optimized-1e174987.jpg)
 ![Zdjęcie przedstawia czarno-biały film ukazujący skok człowieka do wody.](https://assets2.ello.co/uploads/asset/attachment/7244929/ello-optimized-bac80f85.gif)
 
-Jeśli masz bzika na punkcie starych fotografii i filmów lub z zapałem studiujesz  historyczne stanowiska różnych osób wobec różnych tematów, wybierz się na tę wystawę, bo jest to dobra wystawa. Jeśli jesteś architektem, dizajnerem, grafikiem z miłością do liter, wybierz się na tę wystawę, bo jest to dobra wystawa. Jeśli jesteś polakiem (a tym bardziej warszawiakiem), wybierz się na tę wystawę, ale niech nie rodzą się w Tobie nadzieje, że przyszłość będzie inna.
+Jeśli masz bzika na punkcie starych fotografii i filmów lub z zapałem studiujesz  historyczne stanowiska różnych osób wobec różnych tematów, wybierz się na tę wystawę, bo jest to dobra wystawa. Jeśli jesteś architektem, dizajnerem, grafikiem z miłością do liter, wybierz się na tę wystawę, bo jest to dobra wystawa. Jeśli jesteś Polakiem (a tym bardziej warszawiakiem), wybierz się na tę wystawę, ale niech nie rodzą się w Tobie nadzieje, że przyszłość będzie inna.
 
 ![Zdjęcie przedstawia model budynku w przekroju.](https://assets2.ello.co/uploads/asset/attachment/7244945/ello-optimized-704f01d3.jpg)
 ![Obraz przedstawia trzy geometryczne figury z tekstem umieszczone na białym tle.](https://assets1.ello.co/uploads/asset/attachment/7244933/ello-optimized-565f7db4.jpg)
