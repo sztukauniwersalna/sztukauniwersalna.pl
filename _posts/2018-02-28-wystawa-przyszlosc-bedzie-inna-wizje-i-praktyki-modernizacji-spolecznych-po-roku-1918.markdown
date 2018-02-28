@@ -45,3 +45,14 @@ Socjalizm był czasem pracy. Zewsząd huczały plakaty ukazujące robotników ja
 ![Zdjęcie przedstawia plakat propagandowy z dawnych czasów.](https://assets1.ello.co/uploads/asset/attachment/7244940/ello-optimized-93c5dd9a.jpg)
 ![Zdjęcie przedstawia trzy kolaże, na których widnieją ludzkie dłonie.](https://assets0.ello.co/uploads/asset/attachment/7244932/ello-optimized-35e2aea1.jpg)
 ![Zdjęcie przedstawi cztery plakaty z dawnych lat oprawione w ramy i powieszone na ścianie galerii.](https://assets1.ello.co/uploads/asset/attachment/7244942/ello-optimized-043593a1.jpg)
+
+## Film
+
+Filarem całej ekspozycji jest medium filmowe. Praktycznie w każdym pomieszczeniu napotkamy na ekrany, które biją po oczach czarno-białym obrazem. Jedne stoją na podłodze cicho upominając się o uwagę, inne swoją potęgą przecinają salę na pół. Kino artystyczne, dokumentalne, kino popularne, istna ‘maszyna nowoczesności’. Zobaczymy fragmenty filmów Franciszki i Stefana Themersonów czy członków Stowarzyszenia Miłośników Filmu Artystycznego START. Współorganizatorem wystawy jest Filmoteka Narodowa – Instytut Audiowizualny, Narodowe Archiwum Cyfrowe.
+
+![Czarno-białe zdjęcie przedstawia pomieszczenie z dużym ekranem na środku.](https://assets2.ello.co/uploads/asset/attachment/7244912/ello-optimized-0fe22aa2.jpg)
+![Zdjęcie przedstawia fragment czarno-białego, starego filmu. Widzimy twarz chłopca.](https://assets0.ello.co/uploads/asset/attachment/7244916/ello-optimized-056f8439.jpg)
+![Zdjęcie przedstawia mały telewizor umieszczony na podłodze pod ścianą.](https://assets0.ello.co/uploads/asset/attachment/7244917/ello-optimized-dda35c50.jpg)
+![Zdjęcie przedstawia salę z dużym ekranem na środku.](https://assets0.ello.co/uploads/asset/attachment/7244936/ello-optimized-d9338982.jpg)
+![Zdjęcie przedstawia model budowli na pierwszym planie, a w tle widzimy ekran z filmem.](https://assets0.ello.co/uploads/asset/attachment/7244923/ello-optimized-1e174987.jpg)
+![Zdjęcie przedstawia czarno-biały film ukazujący skok człowieka do wody.](https://assets2.ello.co/uploads/asset/attachment/7244929/ello-optimized-bac80f85.gif)
