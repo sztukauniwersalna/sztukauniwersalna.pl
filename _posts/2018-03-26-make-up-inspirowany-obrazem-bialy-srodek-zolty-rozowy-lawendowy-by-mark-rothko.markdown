@@ -30,4 +30,11 @@ Od lat 50-tych artysta sukcesywnie umacnia swoją pozycję na rynku. Zapraszany 
 
 ![Zdjęcie jest rozmazane, widzimy kontur twarzy i przeplatające się ze sobą kolory: różowy, biały, żółty.](https://assets0.ello.co/uploads/asset/attachment/7396165/ello-optimized-79fed92a.jpg)
 
+Wraz z nadejściem fali Pop-Artu Mark zaczyna odczuwać przygnębienie. Genialnemu artyście pogrążonemu w depresji i alkoholizmie przygląda się reżyser John Logan w spektaklu „Red”. Autor scenariuszy filmowych hitów takich jak „Skyfall” czy „Gladiator” sportretował ostatnie chwile z życia twórcy. Premiera RED odbyła się 3 grudnia 2009 w Donmar Warehouse Theatre w Londynie, oraz miała swoją polską premierę w listopadzie 2014 roku na deskach Teatru Dramatycznego w Warszawie.
 
+W połowie lat 60-tych Rothko współpracuje z architektem Philipem Johnsonem przy budowie kaplicy uniwersyteckiej katolickiej uczelni w Houston w Teksasie. Maluje 14 obrazów w bardzo ciemnej tonacji. Czernie, szarości i głęboka purpura wzajemnie się przenikają i dopełniają. Cała budowla wzniesiona została na planie oktagonu wpisanego w grecki krzyż. Świątynia zacznie później nosić nazwę „Kaplica Rothko” (Rothko Chapel). Muzyk Peter Gabriel zatytułuje jedną ze swoich kompozycji „Czternaście Czarnych Obrazów”, po doświadczeniu przeżytym w Kaplicy Rothko.
+W przeddzień poświęcenia kaplicy artysta popełnia samobójstwo.
+
+![Zdjęcie przedstawia czarno-biały portret młodej kobiety. Na fragmencie jej twarzy widzimy 'prześwit' kolorów.](https://assets0.ello.co/uploads/asset/attachment/7396169/ello-optimized-271351b9.jpg)
+
+Sztuka Mark’a Rothko to sztuka dla dojrzałych i świadomych ludzi. Potrafi przeprowadzić nas przez różne stany, wprowadzić w różne stany, jeśli tylko jej na to pozwolimy. Świadome podejście do obrazów i cierpliwość to cechy dobrego odbiorcy. Pamiętajmy, że równie ważne jest nie tylko to, jak obraz na nas działa, lecz jak my go dobieramy. Malarstwo płaszczyzn to sztuka eksperymentu ze świadomością. Umożliwia, wskazuje drogę do innego wymiaru. Wymiaru duchowego. Mark o tym wiedział i nie mógł pogodzić się z ‘pustością’ sztuki popularnej. Nie chciał, aby jego obrazy były odbierane jako ‘pasujące’ do mebli. W jego dziełach tli się więcej, niż tylko wygląd zewnętrzny. Jego obrazy mają duszę, która zatrzymała się na zawsze w cząsteczkach koloru.
