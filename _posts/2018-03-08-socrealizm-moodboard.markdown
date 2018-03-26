@@ -22,36 +22,13 @@ tags:
 ![Obraz przedstawia zdjęcie rysunku i obrazu znanego artysty. Całość na bordowym tle.](https://assets2.ello.co/uploads/asset/attachment/7293465/ello-optimized-36072e78.jpg)
 ![Obraz przedstawia fotografię wnętrza wypełnionego różnymi rzeźbami i obrazami. Pod zdjęciem na bordowym tle widnieje opis.](https://assets2.ello.co/uploads/asset/attachment/7293466/ello-optimized-899bab3b.jpg)
 
-Kiedy mówimy o kierunkach, nurtach w sztuce zazwyczaj mamy do czynienia z szeregiem cech dzieła,
-które kształtują się, dojrzewają na przestrzeni czasu. Nurty w sztuce to odpowiedź na sytuację w
-świecie sztuki, to komentarz na temat otaczającego nas świata jednego lub większej grupy artystów.
-To także często indywidualny pogląd na sztukę danej jednostki. W wielu przypadkach rozwój kierunków
-sztuki to ‘dzieło’ jednego artysty, który potrafił przekonać innych do swojego światoobrazu. To
-‘dzieło’ człowieka, który zauważy oryginalne cechy i nazwie je za pomocą giętkiego języka swoich
-wypowiedzi. Co raz zostanie nazwane, pozostaje.
+Kiedy mówimy o kierunkach, nurtach w sztuce zazwyczaj mamy do czynienia z szeregiem cech dzieła, które kształtują się, dojrzewają na przestrzeni czasu. Nurty w sztuce to odpowiedź na sytuację w świecie sztuki, to komentarz na temat otaczającego nas świata jednego lub większej grupy artystów. To także często indywidualny pogląd na sztukę danej jednostki. W wielu przypadkach rozwój kierunków sztuki to ‘dzieło’ jednego artysty, który potrafił przekonać innych do swojego światoobrazu. To ‘dzieło’ człowieka, który zauważy oryginalne cechy i nazwie je za pomocą giętkiego języka swoich wypowiedzi. Co raz zostanie nazwane, pozostaje. 
 
-Socrealizm jest czymś odmiennym od kierunku. W pewnym sensie kształtował się pod przymusem, wraz z
-nadejściem władz komunistycznych. Nazwijmy go zatem ‘metodą twórczą’, jedyną słuszną metodą twórczą
-w czasie rządów komunistycznych. Sztuka po roku 1934 miała bowiem służyć celom propagandowym, stać
-się narzędziem partii. Maksim Gorki na Zjeździe Pisarzy Radzieckich w 1934 roku wypowiadał się na
-temat dzieła sztuki – powinno ono posiadać realistyczną formę i socjalistyczną treść zgodną z ideami
-marksizmu i leninizmu. Socrealizm był jednak pełen sprzeczności i niejasności. Główny temat stanowił
-sojusz robotniczo-chłopski, równość klasowa, historia ruchu robotniczego. Artyści odmawiający
-podporządkowania się założeniom jedynej, słusznej metody twórczej narażeni byli na represje.
+Socrealizm jest czymś odmiennym od kierunku. W pewnym sensie kształtował się pod przymusem, wraz z nadejściem władz komunistycznych. Nazwijmy go zatem ‘metodą twórczą’, jedyną słuszną metodą twórczą w czasie rządów komunistycznych. Sztuka po roku 1934 miała bowiem służyć celom propagandowym, stać się narzędziem partii. Maksim Gorki na Zjeździe Pisarzy Radzieckich w 1934 roku wypowiadał się na temat dzieła sztuki – powinno ono posiadać realistyczną formę i socjalistyczną treść zgodną z ideami marksizmu i leninizmu. Socrealizm był jednak pełen sprzeczności i niejasności. Główny temat stanowił sojusz robotniczo-chłopski, równość klasowa, historia ruchu robotniczego. Artyści odmawiający podporządkowania się założeniom jedynej, słusznej metody twórczej narażeni byli na represje.  
 
 Przyjrzyjmy się poszczególnym cechom charakterystycznym dla stylu socrealizmu:
 
-1. Architektura miała ukazywać siłę i potęgę państwa. Budynki z tego czasu cechuje monumentalizm,
-   przeskalowanie, symetria. Znajdziemy elementy zaczerpnięte z architektury klasycznej – kolumny,
-   attyki, pilastry, ale też wzorce z amerykańskich drapaczy chmur (w stylu art déco lub
-   neogotyckich). Olbrzymie place (np. Plac Centralny w Nowej Hucie w Krakowie) miały za zadanie
-   skupiać życie społeczne mieszkańców.
-2. Znaczne przeskalowanie dotyka również sztuki figuratywnej od malarstwa po rzeźbę. Postaci są
-   monumentalne, o szerokich barkach, charakterystycznie ‘rozszerzonych’ sylwetkach. Twarze zdają
-   się nie ukazywać emocji, ubrane w symetrycznie-geometryczną formę. Zazwyczaj spotykamy się
-   tutaj z gestem potęgi, władzy, uniesionych ramionach jednoznacznie symbolizujących okrzyk
-   ‘naprzód!’ czy ‘do boju!’.
+1. Architektura miała ukazywać siłę i potęgę państwa. Budynki z tego czasu cechuje monumentalizm, przeskalowanie, symetria. Znajdziemy elementy zaczerpnięte z architektury klasycznej – kolumny, attyki, pilastry, ale też wzorce z amerykańskich drapaczy chmur (w stylu art déco lub neogotyckich). Olbrzymie place (np. Plac Centralny w Nowej Hucie w Krakowie) miały za zadanie skupiać życie społeczne mieszkańców.
+2. Znaczne przeskalowanie dotyka również sztuki figuratywnej od malarstwa po rzeźbę. Postaci są monumentalne, o szerokich barkach, charakterystycznie ‘rozszerzonych’ sylwetkach. Twarze zdają się nie ukazywać emocji, ubrane w symetrycznie-geometryczną formę. Zazwyczaj spotykamy się tutaj z gestem potęgi, władzy, uniesionych ramionach jednoznacznie symbolizujących okrzyk ‘naprzód!’ czy ‘do boju!’.
 
-Polecam odwiedzić [Muzeum Zamoyskich w Kozłówce](http://www.muzeumzamoyskich.pl/socrealizm).
-Znajdują się tam spore zbiory 'socrealistycznych pozostałości'.
-
+Polecam odwiedzić [Muzeum Zamoyskich w Kozłówce](http://www.muzeumzamoyskich.pl/socrealizm). Znajdują się tam spore zbiory 'socrealistycznych pozostałości'.
