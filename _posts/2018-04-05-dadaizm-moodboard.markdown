@@ -10,6 +10,7 @@ tags:
 - sztuka
 - artysta
 - kreacja
+- tristan tzara
 ---
 
 ![Obraz przedstawia różne fotografie np. przedmiotów na jasnoszarym tle, oraz czarny napis.](https://assets1.ello.co/uploads/asset/attachment/7444781/ello-optimized-e4ecfaf8.jpg)
