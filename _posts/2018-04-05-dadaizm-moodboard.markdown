@@ -66,8 +66,27 @@ ryk ryk ryk ryk ryk ryk ryk ryk
 Który nadal uznaje siebie za bardzo sympatycznego 
 Tristan Tzara
 
+
+
+
 ![Zdjęcie przedstawia kserokopię tekstu. Widzimy czarne litery na białym tle.](https://assets1.ello.co/uploads/asset/attachment/7444805/ello-optimized-942c3b4d.jpg)
 ![Zdjęcie przedstawia kserokopię tekstu. Widzimy czarne litery na białym tle i niezgrabny rysunek.](https://assets0.ello.co/uploads/asset/attachment/7444809/ello-optimized-fc228a56.jpg)
+
+Przyjrzyj mi się uważnie!
+Jestem idiotą, jestem żartownisiem, jestem oszustem.
+Przyjrzyj mi się uważnie!
+Jestem brzydki, moja twarz nie ma wyrazu, jestem mały.
+Jestem taki, jak wy wszyscy!
+Ale zapytaj siebie, zanim na mnie spojrzysz, - czy tęczówka, przez którą wysyłasz strzały płynnych uczuć, nie jest w istocie latającym gównem,
+czy Twoje oczy na brzuchu nie są po części guzami, które wyglądają, jakby za moment miały wyłonić się z z pewnych partii ciała jako krwotoczne upławy. (…)
+
+DADA sugeruje 2 rozwiązania:
+
+NIGDY WIĘCEJ SPOJRZEŃ
+NIGDY WIĘCEJ SŁÓW
+
+Przestań patrzeć!
+Przestań gadać!
 
 
 
