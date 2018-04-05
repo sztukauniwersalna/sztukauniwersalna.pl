@@ -20,3 +20,47 @@ tags:
 ![Obraz przedstawia trzy zdjęcia. Widzimy jedną fotografię i dwa obiekty. Obok czarne litery.](https://assets2.ello.co/uploads/asset/attachment/7444795/ello-optimized-3558c5ab.jpg)
 ![Obraz przedstawia trzy zdjęcia na jasnoszarym tle. Widzimy filiżankę pokrytą futrem, pierścionek i obraz abstrakcyjny. Obok znajduje się czarna litera.](https://assets2.ello.co/uploads/asset/attachment/7444797/ello-optimized-061cdae8.jpg)
 ![Obraz przedstawia napisy na jasnoszarym tle.](https://assets2.ello.co/uploads/asset/attachment/7444800/ello-optimized-6e248528.jpg)
+
+BY NAPISAĆ WIERSZ DADAISTYCZNY
+
+Weź gazetę.
+Weź jakieś nożyczki.
+Wybierz z gazety artykuł odpowiadający długości Twojego wiersza.
+Wytnij artykuł.
+Następnie uważnie wytnij każde słowo artykułu i wsyp wszystkie słowa do worka.
+Potrząśnij delikatnie.
+Następnie wyjmij kolejno powycinane z gazety słowa.
+Wiersz będzie podobny do Ciebie.
+I oto jesteś – nieskończenie oryginalny autor czarującej delikatności, choć niedoceniony przez wulgarne stado. 
+
+
+
+DADA jest dziewiczym drobnoustrojem
+DADA jest przeciwne wysokim kosztom życia
+DADA
+limitowana organizacja eksploatacji idei
+DADA ma 391 różnych postaw i kolorów nawiązujących do płci prezydenta
+Zmienia się – potwierdza – mówi coś przeciwnego w jednym czasie – żadnego znaczenia – krzyki – idzie na ryby.
+Dada jest kameleonem własnej gwałtownej zmiany.
+Dada jest przeciwko przyszłości. Dada nie żyje. Dada to absurd. Żyj długo Dada. Dada nie jest szkołą literacką, ryk
+
+Tristan Tzara
+
+XVI
+
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+ryk ryk ryk ryk ryk ryk ryk ryk
+Który nadal uznaje siebie za bardzo sympatycznego 
+Tristan Tzara
