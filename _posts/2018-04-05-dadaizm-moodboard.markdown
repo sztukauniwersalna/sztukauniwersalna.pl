@@ -64,3 +64,11 @@ ryk ryk ryk ryk ryk ryk ryk ryk
 ryk ryk ryk ryk ryk ryk ryk ryk
 Który nadal uznaje siebie za bardzo sympatycznego 
 Tristan Tzara
+
+![Zdjęcie przedstawia kserokopię tekstu. Widzimy czarne litery na białym tle.](https://assets1.ello.co/uploads/asset/attachment/7444805/ello-optimized-942c3b4d.jpg)
+![Zdjęcie przedstawia kserokopię tekstu. Widzimy czarne litery na białym tle i niezgrabny rysunek.](https://assets0.ello.co/uploads/asset/attachment/7444809/ello-optimized-fc228a56.jpg)
+
+
+
+-----------------------------------------------------
+*powyższe fragmenty pochodzą z manifestów dadaistycznych by Tristan Tzara. (tłumaczenie: Sztuka Uniwersalna)
