@@ -48,10 +48,7 @@ Wiosno przybywaj! Dość już zimowych wiatrów i szarej aury za oknem. Tak bard
 Shop My Choices
 
 * [Clochee ‘Soothing Antioxidant Toner’](https://kontigo.com.pl/lagodzacy-tonik-antyoksydacyjny-z-ekstraktem-z-zielonej-herbaty-i-z-milorzebu-japonskiego-250ml-clochee-6805.html)
-
 * [Matowa Pomadka Moov ‘ Muse’](https://kontigo.com.pl/plynna-pomadka-matowa-muse-dlugotrwaly-efekt-bez-przesuszania-kremowa-konstystencja-5884.html)
-
 * [Vogue Polska nr 2](http://www.empik.com/vogue-polska,p1181578737,prasa-p)
-
 * [Kwiatowa sukienka Stradivarius](https://www.stradivarius.com/pl/kobieta/ubrania/kolekcja/sukienki-i-kombinezony/zobacz-wszystkie/kopertowa-sukienka-w-kwiaty-z-paskami-c1020132510p300570017.html?colorId=001)
 
