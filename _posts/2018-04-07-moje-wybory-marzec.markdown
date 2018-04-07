@@ -42,3 +42,16 @@ Wiosno przybywaj! Dość już zimowych wiatrów i szarej aury za oknem. Tak bard
 
 ![Obraz przedstawia dwa zdjęcia modelki ubranej w długą sukienkę w kwiaty. Widzimy także fragment kapelusza, czerwone usta i siwe włosy.](https://assets1.ello.co/uploads/asset/attachment/7455651/ello-optimized-faae2c01.jpg)
 ![Obraz przedstawia dwa zdjęcia modelki ubranej w długą sukienkę w kwiaty.](https://assets2.ello.co/uploads/asset/attachment/7455652/ello-optimized-30f69ee6.jpg)
+
+--------------------
+
+Shop My Choices
+
+* [Clochee ‘Soothing Antioxidant Toner’](https://kontigo.com.pl/lagodzacy-tonik-antyoksydacyjny-z-ekstraktem-z-zielonej-herbaty-i-z-milorzebu-japonskiego-250ml-clochee-6805.html)
+
+* [Matowa Pomadka Moov ‘ Muse’](https://kontigo.com.pl/plynna-pomadka-matowa-muse-dlugotrwaly-efekt-bez-przesuszania-kremowa-konstystencja-5884.html)
+
+* [Vogue Polska nr 2](http://www.empik.com/vogue-polska,p1181578737,prasa-p)
+
+* [Kwiatowa sukienka Stradivarius](https://www.stradivarius.com/pl/kobieta/ubrania/kolekcja/sukienki-i-kombinezony/zobacz-wszystkie/kopertowa-sukienka-w-kwiaty-z-paskami-c1020132510p300570017.html?colorId=001)
+
