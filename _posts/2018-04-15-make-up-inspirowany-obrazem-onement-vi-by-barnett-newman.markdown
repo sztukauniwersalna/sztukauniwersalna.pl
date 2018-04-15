@@ -43,3 +43,11 @@ Tytuł ‘onement’ jest archaiczną odmianą słowa ‘atonement’ (ang. poku
 Podstawą aktu estetycznego jest czysta idea. Ale czysty pomysł jest z konieczności aktem estetycznym’, a o kształcie myślał, jak o żywym organizmie.
 
 ![Zdjęcie przedstawia portret młodej kobiety. Przez środek jej twarzy biegnie pionowa biała linia. Całość na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/7490319/ello-optimized-1f379a22.jpg)
+
+> Malarz jest choreografem przestrzeni
+> 
+> ~ Barnett Newman
+
+------------------
+
+Obraz, który stał się inspiracją do makijażu to ‘Onement VI’ z 1953 roku. W 2013 roku został sprzedany na aukcji za rekordową sumę 43,8 milionów dolarów.
