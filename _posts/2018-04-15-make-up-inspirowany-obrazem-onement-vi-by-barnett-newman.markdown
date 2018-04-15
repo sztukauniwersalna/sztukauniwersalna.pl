@@ -44,7 +44,7 @@ Podstawą aktu estetycznego jest czysta idea. Ale czysty pomysł jest z konieczn
 
 ![Zdjęcie przedstawia portret młodej kobiety. Przez środek jej twarzy biegnie pionowa biała linia. Całość na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/7490319/ello-optimized-1f379a22.jpg)
 
-> Malarz jest choreografem przestrzeni
+> Malarz jest choreografem przestrzeni.
 > 
 > ~ Barnett Newman
 
