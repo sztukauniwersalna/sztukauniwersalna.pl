@@ -33,3 +33,13 @@ Newman był amerykańskim artystą pochodzenia żydowskiego. Doświadczył spoko
 
 ‘Onement I’ został po raz pierwszy zaprezentowany szerszej publiczności w 1950 roku. Motyw ‘zamka błyskawicznego’ przecinającego płótno staje się znakiem rozpoznawczym prac Barnett’a. Linie przecinające powierzchnię płótna dzielą ją i scalają zarazem. Tak uporządkowana płaszczyzna działa na nas polem czystego, idealnie ‘położonego’ koloru. W tym celu artysta szukał odpowiedniej techniki od malarstwa olejnego, poprzez temperę i akryl. Aby uzyskać efekt idealnie równego pasma biegnącego przez środek naklejał na płótno taśmy, które zdejmował dopiero po zamalowaniu płaszczyzny. 
 
+![Obraz przedstawia zdjęcie kobiety z przechyloną głową. Przez jej twarz biegnie biała linia, a tło jest niebieskie. Po prawej stronie widzimy dwie niebieskie pionowe linie.](https://assets2.ello.co/uploads/asset/attachment/7490322/ello-optimized-14449a63.jpg)
+
+> (od momentu stworzenia ‘Onement'u w 1948 roku) od tamtej chwili jestem zmuszony zarzucić wszelki związek z naturą. Nie oznacza to jednak, że uważam, że moje prace są rachunkowe lub pozbawione z nią związku. Poprzez ‘naturę’ rozumiem coś bardzo swoistego. Myślę, że niektórzy abstrakcjoniści – np. Kandinsky – są w rzeczywistości malarzami natury. Jego trójkąty, czy koła mogą być butelkami, drzewami czy budynkami. Myślę, że wraz z ‘Euclydean Abyss' i 'Onement’em usunąłem się z natury, ale nie zniknąłem z życia.
+> 
+> ~ Interview, April 1965, edited for broadcasting by the BBC first published in 'The Listener', Aug. 1972; as quoted in Interviews with American Artists, by David Sylvester; Chatto & Windus, London 2001, p. 37
+
+Tytuł ‘onement’ jest archaiczną odmianą słowa ‘atonement’ (ang. pokuta), co zostało przetłumaczone jako ‘the state of being made into one’ (stan zjednoczenia w jedności (?)) Pozorne podziały mają na celu zjednać, zjednoczyć, wprowadzić w metafizyczną przestrzeń absolutu. Barnett wierzył, że jakiekolwiek znaczenie niesie za sobą dany obraz, powinno być ono dostrzeżone poprzez obserwację dzieła, a nie w trakcie dyskusji o nim. Wyznawał paradoks - ‘
+Podstawą aktu estetycznego jest czysta idea. Ale czysty pomysł jest z konieczności aktem estetycznym’, a o kształcie myślał, jak o żywym organizmie.
+
+![Zdjęcie przedstawia portret młodej kobiety. Przez środek jej twarzy biegnie pionowa biała linia. Całość na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/7490319/ello-optimized-1f379a22.jpg)
