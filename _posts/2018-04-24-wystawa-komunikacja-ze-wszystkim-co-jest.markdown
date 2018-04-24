@@ -35,4 +35,27 @@ Obrazy, obiekty, w pewnym sensie też instalacje. Artyści podczas pracy nad wys
 ![Zdjęcie przedstawia niewielkich formatów obrazki zawieszone na białej ścianie bardzo blisko podłogi.](https://assets0.ello.co/uploads/asset/attachment/7554349/ello-optimized-31c5645c.jpg)
 ![Obraz przedstawia dwa zdjęcia z obiektem artystycznym w postaci kolorowego popiersia.](https://assets0.ello.co/uploads/asset/attachment/7554332/ello-optimized-77c9d768.jpg)
 ![Zdjęcie przedstawia różne przedmioty ułożone obok siebie na podłodze, wszystko na tle białej ściany.](https://assets1.ello.co/uploads/asset/attachment/7554333/ello-optimized-52f46113.jpg)
-[Zdjęcie przedstawia różne ujęcia czapki z daszkiem pomalowanej kolorowymi farbami.](https://assets0.ello.co/uploads/asset/attachment/7554325/ello-optimized-a520f1d2.jpg)
+![Zdjęcie przedstawia różne ujęcia czapki z daszkiem pomalowanej kolorowymi farbami.](https://assets0.ello.co/uploads/asset/attachment/7554325/ello-optimized-a520f1d2.jpg)
+
+Ciekawym dla mnie doświadczeniem było zaobserwowanie trendów w malarstwie ‘Młodych’. Spotkamy się tutaj bowiem z głównymi tendencjami w malarstwie, które panują od jakiegoś czasu lub które właśnie się rodzą. Jednym z nich jest tzw. ‘malarstwo graficzne’, gdzie obraz (zazwyczaj starannie i czysto wykonany) zatraca faktyczne własności sztuki jaką jest malarstwo – fakturę farby, ślad pędzla, malarski gest. Cykl ‘Konstruktywizm bezrefleksyjny’ Stacha Szumskiego to moim zdaniem doskonały przykład ‘graficznego surrealizmu’. Absolwent Sztuki Mediów intryguje nas aerograficznymi formami ubranymi w akrylowe ramy. 
+
+![Obraz przedstawia dwa obrazy artysty. Jeden w tonacji różowej, drugi niebieskiej. Całość na białym tle.](https://assets0.ello.co/uploads/asset/attachment/7554330/ello-optimized-02bf80ca.jpg)
+
+Inną zaobserwowaną przeze mnie tendencją jest ‘kontrolowana brzydota’. Od pewnego (dłuższego już) czasu artyści zdają się nie dbać o warsztat. Staranne niegdyś wykonanie obrazu, który docelowo przetrwać miał parę ładnych wieków, zastępowane jest przez ‘niechlujne chlapanie na byle czym’. Pisząc ‘niechlujne’ na myśli mam nie tylko dobór mediów malarskich, ale też kolorów. Powtórzę tutaj słowo sprzed czterech zdań - ‘kontrolowana’. Artyście nie malują tak, bo nie potrafią inaczej, lecz malują tak z wyboru. Szukają (lub znaleźli) odpowiedni dla swoich idei sposób wyrazu. Odwrotną sytuację przedstawiają prace Radosława Szlęzaka. Brzydota objawia się tutaj nie w sposobie wykonania, lecz w treści dzieła sztuki. Radosław zmierza widza z prawdziwym obrazem ludzkiego ciała wykonując serię prac poświeconym ludzkim narządom, takim jak jelita na przykład.
+Wiele prac prezentowanych na wystawie odnosi się wprost do ludzkiego ciała. Oko maluje Karolina Jabłońska, Oko i Nos Cyryl Polaczek, a olbrzymi paznokieć to sprawka Tomasza Kręcickiego. 
+
+![Zdjęcie przedstawia obraz i obiekt. Na obrazie widzimy oko, a obiekt ma kształt zwierzęcia.](https://assets2.ello.co/uploads/asset/attachment/7554345/ello-optimized-3bb7c8f0.jpg)
+![Zdjęcie przedstawia kompozycję geometryczną w kolorach żółtych, czerwonych i różowych.](https://assets1.ello.co/uploads/asset/attachment/7554342/ello-optimized-cd2a6c1f.jpg)
+![Zdjęcie przedstawia obraz znanego artysty zawieszony na białej ścianie.](https://assets0.ello.co/uploads/asset/attachment/7554355/ello-optimized-367f5078.jpg)
+![Zdjęcie przedstawia trzy obrazy różnych formatów zawieszone na białej ścianie.](https://assets2.ello.co/uploads/asset/attachment/7554356/ello-optimized-918d4c73.jpg)
+![Zdjęcie przedstawia malutkiej wielkości oko ludzkie na czerwonym tle.](https://assets1.ello.co/uploads/asset/attachment/7554357/ello-optimized-eb232dad.jpg)
+![Zdjęcie przedstawia leżący na podłodze obiekt podobny do ludzkiego jelita, zakończony gałką oczną.](https://assets2.ello.co/uploads/asset/attachment/7554359/ello-optimized-21d29af9.jpg)
+
+## Jak?
+
+Zacznijcie zwiedzać z otwartym umysłem. Pozwólcie obrazom oddziaływać na Was i nie pozostańcie dłużni. Zadawajcie pytania, drążcie temat, szukajcie podobieństw, różnic, połączeń pomiędzy pracami. Może któreś z nich przywołają na myśl wspomnienia, może dzięki nim urodzą się nowe idee. Jak głosi Teza nr 6: „Wszechświat jest niewyobrażalnie ogromny”, a „Kontekst nigdy nie jest domknięty” (Teza nr 32). Lecz najlepiej określającą wystawę ‘Komunikacja ze wszystkim, co jest’, zdaje się być Teza nr 64: „W prawo czy w lewo?”.*
+---------------------
+
+* Tezy pochodzą z tekstu towarzyszącemu wystawie – autor: Łukasz Zawada.
+
+
