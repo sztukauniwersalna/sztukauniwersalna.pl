@@ -53,11 +53,11 @@ Wiele prac prezentowanych na wystawie odnosi się wprost do ludzkiego ciała. Ok
 
 ## Jak?
 
-Zacznijcie zwiedzać z otwartym umysłem. Pozwólcie obrazom oddziaływać na Was i nie pozostańcie dłużni. Zadawajcie pytania, drążcie temat, szukajcie podobieństw, różnic, połączeń pomiędzy pracami. Może któreś z nich przywołają na myśl wspomnienia, może dzięki nim urodzą się nowe idee. Jak głosi Teza nr 6: „Wszechświat jest niewyobrażalnie ogromny”, a „Kontekst nigdy nie jest domknięty” (Teza nr 32). Lecz najlepiej określającą wystawę ‘Komunikacja ze wszystkim, co jest’, zdaje się być Teza nr 64: „W prawo czy w lewo?”.*
+Zacznijcie zwiedzać z otwartym umysłem. Pozwólcie obrazom oddziaływać na Was i nie pozostańcie dłużni. Zadawajcie pytania, drążcie temat, szukajcie podobieństw, różnic, połączeń pomiędzy pracami. Może któreś z nich przywołają na myśl wspomnienia, może dzięki nim urodzą się nowe idee. Jak głosi Teza nr 6: „Wszechświat jest niewyobrażalnie ogromny”, a „Kontekst nigdy nie jest domknięty” (Teza nr 32). Lecz najlepiej określającą wystawę ‘Komunikacja ze wszystkim, co jest’, zdaje się być Teza nr 64: „W prawo czy w lewo?”.
 
 -------------------
 
-* Tezy pochodzą z tekstu towarzyszącemu wystawie – autor: Łukasz Zawada.
+Tezy pochodzą z tekstu towarzyszącemu wystawie – autor: Łukasz Zawada.
 
 ![Zdjęcie przedstawia bardzo kolorowy obraz artysty.](https://assets1.ello.co/uploads/asset/attachment/7554364/ello-optimized-bc9672fb.jpg)
 ![Zdjęcie przedstawia obraz, na którym namalowana jest gigantyczna żarówka, oraz lampkę leżącą na podłodze, która rzuca cień w kształcie ręki.](https://assets2.ello.co/uploads/asset/attachment/7554353/ello-optimized-46143f33.jpg)
