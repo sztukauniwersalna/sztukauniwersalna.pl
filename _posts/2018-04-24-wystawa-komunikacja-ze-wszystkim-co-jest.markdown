@@ -58,4 +58,12 @@ Zacznijcie zwiedzać z otwartym umysłem. Pozwólcie obrazom oddziaływać na Wa
 
 * Tezy pochodzą z tekstu towarzyszącemu wystawie – autor: Łukasz Zawada.
 
+![Zdjęcie przedstawia bardzo kolorowy obraz artysty.](https://assets1.ello.co/uploads/asset/attachment/7554364/ello-optimized-bc9672fb.jpg)
+![Zdjęcie przedstawia obraz, na którym namalowana jest gigantyczna żarówka, oraz lampkę leżącą na podłodze, która rzuca cień w kształcie ręki.](https://assets2.ello.co/uploads/asset/attachment/7554353/ello-optimized-46143f33.jpg)
+![Zdjęcie przedstawia obraz w ciemnej tonacji wiszący na białej ścianie.](https://assets2.ello.co/uploads/asset/attachment/7554337/ello-optimized-406a12f3.jpg)
+![Obraz przedstawia dwa ujęcia pracy znanej artystki.](https://assets0.ello.co/uploads/asset/attachment/7554329/ello-optimized-fcc4f9c5.jpg)
 
+Wystawa trwa od 14.04.2018 r. do 16.06.2018 r. i można jej doświadczyć od wtorku do piątku w godz. 11:00-19:00, oraz w soboty od 11:00 do 17:00.
+* Wstęp na wystawę jest bezpłatny
+* Fundacja Stefana Gierowskiego; ul. Kredytowa 9, 00-056 Warszawa
+* [fundacjagierowskiego.pl](http://fundacjagierowskiego.pl/)
