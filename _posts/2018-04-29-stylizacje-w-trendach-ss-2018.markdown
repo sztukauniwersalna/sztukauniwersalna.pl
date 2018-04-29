@@ -1,5 +1,5 @@
 ---
-title: Stylizacje w trendach SS 2018
+title: Stylizacje w trendach spring/summer_2018
 date: 2018-04-29 18:43:00 +02:00
 categories:
 - Sztuka Ubioru
