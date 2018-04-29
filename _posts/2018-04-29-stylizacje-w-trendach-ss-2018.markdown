@@ -39,4 +39,4 @@ Spódnicę 7/8 w kolorowe pasy (w nieco folkowym wydaniu) zestawiam z białą ko
 ![Zdjęcie przedstawia sylwetkę kobiety w kolorowej spódnicy i białej bluzce. Kobieta ma długie warkocze.]
 (https://assets1.ello.co/uploads/asset/attachment/7579938/ello-optimized-5e54ddcc.jpg)
 ![Zdjęcie przedstawia kobietę w białej bluzce, która trzyma białą torebkę. Dookoła widzimy graficzne elementy.](https://assets1.ello.co/uploads/asset/attachment/7579939/ello-optimized-20986894.jpg)
-![Zdjęcie przedstawia kobietę w warkoczach w ](https://assets0.ello.co/uploads/asset/attachment/7579941/ello-optimized-573ea86c.jpg)
+![Zdjęcie przedstawia kobietę w warkoczach w nienaturalnej pozie. Dookoła widzimy graficzne elementy.](https://assets0.ello.co/uploads/asset/attachment/7579941/ello-optimized-573ea86c.jpg)
