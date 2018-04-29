@@ -55,4 +55,5 @@ Te spodnie to mój HIT! Wygodne, bawełniane ‘paper bag’ w najmodniejsze poz
 ---------------------
 
 stylizacja, zdjęcia, retusz, makijaż: Sztuka Uniwersalna
+
 fryzura: Miriam Czakon @czeszesie
