@@ -36,8 +36,7 @@ Zdecydowanie uwielbiam odważne połączenia. W tym zestawieniu bawię się tren
 
 Spódnicę 7/8 w kolorowe pasy (w nieco folkowym wydaniu) zestawiam z białą koszulą z falbanami przy rękawach. Do tego srebrne klapki w typie ‘mules’ (ten rodzaj buta wywodzi się z XVI wieku, kiedy to stanowił rodzaj ‘kapci’, obuwia noszonego tylko i wyłącznie w domu) i torebka na łańcuszku. Nieoczywista klasyka na co dzień i od święta.
 
-![Zdjęcie przedstawia sylwetkę kobiety w kolorowej spódnicy i białej bluzce. Kobieta ma długie warkocze.]
-(https://assets1.ello.co/uploads/asset/attachment/7579938/ello-optimized-5e54ddcc.jpg)
+![Zdjęcie przedstawia sylwetkę kobiety w kolorowej spódnicy i białej bluzce. Kobieta ma długie warkocze i srebrne buty.](https://assets1.ello.co/uploads/asset/attachment/7579938/ello-optimized-5e54ddcc.jpg)
 ![Zdjęcie przedstawia kobietę w białej bluzce, która trzyma białą torebkę. Dookoła widzimy graficzne elementy.](https://assets1.ello.co/uploads/asset/attachment/7579939/ello-optimized-20986894.jpg)
 ![Zdjęcie przedstawia kobietę w warkoczach w nienaturalnej pozie. Dookoła widzimy graficzne elementy.](https://assets0.ello.co/uploads/asset/attachment/7579941/ello-optimized-573ea86c.jpg)
 
