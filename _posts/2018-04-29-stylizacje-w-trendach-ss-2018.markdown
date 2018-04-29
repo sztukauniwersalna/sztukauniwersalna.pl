@@ -40,3 +40,20 @@ Spódnicę 7/8 w kolorowe pasy (w nieco folkowym wydaniu) zestawiam z białą ko
 (https://assets1.ello.co/uploads/asset/attachment/7579938/ello-optimized-5e54ddcc.jpg)
 ![Zdjęcie przedstawia kobietę w białej bluzce, która trzyma białą torebkę. Dookoła widzimy graficzne elementy.](https://assets1.ello.co/uploads/asset/attachment/7579939/ello-optimized-20986894.jpg)
 ![Zdjęcie przedstawia kobietę w warkoczach w nienaturalnej pozie. Dookoła widzimy graficzne elementy.](https://assets0.ello.co/uploads/asset/attachment/7579941/ello-optimized-573ea86c.jpg)
+
+* Spódnica: Stradivarius; koszula: Zara; buty: Mango; torebka: Sabrina Pilewicz (model Palermo); kolczyki: Stradivarius
+
+## Casual Stripes
+
+Te spodnie to mój HIT! Wygodne, bawełniane ‘paper bag’ w najmodniejsze poziome paski. Optycznie wydłużają nogi. Do tego wystarczy t-shirt w jednym kolorze (u mnie pastelowy fiolet) lub z charakterystycznym logo (logomania nadal w trendach!). Dla przełamania delikatnej całości dopełniam stylizację bogato zdobioną drapieżną torebką niczym od Versace.
+
+![Obraz przedstawia dwa zdjęcia kobiety w spodniach w paski i fioletowej koszulce. Zdjęcie z lewej strony przedstawia mniejszej wielkości kadr.](https://assets2.ello.co/uploads/asset/attachment/7579942/ello-optimized-f1b76316.jpg)
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy profil kobiety w warkoczach, z prawej sylwetkę kobiety w spodniach w paski, fioletowej koszulce z torebką w ręce.](https://assets0.ello.co/uploads/asset/attachment/7579944/ello-optimized-0e3977f2.jpg)
+![Zdjęcie przedstawia kobietę w nienaturalnej pozie. Kobieta ma na sobie spodnie w paski i jasno-fioletową koszulkę.](https://assets2.ello.co/uploads/asset/attachment/7579945/ello-optimized-5d3cb628.jpg)
+
+* Spodnie: Stradivarius; T-shirt: Reserved; torebka: River Island; zegarek: Timex; kolczyki: Stradivarius
+
+---------------------
+
+stylizacja, zdjęcia, retusz, makijaż: Sztuka Uniwersalna
+fryzura: Miriam Czakon @czeszesie
