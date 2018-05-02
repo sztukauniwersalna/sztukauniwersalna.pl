@@ -46,5 +46,6 @@ Lily (główna bohaterka) nadal nie może pogodzić się ze stratą męża, cho�
 
 O spodniach ‘paperbag’ w pasy wspominałam już w poście ze [stylizacjami spring/summer 2018](http://sztukauniwersalna.pl/2018-04-29-stylizacje-w-trendach-ss-2018). Tego typu spodnie to niesamowicie wygodny fason, który optycznie ‘wyciąga sylwetkę’. Warto dodatkowo założyć do nich buty na wysokim obcasie. Spodnie wykonane są w 100% (o dziwo!) z bawełny, co jest dodatkowym plusem w trakcie plusowych temperatur. Koszulę wkładamy w spodnie, nonszalancko ją drapując lub zakładamy krótki t-shirt, który również znajdziecie w Stradivarius. Komfort nadal w trendach. 
 
-
+![Obraz przedstawia zdjęcie spodni w paski na białym tle, oraz zdjęcie kobiety w tych spodniach, fioletowej koszulce. Kobieta patrzy w dół.](https://assets1.ello.co/uploads/asset/attachment/7599958/ello-optimized-edf71008.jpg)
+![Obraz przedstawia dwa zdjęcia kobiety w spodniach w paski, fioletowej koszulce z czarno-złotą torebką. Kobieta przybiera różne pozy.](https://assets2.ello.co/uploads/asset/attachment/7599962/ello-optimized-e6dacdc8.jpg)
 
