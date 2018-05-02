@@ -49,3 +49,10 @@ O spodniach ‘paperbag’ w pasy wspominałam już w poście ze [stylizacjami s
 ![Obraz przedstawia zdjęcie spodni w paski na białym tle, oraz zdjęcie kobiety w tych spodniach, fioletowej koszulce. Kobieta patrzy w dół.](https://assets1.ello.co/uploads/asset/attachment/7599958/ello-optimized-edf71008.jpg)
 ![Obraz przedstawia dwa zdjęcia kobiety w spodniach w paski, fioletowej koszulce z czarno-złotą torebką. Kobieta przybiera różne pozy.](https://assets2.ello.co/uploads/asset/attachment/7599962/ello-optimized-e6dacdc8.jpg)
 
+Shop My Choices
+
+* [Róż prasowany SinSkin 012 Tender](https://www.rossmann.pl/Produkt/SINSKIN-MustHave-roz-spiekany-012-Tender-9-g,419824,7169)
+* [Animal BB Cream Skin79](https://skin79-sklep.pl/category/441-kremy-bb)
+* [Abbi Waxman 'Ogród małych kroków'](http://www.taniaksiazka.pl/ogrod-malych-krokow-abbi-waxman-p-862093.html)
+* [spodnie z wysokim stanem typu 'paperbag'](https://www.stradivarius.com/pl/kobieta/ubrania/kolekcja/spodnie/zobacz-wszystkie/spodnie-paperbag-z-wysokim-stanem-c1020047051p300601533.html?colorId=010)
+
