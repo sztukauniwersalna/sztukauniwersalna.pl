@@ -20,10 +20,31 @@ tags:
 Wiosna to czas, kiedy wszystko budzi się do życia. Dla mnie słowo ‘świeżość’ doskonale opisuje ten moment w roku. Zielone liście, pierwsze kwiaty, poranna rosa. Dlatego też w tym czasie chcę także, aby mój codzienny makijaż odzwierciedlał stan przyrody. Nie nakładam na siebie grubej warstwy ‘tapety’. Na policzki wystarczy odrobina chłodnego różu, który tworzy efekt dziewczęcego, ‘świeżego rumieńca’. Aby wyznaczyć miejsca, na które najlepiej go nałożyć, wystarczy się uśmiechnąć – podniesiony obszar policzka to właśnie odpowiednie miejsce na róż.
 </olela-narrative>
 
+## Kosmetyk: kolorówka
+
+Długo szukałam różu w chłodnym pastelowym odcieniu. Marce SinSkin przyglądałam się przy okazji każdych zakupów w drogerii, ale minęło sporo czasu zanim zdecydowałam się na zakup. Róż prasowany w odcieniu 012 Tender to jeden z czterech odcieni jaki mamy do wyboru. Jego konsystencję nazwałabym suchą satyną, dodatkowo (jako jedyny z czwórki) posiada mini-drobinki, które dodatkowo rozświetlają cerę. Wystarczy naprawdę odrobina, aby stworzyć efekt cudownego rumieńca. Możecie także użyć go na powieki, w celu zrównoważenia chłodnych tonów makijażu. Taki zabieg ‘uspójnia’ look, sprawia, że całość łączy się ze sobą. SinSkin posiada w swojej ofercie również róże spiekane, które dają o wiele bardziej rozświetlające wykończenie. Można stosować je również na mokro. Może następnym razem skuszę się na tę formułę.
+
+![Zdjęcie przedstawia różne przedmioty: róż do policzków, okulary przeciwsłoneczne, kolczyki na różowo-czerwonym tle.](https://assets2.ello.co/uploads/asset/attachment/7599954/ello-optimized-429f11af.jpg)
+![Obraz przedstawia dwa zdjęcia różnych przedmiotów ułożonych na różowym tle. Dodatkowo w otoczeniu graficznych elementów.](https://assets2.ello.co/uploads/asset/attachment/7599957/ello-optimized-9e856f4c.jpg)
+
+## Kosmetyk: pielęgnacja
+
+Krem BB marki Skin79 z serii Animal to inteligentne połączenie kemu pielęgnacyjnego, podkładu i ochrony UV. W serii dostępne są trzy warianty – panda, kot i małpka. Małpka ma działanie silnie nawilżające i jej kolor jest najciemniejszym beżem w serii. Kotek idealnie wygładza skórę i moim zdaniem jego odcień jest najbardziej zbliżony do większości europejskich karnacji. Idealnie wtapia się w skórę. Panda to wersja najjaśniejsza i jednocześnie rozjaśniająca. Będzie idealna dla bardzo jasnych typów skóry z żółtym zabarwieniem. Dobrym sposobem jest też nakładanie pandy w miejsca twarzy, które chcemy rozświetlić (dokładnie w ten sposób, w jaki używacie korektora), a kota lub małpki na resztę powierzchni skóry. Wszystkie kremy posiadają wysokie filtry przeciwsłoneczne (SPF50+ PA+++), a jak pisałam we wstępie ochrona przed promieniowaniem słonecznym jest niesamowicie istotna, szczególnie wiosną i latem. Osobiście jestem zakochana w samym produkcie, jak i w formie jego opakowania. Słodkie zwierzaczki niezastąpione w kwietniu!
+PS W zależności od sposobu nakładania (dłonie, gąbeczka, pędzel) zwierzaczki zachowują się jak podkład (możemy budować krycie) lub jak krem. Spróbujcie, który wygląd pasuje do Was.
+
+![Zdjęcie przedstawia dwie tubki kosmetyku na różowo-zielonym tle.](https://assets1.ello.co/uploads/asset/attachment/7599950/ello-optimized-acd43f50.jpg)
+![Obraz przedstawia zdjęcia kosmetyków w różowych i zielonych opakowaniach na różowo-zielonym tle.](https://assets2.ello.co/uploads/asset/attachment/7599952/ello-optimized-d2ac2a89.jpg)
+
 ## Lektura
 
 Lily (główna bohaterka) nadal nie może pogodzić się ze stratą męża, choć od jego śmierci minęły trzy lata. Samotnie wychowuje wspaniałe córki. Jej wewnętrzna walka z tęsknotą przeplata się ze scenami z życia kobiet, takich jak my – zmagających się z codziennymi obowiązkami, singielek, matek, kobiet, które krytycznym okiem spoglądają na coraz to większe worki pod oczami. Lily pracuje jako ilustratorka w małym wydawnictwie. Pewnego dnia dostaje zlecenie  na ilustracje do przewodnika o warzywach i... zaczyna się przygoda. Lily dostaje się na kurs ogrodniczy, powoli poznaje świat roślin i zaczyna doceniać piękno życia. Krótkie rozdziały przeplatane są stronami ‘przepisami’ na uprawę poszczególnych gatunków warzyw. Świetna pozycja dla osób, które szykują się do wiosennej pielęgnacji roślin, czy to na balkonie, w domu, czy na działce. Wciągająca powieść i przewodnik ogrodniczy w jednym. Polecam kobieco.
 
 ![Zdjęcie przedstawia książkę w otoczeniu kwiatów bzu. Całość na zielonym tle.](https://assets1.ello.co/uploads/asset/attachment/7599945/ello-optimized-81a8541f.jpg)
 ![Obraz przedstawia dwa zdjęcia książki w otoczeniu kwiatów.](https://assets0.ello.co/uploads/asset/attachment/7599946/ello-optimized-bc7008cd.jpg)
+
+## Garderoba
+
+O spodniach ‘paperbag’ w pasy wspominałam już w poście ze [stylizacjami spring/summer 2018](http://sztukauniwersalna.pl/2018-04-29-stylizacje-w-trendach-ss-2018). Tego typu spodnie to niesamowicie wygodny fason, który optycznie ‘wyciąga sylwetkę’. Warto dodatkowo założyć do nich buty na wysokim obcasie. Spodnie wykonane są w 100% (o dziwo!) z bawełny, co jest dodatkowym plusem w trakcie plusowych temperatur. Koszulę wkładamy w spodnie, nonszalancko ją drapując lub zakładamy krótki t-shirt, który również znajdziecie w Stradivarius. Komfort nadal w trendach. 
+
+
 
