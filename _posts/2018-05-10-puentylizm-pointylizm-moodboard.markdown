@@ -11,6 +11,8 @@ tags:
 - art
 ---
 
+Puentylizm lub pointylizm (fr. pointiller – kropkować, punktować) jest metodą twórczą powstałą pod koniec XIX wieku. Za jej twórcę przyjmuje się  Georges Seurat'a, francuskiego przedstawiciela neoimpresjonizmu. Kompozycja puentylistyczna budowana jest za pomocą kropek, małych plamek kładzionych na powierzchnię płótna czubkiem pędzla. Czasami plamki przyjmują formę kwadratów, prostokątów, nabierają faktury. Obraz postały w tej technice zdaje się 'budować' dopiero po odpowiednim oddaleniu się od niego. Technika puentylizmu stanowi w pewien sposób rozwinięcie dywizjonizmu. Efekt wynikający z ograniczenia palety barw do jedynie 'czystych' kolorów stanowi o 'świetlistości', wibracji plam oglądanych z odpowiedniej odległości.
+
 ![Obraz przedstawia pięć fotografii na zielonym tle. Widzimy portret kobiety w kolorowym makijażu, obraz znanego artysty, ludzkie postaci.](https://assets1.ello.co/uploads/asset/attachment/7655534/ello-optimized-a584038f.jpg)
 ![Obraz przedstawia dwa zdjęcia dzieł znanych artystów na zielonym tle.](https://assets1.ello.co/uploads/asset/attachment/7655537/ello-optimized-dcfa03fe.jpg)
 ![Obraz przedstawia trzy zdjęcia na zielonym tle. Widzimy fragmenty ubrań i obraz znanego artysty.](https://assets1.ello.co/uploads/asset/attachment/7655543/ello-optimized-06926b1d.jpg)
