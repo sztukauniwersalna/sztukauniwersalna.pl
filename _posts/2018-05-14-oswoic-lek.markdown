@@ -12,7 +12,7 @@ tags:
 - makijaż
 ---
 
-![Zdjęcie przedstawia zbliżenie na oko. Na skórze widzimy fioletowe kreski.](https://assets2.ello.co/uploads/asset/attachment/7672904/ello-optimized-d358e42d.jpg)
+![Zdjęcie przedstawia zbliżenie na oko. Na skórze widzimy fioletowe kreski.](https://assets0.ello.co/uploads/asset/attachment/7673036/ello-optimized-ee7ee412.jpg)
 
 <olela-narrative>
 Ostatnio dość często ją spotykam. W porannej drodze do łazienki towarzyszy mi jej chłodny oddech. Przy lustrze, kiedy wklepuję delikatnie jedną emulsję za drugą, wygląda ukradkiem zza moich pleców. Zapewne myślicie, że ze sobą nie rozmawiamy. O nie… próbowałyśmy nie raz, nie dwa. W trakcie naszego niezbyt długiego dialogu musiałam zaprzyjaźnić się ze słownikiem i wyszukiwać znaczeń coraz to bardziej wysublimowanych epitetów. Ona zdaje się być przybyszem z planety erudytów lub jest po prostu bardzo dojrzała i świadoma. Nie wiem… Martwię się, że nigdy nie stanę się tak dojrzałą kobietą, że zawsze będzie we mnie dziecko, ale nie to słodkie, na widok którego gigil’ujemy (słowo pochodzenia filipińskiego oznaczające ‘pieszczenie’ się, w szczególności na widok małych dzieci lub piesków), tylko ‘gówniara’, która wszystko wie lepiej i nikogo nie słucha (w szczególności własnej mamy). Obawiam się, kiedy patrzę na te wszystkie 20-latki, które właśnie kupiły nowe mieszkania w centrum Warszawy… Obawiam się o siebie, że będę się z nią widywać coraz częściej i że chcąc, nie chcąc będziemy musiały dojść do porozumienia. A powiem Wam w tajemnicy, że jej nie lubię.
@@ -20,7 +20,7 @@ Ostatnio dość często ją spotykam. W porannej drodze do łazienki towarzyszy 
 
 ![Obraz przedstawia dwa zdjęcia twarzy. Na twarzy narysowane są fioletowe linie przerywane.](https://assets2.ello.co/uploads/asset/attachment/7672896/ello-optimized-57f86fe1.jpg)
 
-## Przymierzalnia
+## Changing room
 
 Wybieram się na zakupy. Potrzebuję paru zwykłych-niezwykłych t-shirtów, pary klasycznych spodni i butów. Tak, wybieram się na ‘shopping’. Jeśli spodoba mi się coś, co nie wchodzi w skład bawełny widniejącej na liście, mam zamiar to nabyć. Może będą to koronkowe stringi, albo naszyjnik z diamentami – mam ochotę zaszaleć. Wchodząc do pierwszego sklepu mieszczącego się na bardzo modnej uliczce zauważam solidnie skrojone spodnie o fasonie cygaretek. Proszę Panią sprzedawczynię o mój rozmiar – S (36). Przymierzalnia prezentuje się równie przyjemnie, co idealny uśmiech ekspedientki. Zaczynam się rozbierać. Nagle zauważam w lustrze, że ktoś uchylił kotarę i przygląda mi się.<br/>
 &mdash; Aaa! Co Ty tu robisz?! Wystraszyłaś mnie! - krzyknęłam odruchowo.<br/>
@@ -28,7 +28,7 @@ Oczywiście ona nic nie odpowiedziała. Stała tak nadal przyglądając się moj
 
 ![Obraz przedstawia dwa zdjęcia twarzy, na której narysowane są fioletowe linie przerywane. Jedno zdjęcie jest mniejsze i przedstawia zbliżenie na oko.](https://assets0.ello.co/uploads/asset/attachment/7672897/ello-optimized-714844a2.jpg)
 
-## Impreza
+## Party
 
 Dzisiaj piątek. Kto nie pracuje na etacie w korporacji nigdy nie zrozumie jakim dniem jest piątek. Piątek to dzień szczęśliwy, bowiem w piątki odlicza się sekundy do startu upragnionego weekendu. Piątek to dzień radosny, bo po tygodniu harówy można, a wręcz wypada wyrwać się wieczorem ze znajomymi ‘na miasto’. No i ja się wyrywam i rozrywam w domu jednej z przyjaciółek. Posiedzimy, pogadamy, napijemy się wina, a jeśli najdzie nas ochota i nagły przypływ młodzieńczej energii wyjdziemy do klubu. Natalia mieszka w śródmieściu w modernistycznej kawalerce. Mieszkanie urządzone jest schludnie, ze smakiem. Białe ściany uspokajają wiszące na nich kolorowe zdjęcia w ramkach, a zielone paprotki przypominają czasy szkolnych ławek. Rozpoczynamy klasycznie od lampki białego wina z lodem.<br/>
 &mdash; Ja nie rozumiem fenomenu tej całej Z*** (nick pewnej sławnej youtube’rki). Siedzi to dziewczę na tle tych brokatowych teł z aliexpress i pacia swoją jeszcze młodą skórę specyfikami dla starych bab. No nazwijmy rzeczy po imieniu – dla starych bab no i już. I, że niby to ma mnie zachęcić do kupna takiego kremiku, czy sztyfciku, co cuda zdziała, tylko że jak się ma te naście to wszystko działa, bo cudem jest już samo naście. No źle mówię? Poprawcie mnie dziewczyny, jeśli źle mówię – zaczyna swój monolog gospodyni m2.
@@ -46,4 +46,4 @@ Odwróciłam się gwałtownie. Stanęłyśmy naprzeciw siebie w milczeniu. Wyci�
 &mdash; Witaj. Intuicja podpowiada mi, że zostaniemy przyjaciółkami.
 Od tej chwili zaczęłyśmy współpracować. Nastała cisza.
 
-![Zdjęcie jest czarno-białe i przedstawia fragment twarzy, na której widzimy namalowaną linię przerywaną.](https://assets2.ello.co/uploads/asset/attachment/7672901/ello-optimized-7d2647e4.jpg)
+![Zdjęcie jest czarno-białe i przedstawia fragment twarzy, na której widzimy namalowaną linię przerywaną.](https://assets2.ello.co/uploads/asset/attachment/7673037/ello-optimized-53092aaa.jpg)
