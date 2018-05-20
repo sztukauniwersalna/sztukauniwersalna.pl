@@ -1,6 +1,16 @@
 ---
 title: 'O kolorach: Róż'
 date: 2018-05-20 12:22:00 +02:00
+categories:
+- Sztuka dla Sztuki
+tags:
+- kolor
+- róż
+- różowy
+- pink
+- marilyn monroe
+- elsa schiaparelli
+- picasso
 ---
 
 Róż atakuje nas z każdej możliwej strony. Różowe są reklamy zabawek dla dziewczynek (0,5 – 18 lat), różowe są lakiery do paznokci, koronkowe majtki, a ostatnio także farby do włosów. Dlaczego właśnie ten kolor tak mocno przylgnął do płci pięknej i czy mężczyzna w różowej koszuli jest passé? W zakładach karnych w Teksasie i Arizonie ściany cel pomalowane są na różowo, a więźniowie noszą uniform’y w tym właśnie słodkim kolorze. Dlaczego? Podobno róż wycisza agresję… Z kolei pewne miasto we wschodnich Indiach ma zostać w całości pomalowane na różowo, gdyż większość mieszkańców cierpi tam na depresję. Jakże magiczne właściwości posiada róż! Jadąc na wieś do rodziny zawsze zastanawiałam się, dlaczego cała izba pomalowana jest na wstrętny odcień różu. Dowiedziałam się od prababci. Staropolskie przesądy mówią, że różowego boją się pająki, a wieś jak to wieś – żyje w zgodzie z naturą. Może wiec róż, z natury, niektórych odstraszy, niektórych przyciągnie. Dobrze jednak, jeśli przyciąga z rozsądkiem.
