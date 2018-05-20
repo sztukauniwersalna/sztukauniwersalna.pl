@@ -2,7 +2,7 @@
 title: 'O kolorach: Róż'
 date: 2018-05-20 12:22:00 +02:00
 categories:
-- Sztuka dla Sztuki
+- Sztuka Makijażu
 tags:
 - kolor
 - róż
