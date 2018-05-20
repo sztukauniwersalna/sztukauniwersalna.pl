@@ -32,3 +32,7 @@ Współczesny świat mocno przykleił kolor różowy do wizerunku kobiety. Umiej
 * [źródło tekstu](http://www.iwonademko.art.pl/rzezba/waginatyzm/waginatyzm_tekst.html)
 
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy leżące różowe majtki na drewnianej podłodze, a z prawej twarz kobiety oświetloną różowym światłem.](https://assets0.ello.co/uploads/asset/attachment/7700419/ello-optimized-29ae42d3.jpg)
+
+## Ostry Róż
+
+W filmie pt.: „Mężczyźni wolą blondynki” Marilyn Monroe ma na sobie satynową suknię w kolorze ostrego różu. Sukienka zaprojektowana przez William’a Travilla przeszła do historii popkultury między innymi ze względu na swój… szokujący (w tamtych czasach) kolor. Trzydzieści lat później w identycznej kreacji pojawia się Madonna w teledysku ‘Material Girl’ (lata 90-te). Firma Mattel produkuje lalkę Barbie na wzór Marilyn w różowej sukience, a w grze komputerowej ‘The Sims: Superstar’ spotykamy się gwiazdą blondu właśnie w tej kreacji. Okazuje się jednak, że róż w tym odcieniu pojawił się u projektantów na długo przed słynną sceną. Elsa Schiaparelli uznawała kolor różowy za ‘dający życie’. Mówiła o nim, że jest ‘jak całe światło, wszystkie ptaki i ryby razem połączone’. W 1937 roku wydaje perfumy o nazwie ‘Shocking’, a zapach zamknięty jest w pudełko w kolorze odpowiadającym nazwie… Elsa umiejętnie łączyła róż ze złotem i czernią, nadając kreacjom charakteru. Ostry róż, czy ‘shocking pink’ jest (i pozostanie na zawsze) jej kolorem.
