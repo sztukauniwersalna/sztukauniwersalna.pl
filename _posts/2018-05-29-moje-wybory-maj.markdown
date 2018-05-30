@@ -33,5 +33,16 @@ Warto poświęcić dłuższą chwilę na oczyszczanie skóry twarzy. Często wyd
 
 ## Kosmetyk: kolorówka
 
-Co tu dużo mówić… Paleta cieni od Kat Von D jest po prostu wspaniała. Za złotym okryciem kryje się istna magia kolorów. Szesnaście cieni o niesamowitej pigmentacji i damskich imionach budzi kreatywność. Ich kolory są dobrane tak, aby można było dzięki nim stworzyć dzienny make-up lub bardziej sceniczne charakteryzacje. W limitowanej edycji znalazła się jeszcze pomadka z serii ‘studded kiss lipstick’ (oczywiście w złotym opakowaniu), rozświetlacz, liner, pomadka w płynie, zestaw pędzli oraz kuferek. Pomadka, którą widzicie na zdjęciach to odcień Lolita ze standardowej kolekcji studded kiss. Odcień terra cotta pasuje do większości typów urody. 
+Co tu dużo mówić… Paleta cieni od Kat Von D jest po prostu wspaniała. Za złotym okryciem kryje się istna magia kolorów. Szesnaście cieni o niesamowitej pigmentacji i damskich imionach budzi kreatywność. Ich kolory są dobrane tak, aby można było dzięki nim stworzyć dzienny make-up lub bardziej sceniczne charakteryzacje. W limitowanej edycji znalazła się jeszcze pomadka z serii ‘studded kiss lipstick’ (oczywiście w złotym opakowaniu), rozświetlacz, liner, pomadka w płynie, zestaw pędzli oraz kuferek. Pomadka, którą widzicie na zdjęciach to odcień Lolita ze standardowej kolekcji studded kiss. Odcień terra cotta pasuje do większości typów urody.
+
+![Zdjęcie jest bardzo ciemne i przedstawia pomadkę do ust.](https://assets1.ello.co/uploads/asset/attachment/7746690/ello-optimized-651cf0be.jpg)
+![Obraz przedstawia dwa zdjęcia złotych pudełek z napisami.](https://assets1.ello.co/uploads/asset/attachment/7746683/ello-optimized-0085f803.jpg)
+![Zdjęcie przedstawia paletę cieni do makijażu oczu. Dookoła zdjęcia widzimy ramkę.](https://assets2.ello.co/uploads/asset/attachment/7746684/ello-optimized-d6bda022.jpg)
+![Zdjęcie przedstawia paletę cieni do malowania oczu, całość zdjęcia w ciemnej kolorystyce.](https://assets0.ello.co/uploads/asset/attachment/7746688/ello-optimized-14bf8ae7.jpg)
+
+## Garderoba
+
+Podobno maj jest czasem zakładania sandałków. Hmm… U mnie do łask wróciły botki kupione w zeszłym roku na wyprzedaży w Zarze w jakże pięknym amarantowym kolorze. Wbrew stereotypom lubię założyć cięższe buty do sukienki. Dlatego noszę je z tuniką w mocnym magentowym odcieniu i z podniesioną głową zamawiam kawę w modnym miejscu w centrum Warszawy. Czuję na sobie wzrok Pań młodszych i Pań starszych, które zapewne zastanawiają się, czy aby mojej stopie nie jest za gorąco. Otóż ogłaszam – nie jest. Te buty, mimo że z sieciówki, są obuwiem skórzanym, a gorąco i pot są wtedy, kiedy dusimy stopę w plastiku. Także Kochani, nie bójcie się zakrytego obuwia (skórzanego) w maju. Polecam zwracać uwagę na kolory i nadawać swojej stylizacji ‘artystyczny’ charakter :).
+
+![Zdjęcie przedstawia różowy but na komiksowym tle.](https://assets1.ello.co/uploads/asset/attachment/7746681/ello-optimized-94f2ab19.jpg)
 
