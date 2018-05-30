@@ -46,3 +46,8 @@ Podobno maj jest czasem zakładania sandałków. Hmm… U mnie do łask wrócił
 
 ![Zdjęcie przedstawia różowy but na komiksowym tle.](https://assets1.ello.co/uploads/asset/attachment/7746681/ello-optimized-94f2ab19.jpg)
 
+Shop My Choices
+
+* [Katarzyna Nosowska 'A ja żem jej powiedziała'](http://www.empik.com/a-ja-zem-jej-powiedziala-nosowska-katarzyna,p1200674145,ksiazka-p?gclid=Cj0KCQjwl7nYBRCwARIsAL7O7dEjci0FQnyAH7BGnuYZKddGm1KWLu_S8SaXtAxjTOf6INCYbCBqOwkaAi8wEALw_wcB&gclsrc=aw.ds)
+* [SKIN79 Mus do Oczyszczania Twarzy Natural 98 Yum Yum Cleanser](https://skin79-sklep.pl/73974-nowosc----skin79-natural-98-yum-yum-cleanser-100g..html)
+* [Kat Von D 10th Anniversary Eyeshadow Palette](http://www.sephora.pl/Makijaz/Oczy/Palety-cieni/Eyeshadow-Palette-Anniversary-Paleta-cieni-do-powiek/P3353008)
