@@ -36,3 +36,14 @@ Przetańczyłam te lata raz skocznym krokiem quick stepa, a raz współczesnym s
 ![Zdjęcie przedstawia popiersie kobiety w kolorowym makijażu z siwymi włosami. Dookoła kolorowe prostokąty.](https://assets1.ello.co/uploads/asset/attachment/7782247/ello-optimized-43849cdc.jpg)
 ![Zdjęcie przedstawia usta i szyję kobiety w otoczeniu graficznych elementów.](https://assets2.ello.co/uploads/asset/attachment/7782250/ello-optimized-d10d213c.jpg)
 ![Obraz przedstawia pionowe paseczki w kolorze fioletowym, żółtym i wielokolorowym.](https://assets1.ello.co/uploads/asset/attachment/7782251/ello-optimized-12022660.jpg)
+
+-------------------------
+
+Do wykonania makijażu użyłam:
+
+* Baza Smashbox Photofinish Primerizer
+* Podkład Clarins Extra-Comfort 108 sand
+* Rozświetlacz Becca Moonstone
+* Bronzer Lovely Golden Glow cool brown
+* Ultimate Eyeshadow Palette Nyx
+* Błyszczyk Make Up Forever + Nyx Duo Chromatic Lucid Limpide
