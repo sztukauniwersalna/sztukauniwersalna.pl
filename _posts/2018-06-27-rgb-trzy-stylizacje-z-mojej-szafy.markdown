@@ -39,8 +39,8 @@ Wszystkie przyszłe matki zamieszkujące planety układu Ottona Wielkiego pragn�
 
 ![Obraz przedstawia dwa zdjęcia kobiety w błękitnej koszuli z falbaną. Kobieta ma na sobie okulary przeciwsłoneczne.](https://assets2.ello.co/uploads/asset/attachment/7884502/ello-optimized-d88899fb.jpg)
 ![Fotografia przedstawia kobietę w nienaturalnej pozie. Kobieta patrzy w bok, w ręku trzyma torebkę i ma na sobie błękitną koszulę.](https://assets1.ello.co/uploads/asset/attachment/7884506/ello-optimized-2bde7e7c.jpg)
-![Obraz przedstawia dwa zdjęcia kobiety w błękitnej koszuli z falbaną. Kobieta ma siwe włosy, kolczyki i okulary przeciwsłoneczne.](https://assets2.ello.co/uploads/asset/attachment/7884302/ello-optimized-2815afbb.jpg)
-![Fotografia przedstawia całą sylwetkę kobiety w błękitnej koszuli, ciemnych spodniach, okularach. Kobieta stoi na baczność.](https://assets1.ello.co/uploads/asset/attachment/7884307/ello-optimized-a24f26d2.jpg)
+![Obraz przedstawia dwa zdjęcia kobiety w błękitnej koszuli z falbaną. Kobieta ma siwe włosy, kolczyki i okulary przeciwsłoneczne.](https://assets0.ello.co/uploads/asset/attachment/7884594/ello-optimized-0e96d985.jpg)
+![Fotografia przedstawia całą sylwetkę kobiety w błękitnej koszuli, ciemnych spodniach, okularach. Kobieta stoi na baczność.](https://assets2.ello.co/uploads/asset/attachment/7884598/ello-optimized-167e757d.jpg)
 
 
 --------------------
