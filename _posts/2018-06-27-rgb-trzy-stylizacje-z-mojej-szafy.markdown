@@ -45,11 +45,14 @@ Wszystkie przyszłe matki zamieszkujące planety układu Ottona Wielkiego pragn�
 
 --------------------
 
-Red:
+**Red**
+
 spodnie: Stradivarius; kurtka: Forever21; buty: Coque Terra; kapelusz: House
 
-Green:
+**Green**
+
 sukienka: Zara; pasek: Stradivarius; buty: Stradivarius; torebka: tania odzież
 
-Blue
+**Blue**
+
 koszula: H&M; spodnie: Stradivarius; buty: Zara; kolczyki: Stradivarius; torebka: Picard; okulary: AliExpress
