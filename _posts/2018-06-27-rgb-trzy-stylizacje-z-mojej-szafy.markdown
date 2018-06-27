@@ -41,3 +41,15 @@ Wszystkie przyszłe matki zamieszkujące planety układu Ottona Wielkiego pragn�
 ![Fotografia przedstawia kobietę w nienaturalnej pozie. Kobieta patrzy w bok, w ręku trzyma torebkę i ma na sobie błękitną koszulę.](https://assets1.ello.co/uploads/asset/attachment/7884300/ello-optimized-16c2f7f4.jpg)
 ![Obraz przedstawia dwa zdjęcia kobiety w błękitnej koszuli z falbaną. Kobieta ma siwe włosy, kolczyki i okulary przeciwsłoneczne.](https://assets2.ello.co/uploads/asset/attachment/7884302/ello-optimized-2815afbb.jpg)
 ![Fotografia przedstawia całą sylwetkę kobiety w błękitnej koszuli, ciemnych spodniach, okularach. Kobieta stoi na baczność.](https://assets1.ello.co/uploads/asset/attachment/7884307/ello-optimized-a24f26d2.jpg)
+
+
+--------------------
+
+Red:
+spodnie: Stradivarius; kurtka: Forever21; buty: Coque Terra; kapelusz: House
+
+Green:
+sukienka: Zara; pasek: Stradivarius; buty: Stradivarius; torebka: tania odzież
+
+Blue
+koszula: H&M; spodnie: Stradivarius; buty: Zara; kolczyki: Stradivarius; torebka: Picard; okulary: AliExpress
