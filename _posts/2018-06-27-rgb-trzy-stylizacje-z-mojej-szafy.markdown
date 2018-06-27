@@ -31,7 +31,7 @@ Green’em określa się stan, kiedy wszystkie układy organizmu (krwionośny, n
 
 ![Obraz przedstawia dwa zdjęcia kobiety w kraciastej sukience. Całość oświetlona jest zielonym światłem.](https://assets1.ello.co/uploads/asset/attachment/7859340/ello-optimized-c90c0ebc.jpg)
 ![Obraz przedstawia dwa zdjęcia kobiety w kraciastej sukience. Jedno zdjęcie to zbliżenie na detal.](https://assets0.ello.co/uploads/asset/attachment/7859339/ello-optimized-b4b6f07f.jpg)
-![Zdjęcie przedstawia kobietę ubraną w sukienkę w kratę, czarne buty i czarny pasek. Kobieta trzyma w ręku torebkę.](https://assets2.ello.co/uploads/asset/attachment/7884311/ello-optimized-988db2bd.jpg)
+![Zdjęcie przedstawia kobietę ubraną w sukienkę w kratę, czarne buty i czarny pasek. Kobieta trzyma w ręku torebkę.](https://assets0.ello.co/uploads/asset/attachment/7884563/ello-optimized-94a10961.jpg)
 
 ## Blue
 
