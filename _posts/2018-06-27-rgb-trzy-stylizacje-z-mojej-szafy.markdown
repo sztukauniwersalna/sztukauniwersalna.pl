@@ -1,5 +1,5 @@
 ---
-title: RGB. Trzy stylizacje z mojej szafy.
+title: RGB. Trzy stylizacje z mojej szafy
 date: 2018-06-27 11:04:00 +02:00
 categories:
 - Sztuka Ubioru
