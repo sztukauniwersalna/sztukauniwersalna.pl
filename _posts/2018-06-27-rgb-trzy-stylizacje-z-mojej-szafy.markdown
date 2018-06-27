@@ -47,7 +47,7 @@ Wszystkie przyszłe matki zamieszkujące planety układu Ottona Wielkiego pragn�
 
 **Red**
 
-spodnie: Stradivarius; kurtka: Forever21; buty: Coque Terra; kapelusz: House
+spodnie: Stradivarius; kurtka: Forever21; buty: CoqueTerra; kapelusz: House
 
 **Green**
 
