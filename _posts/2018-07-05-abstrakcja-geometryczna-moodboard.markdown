@@ -18,8 +18,6 @@ Konstruktywizm ‘konstruuje’, suprematyzm (K.Malewicz) ‘wznosi’, wynosi s
 Codziennie patrzymy na abstrakcję geometryczną. Znajdujemy ją nie tylko w galeriach sztuki. Znajdujemy ją w sklepach, na ulicach, w pracy porządkując przestrzeń na biurku. Znajdujemy…, ale czy widzimy?
 
 
-
-
 ![Obraz przedstawia trzy fotografie na zielonym tle. Dwie z nich przedstawiają modelki w makijażach, jedno zdjęcie to zdjęcie obrazu znanego artysty.](https://assets1.ello.co/uploads/asset/attachment/7921062/ello-optimized-0bf2e24b.jpg)
 ![Obraz przedstawia trzy zdjęcia obrazów znanego artysty. Całość na zielonym tle.](https://assets0.ello.co/uploads/asset/attachment/7921064/ello-optimized-e32e18ad.jpg)
 ![Obraz przedstawia trzy zdjęcia, na których widzimy modeli w kolorowych kostiumach.](https://assets2.ello.co/uploads/asset/attachment/7921065/ello-optimized-613bbd0c.jpg)
