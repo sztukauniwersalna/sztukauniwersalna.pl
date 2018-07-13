@@ -39,7 +39,8 @@ Najznakomitszym znawcą i kolekcjonerem dzieł Matissa został jednak Rosjanin, 
 W latach 1929-1935 artysta realizował głównie grafiki i rzeźby. Podejmował się nowych wyzwań np. projektował scenografię i kostiumy, projektował ceramikę i tkaniny dekoracyjne. W latach 40tych Matisse sięga po technikę ‘wycinanki’. Zestawia ze sobą płaszczyzny nasyconego koloru o różnych kształtach. Plama barwna ‘wyzbyła się’ w ten sposób jakiejkolwiek materii malarskiej. W 1948 roku projektuje właśnie w tej technice dekorację Kaplicy Różańcowej klasztoru Dominikanek w Vence. Używa jedynie koniecznych linii, ogranicza środki wyrazu do niezbędnego minimum. Dzieło znacznie odbiega od tradycyjnego podejścia do tego typu przedstawień. Motywy religijnie symbolizuje tutaj praktycznie znak-emblemat. Matisse z kolei uważał to dzieło za ‘osiągnięcie całego życia wypełnionego pracą i owocem wysiłku ogromnego’. Powstają sceny malowane na płytkach ceramicznych, ołtarz i witraże. 
 Za pracę w technice ‘wycinanek’ otrzymał nagrodę na 25 Biennale Sztuki w Wenecji w 1950 roku. 
 
-> ~ „...obraz nie stanie się koniem bitewnym, nagą kobietą lub jakąkolwiek inną anegdotą, jest przede wszystkim powierzchnią płaską > pokrytą farbami w określonym porządku.”
+>
+> „...obraz nie stanie się koniem bitewnym, nagą kobietą lub jakąkolwiek inną anegdotą, jest przede wszystkim powierzchnią płaską pokrytą farbami w określonym porządku.”
 
 ![Zdjęcie przedstawia portret kobiety w mocnym makijażu oczu i złotym naszyjnikiem na szyi. Zdjęcie w ramie.](https://assets1.ello.co/uploads/asset/attachment/7955502/ello-optimized-62ff5118.jpg)
 
