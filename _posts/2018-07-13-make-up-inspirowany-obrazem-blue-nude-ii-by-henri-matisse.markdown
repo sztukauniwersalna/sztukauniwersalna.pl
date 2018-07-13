@@ -1,5 +1,5 @@
 ---
-title: "Make-up inspirowany obrazem. \n'Blue_Nude II'_by_Henri_Matisse"
+title: "Make-up inspirowany obrazem. \n'Blue_Nude_II' by Henri_Matisse"
 date: 2018-07-13 14:36:00 +02:00
 categories:
 - Sztuka Makijażu
