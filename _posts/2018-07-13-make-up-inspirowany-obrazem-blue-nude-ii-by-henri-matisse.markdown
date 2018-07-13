@@ -31,7 +31,7 @@ Pierwsza faza kubizmu wyłoniła się wraz z dziełem Pabla Picassa ‘Portret G
 
 # Jaki był Henri?
 
-Podobno z urody przypominał Sokratesa i francuskiego lekarza Ludwika Pasteura (uczniowie z jego pracowni nadali mu przezwisko ‘Doktor’). Niejednokrotnie padał ofiarą ataków ze strony konserwatystów, jednak nigdy nie dał wyprowadzić się z równowagi. Nie starał się pozować na artystę, ubierał się i zachowywał ‘jak zwykły człowiek. Cierpliwie czekał, aż ktoś doceni i zrozumie jego malarstwo. Spokojnie pielęgnował rabaty kwiatowe w swojej willi na przedmieściu stolicy Issy-les-Moulineaux. Jeździł konno, bywał w teatrze, wychowywał trójkę dzieci. Kiedy w czerwcu 1912 roku udzielił wywiadu do New York Times Amerykanie oszaleli na jego punkcie. 
+Podobno z urody przypominał Sokratesa i francuskiego lekarza Ludwika Pasteura (uczniowie z jego pracowni nadali mu przezwisko ‘doktor’). Niejednokrotnie padał ofiarą ataków ze strony konserwatystów, jednak nigdy nie dał wyprowadzić się z równowagi. Nie starał się pozować na artystę, ubierał się i zachowywał ‘jak zwykły człowiek. Cierpliwie czekał, aż ktoś doceni i zrozumie jego malarstwo. Spokojnie pielęgnował rabaty kwiatowe w swojej willi na przedmieściu stolicy Issy-les-Moulineaux. Jeździł konno, bywał w teatrze, wychowywał trójkę dzieci. Kiedy w czerwcu 1912 roku udzielił wywiadu do New York Times Amerykanie oszaleli na jego punkcie. 
 Najznakomitszym znawcą i kolekcjonerem dzieł Matissa został jednak Rosjanin, Siergiejew Szczukin. W jego zbiorach znalazło się 40 reprezentatywnych i uznawanych za najbardziej wartościowe dzieł Francuza. Szczukin posiadał odwagę w kupowaniu i intuicję w wyborze. Dodatkowo olbrzymie możliwości finansowe zapewniała mu wysoka pozycja rodu Szczukinów w Rosji. 
 
 # W stronę syntezy
