@@ -50,3 +50,5 @@ Pracę w czasie ostatnich lat życia artysty utrudniało unieruchomienie w fotel
 
 ---------------------
 
+* Do wykonania makijażu zainspirował mnie obraz "Błękitny Akt" z 1952 roku.
+* Informację pochodzą z książki "Henri Matisse. Wielka Kolekcja Sławnych Malarzy", Poznań: Oxford Educational sp. z o.o., 2007
