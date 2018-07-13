@@ -1,5 +1,5 @@
 ---
-title: "Make-up inspirowany obrazem. \n'Blue Nude II' by Henri_Matisse"
+title: "Make-up inspirowany obrazem. \n'Blue_Nude II'_by_Henri_Matisse"
 date: 2018-07-13 14:36:00 +02:00
 categories:
 - Sztuka Makijażu
@@ -41,3 +41,12 @@ W latach 1929-1935 artysta realizował głównie grafiki i rzeźby. Podejmował 
 Za pracę w technice ‘wycinanek’ otrzymał nagrodę na 25 Biennale Sztuki w Wenecji w 1950 roku. 
 
 > ~ „...obraz nie stanie się koniem bitewnym, nagą kobietą lub jakąkolwiek inną anegdotą, jest przede wszystkim powierzchnią płaską > pokrytą farbami w określonym porządku.”
+
+![Zdjęcie przedstawia portret kobiety w mocnym makijażu oczu i złotym naszyjnikiem na szyi. Zdjęcie w ramie.](https://assets1.ello.co/uploads/asset/attachment/7955502/ello-optimized-62ff5118.jpg)
+
+Pracę w czasie ostatnich lat życia artysty utrudniało unieruchomienie w fotelu będące wynikiem przebytej operacji raka dwunastnicy. Między innym dlatego Matisse poświęcił swoją uwagę technice ‘wycinanek’. Okres ten traktuje się jednak jako ‘ukoronowanie’ twórczości. Maksymalną oszczędność formy stanowiły płaszczyzny czystego koloru ułożone w mniej lub bardziej sugestywne przedstawienia. „Rysował nożyczkami, wcinając się w kolor tak, jak rzeźbiarz w kamień.” - opisuje pracę Matisse’a wydawca książki „Jazz” Eleftheriades-Tériade.
+
+![Zdjęcie przedstawia portret kobiety z szarymi włosami, w mocnym makijażu oczu. Zdjęcie w ramie.](https://assets1.ello.co/uploads/asset/attachment/7955498/ello-optimized-626789aa.jpg)
+
+---------------------
+
