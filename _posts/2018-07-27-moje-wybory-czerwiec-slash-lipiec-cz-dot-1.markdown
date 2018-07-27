@@ -45,6 +45,15 @@ Symbol półksiężyca występuje często w sztuce dekoracyjnej krajów arabskic
 ## Lektura
 
 Barbara Kwiatkowska jest biotechnologiem, ekspertem w dziedzinie pielęgnacji skóry. Jej pierwsza książka pt.: ‘Skóra. Azjatycka pielęgnacja po polsku.’ to przewodnik po świadomej pielęgnacji skóry. Dowiemy się z niego m.in. o czterech podstawowych filarach dbania o cerę (witamina C, witamina A, kwasy AHA BHA PHA, filtry przeciwsłoneczne), dzięki którym będziemy się cieszyć jej naturalnym blaskiem przez długie lata. Druga książka Pani Barbary nosi tytuł ‘Pielęgnacja skóry przez cztery pory roku. Azjatyckie inspiracje’. Ta skarbnica wiedzy podzielona jest na rozdziały, które dotyczą konkretnych zabiegów polecanych na konkretny czas w roku. I tak na przykład latem warto jest zadbać o odpowiednie ‘napojenie’ skóry, a zimą o jej odżywienie. Wśród praktycznych porad znajdziemy również merytoryczną wiedzę np. na temat konkretnych typów przebarwień skóry, czy tabelki z rozpiską właściwości poszczególnych olejków. Myślę, że do tej pozycji będę wracać co trzy miesiące przypominając sobie o rytuałach korzystnych dla mojej cery latem, wiosną, jesienią i zimą. Jeśli nie możecie pozwolić sobie na zakup obydwu książek wybierzcie właśnie tę. Jest w niej wiele ‘przypominek’ z poprzedniej części.
+PS Pani Barbara prowadzi także stronę [Biochemia Urody](http://www.biochemiaurody.com/), gdzie możecie nabyć składniki niezbędne do samodzielnego przygotowania kosmetyków np. toniku. 
 
 ![Zdjęcie przedstawia okładkę książki na różowym tle. Obok stoją słoiczki, a dookoła widzimy graficzne niebieskie elementy.](https://assets1.ello.co/uploads/asset/attachment/8016468/ello-optimized-56502717.jpg)
+
+Shop My Choices
+
+* [Rose Oil Overnight Gel Mask by The Crème Shop](https://www.thecremeshop.com/products/rose-oil-overnight-gel-mask)
+* [Gimme Brow by Benefit](http://www.sephora.pl/Makijaz/Brwi/Zele-i-tusze/Gimme-Brow-Zel-Dodajacy-Brwiom-Objetosci/P2578001?skuId=435271&LGWCODE=435271;93143;3577&utm_source=google&utm_medium=cpc&utm_campaign=PLAMakeupRLSA_search_&utm_term=&gclid=CjwKCAjwhevaBRApEiwA7aT535Whk9CBRYcbjH7VVJJDfp1OvXtM2lvmACaALd5dni17VozsmH4HBxoChfAQAvD_BwE)
+* [Złota zawieszka półksiężyc by Apart](https://www.apart.pl/bizuteria/zlota-zawieszka/30469)
+* [Barbara Kwiatkowska 'Pielęgnacja skóry przez cztery pory roku. Azjatyckie inspiracje'](https://www.taniaksiazka.pl/pielegnacja-skory-przez-cztery-pory-roku-azjatyckie-inspiracje-barbara-kwiatkowska-p-1024276.html?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAjwhevaBRApEiwA7aT538sIchsSjaeRDO8gjRFFOvkgtOlLZ1H3CZPy4HA9WlMxq74dKhDclBoC-9kQAvD_BwE)
+
 
