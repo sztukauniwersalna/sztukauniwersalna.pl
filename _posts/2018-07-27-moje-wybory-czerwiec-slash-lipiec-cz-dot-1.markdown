@@ -35,3 +35,16 @@ Nie przepadam za komiksowo wyrysowanymi brwiami. To jeden z nielicznych instagra
 
 ![Obraz przedstawia dwa zdjęcia przedmiotów leżących i stojących na różowym podłożu.](https://assets1.ello.co/uploads/asset/attachment/8016444/ello-optimized-3840a28b.jpg)
 ![Zdjęcie przedstawia zdjęcia przedmiotów leżących na różowym tle.](https://assets2.ello.co/uploads/asset/attachment/8016447/ello-optimized-4492da1b.jpg)
+
+## Akcesoria: biżuteria
+
+Symbol półksiężyca występuje często w sztuce dekoracyjnej krajów arabskich. Widnieje na wielu flagach z gwiazdą u swego boku. Można go jednak odczytywać jako konkretną fazę księżyca - sierp. Dla mnie jest to symbol ściśle powiązany z kobietą, bowiem to od faz księżyca uzależniony jest miesięczny kobiecy cykl. Podobno w nowiu nie należy obcinać włosów, gdyż bedą one słabiej rosły. Pełnia księżyca to czas, kiedy nasze emocje są silniej wyrażane. Silniej zadziała na nas w tym czasie alkohol i inne używki. Zastanawiam się, czy dostosowanie swoich życiowych decyzji do faz srebrnej kuli niesie ze sobą poczucie spełnienia i szczęścia. Może kiedyś spróbuję, a na razie cieszę się małym szczęściem w postaci złotej zawieszki marki Apart.
+
+![Obraz przedstawia dwa zdjęcia złotego naszyjnika leżącego na jasnym marmurowym podłożu.](https://assets0.ello.co/uploads/asset/attachment/8016461/ello-optimized-d5e98172.jpg)
+
+## Lektura
+
+Barbara Kwiatkowska jest biotechnologiem, ekspertem w dziedzinie pielęgnacji skóry. Jej pierwsza książka pt.: ‘Skóra. Azjatycka pielęgnacja po polsku.’ to przewodnik po świadomej pielęgnacji skóry. Dowiemy się z niego m.in. o czterech podstawowych filarach dbania o cerę (witamina C, witamina A, kwasy AHA BHA PHA, filtry przeciwsłoneczne), dzięki którym będziemy się cieszyć jej naturalnym blaskiem przez długie lata. Druga książka Pani Barbary nosi tytuł ‘Pielęgnacja skóry przez cztery pory roku. Azjatyckie inspiracje’. Ta skarbnica wiedzy podzielona jest na rozdziały, które dotyczą konkretnych zabiegów polecanych na konkretny czas w roku. I tak na przykład latem warto jest zadbać o odpowiednie ‘napojenie’ skóry, a zimą o jej odżywienie. Wśród praktycznych porad znajdziemy również merytoryczną wiedzę np. na temat konkretnych typów przebarwień skóry, czy tabelki z rozpiską właściwości poszczególnych olejków. Myślę, że do tej pozycji będę wracać co trzy miesiące przypominając sobie o rytuałach korzystnych dla mojej cery latem, wiosną, jesienią i zimą. Jeśli nie możecie pozwolić sobie na zakup obydwu książek wybierzcie właśnie tę. Jest w niej wiele ‘przypominek’ z poprzedniej części.
+
+![Zdjęcie przedstawia okładkę książki na różowym tle. Obok stoją słoiczki, a dookoła widzimy graficzne niebieskie elementy.](https://assets1.ello.co/uploads/asset/attachment/8016468/ello-optimized-56502717.jpg)
+
