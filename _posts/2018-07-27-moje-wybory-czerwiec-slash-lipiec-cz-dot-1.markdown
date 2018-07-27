@@ -28,3 +28,10 @@ W moje ręce (i do mojego koszyka) trafiła różana wersja koreańskiej maseczk
 
 ![Obraz przedstawia dwa zdjęcia martwej natury ze słoiczkiem ze złotą nakrętką.](https://assets2.ello.co/uploads/asset/attachment/8016437/ello-optimized-2a0e101f.jpg)
 ![Zdjęcie przedstawia otwarty słoik ze złotą nakrętką stojący na różowym talerzu. W tle widzimy pomięty biały papier.](https://assets2.ello.co/uploads/asset/attachment/8016438/ello-optimized-a4b0bbcd.jpg)
+
+## Kosmetyk: kolorówka
+
+Nie przepadam za komiksowo wyrysowanymi brwiami. To jeden z nielicznych instagramowych trendów, który kompletnie do mnie nie przemówił. Przemawia do mnie za to uroda Fridy i jej naturalnie bujne brwi. Może w tym wydaniu wydają się nieco groteskowe, szczególnie jeśli zestawimy mocną urodę z równie mocnym i kolorowym strojem. Jednak jest w gęstych brwiowych włoskach coś, co opowiada się za dziewczęcą niewinnością. Lubię te włoski przeczesywać i podkreślać. Gimme Brow marki Benefit to produkt, który przeczesze, pokoloruje i doda brwiom objętości. Żelowa konsystencja pozwala ułożyć brwi w dowolnym kierunku i mieć pewność, że pozostaną na miejscu przez wiele godzin. Precyzyjna szczoteczka doczepia pojedyncze włoski do naszych i (co ważne!) nie zabarwia skóry. 10 sekund i gotowe – wyjątkowe, oryginalne, lekkie spojrzenie.
+
+![Obraz przedstawia dwa zdjęcia przedmiotów leżących i stojących na różowym podłożu.](https://assets1.ello.co/uploads/asset/attachment/8016444/ello-optimized-3840a28b.jpg)
+![Zdjęcie przedstawia zdjęcia przedmiotów leżących na różowym tle.](https://assets2.ello.co/uploads/asset/attachment/8016447/ello-optimized-4492da1b.jpg)
