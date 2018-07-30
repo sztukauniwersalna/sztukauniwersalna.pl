@@ -41,7 +41,7 @@ Tego lata wszystko kręci wokół… koszyka. Koszyk nosimy już nie tylko na pl
 
 ## Kultura: film
 
-Z kina wychodzę z płaczem. 'Zimna Wojna' to wzruszająca opowieść o miłości, muzyce, tańcu, o próbie prawdziwej. Bohaterowie próbują siebie nawzajem, próbują odnaleźć się w nowej rzeczywistości 'po wojnie' i w trakcie niej. Prawdziwą próbą charakteru staje się nowy ustrój. Niektórzy przed socjalizmem uciekają, inni trwają z nim i w nim odnajdują wartości (lub jedynie udają). Inni jeszcze poddają się bez walki. 'Zimna Wojna' daje nadzieje romantykom, ale jednocześnie jest opowieścią o miłości nieskonsumowanej, niedokończonej. W pozornie statycznych zdjęciach pełno dynamiki. Wizualizuję czarno-biały obraz jako gumową linę, której końce umocowane są do ciał słoni - zwierząt powolnych, ale o wielkiej sile. Każdy Polak powinien zobaczyć ten film. Polecam ponadczasowo.
+Z kina wychodzę z płaczem. 'Zimna Wojna' Pawła Pawlikowskiego to wzruszająca opowieść o miłości, muzyce, tańcu, o próbie prawdziwej. Bohaterowie próbują siebie nawzajem, próbują odnaleźć się w nowej rzeczywistości 'po wojnie' i w trakcie niej. Prawdziwą próbą charakteru staje się nowy ustrój. Niektórzy przed socjalizmem uciekają, inni trwają z nim i w nim odnajdują wartości (lub jedynie udają). Inni jeszcze poddają się bez walki. 'Zimna Wojna' daje nadzieje romantykom, ale jednocześnie jest opowieścią o miłości nieskonsumowanej, niedokończonej. W pozornie statycznych zdjęciach pełno dynamiki. Wizualizuję czarno-biały obraz jako gumową linę, której końce umocowane są do ciał słoni - zwierząt powolnych, ale o wielkiej sile. Każdy Polak powinien zobaczyć ten film. Polecam ponadczasowo.
 
 ---------------
 Shop My Choices
