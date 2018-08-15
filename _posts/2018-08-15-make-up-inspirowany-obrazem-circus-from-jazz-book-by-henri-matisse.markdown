@@ -30,7 +30,7 @@ Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 
 1. Klaun
 2. Cyrk
-3. "Monsieur Loyal" (dyrektor cyrku, dobrze znany w XIX wieku w Paryżu)
+3. "Monsieur Loyal" (General de Gaulle - dyrektor cyrku, dobrze znany w XIX wieku w Paryżu)
 4. "Koszmar Białego Słonia"
 5. "Koń, Jeździec i Klaun"
 6. "Wilk" (postać wilka z ‘Czerwonego Kapturka’, bajki autorstwa Charles'a Perrault’a. Jest on także aluzją do postaci Hitler’a)
@@ -50,3 +50,5 @@ Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 20. "Toboggan"
 
 [Tutaj](https://www.youtube.com/watch?v=nA5niH5e31Q) znajdziecie krótki filmik o książce artystycznej 'Jazz'.
+
+Ciekawostka: Grafiki zostały zaprojektowane tak, aby czytać je na różnych poziomach. Kiedy obracamy ilustrację nr 3 "Monsieur Loyal" do góry nogami ukazuje się nam profil twarzy z otwartymi ustami. Możemy zinterpretować go jako krzyk lub jako postać tak zwanego połykacza mieczy.
