@@ -1,5 +1,5 @@
 ---
-title: "Make-up inspirowany obrazem. \n'Circus' from 'Jazz' book by Henri_Matisse"
+title: "Make-up inspirowany obrazem. \n'The Circus' from 'Jazz' book by Henri_Matisse"
 date: 2018-08-15 18:50:00 +02:00
 categories:
 - Sztuka Makijażu
