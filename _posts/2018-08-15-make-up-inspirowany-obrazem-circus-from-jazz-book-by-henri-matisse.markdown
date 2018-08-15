@@ -26,7 +26,7 @@ Inspiracją do wykonania makijażu stała się ilustracja II pt.:’Cyrk’.
 ![Obraz przedstawia dwa zdjęcia kobiety w niebieskiej chustce na głowie i niebieskiej bluzce, na niebieskim tle. Kobieta ma mocny makijaż.](https://assets1.ello.co/uploads/asset/attachment/8097383/ello-optimized-268e8ecf.jpg)
 
 
-Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce
+Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 
 1. Klaun
 2. Cyrk
