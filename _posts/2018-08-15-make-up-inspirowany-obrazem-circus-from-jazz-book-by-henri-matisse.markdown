@@ -30,14 +30,14 @@ Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 
 1. Klaun
 2. Cyrk
-3. "Monsieur Loyal" (dyrektor cyrku dobrze znany w XIX wieku w Paryżu)
+3. "Monsieur Loyal" (dyrektor cyrku, dobrze znany w XIX wieku w Paryżu)
 4. "Koszmar Białego Słonia"
 5. "Koń, Jeździec i Klaun"
 6. "Wilk" (postać wilka z ‘Czerwonego Kapturka’, bajki autorstwa Charles'a Perrault’a. Jest on także aluzją do postaci Hitler’a)
 7. "Serce"
 8. "Icarus"
 9. "Formy"
-10. " Pogrzeb Pierrota"
+10. "Pogrzeb Pierrota"
 11. "The Codomas" (para słynnych artystów trapezowych)
 12. "The Swimmer in the Tank" (ku pamięci performansu, który Matisse zobaczył w akwarium Folies-Bergère)
 13. "Połykacz Mieczy"
@@ -48,3 +48,5 @@ Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 18. "Lagoon II"
 19. "Lagoon III"
 20. "Toboggan"
+
+[Tutaj](https://www.youtube.com/watch?v=nA5niH5e31Q) znajdziecie krótki filmik o książce artystycznej 'Jazz'.
