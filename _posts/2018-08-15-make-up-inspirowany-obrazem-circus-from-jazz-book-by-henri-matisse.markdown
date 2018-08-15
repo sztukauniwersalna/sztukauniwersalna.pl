@@ -33,7 +33,7 @@ Poniżej zamieszczam spis tytułów wszystkich grafik obecnych w książce:
 3. "Monsieur Loyal" (dyrektor cyrku dobrze znany w XIX wieku w Paryżu)
 4. "Koszmar Białego Słonia"
 5. "Koń, Jeździec i Klaun"
-6. "Wilk" (postać wilka z ‘Czerwonego Kapturka’, bajki Charles'a Perrault’a. Jest on także aluzją do postaci Hitler’a)
+6. "Wilk" (postać wilka z ‘Czerwonego Kapturka’, bajki autorstwa Charles'a Perrault’a. Jest on także aluzją do postaci Hitler’a)
 7. "Serce"
 8. "Icarus"
 9. "Formy"
