@@ -60,3 +60,16 @@ Queer znaczy dziwny, dziwaczny. Określenia tego używano począwszy od lat 90-t
 
 ![Zdjęcie przedstawia postać ubraną na czarno stojącą tyłem w białym pomieszczeniu.](https://assets2.ello.co/uploads/asset/attachment/8127707/ello-optimized-15001733.jpg)
 ![Obraz przedstawia dwa zdjęcia baśniowej postaci z dwiema głowami. Jedno zdjęcie przedstawia zbliżenie na twarz postaci w okularach.](https://assets1.ello.co/uploads/asset/attachment/8127705/ello-optimized-4e0ce947.jpg)
+
+Bohaterowie prac Tori posługują się językiem improwizowanym. Nie wiemy jakiej płci są, wiemy jednak, że opowiadają się za światem, gdzie wszyscy jesteśmy równi. Gdzie inne nie znaczy gorsze, gdzie przeróżne zachowania i wyglądy tolerowane i przyjmowane są na jednym poziomie. Antropomorficzne obiekty są metaforą innego i wykluczonego. I tak jak Alan Freed promował Rock’n’Roll w amerykańskim i europejskim radiu zamkniętego wówczas muzycznego świata, tak Tori serwuje nam Queer’n’Troll w wolnym świecie wciąż pełnym podziałów.
+
+![Obraz przedstawia dwa zdjęcia rzeźby zawieszonej w przestrzeni muzeum. Na jednym ze zdjęć widzimy zbliżenie na białą koszulkę.](https://assets0.ello.co/uploads/asset/attachment/8127690/ello-optimized-d067add6.jpg)
+
+--------------
+
+Wystawa trwa od 08.06. do 30.09.2018 i można jej doświadczyć od wtorku do niedzieli w godz. 12:00 – 19:00, w czwartki do 21:00.
+
+
+* Centrum Sztuki Współczesnej Zamek Ujazdowski ul. Jazdów 2
+
+* bilety w cenie 12zł normalny, 6 zł ulgowy
