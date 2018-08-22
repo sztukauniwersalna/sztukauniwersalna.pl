@@ -41,3 +41,23 @@ Lęk przed nieznanym mija z każdym kolejnym krokiem. Na swojej drodze spotykam 
 ![Zdjęcie przedstawia obiekt w postaci dwóch par spodni połączonych ze sobą. Widzimy białe sportowe obuwie na szarej podłodze.](https://assets1.ello.co/uploads/asset/attachment/8127699/ello-optimized-b4146d44.jpg)
 ![Zdjęcie przedstawia wózek inwalidzki z meksykańskim kapeluszem zawieszonym na jego uchwycie.](https://assets0.ello.co/uploads/asset/attachment/8127716/ello-optimized-238c0881.jpg)
 
+## Fascynacja
+
+Siedzę na ruchomej platformie i słucham śpiewających trolli („Aldgammel Baby (Ancient Baby)” 2017). I mogę tak siedzieć i siedzieć. Zmieniam miejsce. Z niższego schodka platformy przenoszę się wyżej. Tutaj doznania są zupełnie inne. Najpierw staram się nie poruszać głową i poddać się obrotowi siedziska. Później wodzę wzrokiem za najbardziej fascynującym osobnikiem – trollem lewitującym w ciemnej przestrzeni. Muzyka hipnotyzuje. Całość zdaje się być wielkim ‘slow motion’, z którego nie chcę się uwolnić. Dobrze mi tu. Czuję się swobodnie pośród ‘innych’ stworzeń. 
+
+![Zdjęcie przedstawia postać w pomarańczowym ubraniu na czarnym tle.](https://assets0.ello.co/uploads/asset/attachment/8127700/ello-optimized-f9cd05b9.jpg)
+![Zdjęcie przedstawia dziwną baśniową postać na czarnym tle.](https://assets1.ello.co/uploads/asset/attachment/8127702/ello-optimized-eaa200a1.jpg)
+
+Tori Wrånes wychowywała się w pobliżu latarni morskiej, z której to przeróżne odgłosy dobiegały do młodych uszu dziewczynki. Zanim została artystką wizualną przez długi czas koncertowała z zespołem. Ciało stanowi dla niej instrument. Twierdzi, że ze względu na anatomię każdy człowiek brzmi inaczej. Postacie trolli reprezentują według niej spektrum ludzkiej natury. ‘Czy wiesz, że trolle pokazują się tylko gdy jest ciemno? Tak samo jest z nami. Odkrywamy tylko pozytywną stronę. Ukrywamy sekrety (...)’ - mówi artystka. 
+
+![Zdjęcie przedstawia baśniową postać grającą na flecie.](https://assets2.ello.co/uploads/asset/attachment/8127704/ello-optimized-d2fc59c6.jpg)
+
+## Queer & Troll
+
+Trolle. Stworzenia brzydkie, złośliwe, mało inteligentne. W mitologii nordyckiej trolle mieszkają w trudno dostępnych dla człowieka miejscach np. w lasach. Wyglądem i charakterem różniły się od siebie, jednak wszystkie cechowała chciwość i skąpstwo. Zajmowały się głównie szkodzeniem i ukrywaniem kosztowności przed innymi. Kiedy trolla dotknął promień słońca zamieniał się w kamień, dlatego stworzenia te żyły w ciemnościach. 
+
+
+Queer znaczy dziwny, dziwaczny. Określenia tego używano począwszy od lat 90-tych w szczególności odnosząc się do społeczności mniejszości seksualnych. Słowo ‘queer’ jest zbiorczym terminem określającym przedmiot badań skupionych na analizie społecznych tożsamości oraz opozycji płciowych związanych z seksualnością. Współcześnie używa się go właściwie tylko w kontekście seksualności nie mieszczących się w granicach ‘normy’. 
+
+![Zdjęcie przedstawia postać ubraną na czarno stojącą tyłem w białym pomieszczeniu.](https://assets2.ello.co/uploads/asset/attachment/8127707/ello-optimized-15001733.jpg)
+![Obraz przedstawia dwa zdjęcia baśniowej postaci z dwiema głowami. Jedno zdjęcie przedstawia zbliżenie na twarz postaci w okularach.](https://assets1.ello.co/uploads/asset/attachment/8127705/ello-optimized-4e0ce947.jpg)
