@@ -71,5 +71,4 @@ Wystawa trwa od 08.06. do 30.09.2018 i można jej doświadczyć od wtorku do nie
 
 
 * Centrum Sztuki Współczesnej Zamek Ujazdowski ul. Jazdów 2
-
 * bilety w cenie 12zł normalny, 6 zł ulgowy
