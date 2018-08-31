@@ -18,8 +18,8 @@ tags:
 Pewnego sierpniowego dnia bałam się wyjść po kawę do sklepu, bo alarmowy sms ogłosił burze w całej Polsce, błyskawice i huragany. Burzy nie było, a przynajmniej nie była ona tak straszna, jak wizualizowałam. Do tej pory nie zaopatrzyłam się w kalosze, a parasoli nie znoszę. W deszczowy czas uwielbiam zaszyć się w domu i z książką w ręce nasłuchiwać stukania kropli o parapet. W tym miesiącu trafiłam na naprawdę świetną pozycję czytelniczą. Dodatkowo do rytuału papierowego szelestu warto dodać kojąco przyjemną maseczkę na twarz. Następnego dnia skóra wygląda jakby odespała sto zaległych godzin. A jak już tak dobrze się wygląda i słońce wreszcie wyszło zza chmur to dla wzmocnienia efektu należy założyć szlachetną torebkę i udać się w miasto. Torebka koniecznie w mocnym, madżentowym kolorze. Na pytanie: ‘co mieści damska torebka’ odpowiadam – wszystko i jeszcze więcej. Znajdą się w niej podstawy takie jak chusteczki higieniczne, chusteczki nawilżane (czasami też żel antybakteryjny do dłoni), wszelkie kobiece historie (czyt. podpaski i tampony), no i cała gama kosmetyków. Najważniejsza jednak jest szminka/błyszczyk. Bez tego na bezludną wyspę ani rusz*. U make-up’owej maniaczki znajdą się trzy szminki, dwa błyszczyki, tusz do rzęs, korektor, mini perfumy, a nawet lakier do paznokci. Wszystko w imię pewności siebie…
 
 
-
-* Doda zapytana, co zabrała by ze sobą na bezludną wyspę odpowiedziała – błyszczyk!
+*Doda zapytana, co zabrała by ze sobą na bezludną wyspę odpowiedziała – błyszczyk!
+</olela-narrative>
 
 ![Zdjęcie przedstawia kobietę w nienaturalnej pozie, kobieta trzyma w ręku różową torebkę i ma długie włosy.](https://assets0.ello.co/uploads/asset/attachment/8162296/ello-optimized-e83008f2.jpg)
 
