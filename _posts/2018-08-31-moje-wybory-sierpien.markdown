@@ -12,6 +12,7 @@ tags:
 - marc jacobs
 - michael kors
 - design
+- dom polski
 ---
 
 <olela-narrative>
