@@ -25,3 +25,10 @@ Futuryzm narodził się we Włoszech wraz z początkiem XX-ego wieku. Jego pioni
 ![Obraz przedstawia cztery zdjęcia. Na trzech z nich widzimy kobiety w srebrnych kostiumach, mocnych makijażach. Na ostatnim widzimy obraz znanego artysty na płótnie.](https://assets0.ello.co/uploads/asset/attachment/8186595/ello-optimized-3a65633e.jpg)
 ![Obraz przedstawia cztery fotografie na jasno-fioletowym tle. Dwie z nich przedstawiają budowle. Jedna to szkic budynku, a jedna jest obrazem znanego artysty.](https://assets0.ello.co/uploads/asset/attachment/8186596/ello-optimized-1a40dae7.jpg)
 ![Obraz przedstawia ciemne napisy na jasno-fioletowym tle.](https://assets0.ello.co/uploads/asset/attachment/8186597/ello-optimized-6842cef6.jpg)
+
+
+Manifest Futuryzmu fragmenty (Filippo Tommaso Marinetti 1909 r.)
+
+* Chcemy wyśpiewywać miłość do niebezpieczeństwa, praktykę energii i zuchwałość.
+* Oświadczamy, że wspaniałość świata wzbogaciła się o piękno prędkości. Samochód wyścigowy z bagażnikiem zdobnym w grube rury jak węże o buchającym oddechu, samochód rozgrzany do czerwoności, który wygląda jak pędzący pocisk piękniejszy jest niż Nike z Samotraki.
+* Chcemy zniszczyć muzea, biblioteki, zwalczyć moralizm, feminizm i wszelkie przejawy oportunistycznego i użytkowego tchórzostwa.
