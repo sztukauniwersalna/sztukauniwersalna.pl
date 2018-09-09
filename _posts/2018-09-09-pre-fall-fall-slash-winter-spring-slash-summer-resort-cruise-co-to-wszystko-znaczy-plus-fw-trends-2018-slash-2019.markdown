@@ -1,5 +1,5 @@
 ---
-title: Pre-Fall, Fall/Winter, Spring/Summer, Resort, Cruise – co to wszystko znaczy?
+title: Pre-Fall, Fall/Winter, Spring/Summer, Resort, Cruise – co_to_wszystko_znaczy?
   + FW Trends 2018/2019
 date: 2018-09-09 21:05:00 +02:00
 categories:
@@ -23,7 +23,7 @@ tags:
 
 Świat mody prześciga się w nowych kolekcjach, zaskakujących rozwiązaniach, a przede wszystkim prześciga się w sprzedaży. Od niedawna można już kupić kreacje dopiero co zobaczone na wybiegu. ‘See Now Buy Now’ to strategia sprzedażowa wymyślona przez Christophera Baileya dla Burberry. Polega ona na tym, że pokaz transmitowany jest na żywo w internecie i widzowie mogą od razu kupić daną kreację. Projektanci wypuszczają rocznie ok. 6 kolekcji. Każda z nich wyprzedza dany sezon, a ich nazwy mogą wprowadzać w zakłopotanie. Poniżej wyjaśniam nazwy podstawowych czterech fashion sezonów.
 
-## Spring/Summer i Fall/Winter
+## Spring/Summer & Fall/Winter
 
 to dwa główne modowe sezony. Zazwyczaj już w zimie wiemy, jakie trendy obowiązywać będą wiosną i latem i odwrotnie. Sezon Wiosna/Lato (SS) trwa od stycznia do czerwca, a Jesień/Zima (FW) od lipca do grudnia.
 
@@ -34,3 +34,6 @@ pojawia się w sklepach tuż przed kolekcją Jesień/Zima i zazwyczaj są to ubr
 to w zasadzie jedno i to samo, czyli kolekcja wakacyjna. Podobno jej pojawienie się zapoczątkowała moda na podróże do ciepłych krajów w miesiącach zimowych. Pokazy i ubrania skierowane są głównie dla luksusowych kupców, posiadaczy prywatnych jachtów uwielbiających nienaganną prezencję w podróży. Sezon na Resort Collection (czy też Cruise Collection) trwa zazwyczaj od późnego października do grudnia.
 
 ![Obraz przedstawia dwa zdjęcia kobiety ubranej w czarny strój i czarny kapelusz.](https://assets0.ello.co/uploads/asset/attachment/8201510/ello-optimized-25e59e2d.jpg)
+![Obraz przedstawia dwa zdjęcia kobiety ubranej w czarny strój i czarny kapelusz. Zdjęcie z prawej strony przedstawia zbliżenie portretowe.](https://assets0.ello.co/uploads/asset/attachment/8201515/ello-optimized-e9308a44.jpg)
+
+
