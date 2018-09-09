@@ -56,6 +56,6 @@ Pokazy, o których mowa w tekście:
 ----------------
 
 Moja stylizacja:
-sukienka: H&M; żakiet: Bershka; kapelusz: Reserved; kolczyki: unknown
+sukienka: H&M; żakiet: Bershka; kapelusz: Reserved; pasek: H&M; kolczyki: unknown
 
 
