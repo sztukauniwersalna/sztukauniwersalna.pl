@@ -21,7 +21,7 @@ tags:
 ![Zdjęcie przedstawia portret kobiety w czarnym kapeluszu i czarnym żakiecie na jasnym tle.](https://assets2.ello.co/uploads/asset/attachment/8201518/ello-optimized-bab86a7d.jpg)
 
 
-Świat mody prześciga się w nowych kolekcjach, zaskakujących rozwiązaniach, a przede wszystkim prześciga się w sprzedaży. Od niedawna można już kupić kreacje dopiero co zobaczone na wybiegu. ‘See Now Buy Now’ to strategia sprzedażowa wymyślona przez Christophera Baileya dla Burberry. Polega ona na tym, że pokaz transmitowany jest na żywo w internecie i widzowie mogą od razu kupić daną kreację. Projektanci wypuszczają rocznie ok. 6 kolekcji. Każda z nich wyprzedza dany sezon, a ich nazwy mogą wprowadzać w zakłopotanie. Poniżej wyjaśniam nazwy podstawowych czterech fashion sezonów.
+Świat mody prześciga się w nowych kolekcjach, zaskakujących rozwiązaniach, a przede wszystkim prześciga się w sprzedaży. Od niedawna można już kupić kreacje dopiero co zobaczone na wybiegu. ‘See Now Buy Now’ to strategia sprzedażowa wymyślona przez Christophera Baileya dla Burberry. Polega ona na tym, że pokaz transmitowany jest na żywo w internecie i widzowie mogą od razu kupić daną kreację. Projektanci wypuszczają rocznie ok. 6 kolekcji. Każda z nich wyprzedza dany sezon, a ich nazwy mogą wprowadzać w zakłopotanie. Poniżej wyjaśniam terminy podstawowych czterech fashion sezonów.
 
 ## Spring/Summer & Fall/Winter
 
