@@ -16,6 +16,7 @@ tags:
 
 <olela-narrative>
 Ten miesiąc był niezwykle kapryśny. Jednego dnia naszła go ochota na potworne ciepło i zsyłał na nas falę tropikalnych upałów. Następnego dnia z kolei narzucał na siebie jesienny płaszcz pochmurnej aury. Wiele stworzeń ucierpiało przez te zmienne nastroje. Nieliczni nauczeni profilaktyki łyknęli garść witaminy C i mają się dobrze. Większość jednak z katarem zaszyła się pod wełnianym kocem. Wielkimi krokami zbliża się czas herbaty z cytryną, miodem i korzennymi przyprawami. Dwa dni temu po raz ostatni tej jesieni (?) pozwoliłam sobie na lody czekoladowe. Od dziś zakładam na głowę kapelusz. Porządny kapelusz made in Poland. Nie pozwolę go zdmuchnąć przez zbliżające się wiatry. Mam sposób na ciężkie wstawanie z łóżka, jak i wczesne kładzenie się do niego. Na tę pierwszą przypadłość proponuję żelowe płatki pod oczy, które budzą do życia swoim chłodem i magicznym składem. Na drugą zaś przyda się dobra książka, która rozluźni, ale też nauczy. Rzeczy kosmetyczne kumuluję do niezbędników. Jedna paletka wystarczy, aby odświeżyć cerę, która niestety w najbliższym czasie stawać się będzie coraz bardziej zmęczona i zmęczona…
+</olela-narrative>
 
 ![Zdjęcie przedstawia paletkę do makijażu twarzy z lusterkiem na różowym tle. W otoczeniu kwiaty.](https://assets2.ello.co/uploads/asset/attachment/8270060/ello-optimized-6f588d61.jpg)
 
