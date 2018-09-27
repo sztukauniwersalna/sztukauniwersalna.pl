@@ -53,6 +53,6 @@ Nakrycie głowy zawsze dodaje smaczku stylizacjom, jest jak kropka nad i. Może 
 Shop My Choices
 
 
-* [Patifee Gold Hydrogel Eye Patch](https://looktop.pl/pl/p/Petitfee-Gold-Hydrogel-Eye-Patch-60-platkow/1479)
+* [Petitfee Gold Hydrogel Eye Patch](https://looktop.pl/pl/p/Petitfee-Gold-Hydrogel-Eye-Patch-60-platkow/1479)
 * [Michael Mosley Jelita wiedzą lepiej](https://www.empik.com/jelita-wiedza-lepiej-jak-zrewolucjonizowac-sposob-odzywiania-i-zmienic-od-wewnatrz-swoje-cialo-mosley-michael,p1187000016,ksiazka-p?gclid=Cj0KCQjwlqLdBRCKARIsAPxTGaWvPSwix-PVqaC3EI-srQF6Yup6NK6C7SKSI1H1lzq3GHRnECUDTP8aAqI7EALw_wcB&gclsrc=aw.ds)
 * [Wełniany kapelusz](https://www.reserved.com/pl/pl/up203-99x/ladies-hat)
