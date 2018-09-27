@@ -4,7 +4,6 @@ date: 2018-09-27 13:41:00 +02:00
 categories:
 - Sztuka Ubioru
 tags:
-- wybory
 - moje wybory
 - my choices
 - wrzesień
