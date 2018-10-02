@@ -41,3 +41,18 @@ Artystka Malala Andrialavidrazana urodzona na Madagaskarze w młodym wieku wyemi
 Na fragmencie fioletowej ściany wiszą fotografie Dilara Begum Jolly urodzonej w Bangladeszu. Dilara prezentuje nam serię czarno-białych zdjęć (głównie negatywów), które zdają się być trójwymiarowe. Po podejściu nieco bliżej okazuje się, że efekt trójwymiarowości osiągnięty został poprzez podziurawienie papieru. Artystka powraca do traumatycznej historii wojny o niepodległość Bangladeszu (1971r.). Z wewnętrznym poczuciem bólu nakłuwa fotografie wykonane w Akademii Wychowania Fizycznego w Dhace, gdzie armia pakistańska torturowała i gwałciła bojowników/bojowniczki o wolność Bangladeszu. Artystka wybrała się w dane miejsce specjalnie w celu zrealizowania projektu. Jak się okazało miejsce do dziś stoi niezagospodarowane, a w jego wnętrzu odczuć można ‘nękanie teraźniejszości przez historię’. 
 
 ![Obraz przedstawia trzy zdjęcia. Jedno z nich to przestrzeń muzeum z zawieszonymi fotografiami. Dwa z nich to zbliżenia na czarno-białe fotografie.](https://assets0.ello.co/uploads/asset/attachment/8303880/ello-optimized-9cc452c2.jpg)
+
+## Religijne sprawy
+
+
+Koniec sali wystawowej zarezerwowany jest dla prac nacechowanych aspektem religijnym.
+
+Ampannee Satoh urodzona w Tajlandii pokazuję serię fotografii odnoszących się do przymusowych migracji muzułmanów. Na zdjęciach grupa ubranych w białe burki kobiet wpisana zostaje w krajobraz pustkowia. Zdaje się, jakby postaci zebrały się razem, jakby były milczącymi świadkami tragedii. W istocie w regionie Pattani położonym na południu Tajlandii od ponad dziesięciu lat trwa powstanie. Satoh w swojej pracy próbuje oddać towarzyszące wygnaniu poczucie wyobcowania.
+
+Wiszące na ścianie szaty mnichów w konfrontacji z wizerunkami uchodźców pozostawiają w nas podmuch niepokoju i dezorientacji. Mieszkający w Kambodży Than Sok prezentuje instalację złożoną z pięciu szat buddyjskich powieszonych na jednej wysokości. Szaty jednak w zależności od koloru oznaczają hierarchie według buddyjskich sekt. Okazuje się, że z pozoru ascetyczna religia, jaką jest buddyzm również opiera się na piramidzie zasług. 
+
+![Obraz przedstawia dwa zdjęcia wiszących w rzędzie szat w pomarańczowych odcieniach.](https://assets2.ello.co/uploads/asset/attachment/8303865/ello-optimized-b22998da.jpg)
+
+Niezwracające na siebie uwagi tkaniny powieszone na końcu sali stanowią pseudoreligijne transparenty. Są to w istocie szaty liturgiczne wyhaftowane rewolucyjnymi symbolami. Rewolta filipińska przeciwko Hiszpanom (1986 r.) wykorzystywała infrastrukturę kontrolowanego przez rząd Hiszpanii Kościoła katolickiego. Hasła na tkaninach głoszą nazwy wyimaginowanych kościołów - Iglesia de la Revolución i Iglesia de la Independencia. 
+
+![Obraz przedstawia dwa zdjęcia tkanin wiszących na białej ścianie.](https://assets2.ello.co/uploads/asset/attachment/8303869/ello-optimized-9cd893c7.jpg)
