@@ -52,10 +52,11 @@ Ampannee Satoh urodzona w Tajlandii pokazuję serię fotografii odnoszących si�
 Wiszące na ścianie szaty mnichów w konfrontacji z wizerunkami uchodźców pozostawiają w nas podmuch niepokoju i dezorientacji. Mieszkający w Kambodży Than Sok prezentuje instalację złożoną z pięciu szat buddyjskich powieszonych na jednej wysokości. Szaty jednak w zależności od koloru oznaczają hierarchie według buddyjskich sekt. Okazuje się, że z pozoru ascetyczna religia, jaką jest buddyzm również opiera się na piramidzie zasług. 
 
 ![Obraz przedstawia dwa zdjęcia wiszących w rzędzie szat w pomarańczowych odcieniach.](https://assets2.ello.co/uploads/asset/attachment/8303865/ello-optimized-b22998da.jpg)
+![Obraz przedstawia dwa zdjęcia przedstawiające przestrzeń muzeum z pracami fotografki.](https://assets0.ello.co/uploads/asset/attachment/8303889/ello-optimized-edc0abe3.jpg)
 
 Niezwracające na siebie uwagi tkaniny powieszone na końcu sali stanowią pseudoreligijne transparenty. Są to w istocie szaty liturgiczne wyhaftowane rewolucyjnymi symbolami. Rewolta filipińska przeciwko Hiszpanom (1986 r.) wykorzystywała infrastrukturę kontrolowanego przez rząd Hiszpanii Kościoła katolickiego. Hasła na tkaninach głoszą nazwy wyimaginowanych kościołów - Iglesia de la Revolución i Iglesia de la Independencia. 
 
-![Obraz przedstawia dwa zdjęcia tkanin wiszących na białej ścianie.](https://assets2.ello.co/uploads/asset/attachment/8303869/ello-optimized-9cd893c7.jpg)
+![Obraz przedstawia dwa zdjęcia tkanin wiszących na białej ścianie.](https://assets0.ello.co/uploads/asset/attachment/8304293/ello-optimized-b8dfb443.jpg)
 
 ## Wyróżnienie
 
