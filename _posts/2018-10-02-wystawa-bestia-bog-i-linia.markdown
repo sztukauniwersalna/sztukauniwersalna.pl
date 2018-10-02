@@ -56,3 +56,15 @@ Wiszące na ścianie szaty mnichów w konfrontacji z wizerunkami uchodźców poz
 Niezwracające na siebie uwagi tkaniny powieszone na końcu sali stanowią pseudoreligijne transparenty. Są to w istocie szaty liturgiczne wyhaftowane rewolucyjnymi symbolami. Rewolta filipińska przeciwko Hiszpanom (1986 r.) wykorzystywała infrastrukturę kontrolowanego przez rząd Hiszpanii Kościoła katolickiego. Hasła na tkaninach głoszą nazwy wyimaginowanych kościołów - Iglesia de la Revolución i Iglesia de la Independencia. 
 
 ![Obraz przedstawia dwa zdjęcia tkanin wiszących na białej ścianie.](https://assets2.ello.co/uploads/asset/attachment/8303869/ello-optimized-9cd893c7.jpg)
+
+## Wyróżnienie
+
+Na szczególne zauważenie zasługuje praca Truong Cong Tung’a, która zdaję się być niczym innym, jak rolką zniszczonego białego płótna. Samej degradacji materii czystego, nieskalanego płótna dokonały małe insekty zwane termitami. Wygryzienia tworzą na powierzchni tkaniny pattern, który hipnotyzuje swą symetrią. Artysta uświadamia nam istotną rolę innych, niż tylko ludzkich rąk, istot przy produkcji dzieła sztuki. Jednocześnie podkreśla przez to związek człowieka z naturą. Niesamowite zdaje się zestawienie tej pracy z powieszonym w drugim końcu sali kawałkiem zdobionego muślinu (tkaniną przypominającą ten ‘oryginalny’ muślin, którego już niestety nie przyjdzie nam doświadczyć) wytworzonym precyzją ludzkiej ręki. Ta para daje do myślenia, jak względnym jest poczucie piękna, oraz tworzy przestrzeń dla tożsamości międzygatunkowej. Czy to my – ludzie, jesteśmy jak te pracowite insekty z cierpliwością wyszywający cienką nitką swą historię, czy może to one niczym się od nas nie różnią?
+
+![Obraz przedstawia dwa zdjęcia płótna zawieszonego na rolce.](https://assets3.ello.co/uploads/asset/attachment/8303878/ello-optimized-936b3eb1.jpg)
+![Zdjęcie przedstawia zbliżenie na zniszczoną białą tkaninę.](https://assets1.ello.co/uploads/asset/attachment/8303879/ello-optimized-602589db.jpg)
+
+## Podsumowanie
+
+Ciekawa wystawa warta zobaczenia. Spora przestrzeń Muzeum Nad Wisłą zagospodarowana w przemyślany sposób. Jakbym miała przyczepić się jednej rzeczy, to minusem ekspozycji byłyby miejsca umieszczenia opisów dzieł. Czasami w totalnej dezorientacji szukałam podpisu pod pracą. Pozostawiam jednak w tej kwestii szczyptę wyrozumiałości, ponieważ dla mnie samej trudnym wydałoby się znalezienie odpowiedniego miejsca na podpis pod pracą, która stoi na samym środku sali (może kawałek podłogi?). W każdym razie, niewiele czasu pozostało do finisażu. Każdemu z choć odrobiną wewnętrznej ciekawości i skłonnością do refleksji polecam odwiedziny wystawy ‘Bestia, bóg i linia’ w Muzeum Sztuki Nowoczesnej w Warszawie. 
+
