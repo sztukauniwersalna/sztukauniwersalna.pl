@@ -73,3 +73,12 @@ Ciekawa wystawa warta zobaczenia. Spora przestrzeń Muzeum Nad Wisłą zagospoda
 ![Obraz przedstawia dwa zdjęcia rzeźby wykonanej z patyków. Na drugim zdjęciu widzimy zbliżenie na rzeźbę twarzy.](https://assets1.ello.co/uploads/asset/attachment/8303873/ello-optimized-1e0ae18c.jpg)
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy rzeźbę kobiety z dziećmi, z prawej obraz znanego artysty.](https://assets0.ello.co/uploads/asset/attachment/8303871/ello-optimized-b81cdaa7.jpg)
 ![Obraz przedstawia trzy zdjęcia rytualnych figurek wyrzeźbionych w drewnie.](https://assets2.ello.co/uploads/asset/attachment/8303867/ello-optimized-f89fff75.jpg)
+
+--------------
+
+Wystawy możecie doświadczać od wtorku do czwartku w godzinach 12:00 - 20:00, w piątek od 12:00 - 22:00, w soboty w godz. 11:00 - 20:00 i w niedzielę od 11:00 - 18:00. W poniedziałki muzeum jest nieczynne.
+
+* Muzeum Sztuki Nowoczesnej w Warszawie; 
+Wybrzeże Kościuszkowskie 22
+* Wstęp na wystawę - 1 zł
+* więcej informacji znajdziesz [tutaj](https://artmuseum.pl/pl/muzeum)
