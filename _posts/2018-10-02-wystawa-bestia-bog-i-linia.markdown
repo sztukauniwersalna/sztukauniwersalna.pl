@@ -68,3 +68,8 @@ Na szczególne zauważenie zasługuje praca Truong Cong Tung’a, która zdaję 
 
 Ciekawa wystawa warta zobaczenia. Spora przestrzeń Muzeum Nad Wisłą zagospodarowana w przemyślany sposób. Jakbym miała przyczepić się jednej rzeczy, to minusem ekspozycji byłyby miejsca umieszczenia opisów dzieł. Czasami w totalnej dezorientacji szukałam podpisu pod pracą. Pozostawiam jednak w tej kwestii szczyptę wyrozumiałości, ponieważ dla mnie samej trudnym wydałoby się znalezienie odpowiedniego miejsca na podpis pod pracą, która stoi na samym środku sali (może kawałek podłogi?). W każdym razie, niewiele czasu pozostało do finisażu. Każdemu z choć odrobiną wewnętrznej ciekawości i skłonnością do refleksji polecam odwiedziny wystawy ‘Bestia, bóg i linia’ w Muzeum Sztuki Nowoczesnej w Warszawie. 
 
+![Zdjęcie przedstawia figurę szarego krokodyla leżącą na podłodze.](https://assets0.ello.co/uploads/asset/attachment/8303875/ello-optimized-4e3558da.jpg)
+![Zdjęcie przedstawia przestrzeń muzealną z eksponatami dookoła.](https://assets0.ello.co/uploads/asset/attachment/8303874/ello-optimized-bbf13804.jpg)
+![Obraz przedstawia dwa zdjęcia rzeźby wykonanej z patyków. Na drugim zdjęciu widzimy zbliżenie na rzeźbę twarzy.](https://assets1.ello.co/uploads/asset/attachment/8303873/ello-optimized-1e0ae18c.jpg)
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy rzeźbę kobiety z dziećmi, z prawej obraz znanego artysty.](https://assets0.ello.co/uploads/asset/attachment/8303871/ello-optimized-b81cdaa7.jpg)
+![Obraz przedstawia trzy zdjęcia rytualnych figurek wyrzeźbionych w drewnie.](https://assets2.ello.co/uploads/asset/attachment/8303867/ello-optimized-f89fff75.jpg)
