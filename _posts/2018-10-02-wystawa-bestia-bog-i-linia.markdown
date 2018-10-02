@@ -76,7 +76,7 @@ Ciekawa wystawa warta zobaczenia. Spora przestrzeń Muzeum Nad Wisłą zagospoda
 
 --------------
 
-Wystawy możecie doświadczać od wtorku do czwartku w godzinach 12:00 - 20:00, w piątek od 12:00 - 22:00, w soboty w godz. 11:00 - 20:00 i w niedzielę od 11:00 - 18:00. W poniedziałki muzeum jest nieczynne.
+Wystawy można doświadczać od wtorku do czwartku w godzinach 12:00 - 20:00, w piątek od 12:00 - 22:00, w soboty w godz. 11:00 - 20:00 i w niedzielę od 11:00 - 18:00. W poniedziałki muzeum jest nieczynne.
 
 * Muzeum Sztuki Nowoczesnej w Warszawie; 
 Wybrzeże Kościuszkowskie 22
