@@ -30,7 +30,7 @@ Na wystawę wchodzimy uchylając kotarę. Nikt z nas nie zwraca na nią uwagi. C
 
 ## Kolonializm
 
-Wchodząc do środka sali wystawienniczej od razu zauważamy wielkoformatowe kolaże złożone głównie z map i banknotów. Mapy pochodzą z różnych okresów. Na pierwszej z 4 prac widzimy brakujące nazwy kontynentów oraz ich nieprawidłowy układ. Mapy na kolejnych pracach wykazują odkrycia dokonane na przestrzeni zaledwie kilkunastu lat. 
+Wchodząc do środka sali wystawienniczej od razu zauważamy wielkoformatowe kolaże złożone głównie z map i banknotów. Mapy pochodzą z różnych okresów. Na pierwszej z 4 prac widzimy brakujące nazwy kontynentów oraz ich nieprawidłowy układ. Kolejne prace ukazują odkrycia dokonane na przestrzeni zaledwie kilkunastu lat. 
 Artystka Malala Andrialavidrazana urodzona na Madagaskarze w młodym wieku wyemigrowała do Francji, gdzie mieszka i pracuje do dziś. Wykorzystuje produkty zachodniego imperializmu do stworzenia misternych digital-collages. Jak sama mówi, choć minęło już wiele lat od jej wyprowadzki z rodzinnego kontynentu nadal odczuwa uczucie ‘inności’ w ‘nieswoim’ państwie. Przedstawione w dziele mapy oddają wyobrażenia o świecie hegemonów zainteresowanych kontrolą i podbojem coraz to nowych obszarów. Banknoty to z kolei symbol wyobrażenia idealnego społeczeństwa.
 
 ![Zdjęcie przedstawia zbliżenie na dzieła sztuki wykonane techniką kolażu. Dzieła znajdują się na niebieskim tle.](https://assets2.ello.co/uploads/asset/attachment/8303884/ello-optimized-6f555637.jpg)
