@@ -54,7 +54,7 @@ Wiszące na ścianie szaty mnichów w konfrontacji z wizerunkami uchodźców poz
 ![Obraz przedstawia dwa zdjęcia wiszących w rzędzie szat w pomarańczowych odcieniach.](https://assets2.ello.co/uploads/asset/attachment/8303865/ello-optimized-b22998da.jpg)
 ![Obraz przedstawia dwa zdjęcia przedstawiające przestrzeń muzeum z pracami fotografki.](https://assets0.ello.co/uploads/asset/attachment/8303889/ello-optimized-edc0abe3.jpg)
 
-Niezwracające na siebie uwagi tkaniny powieszone na końcu sali stanowią pseudoreligijne transparenty. Są to w istocie szaty liturgiczne wyhaftowane rewolucyjnymi symbolami. Rewolta filipińska przeciwko Hiszpanom (1986 r.) wykorzystywała infrastrukturę kontrolowanego przez rząd Hiszpanii Kościoła katolickiego. Hasła na tkaninach głoszą nazwy wyimaginowanych kościołów - Iglesia de la Revolución i Iglesia de la Independencia. 
+Tkaniny, które najmniej zwracają uwagę, powieszone w rogu sali stanowią pseudoreligijne transparenty. Są to w istocie szaty liturgiczne wyhaftowane rewolucyjnymi symbolami. Rewolta filipińska przeciwko Hiszpanom (1986 r.) wykorzystywała infrastrukturę kontrolowanego przez rząd Hiszpanii Kościoła katolickiego. Hasła na tkaninach głoszą nazwy wyimaginowanych kościołów - Iglesia de la Revolución i Iglesia de la Independencia. 
 
 ![Obraz przedstawia dwa zdjęcia tkanin wiszących na białej ścianie.](https://assets0.ello.co/uploads/asset/attachment/8304293/ello-optimized-b8dfb443.jpg)
 
