@@ -19,12 +19,12 @@ Sama nazwa ‘manieryzm’ wywodzi się z greckiego ‘maniera’, a w łacińsk
 
 Dzieło manierystyczne cechuje:
 
-    • nienaturalne wydłużenie postaci, zachwiane proporcje postaci
-    • ‘manierystyczne’, wyolbrzymione gesty
-    • kompozycja dzieła jest nieraz ‘stłoczona’, zachwiana zostaje równowaga obrazu
-    • wyraziste kolory
-    • w rzeźbie: spiralny ruch postaci, bardzo mocny skręt ciał
-    • w architekturze: dublowanie akcentów (dwie wieże, dwa dekoracyjne portale etc.)
+* nienaturalne wydłużenie postaci, zachwiane proporcje postaci
+* ‘manierystyczne’, wyolbrzymione gesty
+* kompozycja dzieła jest nieraz ‘stłoczona’, zachwiana zostaje równowaga obrazu
+* wyraziste kolory
+* w rzeźbie: spiralny ruch postaci, bardzo mocny skręt ciał
+* w architekturze: dublowanie akcentów (dwie wieże, dwa dekoracyjne portale etc.)
 
 ![Obraz przedstawia dwa zdjęcia na beżowym tle. Zdjęcia przedstawiają obraz znanego artysty, oraz fotografię portretową.](https://assets2.ello.co/uploads/asset/attachment/8307655/ello-optimized-f9a0f25f.jpg)
 ![Obraz przedstawia dwa zdjęcia, na których widzimy ludzkie postaci. Całość na beżowym tle.](https://assets0.ello.co/uploads/asset/attachment/8307659/ello-optimized-5dd09087.jpg)
