@@ -11,7 +11,7 @@ tags:
 - sztuka
 ---
 
-Manieryzm nie jest jednoznacznym stylem. Jest bardziej terminem określającym konkretne zjawiska w sztuce XVI wieku. Wraz z końcem epoki renesansu (ok. 1520 r.) we Włoszech pojawiają się tendencje przerysowanych gestów i sylwetek. Doskonałym, wręcz wzorcowym przykładem sztuki manieryzmu jest obraz ‘Madonna z długą szyją’ autorstw Parmigianino. Postaci na obrazie są nienaturalnie wydłużone i wygięte. Całość prawdopodobnie nawiązuje do hymnu maryjnego Collum tuum ut colonna (Twoja szyja jak kolumna) i stanowi alegorię dogmatu Niepokalanego Poczęcia.
+Manieryzm nie jest jednoznacznym stylem. Jest bardziej terminem określającym konkretne zjawiska w sztuce XVI wieku. Wraz z końcem epoki renesansu (ok. 1520 r.) we Włoszech pojawiają się tendencje przerysowanych gestów i sylwetek. Doskonałym, wręcz wzorcowym przykładem sztuki manieryzmu jest obraz ‘Madonna z długą szyją’ autorstwa Parmigianina. Postaci na obrazie są nienaturalnie wydłużone i wygięte. Całość prawdopodobnie nawiązuje do hymnu maryjnego Collum tuum ut colonna (Twoja szyja jak kolumna) i stanowi alegorię dogmatu Niepokalanego Poczęcia.
 
 Charakterystycznym artystą czasu manieryzmu jest El Greco, hiszpański malarz greckiego pochodzenia. Postaci o wydłużonych kształtach na obrazach mistrza ujawnia jedyny w swoim rodzaju gest pędzla. Kiedy patrzę na ‘Otwarcie piątej pieczęci Apokalipsy’ mam wrażenie jakby całość kompozycji stanęła w płomieniach. Zarówno przedstawione na płótnie ciała jak i pejzaż falują otoczone mocnym konturem. 
 
