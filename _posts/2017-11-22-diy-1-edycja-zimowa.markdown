@@ -19,7 +19,6 @@ tags:
 Czy wiecie, jak niewiele trzeba aby odmienić stare ubranie? Pisząc ‘niewiele’ mam na myśli niewiele wysiłku, niewiele czasu i oczywiście niewiele pieniędzy. Jedyne czego potrzeba to inspiracji, a te akurat znajdziemy bez problemu oglądając zdjęcia w internecie, czy przechadzając się po sklepach. Wiadomo też, jak to jest z ciuchami – stare się nudzą, ale jeśli poświęcimy im odrobinę uwagi i włączymy swoją kreatywność, odmienimy je i pokochamy na nowo. Zatem do dzieła artystki!
 </olela-narrative>
 
-![Zdjęcie przedstawia młodą kobietę na niebieskim tle. Kobieta ubrana jest w koszulę z paskiem, ma czerwone usta i szare włosy, a przez środek zdjęcia przechodzi czarna linia.](https://ello-direct-uploads.s3.amazonaws.com/uploads/f1be1d0e-8b70-454f-be77-72c5831c97e0/ello-8ee042b5-0e7f-4c70-b90a-5c2de358430e.jpeg)
 
 ## Winter Trends 2017
 
