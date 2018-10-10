@@ -38,3 +38,21 @@ Wassily zaczął wykładać w szkole artystycznej założonej przez grupę. Nauc
 > 
 
 ![Zdjęcie przedstawia portret kobiety na szarym tle. Kobieta ma lekko przechyloną głowę i trzyma twarz ręką. Na jej lewym policzku widzimy graficzny makijaż.](https://assets0.ello.co/uploads/asset/attachment/8332596/ello-optimized-0f969261.jpg)
+
+## Der Blaue Reiter
+
+Wraz z nadejściem roku 1911 sformułowała się grupa artystyczna Der Blaue Reiter (Błękitny Jeździec). Wystawa-manifest grupy otworzyła swoje drzwi 18 grudnia 1911 roku. Na tytułowej stronie katalogu wystawy widniała deklaracja: „Nie staramy się na tej małej wystawie propagować jakiejś szczególnej, określonej formy; celem naszym jest zaprezentowanie, jak wewnętrzne pragnienie artystów realizuje się na różne sposoby”. Na ekspozycji swoje prace prezentowali, obok Kandinsky’ego, Paul Klee, August Macke, Aleksiej Jawlensky, Marianne von Werefkin, oraz ówczesna miłość Wassily’ego - Gabriele Münter.
+
+Jedna z badaczek sztuki Kandinsky’ego ustaliła, że postać jeźdźca na obrazach i grafikach artysty powstałych w latach 1900-1910 pojawia się aż trzydzieści siedem razy. 
+
+## Bauhaus
+
+W 1919 roku w Weimarze powstała uczelnia artystyczno-rzemieślnicza Bauhaus. Program szkoły formułował ideę syntezy wszystkich sztuk – malarstwa, rzeźby i rzemiosł. Walter Gropius w manifeście założycielskim pisał: „Kompletna budowla jest ostatecznym celem sztuk plastycznych. (…) Architekci, rzeźbiarze, malarze – wszyscy musimy powrócić do rzemiosła. Sztuka jest zawodem, nie ma żadnej różnicy pomiędzy artystą a rzemieślnikiem.” Zrezygnowano zatem w Bauhaus’ie z tytułów naukowych takich jak ‘profesor’ i zastąpiono je ‘mistrzem’, ‘czeladnikiem’. Na zaproszenie Waltera przybył do Weimaru Kandinsky i obrał posadę Formmeistera w dziale malowideł ściennych. Wkrótce twórcza myśl artystów zaczęła wkraczać w życie codzienne. W szkole projektowano wzory mebli, wszelkie elementy wyposażenia wnętrz, nakrycia stołowe.
+Niestety w 1924 roku nowo wybrane konserwatywne władze Weimaru oskarżyły Bauhaus o ‘bolszewizm’, zatem w 1925 roku uczelnia przeniosła się do Dessau. Kandinsky wraz ze swoim przyjacielem Klee nadal prowadzili tam kursy obowiązkowe, do momentu całkowitego zamknięcia szkoły w 1932 roku. Kandinsky wyjechał wtedy do Paryża, Klee do Szwajcarii, a większość wykładowców znalazła posady w Stanach Zjednoczonych.
+
+![Obraz przedstawia dwa zdjęcia kobiety w graficznym makijażu na szarym tle. Zdjęcie z prawej strony jest mniejsze i oprawione w ramkę.](https://assets0.ello.co/uploads/asset/attachment/8332597/ello-optimized-4e3527b6.jpg)
+
+## Kompozycja VIII
+
+Pomimo naukowego podejścia do sztuki Kandinsky był przekonany, że dzięki sztuce abstrakcyjnej można dojść do duchowej iluminacji. W książę ‘Punkt i linia a płaszczyzna’ artysta w sposób obrazowy i poetycki opisuje punkt i jego zależności: „Zarówno jako całość, jak i w szczegółach, jest ona (mowa o kompozycji) ostatecznie zbudowana z punktów (…). Są to kompleksy punktów, które w rozmaitych prawidłowych konstelacjach unoszą się w geometrycznej nieskończoności. (…) Tak wyglądają niektóre nasiona; gdy otworzymy piękną, gładką, ciepłą w tonie makówkę (ostatecznie jest ona również kulistym punktem), odkrywamy w jej wnętrzu gromady kompozycyjne prawidłowo rozmieszczonych, zimnych, niebieskoszarych punktów, w których drzemią siły rozrodcze, zupełnie tak samo jak w punkcie tkwi w zarodku forma malarska”.
+
