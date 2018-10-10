@@ -56,3 +56,11 @@ Niestety w 1924 roku nowo wybrane konserwatywne władze Weimaru oskarżyły Bauh
 
 Pomimo naukowego podejścia do sztuki Kandinsky był przekonany, że dzięki sztuce abstrakcyjnej można dojść do duchowej iluminacji. W książę ‘Punkt i linia a płaszczyzna’ artysta w sposób obrazowy i poetycki opisuje punkt i jego zależności: „Zarówno jako całość, jak i w szczegółach, jest ona (mowa o kompozycji) ostatecznie zbudowana z punktów (…). Są to kompleksy punktów, które w rozmaitych prawidłowych konstelacjach unoszą się w geometrycznej nieskończoności. (…) Tak wyglądają niektóre nasiona; gdy otworzymy piękną, gładką, ciepłą w tonie makówkę (ostatecznie jest ona również kulistym punktem), odkrywamy w jej wnętrzu gromady kompozycyjne prawidłowo rozmieszczonych, zimnych, niebieskoszarych punktów, w których drzemią siły rozrodcze, zupełnie tak samo jak w punkcie tkwi w zarodku forma malarska”.
 
+![Obraz przedstawia graficzne kształty na białym tle.](https://assets1.ello.co/uploads/asset/attachment/8337231/ello-optimized-3a68e70c.jpg)
+
+
+--------------
+
+Korzystałam z książki: Wassily Kandinsky. Wielka kolekcja sławnych malarzy
+ISBN: 978-83-252-0360-3 (t. 64)
+Wydawca: Oxford Educational sp. z o.o.
