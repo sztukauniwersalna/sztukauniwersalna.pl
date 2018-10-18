@@ -3,6 +3,7 @@ title: 'Moje wybory: marzec'
 date: 2018-04-07 11:31:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - marzec
