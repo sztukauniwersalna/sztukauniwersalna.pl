@@ -29,10 +29,6 @@ menu:
   short: Makijaż
   url: "/sztuka-makijazu"
   icon: remove_red_eye
-- title: Sztuka Gotowania
-  short: Kuchnia
-  url: "/sztuka-gotowania"
-  icon: restaurant
 - title: Sztuka dla Sztuki
   short: Sztuka
   url: "/sztuka-dla-sztuki"
