@@ -13,7 +13,7 @@ Witaj na blogu Sztuka Uniwersalna, blogu niepospolitym, ciekawym i inteligentnym
 
 Będzie mi niezmiernie miło jeśli odwiedzisz również [facebook](https://www.facebook.com/sztukauniwersalna/) i [instagram](https://www.instagram.com/sztuka_uniwersalna/), tam bowiem dawka Sztuki Uniwersalnej pojawia się codziennie.
 
-
+![Obraz przedstawia kolaż na jasno-fioletowym tle.](https://assets0.ello.co/uploads/asset/attachment/8377042/ello-optimized-de1f7976.jpg)
 
 
 ## Misja 
