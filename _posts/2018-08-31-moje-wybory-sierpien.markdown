@@ -3,6 +3,7 @@ title: 'Moje wybory: sierpień'
 date: 2018-08-31 15:58:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - moje wybory
 - my choices
