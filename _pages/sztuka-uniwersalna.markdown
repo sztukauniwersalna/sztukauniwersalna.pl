@@ -1,7 +1,6 @@
 ---
 title: Sztuka Uniwersalna
 date: 2017-09-08 19:17:00 +02:00
-permalink: "/kim-jest-olela"
 tags:
 - olela
 - artysta
