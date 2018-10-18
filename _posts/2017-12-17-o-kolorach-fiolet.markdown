@@ -3,6 +3,7 @@ title: 'O kolorach: Fiolet'
 date: 2017-12-17 19:40:00 +01:00
 categories:
 - Sztuka Makijażu
+- Sztuka dla Sztuki
 tags:
 - kolor
 - fiolet
