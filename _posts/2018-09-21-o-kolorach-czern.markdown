@@ -3,6 +3,7 @@ title: 'O kolorach: Czerń'
 date: 2018-09-21 18:59:00 +02:00
 categories:
 - Sztuka Makijażu
+- Sztuka dla Sztuki
 tags:
 - o kolorach
 - czerń
