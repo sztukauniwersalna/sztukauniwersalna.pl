@@ -3,6 +3,7 @@ title: 'Moje wybory: luty'
 date: 2018-02-26 12:20:00 +01:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - inspiracje
