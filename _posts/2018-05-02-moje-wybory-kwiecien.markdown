@@ -3,6 +3,7 @@ title: 'Moje wybory: kwiecień'
 date: 2018-05-02 11:39:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - kwiecień
