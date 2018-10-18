@@ -3,6 +3,7 @@ title: 'Moje wybory: maj'
 date: 2018-05-29 21:48:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - choices
