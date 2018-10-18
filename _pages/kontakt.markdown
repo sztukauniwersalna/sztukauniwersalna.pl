@@ -31,7 +31,7 @@ Nie jesteśmy kolejnym blogiem ‘ładnych, jasnych zdjęć’ i opisów leniwyc
 
 Makijaż (w tym również recenzje produktów kosmetycznych) stanowi 30% treści bloga. Posty z tej kategorii występują w dwóch rodzajach:
 
-* makijaż inspirowany obrazem – autorski makijaż artystyczny, profesjonalne zdjęcia, artykuł.
+* Makijaż inspirowany obrazem – autorski makijaż artystyczny, profesjonalne zdjęcia, artykuł.
 * Moje Wybory – recenzje kosmetyków, profesjonalne zdjęcia.
 
 Posty z serii makijażowej niosą ze sobą wysoką wartość dodaną w postaci wiedzy z zakresu historii sztuki. Większość fotografii wykonywana jest w warunkach studyjnych oraz poddawana profesjonalnej obróbce.
