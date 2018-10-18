@@ -3,6 +3,7 @@ title: Jestem wdzięczna Ci Życie
 date: 2018-06-05 17:23:00 +02:00
 categories:
 - Sztuka Makijażu
+- Sztuka dla Sztuki
 tags:
 - wdzięczność
 - post
