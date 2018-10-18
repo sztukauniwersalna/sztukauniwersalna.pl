@@ -3,6 +3,7 @@ title: 'Moje wybory: czerwiec/lipiec, cz.1'
 date: 2018-07-27 15:02:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - moje wybory
 - wybory
