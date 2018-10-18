@@ -3,6 +3,7 @@ title: 'Moje wybory: styczeń'
 date: 2018-01-24 14:00:00 +01:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - inspiracje
