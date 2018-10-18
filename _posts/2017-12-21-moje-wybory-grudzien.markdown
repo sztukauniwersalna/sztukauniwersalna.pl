@@ -3,6 +3,7 @@ title: 'Moje wybory: grudzień'
 date: 2017-12-21 15:33:00 +01:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - wybory
 - inspiracje
