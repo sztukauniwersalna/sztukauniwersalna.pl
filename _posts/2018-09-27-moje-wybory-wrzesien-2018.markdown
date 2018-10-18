@@ -3,6 +3,7 @@ title: 'Moje wybory: wrzesień 2018'
 date: 2018-09-27 13:41:00 +02:00
 categories:
 - Sztuka Ubioru
+- Sztuka Makijażu
 tags:
 - moje wybory
 - my choices
