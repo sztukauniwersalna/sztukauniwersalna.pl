@@ -4,7 +4,9 @@ date: 2018-10-18 21:49:00 +02:00
 ---
 
 Blog - http://sztukauniwersalna.pl/
+
 Facebook - https://www.facebook.com/sztukauniwersalna/
+
 Instagram - https://www.instagram.com/sztuka_uniwersalna/
 
 
