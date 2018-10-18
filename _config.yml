@@ -33,7 +33,7 @@ menu:
   short: Sztuka
   url: "/sztuka-dla-sztuki"
   icon: palette
-- title: Kim jest Olela?
-  short: O mnie
-  url: "/kim-jest-olela"
+- title: O Blogu
+  short: O Blogu
+  url: "/sztuka-uniwersalna"
   icon: mood
