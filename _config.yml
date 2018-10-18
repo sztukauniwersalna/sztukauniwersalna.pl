@@ -37,3 +37,7 @@ menu:
   short: O Blogu
   url: "/sztuka-uniwersalna"
   icon: mood
+- title: Kontakt
+  short: Kontakt
+  url: "/kontakt"
+  icon: email
