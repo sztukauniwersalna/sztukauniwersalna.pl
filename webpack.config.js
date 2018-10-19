@@ -105,6 +105,10 @@ module.exports = {
           from: 'googlec8e6fdafef950e07.html',
         },
         {
+          context: './_uploads',
+          from: '*.jpg',
+        },
+        {
           context: '.',
           from: 'logo-gradient.png',
         },
