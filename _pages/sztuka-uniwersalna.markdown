@@ -11,7 +11,7 @@ tags:
 
 Witaj na blogu Sztuka Uniwersalna, blogu niepospolitym, ciekawym i inteligentnym. Znajdziesz tutaj autorskie felietony i artykuły, z których mamy nadzieję, że wyniesiesz wiele refleksji. Przeczytasz także recenzje bierzących wystaw artystycznych, odnajdziesz makijażowe inspiracje w postaci charakteryzacji wzorowanych na dziełach sztuki, oraz dowiesz się co nieco o wielkich mistrzach malarstwa. Nie krępuj się, chłoń wiedzę. W każdy pierwszy czwartek miesiąca będzie czekać na Ciebie MOODboard, czyli tablica ukazująca wpływy poszczególnych kierunków artystycznych (okresów) na różne dziedziny twórczości. Na blogu Sztuka Uniwersalna dowiesz się wiele o kolorze oraz jego kulturowym i psychologicznym znaczeniu. Zainspirujesz się modowymi stylizacjami, które przygotujemy dla Ciebie z wieczną ideą odnajdywania sztuki w każdym aspekcie życia. 
 
-Zapraszamy również na codzienną dawkę sztuki na
+Zapraszamy również na codzienną dawkę sztuki na 
 [facebook](https://www.facebook.com/sztukauniwersalna/) i [instagram](https://www.instagram.com/sztuka_uniwersalna/).
 
 
