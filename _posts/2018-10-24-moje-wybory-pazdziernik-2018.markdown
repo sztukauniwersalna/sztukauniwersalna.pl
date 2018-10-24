@@ -47,3 +47,12 @@ Chłodny październik to zdecydowanie czas noszenia czapek i chust (na grube sza
 
 ![Zdjęcie przedstawia profil kobiety w beżowej chustce na głowie. Zdjęcie otoczone jest czarną cienką ramką i grubą ramą zbudowaną z innej fotografii.](https://assets1.ello.co/uploads/asset/attachment/8397332/ello-optimized-335a193d.jpg)
 ![Obraz przedstawia portret kobiety w beżowej chustce na głowie.](https://assets1.ello.co/uploads/asset/attachment/8397335/ello-optimized-f17ac92f.jpg)
+
+
+---------------
+
+Shop My Choices
+
+* [Trophy Wife by Fenty Beauty](http://www.sephora.pl/Makijaz/Cera/Rozswietlacze/Killawatt-Freestyle-Highlighter-Rozswietlacz/P3079031)
+* [Lirene Honey-Linoleique Exclusive Mask](https://www.rossmann.pl/Produkt/Lirene-Lab-Therapy-miodowa-maska-do-masazu-twarzy-na-dzien-i-na-noc-z-kwasem-cytrynowym-i-Linoleiq,431247,7119)
+* [Andrew Wilson Alexander McQueen. Krew pod skórą](https://www.empik.com/alexander-mcqueen-krew-pod-skora-wilson-andrew,p1131043254,ksiazka-p)
