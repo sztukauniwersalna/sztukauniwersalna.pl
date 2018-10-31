@@ -8,6 +8,7 @@ tags:
 - kamp
 - camp
 - sztuka
+- susan sontag
 ---
 
 Susan Sontag jako pierwsza podjęła próbę zdefiniowania zjawiska Kampu. W swoich ‘Notatkach o kampie’ z 1964 roku opisuje go jako sposób patrzenia na świat sztuki. ‘Kamp jest tkliwym uczuciem...’, jest akceptacją tego, co ludzkie. Estetyka niejednoznaczna, trudna do zdefiniowania, jednak pozostająca w pewnych kręgach – kultury gejowskiej, przesadnej teatralności, hermafrodytyzmu. Kamp odnajdujemy również w przedmiotach – tych przerysowanych, nienaturalnych, zbyt męskich, albo zbyt kobiecych. Kamp czerpie z kiczu, jednak kiczem nie jest. Zdaniem Sontag dziedziny taki jak balet czy opera są przesiąknięte kampem, ponieważ żadna z tych form ‘nie potrafi zdać sobie sprawy z komplikacji ludzkiej natury’. Doszukiwanie się głębszego sensu w Jeziorze Łabędzim jest stratą czasu, ponieważ utwór ten służyć ma jedynie cieszeniu nas. 
