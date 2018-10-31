@@ -31,7 +31,7 @@ Cechy Kampu:
 
 Prawdziwy kamp jest celowy i przemyślany, jest światem postrzeganym w kategorii sztuczności i stylizacji.
 
-![Obraz przedstawia cztery fotografie na zielono-różowym tle. Widzimy postać z brodą i dwa zdjęcia z przedstawienia baletowego.](https://assets1.ello.co/uploads/asset/attachment/8418254/ello-optimized-24fdcf06.jpg)
+![Obraz przedstawia cztery fotografie na zielono-różowym tle. Widzimy postać z brodą i dwa zdjęcia z przedstawienia baletowego.](https://assets1.ello.co/uploads/asset/attachment/8431503/ello-optimized-a97ea95f.jpg)
 ![Obraz przedstawia trzy fotografie postaci kobiecych na różowo-żółtym tle.](https://assets0.ello.co/uploads/asset/attachment/8418257/ello-optimized-c0a156a7.jpg)
 ![Obraz przedstawia trzy fotografie na różowo-niebieskim tle. Widzimy rzeźbę znanego artysty, oraz czarno-białe kadry z filmu.](https://assets1.ello.co/uploads/asset/attachment/8418259/ello-optimized-ebcfaccd.jpg)
 ![Obraz przedstawia dwie figurki małpek i jedno zdjęcie na niebiesko-różowym tle. Na zdjęciu widzimy postać otoczoną kwiatami.](https://assets1.ello.co/uploads/asset/attachment/8418260/ello-optimized-bb903f23.jpg)
