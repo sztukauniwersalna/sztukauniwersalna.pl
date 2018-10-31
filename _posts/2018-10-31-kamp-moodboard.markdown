@@ -28,7 +28,7 @@ Cechy Kampu:
 * ironia, sarkazm, specyficzny rodzaj ‘humoru’
 * kolażowość; łączenie skrajnych kategorii pozornie niepasujących do siebie
 
-Prawdziwy kamp jest celowy i przemyślany. 
+Prawdziwy kamp jest celowy i przemyślany, jest światem postrzeganym w kategorii sztuczności i stylizacji.
 
 ![Obraz przedstawia cztery fotografie na zielono-różowym tle. Widzimy postać z brodą i dwa zdjęcia z przedstawienia baletowego.](https://assets1.ello.co/uploads/asset/attachment/8418254/ello-optimized-24fdcf06.jpg)
 ![Obraz przedstawia trzy fotografie postaci kobiecych na różowo-żółtym tle.](https://assets0.ello.co/uploads/asset/attachment/8418257/ello-optimized-c0a156a7.jpg)
