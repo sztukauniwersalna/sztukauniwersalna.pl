@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'Light_of_Iris' by Georgia O'Keeffe
+title: Make-up inspirowany obrazem. 'Light_of_Iris'_by_Georgia_O'Keeffe
 date: 2018-11-07 17:27:00 +01:00
 categories:
 - Sztuka Makijażu
