@@ -20,7 +20,7 @@ Georgia O’Keeffe przychodzi na świat w amerykańskiej rodzinie zajmującej si
 
 W 1905 roku Georgia rozpoczyna naukę malarstwa w Art Institute w Chicago. Trzy lata później otrzymuje nagrodę Williama Merritta Chase'a za obraz olejny „Martwy królik z miedzianym garnkiem”. Nagroda ta stanowi stypendium umożliwiające jej wzięcie udziału w plenerze odbywającym się nad jeziorem George, w stanie Nowy Jork. Jesienią tego roku O’Keeffe rezygnuje z malarstwa i zaczyna nauczać rysunku w szkole podstawowej. Do farb powróci dopiero w 1912 roku. 
 
-Na wiosnę 1917 roku ma miejsce pierwsza wystawa prac Georgii w Nowym Jorku. Galeria 291 Alfreda Stieglitza (eksponowano w niej prace m.in. Pabla Picassa, Henri’ego Matisse’a, Paula Cezanne’a) pokazuje niewielki zbiór jej akwareli z Teksasu. Właściciel galerii zachwycony jest lekkością i prawdą drzemiącą w pracach przyszłej gwiazdy amerykańskiego malarstwa. 
+Na wiosnę 1917 roku ma miejsce pierwsza wystawa prac Georgii w Nowym Jorku. Galeria 291 Alfreda Stieglitza (eksponowano w niej prace Pabla Picassa, Henri’ego Matisse’a, Paula Cezanne’a) pokazuje niewielki zbiór jej akwareli z Teksasu. Właściciel galerii zachwycony jest lekkością i prawdą drzemiącą w pracach przyszłej gwiazdy amerykańskiego malarstwa. 
 Alfred Stieglitz to postać niezwykle ważna dla rozwoju amerykańskiej sztuki. Fotograf, właściciel wpływowej galerii, wydawca, popularyzator nowoczesnych idei artystycznych. W ówczesnym świecie zdominowanym przez płeć męską kobietom było niezwykle trudno ‘przebić się’, zostać dostrzeżoną. Georgii brakowało wiary w siebie, dlatego pomogła jej w tym przyjaciółka, Anita Pollitzer. To właśnie ona, można powiedzieć, zapoczątkowała karierę Georgii pokazując jej prace Alfredowi. Niedługo później okaże się, że zapoczątkowała również jej życie miłosne…
 
 
@@ -34,7 +34,7 @@ Lekko odchylone w lewą stronę, idealne w proporcjach kobiece ciało zdaje się
 
 ## 1929-1949
 
-Pod koniec lat 30-tych O’Keeffe pragnie powiewu świeżych inspiracji. Wyrusza w podróż do Taos, w Nowym Meksyku. Spędza lato na ranczo Mabel Dodge Luhan, gdzie odbywa wiele konnych wypraw po lokalnych górach i pustyniach. W tym czasie powstają słynne dzieła m.in. „Drzewo Lawrence'a”, oraz nietypowe przedstawienie ściany kościoła Ranchos de Taos. Przez kolejne 20 lat Georgia regularnie podróżuje do Nowego Meksyku, a na jesień zawsze wraca do Nowego Jorku. Maluje typowe dla tamtejszej kultury i klimatu motywy kości, czaszek, oraz liczne widoki.
+Pod koniec lat 30-tych O’Keeffe pragnie powiewu świeżych inspiracji. Wyrusza w podróż do Taos, w Nowym Meksyku. Spędza lato na ranczo Mabel Dodge Luhan, gdzie odbywa wiele konnych wypraw po lokalnych górach i pustyniach. W tym czasie powstają słynne dzieła, takie jak „Drzewo Lawrence'a”, oraz nietypowe przedstawienie kościoła Ranchos de Taos. Przez kolejne 20 lat Georgia regularnie podróżuje do Nowego Meksyku, a na jesień zawsze wraca do Nowego Jorku. Maluje typowe dla tamtejszej kultury i klimatu motywy kości, czaszek, oraz liczne widoki.
 
 ## Być kobietą
 
