@@ -30,13 +30,13 @@ Alfred Stieglitz to postać niezwykle ważna dla rozwoju amerykańskiej sztuki. 
 
 Lekko odchylone w lewą stronę, idealne w proporcjach kobiece ciało zdaje się trwać w chwili, której powaga jest jak najdoskonalsza marmurowa rzeźba. Palce lewej dłoni subtelnym gestem owijają się wokół sutka niczym wąż wokół drzewa w ogrodzie Eden. Są manifestacją siły kobiecości. Pełne mądrości i smutku oczy patrzą w dal mijając swoim wzrokiem przedmiot trzymany przez lewą dłoń. Kobietą na fotografii z 1919 roku jest Georgia, a autorem zdjęcia Alfred. Kochankowie doskonale się rozumieją i uzupełniają. Artystka dostarcza partnerowi zrozumienia, partner dba o jej karierę. On negocjuje warunki sprzedaży dzieł, ona pozuje przy okazji śmiałych wizji. On organizuje wystawy, wypłaca pensję, ona pracuje nad kolejnymi obrazami. Kochankowie pobierają się w 1924 (zaraz po rozwodzie Alfreda). Zimne miesiące spędzają na Manhattanie, słońcem zaś cieszą się nad jeziorem George.
 
-![Obraz przedstawia dwa zdjęcia. Z prawej strony widzimy portret kobiety w kolorowym makijażu. Kobieta wznosi wzrok ku górze. Z lewej strony widzimy małe zdjęcie oka.](https://assets0.ello.co/uploads/asset/attachment/8467691/ello-optimized-c4a6edc5.jpg)
+![Zdjęcie przedstawia zbliżenie na oko w artystycznym makijażu.](https://assets2.ello.co/uploads/asset/attachment/8468120/ello-optimized-4de1a026.jpg)
 
 ## 1929-1949
 
 Pod koniec lat 30-tych O’Keeffe pragnie powiewu świeżych inspiracji. Wyrusza w podróż do Taos, w Nowym Meksyku. Spędza lato na ranczo Mabel Dodge Luhan, gdzie odbywa wiele konnych wypraw po lokalnych górach i pustyniach. W tym czasie powstają słynne dzieła, takie jak „Drzewo Lawrence'a”, oraz nietypowe przedstawienie kościoła Ranchos de Taos. Przez kolejne 20 lat Georgia regularnie podróżuje do Nowego Meksyku, a na jesień zawsze wraca do Nowego Jorku. Maluje typowe dla tamtejszej kultury i klimatu motywy kości, czaszek, oraz liczne widoki.
 
-![Zdjęcie przedstawia zbliżenie na oko w artystycznym makijażu.](https://assets2.ello.co/uploads/asset/attachment/8468120/ello-optimized-4de1a026.jpg)
+![Obraz przedstawia dwa zdjęcia. Z prawej strony widzimy portret kobiety w kolorowym makijażu. Kobieta wznosi wzrok ku górze. Z lewej strony widzimy małe zdjęcie oka.](https://assets0.ello.co/uploads/asset/attachment/8467691/ello-optimized-c4a6edc5.jpg)
 
 ## Być kobietą
 
