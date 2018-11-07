@@ -30,7 +30,7 @@ Alfred Stieglitz to postać niezwykle ważna dla rozwoju amerykańskiej sztuki. 
 
 Lekko odchylone w lewą stronę, idealne w proporcjach kobiece ciało zdaje się trwać w chwili, której powaga jest jak najdoskonalsza marmurowa rzeźba. Palce lewej dłoni subtelnym gestem owijają się wokół sutka niczym wąż wokół drzewa w ogrodzie Eden. Są manifestacją siły kobiecości. Pełne mądrości i smutku oczy patrzą w dal mijając swoim wzrokiem przedmiot trzymany przez lewą dłoń. Kobietą na fotografii z 1919 roku jest Georgia, a autorem zdjęcia Alfred. Kochankowie doskonale się rozumieją i uzupełniają. Artystka dostarcza partnerowi zrozumienia, partner dba o jej karierę. On negocjuje warunki sprzedaży dzieł, ona pozuje przy okazji śmiałych wizji. On organizuje wystawy, wypłaca pensję, ona pracuje nad kolejnymi obrazami. Kochankowie pobierają się w 1924 (zaraz po rozwodzie Alfreda). Zimne miesiące spędzają na Manhattanie, słońcem zaś cieszą się nad jeziorem George.
 
-![Zdjęcie przedstawia zbliżenie na oko w artystycznym makijażu.](https://assets2.ello.co/uploads/asset/attachment/8468120/ello-optimized-4de1a026.jpg)
+![Zdjęcie przedstawia zbliżenie na oko w artystycznym makijażu.](https://assets0.ello.co/uploads/asset/attachment/8468376/ello-optimized-8bbe9487.jpg)
 
 ## 1929-1949
 
