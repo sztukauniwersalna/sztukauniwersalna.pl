@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'Light_of_Iris'_by_Georgia_O'Keeffe
+title: Make-up inspirowany obrazem. 'Light_of_Iris' by Georgia_O'Keeffe
 date: 2018-11-07 17:27:00 +01:00
 categories:
 - Sztuka Makijażu
@@ -38,7 +38,7 @@ Pod koniec lat 30-tych O’Keeffe pragnie powiewu świeżych inspiracji. Wyrusza
 
 ## Być kobietą
 
-Georgia to pierwsza kobieta-artystka, która doświadczyła własnej wystawy retrospektywnej w MOMA (Museum of Modern Art) w Nowym Jorku (1946 r.). Jej wielkoformatowe obrazy-kwiaty stanowią formę abstrakcyjnego postrzegania realnej rzeczywistości. Wielu z nas stwierdzi, że kompozycje na pierwszy rzut oka przypominają kolorowe waginy. Krytycy przy okazji jej obrazów wspomną o ‘freudowskich żądzach’, ‘ucieleśnianiu erotycznych fantazji’, a ona im na to odpowie, że ‘mówią o sobie, a nie o niej’. Do końca swoich dni pozostanie wierna sztuce. Podobno chciała mieć dzieci, ale nie zgodził się na nie jej mąż. Podróżowała, jeździła konna, prowadziła auto, robiła wszystko, co wypadało i czego jeszcze nie wypadało robić kobietom w tamtych czasach. Jej strój w męskim charakterze, wraz z upływem czasu przeobrażał się w coraz bardziej ascetyczną formę. Czarne, purystyczne okrycia, brak makijażu, włosy zebrane w kok. Być może artystka zauważyła, że jej malarstwo w większości odbierane jest jako wyraz i pochwała kobiecości i właśnie dlatego zdecydowała się na antypodyczny wizerunek. 
+Georgia to pierwsza kobieta-artystka, która doświadcza własnej wystawy retrospektywnej w MOMA (Museum of Modern Art) w Nowym Jorku (1946 r.). Jej wielkoformatowe obrazy-kwiaty stanowią formę abstrakcyjnego postrzegania realnej rzeczywistości. Wielu z nas stwierdzi, że kompozycje na pierwszy rzut oka przypominają kolorowe waginy. Krytycy przy okazji jej obrazów wspominają o ‘freudowskich żądzach’, ‘ucieleśnianiu erotycznych fantazji’, a ona im na to odpowiada, że ‘mówią o sobie, a nie o niej’. Do końca swoich dni pozostaje wierna sztuce. Podobno chciała mieć dzieci, ale nie zgodził się na nie jej mąż. Podróżuje, jeździ konno, prowadzi auto, robi wszystko, co wypada i czego jeszcze nie wypada robić kobietom w tamtych czasach. Jej strój w męskim charakterze, wraz z upływem czasu przeobraża się w coraz bardziej ascetyczną formę. Czarne, purystyczne okrycia, brak makijażu, włosy zebrane w kok. Być może artystka zauważyła, że jej malarstwo w większości odbierane jest jako wyraz i pochwała kobiecości i właśnie dlatego decyduje się na antypodyczny wizerunek. 
 
 > 
 > Mężczyźni uznają mnie za najlepszą kobietę-malarkę. A ja uważam, że jestem jednym z najlepszych malarzy.
@@ -52,7 +52,7 @@ Georgia tworzy do końca swoich dni. W 1971 roku zaczyna tracić wzrok. Dwa lata
 
 ![Obraz przedstawia abstrakcyjną kompozycję złożoną z elementów zdjęć, na których widzimy oczy.](https://assets1.ello.co/uploads/asset/attachment/8467681/ello-optimized-451899b8.jpg)
 
-Georgia całe życie poświęciła sztuce. Odnajdywała spokój i natchnienie wśród skalistych widoków prerii. Jej malarstwo nie jest jedynie powiększonym kwiatkiem, czy czaszką lewitującą w powietrzu. Poprzez kształt i kolor przeżywała wewnętrzne transformacje, ale też symbolicznie ukazywała otaczającą ją rzeczywistość. Na obrazie ‘Cow’s Skull: Red, White and Blue’ (‘Krowia Czaszka: Czerwony, Biały i Niebieski’) trzy wyróżnione w tytule kolory odnoszą się do kolorów amerykańskiej flagi. ‘Wszyscy dookoła mówili o świetności Ameryki, a żaden z nich nie był po drugiej stronie Hudson’ (cyt: ‘That was at the time that the men were all talking about the Great American Novel, great American Play, the Great American, oh, it was a great American Everything, and I thought they didn’t know anything about America, a lot of them haf never been across the Hudson (…) so I thought I’ll make my picture a red, white and blue (…) I’ll make it an American picture.’
+Georgia całe życie poświęciła sztuce. Odnajdywała spokój i natchnienie wśród skalistych widoków prerii. Jej malarstwo nie jest jedynie powiększonym kwiatkiem, czy czaszką lewitującą w powietrzu. Poprzez kształt i kolor przeżywała wewnętrzne transformacje, ale też symbolicznie ukazywała otaczającą ją rzeczywistość. Na obrazie ‘Cow’s Skull: Red, White and Blue’ (‘Krowia Czaszka: Czerwony, Biały i Niebieski’) trzy wyróżnione w tytule kolory odnoszą się do kolorów amerykańskiej flagi. ‘Wszyscy dookoła mówili o świetności Ameryki, a żaden z nich nie był po drugiej stronie Hudson’ (cyt: ‘That was at the time that the men were all talking about the Great American Novel, great American Play, the Great American, oh, it was a great American Everything, and I thought they didn’t know anything about America, a lot of them haf never been across the Hudson (…) so I thought I’ll make my picture a red, white and blue (…) I’ll make it an American picture.’)
 
 ----------
 
