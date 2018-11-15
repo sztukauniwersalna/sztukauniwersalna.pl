@@ -35,3 +35,14 @@ Arabella Pollen, dziś – pisarka, kiedyś – wschodząca gwiazda brytyjskiej 
 
 Nastał szalony czas pracowania po nocach. ‘Spalić stare, kupić nowe’ to odwieczny paradygmat przemysłu modowego, który był dla Arabelli anomalią i paradoksem. Sukces wymaga innowacji, umiejętności biznesowych i szczęścia. Firma szybko się rozrastała. Wśród stałych klientek znalazła się między innymi Księżna Diana, Margaux Hemingway, Marianne Faithfull. Chiny, USA, Kanada, Niemcy, wszystko kręciło się niczym na karuzeli w wesołym miasteczku. Jednak dla Belli ta przejażdżka okazała się zbyt szybka. ‘Powtarzałam sobie: tego właśnie chciałaś, a tak naprawdę byłam już zmęczona pracą (…), karmieniem piersią i ściganiem się do domu w celu rozgotowania makaronu dla wymagającego Włocha’ (Arabella wyszła za Giacomo - handlarza dziełami sztuki). Była to dla niej desperacka walka o pozostanie przy zdrowych zmysłach. Niedługo później firmę przejęła korporacja, której strategia “one size fits all” (ang. jeden rozmiar pasuje do wszystkiego) osłabiła intuicyjne działania marki. Ostatecznie dobrze prosperujący dom mody zamknął swoje drzwi w 1994 roku. Bella kontynuowała modowy konsulting, a rok później została pisarką. Jej trzecia książka ‘Polowanie na jednorożce’ stała się światowym bestsellerem w 2004 roku. 
 
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy portret kobiety zasłaniającej swoją twarz lewą ręką, z prawej podwójną postać z uniesionymi rękami.](https://assets1.ello.co/uploads/asset/attachment/8502659/ello-optimized-9993af6b.jpg)
+
+
+----------------
+
+Korzystałam z:
+
+* Andrew Wilson. Alexander McQueen. Krew pod skórą.; wydanie I, Kraków 2016, ISBN: 978-83-7924-714-1; str. 119
+* https://www.ft.com/content/ff4bc852-07ea-11e7-ac5a-903b21361b43
+* https://www.youtube.com/watch?v=r0bCkpxaAlo
+* https://en.wikipedia.org/wiki/Arabella_Pollen
