@@ -22,7 +22,7 @@ Na biały, purystyczny wybieg wychodzą modelki w seledynowych kostiumach. Są s
 
 [Zobacz pokaz](https://www.youtube.com/watch?v=r0bCkpxaAlo) 
 
-![obraz przedstawia dwa zdjęcia kobiety z turbanem na głowie. Twarz kobiety oświetlona jest zielonym światłem.](https://assets1.ello.co/uploads/asset/attachment/8502653/ello-optimized-ce08932e.jpg)
+![Obraz przedstawia zdjęcie kobiety z turbanem na głowie. Twarz kobiety oświetlona jest zielonym światłem. Z prawej strony znajduje się kadr na fragment ubrania.](https://assets1.ello.co/uploads/asset/attachment/8506972/ello-optimized-36115ef4.jpg)
 
 
 ## Arabella Pollen
