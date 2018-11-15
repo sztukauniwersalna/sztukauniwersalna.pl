@@ -23,3 +23,12 @@ Na biały, purystyczny wybieg wychodzą modelki w seledynowych kostiumach. Są s
 [Zobacz pokaz](https://www.youtube.com/watch?v=r0bCkpxaAlo) 
 
 ![obraz przedstawia dwa zdjęcia kobiety z turbanem na głowie. Twarz kobiety oświetlona jest zielonym światłem.](https://assets1.ello.co/uploads/asset/attachment/8502653/ello-optimized-ce08932e.jpg)
+
+
+## Arabella Pollen
+
+Początek lat 90-tych był czasem kryzysu brytyjskiego przemysłu modowego. Ceny domów mody zaczęły spadać, głównie w wyniku wysokiego oprocentowania i zawyżonego kursu walut. Sytuacja w kraju musiała się ustatkować. Wielu projektantów (John Galliano, Vivienne Westwood, Katharine Hamnett…) postanowiło zaprezentować swoje kolekcje za granicą. Dbali o swój biznes i nie mogli pozwolić sobie na przestój. Problemu nie stanowił brak młodych talentów, lecz pieniądze. 
+
+Arabella Pollen, dziś – pisarka, kiedyś – wschodząca gwiazda brytyjskiej mody. Dorastała w latach 70-tych na Manhattanie. Klimat tamtych lat sprzyjał obserwacji mody i formowaniu się nowych trendów. Kolorowy street-wear inspirował, a w powietrzu wisiała perspektywa zmian, praw człowieka, ruchu ‘Czarne jest piękne’. Arabella wyjechała do College’u w Londynie i jak sama wspomina, w tamtych czasach wizja pracy w modzie, w ogóle nie przychodziła jej do głowy. Znalazła się w niej dzięki uprzejmości innych. Znajoma znajomej powiadomiła znajomą pracującą w Vogue o sukience, którą uszyła Arabella. Wszystko potoczyło się bardzo szybko. Sponsorzy zainwestowali w jej talent. W wieku 20-stu lat założyła markę odzieżową sygnowaną jej imieniem. Arabella Pollen zasłynęła ze świetnie skrojonych garniturów. Prezentowała klasyczne, dowcipne, ale przede wszystkim seksowne ubrania dla silnej kobiety. ‘The Independent’ pisał o niej: ‘Projektantka wyraźnych, kolorowych ubrań dla młodego pokolenia.’
+
+![Fotografia przedstawia portret kobiety w kraciastym turbanie. Kobieta lewą ręką dotyka twarzy.](https://assets1.ello.co/uploads/asset/attachment/8502649/ello-optimized-f2e5aece.jpg)
