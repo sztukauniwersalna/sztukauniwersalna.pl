@@ -5,7 +5,6 @@ categories:
 - Sztuka Ubioru
 tags:
 - arabella pollen
-- bella pollen
 - fashion
 - designer
 - second hand
