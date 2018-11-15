@@ -37,7 +37,8 @@ Nastał szalony czas pracowania po nocach. ‘Spalić stare, kupić nowe’ to o
 
 ![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy portret kobiety zasłaniającej swoją twarz lewą ręką, z prawej podwójną postać z uniesionymi rękami.](https://assets1.ello.co/uploads/asset/attachment/8502659/ello-optimized-9993af6b.jpg)
 
-
+**Stylizacja:**
+Aksamitny żakiet Arabella Pollen: tania odzież; chusta: tania odzież; bluzka: Stradivarius; spódnica: tania odzież; kolczyki: H&M
 ----------------
 
 Korzystałam z:
