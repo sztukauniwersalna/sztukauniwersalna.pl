@@ -42,7 +42,7 @@ Nastał szalony czas pracowania po nocach. ‘Spalić stare, kupić nowe’ to o
 
 Korzystałam z:
 
-* Andrew Wilson. Alexander McQueen. Krew pod skórą.; wydanie I, Kraków 2016, ISBN: 978-83-7924-714-1; str. 119
+* Andrew Wilson, 'Alexander McQueen. Krew pod skórą', wydanie I, Kraków 2016, ISBN: 978-83-7924-714-1, str. 119
 * https://www.ft.com/content/ff4bc852-07ea-11e7-ac5a-903b21361b43
 * https://www.youtube.com/watch?v=r0bCkpxaAlo
 * https://en.wikipedia.org/wiki/Arabella_Pollen
