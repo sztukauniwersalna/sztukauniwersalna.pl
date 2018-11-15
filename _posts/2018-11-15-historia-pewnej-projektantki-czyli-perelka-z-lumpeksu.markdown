@@ -1,6 +1,14 @@
 ---
 title: Historia pewnej projektantki, czyli perełka z lumpeksu.
 date: 2018-11-15 11:36:00 +01:00
+categories:
+- Sztuka Ubioru
+tags:
+- arabella pollen
+- bella pollen
+- fashion
+- designer
+- second hand
 ---
 
 ![Zdjęcie przedstawia portret kobiety w turbanie. Kobieta ma zarzucony żakiet na bok ciała i czerwone usta.](https://assets0.ello.co/uploads/asset/attachment/8502656/ello-optimized-8ef94531.jpg)
