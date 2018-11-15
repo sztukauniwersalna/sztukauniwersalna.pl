@@ -9,6 +9,7 @@ tags:
 - fashion
 - designer
 - second hand
+- Fall 1991/1992 London
 ---
 
 ![Zdjęcie przedstawia portret kobiety w turbanie. Kobieta ma zarzucony żakiet na bok ciała i czerwone usta.](https://assets0.ello.co/uploads/asset/attachment/8502656/ello-optimized-8ef94531.jpg)
