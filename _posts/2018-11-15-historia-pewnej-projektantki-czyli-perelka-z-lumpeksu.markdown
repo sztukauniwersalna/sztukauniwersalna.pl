@@ -1,0 +1,17 @@
+---
+title: Historia pewnej projektantki, czyli perełka z lumpeksu.
+date: 2018-11-15 11:36:00 +01:00
+---
+
+![Zdjęcie przedstawia portret kobiety w turbanie. Kobieta ma zarzucony żakiet na bok ciała i czerwone usta.](https://assets0.ello.co/uploads/asset/attachment/8502656/ello-optimized-8ef94531.jpg)
+
+Dawno, dawno temu, w jednym z modowych [wpisów](http://sztukauniwersalna.pl/2017-10-18-stylizacje-za-grosze-czyli-pokochaj-lumpeksy) starałam się udowodnić Wam, jakie cuda znaleźć można w sklepach z odzieżą używaną. Chociaż od czasów, kiedy 'perełkę od dizajnera' można było kupić za złotówkę wiele się zmieniło. Wraz z dostępem do informacji rośnie świadomość konsumentów i... sprzedawców. Dziś już praktycznie każda z nas wie, kim był Christian Dior, wie, że o dodatkach sygnowanych tą marką marzą kobiety na całym świecie. Pamiętam, jak kiedyś udało mi się 'upolować' klasyczną, skórzaną torbę Furla, ponieważ żadna z pań w sklepie nie wiedziała, co to za marka. Dziś jest inaczej. Dziś już nie liczę na takie skarby, dziś liczę się z tym, że skarb zgarnie przede mną ktoś inny. Liczę się również z tym, że rzeczy w sklepach z tanią odzieżą wcale nie są tak tanie, jak parę lat temu. Te w dobrym stanie i z dobrą metką wiszą na wieszakach wycenione indywidualnie. Może się okazać, że ich cena równa się z ceną nowego ubrania w sieciówce. Cóż... Istnieje jednak nadal jeden powód, dla którego warto zajrzeć do lumpeksu od czasu, do czasu - okazów muzealnych w sieciówkach nie kupimy, a tutaj i owszem, może się taki trafić. 
+
+
+## Fall 1991/1992 London
+
+Na biały, purystyczny wybieg wychodzą modelki w seledynowych kostiumach. Są soczystą zielenią od stóp do głów. Zielony żakiet, skrojony na miarę początku lat 90-tych (wąska talia, szerokie ramiona). Krótka spódniczka cięta z koła i zielone (nieco infantylne) rajstopy. Dumne żabie nosicielki nie wychodzą na wybieg pojedynczo, lecz wkraczają nań trójkami zataczając koła. Zaraz po nich pojawia się kolejna, tym razem śliwkowa trójca. Ciemny fiolet, oberżyna oblewa kolejne damy. Kolor został dobrany do karnacji modelek, które wydają się być pochodzenia latynoskiego. Rozszerzane fioletowe spodnie, golf, znów żakiet. Wszystko idealnie skrojone, materiał ‘leje się’ w doskonały sposób podkreślając delikatność ruchu. Kolejna wkracza czerwień. Cynober rozpala nasze zmysły zachowując równowagę po zimnych tonach. Ostatnia – królowa czerń. Wirują czarne sylwetki z lekkością rajskich ptaków. Kiedy już widz oswaja się z total look’ami i zaczyna rozumieć pattern pokazu następuje zmiana. Na wybiegu pojawią się stroje, które w sposób płaszczyznowy łączą uprzednio zobaczone barwy. Czarne kozaki, seledynowe rajstopy, czarna sukienka, czerwony golf, czerwona kieszeń na czarnym żakiecie. Do tego skórzane kaszkiety. Czy zaraz na scenie pojawi się MC Hammer?
+
+[Zobacz pokaz](https://www.youtube.com/watch?v=r0bCkpxaAlo) 
+
+![obraz przedstawia dwa zdjęcia kobiety z turbanem na głowie. Twarz kobiety oświetlona jest zielonym światłem.](https://assets1.ello.co/uploads/asset/attachment/8502653/ello-optimized-ce08932e.jpg)
