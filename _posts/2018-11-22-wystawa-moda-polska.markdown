@@ -60,3 +60,15 @@ Na środku sali drugiego piętra umieszczone są dwa podesty w kształcie jaskó
 ![Zdjęcie przedstawia czarnego manekina sfotografowanego od dołu. Manekin ma na sobie biało-czarny strój i dziwne nakrycie głowy.](https://assets1.ello.co/uploads/asset/attachment/8528468/ello-optimized-23855e1a.jpg)
 ![Zdjęcie przedstawia czarnego manekina sfotografowanego od dołu. Manekin ma na sobie czarny strój i jego prawa ręka jest uniesiona.](https://assets0.ello.co/uploads/asset/attachment/8528478/ello-optimized-daa4a50c.jpg)
 
+Oprócz dwóch głównych podestów z kreacjami, dookoła sali spotykam grupy manekinek ubranych w różnego rodzaju zestawy. Niektóre z nich pochodzą z kolekcji letnich i prezentują piękno lnianego beżu. Inne zaś są kreacjami balowymi z obficie bufiastymi bufkami. Wszystko jest doskonale przemyślane, a ja faktycznie czuję się jak w wehikuł czasu. Przechodzę wzrokiem od lnianej sukienki do kompletu w kolorową pepitkę. Chętnie założyłabym szary płaszcz w kratę i złotą broszkę w kształcie dłoni. Mijam młodą dziewczynę, która szkicuje jeden z kompletów. Taka wystawa mogłaby być wystawą stałą, wiele osób skorzystałoby z dostępności do takiej masy inspiracji. Orientuję się, że na wystawie spędziłam 3 godziny. Fakt ten nie oznacza nic innego - ta wystawa jest po prostu bardzo dobra. 
+
+![Obraz przedstawia dwa zdjęcia czarnych manekinów ubranych w beżowe kreacje.](https://assets1.ello.co/uploads/asset/attachment/8528454/ello-optimized-90dcf483.jpg)
+![Obraz przedstawia trzy zdjęcia czarnego manekina ubranego w beżowy kombinezon.](https://assets0.ello.co/uploads/asset/attachment/8528446/ello-optimized-b2bfc900.jpg)
+![Obraz przedstawia dwa zdjęcia. Na jednym widzimy manekina ubranego w niebieski płaszcz, na drugim zbliżenie na złotą broszkę przypiętą do płaszcza.](https://assets1.ello.co/uploads/asset/attachment/8528440/ello-optimized-2b3a7213.jpg)
+![Zdjęcie przedstawia dwa czarne manekiny stojące obok siebie, manekiny ubrane są w kolorowe stroje.](https://assets1.ello.co/uploads/asset/attachment/8528477/ello-optimized-088586da.jpg)
+![Obraz przedstawia dwa zdjęcia. Widzimy fragmenty manekinów ubranych w kolorowe stroje z czerwonymi chustami na głowach.](https://assets1.ello.co/uploads/asset/attachment/8528464/ello-optimized-f95e6aed.jpg)
+![Zdjęcie przedstawia cztery manekiny ubrane w czerwony, niebieski, żółty i zielony kostium.](https://assets0.ello.co/uploads/asset/attachment/8528482/ello-optimized-6c2a50d1.jpg)
+![Obraz przedstawia dwa zdjęcia, które są fragmentami zielonego i żółtego kostiumu.](https://assets0.ello.co/uploads/asset/attachment/8528475/ello-optimized-b5343a61.jpg)
+![Zdjęcie przedstawia fragmenty manekinów ubrane w jasne, lniane stroje.](https://assets2.ello.co/uploads/asset/attachment/8528479/ello-optimized-32f7610c.jpg)
+![Obraz przedstawia dwa zdjęcia. Po lewej widzimy grupę manekinów ubranych w beżowe, lniane stroje, po prawej zbliżenie na detale.](https://assets2.ello.co/uploads/asset/attachment/8528458/ello-optimized-2f954185.jpg)
+![Zdjęcie przedstawia grupę czarnych manekinów ubranych na szaro.](https://assets1.ello.co/uploads/asset/attachment/8528480/ello-optimized-0d16eac0.jpg)
