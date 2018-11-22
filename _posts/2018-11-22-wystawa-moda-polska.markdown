@@ -57,4 +57,6 @@ Na środku sali drugiego piętra umieszczone są dwa podesty w kształcie jaskó
 ![Zdjęcie przedstawia czarnego manekina ubranego w czerwoną sukienkę stojącego na podeście.](https://assets0.ello.co/uploads/asset/attachment/8528469/ello-optimized-b26db85d.jpg)
 ![Obraz przedstawia dwa zdjęcia manekinów ubranych na czarno-czerwono. Oboje mają na głowach kapelusze z dużym rondem.](https://assets2.ello.co/uploads/asset/attachment/8528442/ello-optimized-9cea696c.jpg)
 ![Obraz przedstawia dwa zdjęcia. Po lewej widzimy fragment manekina ubranego w czerwoną sukienkę, po prawej jego głowę udekorowaną fikuśnym kapeluszem.](https://assets1.ello.co/uploads/asset/attachment/8528455/ello-optimized-6d5cc426.jpg)
-![](
+![Zdjęcie przedstawia czarnego manekina sfotografowanego od dołu. Manekin ma na sobie biało-czarny strój i dziwne nakrycie głowy.](https://assets1.ello.co/uploads/asset/attachment/8528468/ello-optimized-23855e1a.jpg)
+![Zdjęcie przedstawia czarnego manekina sfotografowanego od dołu. Manekin ma na sobie czarny strój i jego prawa ręka jest uniesiona.](https://assets0.ello.co/uploads/asset/attachment/8528478/ello-optimized-daa4a50c.jpg)
+
