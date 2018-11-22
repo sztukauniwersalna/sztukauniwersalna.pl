@@ -45,3 +45,13 @@ Dolne piętro ekspozycji zbudowane jest na przestrzeni otwartej. Na równie czar
 ![Zdjęcie przedstawia pomieszczenie z czarnymi ścianami, na których wiszą małe fotografie oprawione w ramki.](https://assets0.ello.co/uploads/asset/attachment/8528376/ello-optimized-7c32946b.jpg)
 ![Obraz przedstawia dwa zdjęcia rysunków oprawionych w ramy.](https://assets1.ello.co/uploads/asset/attachment/8528485/ello-optimized-6ffbd8b3.jpg)
 ![Obraz przedstawia dwa zdjęcia. Na jednym widzimy ciemne pomieszczenie z wiszącymi ramkami na ścianach, na drugim czarne manekiny ubrane w szare materiały.](https://assets0.ello.co/uploads/asset/attachment/8528394/ello-optimized-3019a2a3.jpg)
+
+## Black & Red
+
+Na środku sali drugiego piętra umieszczone są dwa podesty w kształcie jaskółczego logo. Jeden z nich zdominowany jest przez czarne, wieczorowe kreacje. Drugi zaś oblężony przez dumne manekinki ubrane raz w czerwień, raz w czerń. Antkowiak słabość do czerni ma do dziś. Jesienią 1968 roku prasa tak pisała o jednym z pokazów: ‘To był piękny, wspaniały, elegancki… pogrzeb’. Na wystawie nie czuję się jak na pogrzebie, lecz jak w najlepszym salonie Zary. Suknie, spódnice, bluzki, żakiety mają tak współczesną formę, że bez problemu widziałabym je w niejednej z modnych sieciówek. Jedyne, co odróżnia ‘stare modele’ od nowych jest jakość wykonania. Te uszyte ponad 30 lat temu zachowały swą formę do dziś i nadal wyglądają świetnie, czego nie można powiedzieć o bluzce z H&M po pierwszym praniu. 
+
+![Zdjęcie przedstawia ciemną przestrzeń muzeum.](https://assets1.ello.co/uploads/asset/attachment/8528443/ello-optimized-58a6434e.jpg)
+![Obraz przedstawia dwa zdjęcia manekinów ubranych w czarne koronkowe sukienki.](https://assets2.ello.co/uploads/asset/attachment/8528445/ello-optimized-d630b292.jpg)
+![Obraz przedstawia dwa zdjęcia manekinów w różnych pozycjach. Manekiny mają na sobie ciemne ubrania.](https://assets0.ello.co/uploads/asset/attachment/8528448/ello-optimized-2799bc63.jpg)
+![Zdjęcie przedstawia plecy dwóch siedzących manekinów ubranych w ciemne ubrania.](https://assets0.ello.co/uploads/asset/attachment/8528459/ello-optimized-2ba26ce4.jpg)
+![Zdjęcie przedstawia czarnego manekina stojącego na pode w czerwonej sukience.](https://assets0.ello.co/uploads/asset/attachment/8528469/ello-optimized-b26db85d.jpg)
