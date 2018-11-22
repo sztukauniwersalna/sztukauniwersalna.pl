@@ -72,3 +72,13 @@ Oprócz dwóch głównych podestów z kreacjami, dookoła sali spotykam grupy ma
 ![Zdjęcie przedstawia fragmenty manekinów ubrane w jasne, lniane stroje.](https://assets2.ello.co/uploads/asset/attachment/8528479/ello-optimized-32f7610c.jpg)
 ![Obraz przedstawia dwa zdjęcia. Po lewej widzimy grupę manekinów ubranych w beżowe, lniane stroje, po prawej zbliżenie na detale.](https://assets2.ello.co/uploads/asset/attachment/8528458/ello-optimized-2f954185.jpg)
 ![Zdjęcie przedstawia grupę czarnych manekinów ubranych na szaro.](https://assets1.ello.co/uploads/asset/attachment/8528480/ello-optimized-0d16eac0.jpg)
+
+-------------------
+
+Wystawy można doświadczyć we wtorek i środę od 09:00-17:00, od czwartku do soboty w godz. 12:00-19:00, oraz w niedzielę od 09:00-17:00. W poniedziałki muzeum jest nieczynne.
+
+* Centralne Muzeum Włókiennictwa w Łodzi, ul. Piotrkowska 282
+* bilet normalny w cenie 10zł, bilet ulgowy w cenie 6 zł
+* więcej informacji [tutaj](http://www.muzeumwlokiennictwa.pl/wydarzenie/wybrane/jerzy-antkowiak-moda-polska,73) 
+
+![Zdjęcie przedstawia ciemne pomieszczenie, które oświetla jedynie biały neon z napisem.](https://assets2.ello.co/uploads/asset/attachment/8528444/ello-optimized-c589c310.jpg)
