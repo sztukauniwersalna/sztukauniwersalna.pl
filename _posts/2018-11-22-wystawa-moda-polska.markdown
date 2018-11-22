@@ -31,3 +31,17 @@ Zwiedzanie wystawy zaczynam od najwyższego piętra. Przekraczając próg znajdu
 ![Zdjęcie przedstawia kolorowe materiały ułożone na stole, zamknięte w szklanej gablocie.](https://assets2.ello.co/uploads/asset/attachment/8528309/ello-optimized-0016706c.jpg)
 ![Obraz przedstawia cztery niewyraźne zdjęcia postaci na ciemnym tle.](https://assets0.ello.co/uploads/asset/attachment/8528408/ello-optimized-2ae09cf4.jpg)
 ![Obraz przedstawia zdjęcie kobiety w berecie i różowym swetrze, która robi sobie zdjęcie w lustrze. Pod zdjęciem znajduje się opis.](https://assets0.ello.co/uploads/asset/attachment/8528312/ello-optimized-e033ea13.jpg)
+
+## Jaskółka
+
+Jeden z najwspanialszych polskich znaków graficznych, jakie kiedykolwiek zaprojektowano. Kojarzy się z lecącym ptakiem, ale też męskim frakiem. Podobno amarantowy akcent w postaci łebka ptaszyska nawiązywać miał do pomadki i lakieru do paznokci. Sprawcą genialnej graficznej formy jest Jerzy Treutler. W 1958 roku zgłosiła się do niego współpracująca z Modą Polską Xymena Zaniewska z prośbą opracowania znaku. Brief był krótki: ‘lansujemy aktualną modę europejską’. Logo wykorzystywane było do sygnowania odzieży, pojawiło się na sweterkach sprzedawczyń, w biżuterii, na pierwszym serwisie kawowym projektu Antkowiaka. Jaskółka świeciła swym blaskiem również jako neon na szczycie domów handlowych w centrum Warszawy. 
+
+![Obraz przedstawia dwa zdjęcia. Na górze przedmioty zamknięte w szklanej gablocie, na dole zbliżenie na czerwoną wizytówkę.](https://assets1.ello.co/uploads/asset/attachment/8528307/ello-optimized-578de915.jpg)
+
+## Piętro II
+
+Dolne piętro ekspozycji zbudowane jest na przestrzeni otwartej. Na równie czarnych ścianach wiszą modowe szkice Jerzego Antkowiaka, fotografie gotowych kreacji, okładki historycznych magazynów. Prace ułożone są w sposób chronologiczny, a nad każdym ze zbiorów umieszczona została tabliczka z datą powstania. Zaczynamy z lewej strony, od lat 60-tych, okrążając pomieszczenie i kończąc na roku 1998. Niesamowicie jest zobaczyć przekrój tylu lat projektowania mody. Wraz ze zmieniającymi się trendami, dojrzewał także styl projektanta. Pierwsze szkice są niezwykle oszczędne w formie, przypominają proste znaki graficzne. Im dalej w czasie, tym prace nabierają rozmachu, kolorów, dynamiki. Pod koniec XX wieku stają się profesjonalnym rysunkiem modowym. To idealny moment na kontemplację wrażliwej kreski. Zachwyciłam się szkicami i niemal każdemu zrobiłam zdjęcie. 
+
+![Zdjęcie przedstawia pomieszczenie z czarnymi ścianami, na których wiszą małe fotografie oprawione w ramki.](https://assets0.ello.co/uploads/asset/attachment/8528376/ello-optimized-7c32946b.jpg)
+![Obraz przedstawia dwa zdjęcia rysunków oprawionych w ramy.](https://assets1.ello.co/uploads/asset/attachment/8528485/ello-optimized-6ffbd8b3.jpg)
+![Obraz przedstawia dwa zdjęcia. Na jednym widzimy ciemne pomieszczenie z wiszącymi ramkami na ścianach, na drugim czarne manekiny ubrane w szare materiały.](https://assets0.ello.co/uploads/asset/attachment/8528394/ello-optimized-3019a2a3.jpg)
