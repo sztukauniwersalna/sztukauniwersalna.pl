@@ -30,7 +30,7 @@ Zwiedzanie wystawy zaczynam od najwyższego piętra. Przekraczając próg znajdu
 ![Obraz przedstawia dwa zdjęcia kolorowej tkaniny zamkniętej w szklanej gablocie.](https://assets2.ello.co/uploads/asset/attachment/8528300/ello-optimized-71ffa991.jpg)
 ![Zdjęcie przedstawia kolorowe materiały ułożone na stole, zamknięte w szklanej gablocie.](https://assets2.ello.co/uploads/asset/attachment/8528309/ello-optimized-0016706c.jpg)
 ![Obraz przedstawia cztery niewyraźne zdjęcia postaci na ciemnym tle.](https://assets0.ello.co/uploads/asset/attachment/8528408/ello-optimized-2ae09cf4.jpg)
-![Obraz przedstawia zdjęcie kobiety w berecie i różowym swetrze, która robi sobie zdjęcie w lustrze. Pod zdjęciem znajduje się opis.](https://assets0.ello.co/uploads/asset/attachment/8528572/ello-optimized-02dbc39d.jpg)
+![Obraz przedstawia zdjęcie kobiety w berecie i różowym swetrze, która robi sobie zdjęcie w lustrze. Pod zdjęciem znajduje się opis.](https://assets0.ello.co/uploads/asset/attachment/8528648/ello-optimized-c25ddd0c.jpg)
 
 ## Jaskółka
 
