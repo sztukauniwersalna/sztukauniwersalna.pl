@@ -5,7 +5,6 @@ categories:
 - Sztuka dla Sztuki
 tags:
 - wystawa
-- exhibition
 - moda polska
 - jaskółka
 - antkowiak
@@ -26,4 +25,9 @@ Zbiory, które znajdziemy na wystawie pochodzą głównie z kolekcji Jerzego Ant
 
 Zwiedzanie wystawy zaczynam od najwyższego piętra. Przekraczając próg znajduję się nagle w ciemnej przestrzeni oświetlonej jedynie subtelnymi neonami. Ściany całej ekspozycji są czarne, klimat mroczny, co potęguje wrażenie cofnięcia się w czasie. Górne piętro poświęcone jest w całości historii Mody Polskiej. Idąc po kształcie litery ‘U’ czytam o początkach marki, jej rozwoju, kluczowych momentach, o osobach z nią związanych, o wpływach, o poszczególnych pokazach i projektach. Stroje, szkice, dokumenty zamknięte w szklanych gablotach opowiadają historię czasów, kiedy Moda Polska wypuszczała 6 kolekcji rocznie, które składały się nawet z 500 modeli. Sklepy marki mieściły się w najlepszych lokalizacjach, a każdy marzył, aby posiadać choć jedną rzecz sygnowaną znakiem słynnej jaskółki. Czytam również o ciężkich czasach, kiedy po wprowadzeniu stanu wojennego w 1981 roku Moda Polska po raz pierwszy nie wysłała swoich projektantów do Paryża. Kiedy brakowało materiałów i kamizelki szyło się ze starych spodni. W ściany wbudowane zostały małe ekraniki, na których przewijają się filmy z pokazów. Jakość z kasety VHS i czerń ścian wprawiają mnie w sentymentalny nastrój. Modelki na wybiegach poruszają się w zupełnie inny sposób niż współczesne dziewczyny w tym zawodzie. Mam wrażenie, że są bardziej swobodne, mimo wymogów pokazu zachowują swój indywidualny charakter. Ta część wystawy kończy się wielkim gadającym lustrem w złotej ramie. Lustro należało do Jadwigi Grabowskiej i towarzyszyło jej przy przymiarkach przez wszystkie lata modowej kariery.
 
-
+![Zdjęcie przedstawia dwa ekrany, na których wyświetlany jest czarno-biały film.](https://assets0.ello.co/uploads/asset/attachment/8528277/ello-optimized-97ae1185.jpg)
+![Obraz przedstawia dwa zdjęcia starych gazet. Na zdjęciu z lewej strony gazeta umieszczona została w drewnianej skrzynce.](https://assets2.ello.co/uploads/asset/attachment/8528299/ello-optimized-0ab762d0.jpg)
+![Obraz przedstawia dwa zdjęcia kolorowej tkaniny zamkniętej w szklanej gablocie.](https://assets2.ello.co/uploads/asset/attachment/8528300/ello-optimized-71ffa991.jpg)
+![Zdjęcie przedstawia kolorowe materiały ułożone na stole, zamknięte w szklanej gablocie.](https://assets2.ello.co/uploads/asset/attachment/8528309/ello-optimized-0016706c.jpg)
+![Obraz przedstawia cztery niewyraźne zdjęcia postaci na ciemnym tle.](https://assets0.ello.co/uploads/asset/attachment/8528408/ello-optimized-2ae09cf4.jpg)
+![Obraz przedstawia zdjęcie kobiety w berecie i różowym swetrze, która robi sobie zdjęcie w lustrze. Pod zdjęciem znajduje się opis.](https://assets0.ello.co/uploads/asset/attachment/8528312/ello-optimized-e033ea13.jpg)
