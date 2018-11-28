@@ -58,4 +58,4 @@ Shop My Choices
 
 * [Thalgo Cold Cream Marine](http://sklep.thalgo.pl/produkt/face-care/3568/nutri-soothing_cream_50_ml.aspx)
 * [Anastasia Beverly Hills Modern Renaissance](http://www.sephora.pl/Makijaz/Palety-i-Zestawy/Do-oczu/Modern-Renaissance-Paleta-cieni-do-powiek/P2678023)
-* [Maria Kuncewiczowa Cudzoziemka]https://www.taniaksiazka.pl/ksiazka/cudzoziemka-maria-kuncewiczowa?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfBukUcYq67wGQli097B9Bc0jjOt25CSO-ckxlz-Ef9vbErdag-9syBoCmKcQAvD_BwE&gclsrc=aw.ds)
+* [Maria Kuncewiczowa Cudzoziemka](https://www.taniaksiazka.pl/ksiazka/cudzoziemka-maria-kuncewiczowa?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfBukUcYq67wGQli097B9Bc0jjOt25CSO-ckxlz-Ef9vbErdag-9syBoCmKcQAvD_BwE&gclsrc=aw.ds)
