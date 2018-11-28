@@ -52,6 +52,7 @@ Bywają takie dni, kiedy wychodzisz na zewnątrz w pośpiechu zarzucając na sie
 ![Zdjęcie przedstawia portret kobiety w różowym berecie.](https://assets0.ello.co/uploads/asset/attachment/8549322/ello-optimized-2eb4ef28.jpg)
 ![Obraz przedstawia dwa zdjęcia kobiety w warkoczykach z czarnym beretem na głowie.](https://assets1.ello.co/uploads/asset/attachment/8549327/ello-optimized-c98b4fd3.jpg)
 
+----------------
 
 Shop My Choices
 
@@ -59,3 +60,6 @@ Shop My Choices
 * [Thalgo Cold Cream Marine](http://sklep.thalgo.pl/produkt/face-care/3568/nutri-soothing_cream_50_ml.aspx)
 * [Anastasia Beverly Hills Modern Renaissance](http://www.sephora.pl/Makijaz/Palety-i-Zestawy/Do-oczu/Modern-Renaissance-Paleta-cieni-do-powiek/P2678023)
 * [Maria Kuncewiczowa Cudzoziemka](https://www.taniaksiazka.pl/ksiazka/cudzoziemka-maria-kuncewiczowa?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAiAlvnfBRA1EiwAVOEgfBukUcYq67wGQli097B9Bc0jjOt25CSO-ckxlz-Ef9vbErdag-9syBoCmKcQAvD_BwE&gclsrc=aw.ds)
+
+
+![Obraz przedstawia grafikę złożoną z czarno-białych zdjęć, cyfr i kolorowych kształtów.](https://assets2.ello.co/uploads/asset/attachment/8549328/ello-optimized-1843b525.jpg)
