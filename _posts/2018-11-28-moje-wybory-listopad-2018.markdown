@@ -37,7 +37,8 @@ Zimno, wiatr, zanieczyszczenia środowiska istotnie wpływają na wygląd i stan
 
 ## Lektura
 
-„- Mój kraj… W Taganrogu nie chodziłam do cerkwi, tylko do kościoła. Koleżanki, kiedy pop szedł korytarzem, odsuwały się ode mnie: Polaczka. A w kościele kazania były po francusku i nikt na mnie jak na swoją nie patrzył… Do Warszawy przyjechałam – powiedzieli: ‘moskiewka, akcent kacapski i śniada jak diablica’. W Petersburgu – warszawskaja barysznia. Nad Wołgę mąż zawiózł – grafinia ze stolicy, artystka. Teraz na starość do Warszawy i z powrotem. Znowu to samo: ‘pani z kresów czy z Rosji? Bo od razu poznać, że obca’. No i tutaj: eine Fremde… Czyż nieprawda? Zawsze i wszędzie tak: cudzoziemka.”
+>
+> - Mój kraj… W Taganrogu nie chodziłam do cerkwi, tylko do kościoła. Koleżanki, kiedy pop szedł korytarzem, odsuwały się ode mnie: Polaczka. A w kościele kazania były po francusku i nikt na mnie jak na swoją nie patrzył… > Do Warszawy przyjechałam – powiedzieli: ‘moskiewka, akcent kacapski i śniada jak diablica’. W Petersburgu – warszawskaja barysznia. Nad Wołgę mąż zawiózł – grafinia ze stolicy, artystka. Teraz na starość do Warszawy i z powrotem. Znowu to samo: ‘pani z kresów czy z Rosji? Bo od razu poznać, że obca’. No i tutaj: eine Fremde… Czyż nieprawda? Zawsze i wszędzie tak: cudzoziemka.
 
 ![Obraz przedstawia otwartą książkę na jasnym tle.](https://assets0.ello.co/uploads/asset/attachment/8549319/ello-optimized-cc9e7668.jpg)
 
