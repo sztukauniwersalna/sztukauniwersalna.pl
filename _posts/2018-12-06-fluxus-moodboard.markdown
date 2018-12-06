@@ -26,3 +26,11 @@ Jednak czy Fluxus na pewno się zakończył? Jego spuścizna nieustannie działa
 
 
 
+![Obraz przedstawia trzy czarno-białe grafiki na szarym tle.](https://assets2.ello.co/uploads/asset/attachment/8596053/ello-optimized-b16c9890.jpg)
+![Obraz przedstawia cztery fotografie przedmiotów na szarym tle.](https://assets2.ello.co/uploads/asset/attachment/8596056/ello-optimized-fddc1289.jpg)
+![Obraz przedstawia cztery fotografie. Widzimy czarno-białą fotografię kobiety i mężczyzny, oraz fotografie dzieł znanych artystów.](https://assets1.ello.co/uploads/asset/attachment/8596060/ello-optimized-a429436d.jpg)
+![Obraz przedstawia dwie czarno-białe fotografie na szarym tle. Na zdjęciach widzimy kobiecą postać.](https://assets0.ello.co/uploads/asset/attachment/8596064/ello-optimized-33f18cdf.jpg)
+![Obraz przedstawia trzy czarno-białe fotografie, oraz jedno zdjęcie tekstu na białym papierze. Całość na szarym tle.](https://assets2.ello.co/uploads/asset/attachment/8596074/ello-optimized-4911291f.jpg)
+![Obraz przedstawia trzy fotografie, z czego jedna jest fotografią kolorową. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/8596080/ello-optimized-3c365d1c.jpg)
+![Obraz przedstawia cztery fotografie w szarych odcieniach. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/8596082/ello-optimized-40b8a51c.jpg)
+![Obraz przedstawia jasny tekst na szarym tle.](https://assets1.ello.co/uploads/asset/attachment/8596087/ello-optimized-abee7ccc.jpg)
