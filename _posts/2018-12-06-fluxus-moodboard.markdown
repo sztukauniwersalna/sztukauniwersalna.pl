@@ -35,4 +35,4 @@ Jednak czy Fluxus na pewno się zakończył? Jego spuścizna nieustannie działa
 ![Obraz przedstawia trzy czarno-białe fotografie, oraz jedno zdjęcie tekstu na białym papierze. Całość na szarym tle.](https://assets2.ello.co/uploads/asset/attachment/8596074/ello-optimized-4911291f.jpg)
 ![Obraz przedstawia trzy fotografie, z czego jedna jest fotografią kolorową. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/8596080/ello-optimized-3c365d1c.jpg)
 ![Obraz przedstawia cztery fotografie w szarych odcieniach. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/8596082/ello-optimized-40b8a51c.jpg)
-![Obraz przedstawia jasny tekst na szarym tle.](https://assets1.ello.co/uploads/asset/attachment/8596087/ello-optimized-abee7ccc.jpg)
+![Obraz przedstawia jasny tekst na szarym tle.](https://assets1.ello.co/uploads/asset/attachment/8596224/ello-optimized-c680e0d6.jpg)
