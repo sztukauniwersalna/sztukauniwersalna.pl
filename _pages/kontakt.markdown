@@ -51,5 +51,4 @@ Zastrzegamy sobie prawo do odmowy współpracy w przypadku gdy produkt nie speł
 ## Nasi Partnerzy
 
 <div style={{ display: 'inline-block', width: '440px', height: '220px', background: 'url(/rimmel-logo.jpg)', }} />
-<div style={{ display: 'inline-block', width: '440px', height: '220px', background: 'url(/kontigo-logo.jpg)', }} />
 
