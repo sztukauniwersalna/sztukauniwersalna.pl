@@ -19,7 +19,7 @@ Pozdrawiam i do napisania :)
 **Co wyróżnia Sztukę Uniwersalną?**
 
 Blog Sztuka Uniwersalna narodził się z pasji do Sztuki i idei odkrywania jej w życiu codziennym. Wszystkie teksty, zdjęcia, kolaże są autorskie, co stanowi o unikatowej wartości prezentowanych treści.
-Nie jesteśmy kolejnym blogiem ‘ładnych, jasnych zdjęć’ i opisów leniwych dni. Chcemy zachęcać do odkrywania sztuki, tworzenia jej, zdobywania specyficznej wiedzy. Dostarczamy inspiracji z zakresu mody, makijażu. Pomagamy w wyborze dobrych kosmetyków i wartościowych treści. Tworzymy nową, uniwersalną rzeczywistość.
+Chcemy zachęcać do odkrywania sztuki, tworzenia jej, zdobywania specyficznej wiedzy. Dostarczamy inspiracji z zakresu mody, makijażu. Pomagamy w wyborze dobrych kosmetyków i wartościowych treści. Tworzymy nową, uniwersalną rzeczywistość.
 
 ### Treść bloga
 
