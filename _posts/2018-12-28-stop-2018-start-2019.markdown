@@ -6,9 +6,10 @@ categories:
 - Sztuka Makijażu
 tags:
 - stop
+- '2018'
 - start
-- nowy rok
 - '2019'
+- nowy rok
 ---
 
 ## STOP
