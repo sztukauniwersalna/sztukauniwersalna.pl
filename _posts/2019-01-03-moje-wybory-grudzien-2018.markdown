@@ -33,7 +33,7 @@ Hybrydowe kosmetyki są połączeniem pielęgnacji i makijażu. Dla przykładu �
 
 ## Kosmetyk: kolorówka 1
 
-Nowość od Nars - tusz Climax. Maskara, która robić ma wszystko – wydłużać, pogrubiać, zagęszczać i idealnie rozczesywać nasze rzęsy. Innowacyjne rozwiązanie w postaci silikonowej szczoteczki, która swoim kształtem imituje szczoteczkę z włosia. Każde rzęsy lubią się z inną szczotką, moje bardzo polubiły się z tą. Tusz faktycznie idealnie rozczesuje, nie skleja, nie robi efektu ‘pajęczych łapek’. Dla maksymalnego pogrubienia polecam nakładać kilka warstw. Dodatkowo ciekawe czerwone opakowanie wyróżnia się swoim niebanalnym dizajnem.
+Nowość od Nars - tusz Climax. Maskara, która robić ma wszystko – wydłużać, pogrubiać, zagęszczać i idealnie rozczesywać nasze rzęsy. Innowacyjne rozwiązanie w postaci silikonowej szczoteczki, która swoim kształtem imituje szczoteczkę z włosia. Każde rzęsy lubią się z inną szczotką, moje bardzo polubiły się z tą. Tusz faktycznie idealnie rozczesuje, nie skleja, nie robi efektu ‘pajęczych łapek’. Dla maksymalnego pogrubienia polecam nakładać kilka warstw. Dodatkowo ciekawe czerwone opakowanie wyróżnia się swoim niebanalnym dizajnem na tle popularnych tuszy do rzęs.
 
 ![Obraz przedstawia tusz do rzęs w czerwonym opakowaniu leżący na białym tle obok czerwonego notesu i choinkowej gałęzi.](https://assets2.ello.co/uploads/asset/attachment/8792022/ello-optimized-ed02750a.jpg)
 
