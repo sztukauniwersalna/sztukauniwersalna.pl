@@ -42,3 +42,14 @@ Nowość od Nars - tusz Climax. Maskara, która robić ma wszystko – wydłuża
 Orgasm - najbardziej kultowy odcień różu zamknięty w szklanej buteleczce. Nałożony na policzki za pomocą luźnego pędzla daje efekt zdrowego, dziewczęcego rumieńca. Róże to jedne z moich ulubionych kosmetyków, odmładzają i są niezwykle wielofunkcyjne – można pomalować nimi oczy, usta, wykonturować twarz. Warto mieć w swojej kosmetyczne kilka odcieni różu i stosować je dopasowując do całego makijażu. Ten z Nars sprawdza się idealnie położony na podkład (jeśli nie chcemy używać pudru) lub bezpośrednio na zapudrowaną twarz. Dzięki milionom drobinek twarz nabiera blasku i subtelności. Pamiętajcie, aby nie przesadzić, wystarczy mała kropelka roztarta pędzlem na wierzchu dłoni.
 
 ![Zdjęcie przedstawia buteleczkę z kosmetykiem leżącą na białym podłożu obok czerwonej książki.](https://assets1.ello.co/uploads/asset/attachment/8792006/ello-optimized-85da8aae.jpg)
+
+
+----------------
+
+Shop My Choices
+
+* [Kalendarz by Radzka](https://editio.pl/ksiazki/kalendarz-2019-magdalena-kanoniak,ka2019.htm#format/d)
+* [Algenist Reveal Concentrated Color Correcting Drops](https://www.lookfantastic.pl/algenist-reveal-concentrated-colour-correcting-drops-15ml-various-shades/11426219.html)
+* [Algenist Reveal Concentrated Luminizing Drops](https://www.lookfantastic.pl/algenist-reveal-concentrated-luminizing-drops-15ml-various-shades/11426215.html)
+* [Nars Climax Mascara](http://www.sephora.pl/Makijaz/Oczy/Tusze-do-rzes/Climax-Mascara-Maskara-Zwiekszajaca-Objetosc-Rzes/P3425004)
+* [Nars Orgasm Liquid Blush](http://www.sephora.pl/Makijaz/Cera/Roze-do-policzkow/Liquid-Blush-Plynny-roz/P2959011)
