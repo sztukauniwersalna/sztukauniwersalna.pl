@@ -17,7 +17,7 @@ tags:
 
 Grudzień jest miesiącem pełnym skrajności. W panicznie rozpędzonym poszukiwaniu prezentów zaczynamy robić roczny rachunek sumienia. Zwalniamy trochę planując cele na przyszłe 365 dni po to, aby za moment znów przyspieszyć na zakręcie zbliżającej się zabawy sylwestrowej. Sukienka musi być świecąca, a rzęsy długie i gęste. Nasza skóra narażona na stresy zimowego czasu czerwieni się i traci blask. Na ratunek przychodzą maseczki, sera i bazy. Te z zielonym pigmentem ukryją niechciane naczynka, a te z drobinkami dodadzą naszej cerze blasku. W końcu błyszczeć chcemy nie tylko jednej nocy. Słodki pudrowy róż jest kolorem grudnia. Załóżmy go na siebie, również na policzki. Kolejny dobry rok za nami.
 
-![Obraz przedstawia kilka fotografii połączonych ze sobą. Na zdjęciach widzimy czerwony notes, przedmioty na białym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/c48f81b5-3c91-461f-aecf-6ef279ead52d/ello-ad1907cf-4d82-4f67-9587-5730941c4366.jpeg)
+![Obraz przedstawia kilka fotografii połączonych ze sobą. Na zdjęciach widzimy czerwony notes, przedmioty na białym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/1bb0c1d2-a14e-4737-b55b-5a5689f05854/ello-fac58b0b-f39c-480b-8332-247e59dfe8be.jpeg)
 
 ## Kalendarz
 
