@@ -48,7 +48,7 @@ Orgasm - najbardziej kultowy odcień różu zamknięty w szklanej buteleczce. Na
 
 Shop My Choices
 
-* [Kalendarz by Radzka](https://editio.pl/ksiazki/kalendarz-2019-magdalena-kanoniak,ka2019.htm#format/d)
+* [Kalendarz by Radzka 2019](https://editio.pl/ksiazki/kalendarz-2019-magdalena-kanoniak,ka2019.htm#format/d)
 * [Algenist Reveal Concentrated Color Correcting Drops](https://www.lookfantastic.pl/algenist-reveal-concentrated-colour-correcting-drops-15ml-various-shades/11426219.html)
 * [Algenist Reveal Concentrated Luminizing Drops](https://www.lookfantastic.pl/algenist-reveal-concentrated-luminizing-drops-15ml-various-shades/11426215.html)
 * [Nars Climax Mascara](http://www.sephora.pl/Makijaz/Oczy/Tusze-do-rzes/Climax-Mascara-Maskara-Zwiekszajaca-Objetosc-Rzes/P3425004)
