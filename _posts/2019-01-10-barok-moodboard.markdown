@@ -6,7 +6,6 @@ categories:
 tags:
 - moodboard
 - barok
-- baroque
 - rembrandt
 - caravaggio
 - vermeer
