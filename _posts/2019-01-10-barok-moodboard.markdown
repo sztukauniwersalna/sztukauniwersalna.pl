@@ -14,16 +14,20 @@ tags:
 - bernini
 ---
 
-**Termin: **
+**Termin**
+
 Barok – prawdopodobnie z portugalskiego – *barroco*: perła o nieregularnym kształcie, z włoskiego -dziwność, nietypowość.
 
-**Czas: **
+**Czas**
+
 Koniec XVI wieku, cały wiek XVII, do początków wieku XVIII.
 
-**Miejsce:** 
+**Miejsce** 
+
 Włochy, Francja, Hiszpania, Niderlandy, Niemcy, Anglia.
 
-**Dziedziny:**
+**Dziedziny**
+
 filozofia, literatura, muzyka, teatr, architektura, rzeźba, malarstwo
 
 Schyłek epoki renesansu przynosi ze sobą zmiany światopoglądowe. Niegdyś stawiany w centrum człowiek kurczy się, staje twarzą w twarz ze swoją ulotnością. Naśladujący piękno natury Renesans zastępuje Barok wyrażający uczucia. Ład i harmonia ustępują miejsca chaosowi, który wydaje się być, mimo wszystko, chaosem kontrolowanym. Barokowe dzieła sztuki wzbudzają u widza niepokój, stawiają pytania o śmierć, przemijanie, czas. Tam, gdzie racjonalizm spotyka się z empiryzmem figury świętych ukazywane są w doświadczeniu ekstazy. Mocny światłocień na obrazach (Rembrandt, Caravaggio, Velazquez) stawia odbiorcę w konfrontacji z tajemnicą. Większość scen na obrazach to sceny świeckie, religijne, mitologiczne, portrety. Płótna, z pozoru poprawne, pełne są symbolicznych ‘smaczków’, np. wyolbrzymienia proporcji odpowiednich postaci. Klasyczny porządek architektoniczny zaprzyjaźnia się ze skręconym kolumnami i bogatą dekoracyjnością. Rzeźba barokowa zyskuje dodatkową siłę ekspresji poprzez mocny skręt ciała postaci i delikatne, a zarazem dynamiczne ukazanie licznych fałd draperii. Moda barokowa to dla dam czas noszenia bogato zdobionych sukien z fortugałem (metalowy stelaż służący do zwiększenia szerokości spódnicy), sztywnymi stanikami, podwójnymi rękawami. Początkowo służąca do ochrony dekoltu przed kurzem kryza staje się odrębnym elementem stroju. Najszersze kryzy miały średnice dochodzące do 30,5 cm. 
