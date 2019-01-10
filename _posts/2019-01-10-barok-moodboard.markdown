@@ -9,13 +9,17 @@ tags:
 - baroque
 ---
 
-Termin: Barok – prawdopodobnie z portugalskiego – *barroco*: perła o nieregularnym kształcie, z włoskiego -dziwność, nietypowość.
+**Termin: **
+Barok – prawdopodobnie z portugalskiego – *barroco*: perła o nieregularnym kształcie, z włoskiego -dziwność, nietypowość.
 
-Czas: Koniec XVI wieku, cały wiek XVII, do początków wieku XVIII.
+**Czas: **
+Koniec XVI wieku, cały wiek XVII, do początków wieku XVIII.
 
-Miejsce: Włochy, Francja, Hiszpania, Niderlandy, Niemcy, Anglia.
+**Miejsce:** 
+Włochy, Francja, Hiszpania, Niderlandy, Niemcy, Anglia.
 
-Dziedziny: filozofia, literatura, muzyka, teatr, architektura, rzeźba, malarstwo
+**Dziedziny:**
+filozofia, literatura, muzyka, teatr, architektura, rzeźba, malarstwo
 
 Schyłek epoki renesansu przynosi ze sobą zmiany światopoglądowe. Niegdyś stawiany w centrum człowiek kurczy się, staje twarzą w twarz ze swoją ulotnością. Naśladujący piękno natury Renesans zastępuje Barok wyrażający uczucia. Ład i harmonia ustępują miejsca chaosowi, który wydaje się być, mimo wszystko, chaosem kontrolowanym. Barokowe dzieła sztuki wzbudzają u widza niepokój, stawiają pytania o śmierć, przemijanie, czas. Tam, gdzie racjonalizm spotyka się z empiryzmem figury świętych ukazywane są w doświadczeniu ekstazy. Mocny światłocień na obrazach (Rembrandt, Caravaggio, Velazquez) stawia odbiorcę w konfrontacji z tajemnicą. Większość scen na obrazach to sceny świeckie, religijne, mitologiczne, portrety. Płótna, z pozoru poprawne, pełne są symbolicznych ‘smaczków’, np. wyolbrzymienia proporcji odpowiednich postaci. Klasyczny porządek architektoniczny zaprzyjaźnia się ze skręconym kolumnami i bogatą dekoracyjnością. Rzeźba barokowa zyskuje dodatkową siłę ekspresji poprzez mocny skręt ciała postaci i delikatne, a zarazem dynamiczne ukazanie licznych fałd draperii. Moda barokowa to dla dam czas noszenia bogato zdobionych sukien z fortugałem (metalowy stelaż służący do zwiększenia szerokości spódnicy), sztywnymi stanikami, podwójnymi rękawami. Początkowo służąca do ochrony dekoltu przed kurzem kryza staje się odrębnym elementem stroju. Najszersze kryzy miały średnice dochodzące do 30,5 cm. 
 
@@ -35,7 +39,7 @@ Cechy stylu barokowego:
 
 **Ważne**
 
-Jeśli mówimy o chaosie i dysharmonii w odniesieniu do sztuki baroku, nie mamy na myśli totalnego nieładu. Kościoły, pałace, czy inne budowle barokowe nadal projektowane i budowane były na planie symetrycznych planów (np. plan krzyża). Termin ‘chaos’ odnosimy więc do wcześniejszej epoki (renesansu), która czciła antyczny porządek.
+Jeśli mówimy o chaosie i dysharmonii w odniesieniu do sztuki baroku, nie mamy na myśli totalnego nieładu. Kościoły, pałace, czy inne budowle barokowe nadal projektowane i budowane były na planie symetrycznych planów (np. plan krzyża). Termin ‘chaos’ odnosimy więc do wcześniejszej epoki (renesansu), która w sposób szczególny czciła antyczny porządek.
 
 
 ![Obraz przedstawia trzy obrazy znanych artystów na bordowym tle.](https://assets1.ello.co/uploads/asset/attachment/8834722/ello-optimized-4d242dc1.jpg)
