@@ -42,3 +42,8 @@ Jeśli mówimy o chaosie i dysharmonii w odniesieniu do sztuki baroku, nie mamy 
 ![Obraz przedstawia dwa obrazy znanych artystów na bordowym tle.](https://assets0.ello.co/uploads/asset/attachment/8834730/ello-optimized-ad8e3610.jpg)
 ![Obraz przedstawia jeden obraz znanego artysty, oraz dwie fotografie modelek. Całość na bordowym tle.](https://assets1.ello.co/uploads/asset/attachment/8834735/ello-optimized-d7184cdd.jpg)
 ![Obraz przedstawia cztery fotografie. Dwie z nich przedstawiają barokową rzeźbę we wnętrzu, jedna jest zdjęciem modelki w złotym nakryciu głowy.](https://assets0.ello.co/uploads/asset/attachment/8834740/ello-optimized-b90fbeed.jpg)
+![Obraz przedstawia siedem fotografii. Widzimy modelki w czarno-złotych strojach, oraz złote buty na obcasie. Całość na bordowym tle.](https://assets0.ello.co/uploads/asset/attachment/8834746/ello-optimized-e5606328.jpg)
+![Obraz przedstawia trzy zdjęcia barokowych budowli na bordowym tle.](https://assets2.ello.co/uploads/asset/attachment/8834750/ello-optimized-69bdc533.jpg)
+![Obraz przedstawia trzy zdjęcia. Na jednym z nich widzimy portret królowej w bogato zdobionej sukni, na kolejnym kadr filmu a na ostatnim fragment postaci w szarej sukience.](https://assets0.ello.co/uploads/asset/attachment/8834759/ello-optimized-3f6aaa44.jpg)
+![Obraz przedstawia cztery zdjęcia na bordowym tle. Widzimy tatuaż, fresk na sklepieniu świątyni, krucyfiks, geometryczny ornament , oraz kompozycję z fragmentów produktów spożywczych.](https://assets1.ello.co/uploads/asset/attachment/8834761/ello-optimized-ceb9d9a4.jpg)
+![Obraz przedstawia jasne opisy i fragment ornamentu na bordowym tle.](https://assets0.ello.co/uploads/asset/attachment/8834764/ello-optimized-dcc86731.jpg)
