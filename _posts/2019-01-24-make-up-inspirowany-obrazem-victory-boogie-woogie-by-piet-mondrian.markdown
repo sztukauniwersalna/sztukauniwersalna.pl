@@ -38,3 +38,7 @@ Moja technika, która była bardziej lub mniej kubistyczna, a zatem mniej lub ba
 Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne miejsce znajduje manifest Pieta Mondriana.
 
 ![Fotografia przedstawia portret kobiety w kolorowym makijażu i czarnym skórzanym berecie.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8930179/ello-optimized-9f39d1d9.jpg)
+
+> 
+> 
+> ‘Buduję linie i kombinacje kolorów na płaskiej powierzchni, aby wyrazić ogólne piękno z najwyższą świadomością. Natura (lub to, co widzę) inspiruje mnie, stawia mnie, tak jak u każdego malarza, w stanie emocjonalnym, tak, że pojawia się potrzeba zrobienia czegoś, ale chcę zbliżyć się do prawdy i oddzielić wszystko, dopóki nie dojdę do fundamentu (wciąż tylko zewnętrznego fundamentu!) rzeczy ...’
