@@ -29,7 +29,7 @@ Ojciec Pieta Mondriana (a właściwie Pietera Cornelisa Mondriaana) był nauczy
 
 ## Paris
 
-Początek XX wieku to dla Mondriana okres paryski. Osiedlił się na parę lat w stolicy Francji. Zintegrowany z paryską awangardą tworzył pod wpływem kubizmu. Wtedy też zmienił swoje nazwisko rezygnując z podwójnej samogłoski ‘a’. Poszczególne prace z tego czasu pokazują eksperymenty z geometrią i różnicowanem planów (seria wizerunków drzew). Była to jednak jedynie część malarskiej drogi, a nie cel sam w sobie. 
+Początek XX wieku to dla Mondriana okres paryski. Osiedlił się na parę lat w stolicy Francji. Zintegrowany z paryską awangardą tworzył pod wpływem kubizmu. Wtedy też zmienił swoje nazwisko rezygnując z podwójnej samogłoski ‘a’. Poszczególne prace z tego czasu pokazują eksperymenty z geometrią i różnicowaniem planów (seria wizerunków drzew). Była to jednak jedynie część malarskiej drogi, a nie cel sam w sobie. 
 
 ##  Netherlands
 
