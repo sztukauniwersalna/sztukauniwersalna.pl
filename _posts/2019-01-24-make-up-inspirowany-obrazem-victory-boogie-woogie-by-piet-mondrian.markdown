@@ -34,8 +34,8 @@ Początek XX wieku to dla Mondriana okres paryski. Osiedlił się na parę lat w
 ##  Netherlands
 
 Kiedy w 1914 roku Mondrian odwiedzał Holandię doszło do wybuchu Pierwszej Wojny Światowej, co zmusiło go do osiedlenia się tam na parę lat. Przebywając w Laren na północy Holandii poznał malarzy  Bart van der Lecka i Theo van Doesburga. Obie sylwetki wywarły duży wpływ na jego abstrakcyjne postrzeganie rzeczywistości. W 1916 roku po spotkaniu z Van der Leckiem artysta pisał: ‘
-Moja technika, która była bardziej lub mniej kubistyczna, a zatem mniej lub bardziej obrazowa, znalazła się pod wpływem jego precyzyjnej metody’
-Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne miejsce znajduje manifest Pieta Mondriana.
+Moja technika, która była bardziej lub mniej kubistyczna, a zatem mniej lub bardziej obrazowa, znalazła się pod wpływem jego precyzyjnej metody’.
+Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne miejsce znajduje neoplastyczny manifest Pieta Mondriana.
 
 ![Fotografia przedstawia portret kobiety w kolorowym makijażu i czarnym skórzanym berecie.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8930179/ello-optimized-9f39d1d9.jpg)
 
