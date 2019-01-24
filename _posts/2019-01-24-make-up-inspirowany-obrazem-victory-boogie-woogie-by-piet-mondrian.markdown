@@ -42,3 +42,23 @@ Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne
 > 
 > 
 > ‘Buduję linie i kombinacje kolorów na płaskiej powierzchni, aby wyrazić ogólne piękno z najwyższą świadomością. Natura (lub to, co widzę) inspiruje mnie, stawia mnie, tak jak u każdego malarza, w stanie emocjonalnym, tak, że pojawia się potrzeba zrobienia czegoś, ale chcę zbliżyć się do prawdy i oddzielić wszystko, dopóki nie dojdę do fundamentu (wciąż tylko zewnętrznego fundamentu!) rzeczy ...’
+
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy portret kobiety w czarnym berecie i artystycznym makijażu. Z prawej strony czarno-białe zdjęcie ukazuje jej twarz wpisaną w figurę geometryczną.](https://ello-direct-uploads.s3.amazonaws.com/uploads/04260f30-17f3-475a-bd8f-8ee0d9f722bb/ello-aee8c16c-dd22-4cdc-95f9-3b41ce5f3d2a.jpeg)
+
+## New York
+
+Ostatnie lata życia artysta spędził na Manhattanie. Tam powstały neoplastyczne kompozycje praktycznie pozbawione czerni. Linearność spotkała się z trzema zasadniczymi kolorami. Dla okresu nowojorskiego najbardziej reprezentatywną jest seria kolorowych krat ‘New York City’. Kompozycje zdają się być mniej perfekcyjne, tworzone z pewną dozą frywolności. 
+Jego prace zapoczątkowały powojenną ewolucję abstrakcyjnej sztuki. 
+
+
+>
+>
+>‘Wierzę, że poprzez budowanie poziomych i pionowych linii z najwyższą świadomością, a nie kalkulacją, prowadzonych przez wysoką intuicję i doprowadzonych do harmonii i rytmu, te podstawowe formy piękna, uzupełnione w razie potrzeby o inne bezpośrednie linie lub krzywe, mogą stać się dziełem sztuki, tak silnym, jak to jest prawdą.’
+
+![Zdjęcie przedstawia portret kobiety w kolorowym makijażu. Kobieta ma na sobie czarną bluzkę i beret.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8930175/ello-optimized-abb93599.jpg)
+
+## Victory Boogie-Woogie 1944
+
+‘Victory Boogie-Woogie’ - ostatni (niedokończony z powodu śmierci) obraz mistrza. Był wyrazem oczekiwań związanych z wygraną II Wojny Światowej.
+Wielu krytyków widzi w tym obrazie odbicie Nowego Yorku. Tętniące życiem i światłami miasto uporządkowane w geometrycznym systemie ulic. Dla mnie stanowi on synestezję muzyki i sztuki – ten obraz wyjaśnia mi jak brzmi boogie-woogie. Symbolizm ‘niedokończenia’ w kontekście konfliktu budzi niepewność, co do frywolnego tytułu. Być może wojna staje się w tej sytuacji utworem przygrywanym Śmierci do tańca. 
+
