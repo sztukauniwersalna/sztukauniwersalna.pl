@@ -47,7 +47,7 @@ Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne
 
 ## New York
 
-Ostatnie lata życia artysta spędził na Manhattanie. Tam powstały neoplastyczne kompozycje praktycznie pozbawione czerni. Linearność spotkała się z trzema zasadniczymi kolorami. Dla okresu nowojorskiego najbardziej reprezentatywną jest seria kolorowych krat ‘New York City’. Kompozycje zdają się być mniej perfekcyjne, tworzone z pewną dozą frywolności. 
+Ostatnie lata życia artysta spędził na Manhattanie. Tam powstały neoplastyczne kompozycje praktycznie pozbawione czerni. Linearność spotkała się z trzema zasadniczymi kolorami. Dla okresu nowojorskiego najbardziej reprezentatywną jest seria kolorowych krat ‘New York City’. Kompozycje zdają się być mniej perfekcyjne, tworzone z pewną dozą lekkości. 
 Jego prace zapoczątkowały powojenną ewolucję abstrakcyjnej sztuki. 
 
 
@@ -61,4 +61,12 @@ Jego prace zapoczątkowały powojenną ewolucję abstrakcyjnej sztuki.
 
 ‘Victory Boogie-Woogie’ - ostatni (niedokończony z powodu śmierci) obraz mistrza. Był wyrazem oczekiwań związanych z wygraną II Wojny Światowej.
 Wielu krytyków widzi w tym obrazie odbicie Nowego Yorku. Tętniące życiem i światłami miasto uporządkowane w geometrycznym systemie ulic. Dla mnie stanowi on synestezję muzyki i sztuki – ten obraz wyjaśnia mi jak brzmi boogie-woogie. Symbolizm ‘niedokończenia’ w kontekście konfliktu budzi niepewność, co do frywolnego tytułu. Być może wojna staje się w tej sytuacji utworem przygrywanym Śmierci do tańca. 
+
+-------------------
+
+Korzystałam z :
+
+* https://www.piet-mondrian.org/victory-boogie-woogie.jsp
+* https://en.wikipedia.org/wiki/Piet_Mondrian
+* http://bazhum.muzhp.pl/media//files/Sztuka_i_Filozofia/Sztuka_i_Filozofia-r1993-t6/Sztuka_i_Filozofia-r1993-t6-s190-202/Sztuka_i_Filozofia-r1993-t6-s190-202.pdf
 
