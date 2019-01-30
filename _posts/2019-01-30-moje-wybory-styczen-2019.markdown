@@ -39,7 +39,7 @@ Kobieta powinna mieć w swojej szafie co najmniej trzy modele torebek – torbę
 Książka chińskiego pisarza Cixin Liu kryje pod sowim fizycznym tytułem doskonałą powieść fantastycznonaukową. Pierwsza część cyklu ‘Wspomnienia o przeszłości Ziemi’ przenosi nas w świat sieciowej gry, której tajemnice stara się rozwikłać naukowiec Wang Miao. Mieszkańcy planety w świecie Trzech Ciał zagrożeni są niedającym się określić w czasie oddziaływaniem grawitacyjnym trzech słońc. Jej mieszkańcy muszą na przemian odwadniać się (wchodzić w stan hibernacji) lub budzić do życia. Władcy kolejnych dynastii starają się rozwikłać zagadkę i ustalić kalendarz Er Stabilności i Chaosu. Sytuacja staje się coraz bardziej skomplikowana i napięta, a fikcja okazuje się…
 Zachęcam do lektury. 
 
-![Obraz przedstawia zdjęcie książki na jasnym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/88af5a07-ab7d-4c61-8001-2f31e3927957/ello-1ff4115f-0a85-4b4e-9912-c4490ee86215.jpeg}
+![Obraz przedstawia zdjęcie książki na jasnym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/88af5a07-ab7d-4c61-8001-2f31e3927957/ello-1ff4115f-0a85-4b4e-9912-c4490ee86215.jpeg)
 
 ## Zapach
 
