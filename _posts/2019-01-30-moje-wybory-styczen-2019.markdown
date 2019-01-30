@@ -46,7 +46,8 @@ Zachęcam do lektury.
 Mój gust zapachowy na przestrzeni lat nie uległ zmianie. Uwielbiam słodkie zapachy otulające zmysły waniliową podstawą. ‘Florence’ by Roberto Cavalli to stosunkowo nowa kompozycja stworzona przez Marie Salamagne, pojawiła się na rynku w 2018 roku. W pięknie zdobionym flakonie kryje się uosobienie różnorodności i klimat włoskiego miasta. Inspiracja zaczyna się wraz z cytrusowym uderzeniem mandarynki i porzeczki (nuta głowy). Powoli kierując się w stronę środka odkrywamy serce całej kompozycji - bukiet białych kwiatów, który rozpływa się delikatnie wokół nasion hibiskusa. Pomimo iż cały zapach klasyfikuje się jako kwiatowy jest on propozycją typowo zimową. Nutę bazy stanowi mieszanka paczuli, bursztynu i piżma. Jego trwałość doskonale sprawdza się na naturalnych włóknach grubego swetra. Polecam (jeszcze) zimowo.
 
 ![Obraz przedstawia dwa zdjęcia perfum w fioletowym otoczeniu.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8967436/ello-optimized-1a9d906b.jpg)
-![Obraz przedstawia trzy zdjęcia w różnych formatach. Są to zdjęcia perfum z różowych odcieniach.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8967437/ello-optimized-1d9e64b4.jpg)
+![Obraz przedstawia dwa zdjęcia w różnych formatach. Są to zdjęcia perfum z różowych odcieniach.](https://ello-direct-uploads.s3.amazonaws.com/uploads/93630bfa-0106-42c9-8929-4f40ec27fdda/ello-598b8f14-0aec-49eb-b09a-78a840462ee1.jpeg)
+![Obraz przedstawia zdjęcie flakonu perfum w otoczeniu kwiatów.](https://ello-direct-uploads.s3.amazonaws.com/uploads/d15829db-17e1-4849-8b11-942952533b78/ello-593e19e3-84c7-492e-aa17-73f8720cae8e.jpeg)
 
 
 -------------
