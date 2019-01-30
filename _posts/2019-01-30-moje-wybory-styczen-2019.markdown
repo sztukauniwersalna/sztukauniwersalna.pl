@@ -34,7 +34,10 @@ Kobieta powinna mieć w swojej szafie co najmniej trzy modele torebek – torbę
 
 ## Lektura
 
-„Po wejściu do gry znalazł się pośrodku pustej równiny. Świtało. Krajobraz był bury, zamazany, trudno było zobaczyć jakieś szczegóły. Zza horyzontu wyłaniało się białe światło. Resztę nieba pokrywały mrugające gwiazdy. Rozległ się huk i w oddali zawaliły się dwie czerwono lśniące góry. Całą równinę zalało czerwone światło. Gdy opadł kurz, Wang zobaczył wypisane między niebem i ziemią dwa olbrzymie słowa: TRZY CIAŁA. Potem pojawiła się strona logowania.”
+>
+>
+> Po wejściu do gry znalazł się pośrodku pustej równiny. Świtało. Krajobraz był bury, zamazany, trudno było zobaczyć jakieś szczegóły. Zza horyzontu wyłaniało się białe światło. Resztę nieba pokrywały mrugające gwiazdy.
+> Rozległ się huk i w oddali zawaliły się dwie czerwono lśniące góry. Całą równinę zalało czerwone światło. Gdy opadł kurz, Wang zobaczył wypisane między niebem i ziemią dwa olbrzymie słowa: TRZY CIAŁA. Potem pojawiła się strona logowania.
 
 Książka chińskiego pisarza Cixin Liu kryje pod sowim fizycznym tytułem doskonałą powieść fantastycznonaukową. Pierwsza część cyklu ‘Wspomnienia o przeszłości Ziemi’ przenosi nas w świat sieciowej gry, której tajemnice stara się rozwikłać naukowiec Wang Miao. Mieszkańcy planety w świecie Trzech Ciał zagrożeni są niedającym się określić w czasie oddziaływaniem grawitacyjnym trzech słońc. Jej mieszkańcy muszą na przemian odwadniać się (wchodzić w stan hibernacji) lub budzić do życia. Władcy kolejnych dynastii starają się rozwikłać zagadkę i ustalić kalendarz Er Stabilności i Chaosu. Sytuacja staje się coraz bardziej skomplikowana i napięta, a fikcja okazuje się…
 Zachęcam do lektury. 
