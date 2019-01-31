@@ -22,6 +22,7 @@ Zmiany, zmiany, innowacje! Innowacyjne połączenie eyelinera i cienia do powiek
 
 ![Obraz przedstawia sześć podobnych przedmiotów na kolorowych tłach. obok czarne napisy.](https://assets0.ello.co/uploads/asset/attachment/8967433/ello-optimized-f4e4009a.jpg)
 ![Zdjęcie przedstawia obiekty rozrzucone na kolorowych kartonach.](https://assets1.ello.co/uploads/asset/attachment/8967435/ello-optimized-ecc416d7.jpg)
+![Zdjęcie przedstawia portret kobiety w kolorowym makijażu na powiekach. Fotografia wykonana jest w żabiej perspektywie.](https://ello-direct-uploads.s3.amazonaws.com/uploads/8d297895-40ea-495a-b4d6-23001650cfc3/ello-85c931dc-181b-4aa8-8019-525a76c39e1e.jpeg)
 
 ## Akcesoria: Torebka
 
