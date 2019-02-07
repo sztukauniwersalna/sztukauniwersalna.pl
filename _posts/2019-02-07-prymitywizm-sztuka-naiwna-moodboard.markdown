@@ -7,6 +7,10 @@ tags:
 - moodboard
 - prymitywizm
 - sztuka naiwna
+- rousseau
+- gauguin
+- nikifor
+- dwurnik
 ---
 
 Prymitywiści to artyści niewykształceni, nieprofesjonalni, uprawiający sztukę naiwną. Ich dzieła przypominają często malunki dzieci, są niezgrabne, zdeformowane, tworzone w prostej technice. Tematyka ‘obrazów prymitywnych’ dotyka życia codziennego, lecz odwołuje się również do przestrzeni magicznej i symbolicznej. 
