@@ -36,3 +36,7 @@ W centrum romantycznej idei stoi uczucie. Twórcę często wywyższano, stawiano
 ![Obraz przedstawia trzy dzieła sztuki na jasnym tle.](https://assets1.ello.co/uploads/asset/attachment/9160592/ello-optimized-b4616f6f.jpg)
 ![Obraz przedstawia sześć fotografii na jasnym tle. Zdjęcia przedstawiają kobiece sylwetki i portrety.](https://assets1.ello.co/uploads/asset/attachment/9160593/ello-optimized-bd708eb4.jpg)
 ![Obraz przedstawia zdjęcie oraz test na jasnym tle. Na zdjęciu widzimy trzy kobiety ubrane w beżowe sukienki.](https://assets0.ello.co/uploads/asset/attachment/9160596/ello-optimized-6bff45fc.jpg)
+
+-------------------
+
+Cechy malarstwa romantyzmu są ciężkie do jednoznacznego zdefiniowania. Sztuka tego czasu była bowiem bardzo różnorodna. Przede wszystkim dzieła tego okresu wyrażają romantyczną postawę wobec świata.
