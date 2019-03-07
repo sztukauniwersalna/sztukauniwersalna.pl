@@ -39,4 +39,4 @@ W centrum romantycznej idei stoi uczucie. Twórcę często wywyższano, stawiano
 
 -------------------
 
-Cechy malarstwa romantyzmu są ciężkie do jednoznacznego zdefiniowania. Sztuka tego czasu była bowiem bardzo różnorodna. Przede wszystkim dzieła tego okresu wyrażają romantyczną postawę wobec świata.
+Cechy malarstwa romantycznego są ciężkie do jednoznacznego zdefiniowania. Sztuka tego czasu była bowiem bardzo różnorodna. Przede wszystkim dzieła tego okresu wyrażają romantyczną postawę wobec świata.
