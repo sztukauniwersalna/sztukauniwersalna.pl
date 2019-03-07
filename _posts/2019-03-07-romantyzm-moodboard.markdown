@@ -29,3 +29,10 @@ W centrum romantycznej idei stoi uczucie. Twórcę często wywyższano, stawiano
 
 ![Obraz przedstawia trzy zdjęcia obrazów znanych artystów na beżowym tle.](https://assets0.ello.co/uploads/asset/attachment/9160579/ello-optimized-701823fc.jpg)
 ![Obraz przedstawia dwie fotografie kobiecej sylwetki, oraz jeden obraz znanego artysty. Całość na jasno-beżowym tle.](https://assets1.ello.co/uploads/asset/attachment/9160582/ello-optimized-1cf16bd4.jpg)
+![Obraz przedstawia trzy obrazy, na których widzimy postaci kobiece. Całość na jasnym tle.](https://assets2.ello.co/uploads/asset/attachment/9160584/ello-optimized-632aefad.jpg)
+![Obraz przedstawia jeden obraz i jedno zdjęcie na jasnym tle. Widzimy postaci kobiece. ](https://assets0.ello.co/uploads/asset/attachment/9160588/ello-optimized-bbbced19.jpg)
+![Obraz przedstawia trzy pejzaże na jasnym tle.](https://assets0.ello.co/uploads/asset/attachment/9160590/ello-optimized-ee2febfa.jpg)
+![Obraz przedstawia trzy obrazy znanych artystów na jasnym tle.](https://assets2.ello.co/uploads/asset/attachment/9160591/ello-optimized-1dd36447.jpg)
+![Obraz przedstawia trzy dzieła sztuki na jasnym tle.](https://assets1.ello.co/uploads/asset/attachment/9160592/ello-optimized-b4616f6f.jpg)
+![Obraz przedstawia sześć fotografii na jasnym tle. Zdjęcia przedstawiają kobiece sylwetki i portrety.](https://assets1.ello.co/uploads/asset/attachment/9160593/ello-optimized-bd708eb4.jpg)
+![Obraz przedstawia zdjęcie oraz test na jasnym tle. Na zdjęciu widzimy trzy kobiety ubrane w beżowe sukienki.](https://assets0.ello.co/uploads/asset/attachment/9160596/ello-optimized-6bff45fc.jpg)
