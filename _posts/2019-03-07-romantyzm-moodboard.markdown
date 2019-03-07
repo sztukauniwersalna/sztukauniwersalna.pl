@@ -12,7 +12,7 @@ tags:
 
 Czas Romantyzmu ma dwie strony. Delikatna, kobieca zmysłowość ustępuje mrocznej sferze umysłu pogrążonemu w myśli przeciwnej do oświeceniowego racjonalizmu. Odwieczny konflikt tego, co widzialne, poznawalne zmysłowo a duchowe - dające poznać się jedynie za pomocą intuicji. Romantycy zwracają szczególną uwagę na wnętrze człowieka. Patrzą zamyśleni w dal, dostrzegając jednostkę odrębną, uczuciową i emocjonalną. Typowy romantyczny bohater to wewnętrznie rozdarty Konrad buntujący się przeciw Bogu (Adam Mickiewicz 'Dziady' cz. III), patriotyczny Kordian indywidualista, czy wykształcony, nadmiernie wrażliwy Werter. Można powiedzieć, że czas Romantyzmu był czasem miłości, miłości spalającej się we własnym ogniu.
 
-Nazwa epoki – Romantyzm – wywodzi się z języka francuskiego, gdzie ‘roman’ oznacza powieść, opowiadanie. 
+Nazwa epoki – romantyzm – wywodzi się z języka francuskiego, gdzie ‘roman’ oznacza powieść, opowiadanie. 
 
 W centrum romantycznej idei stoi uczucie. Twórcę często wywyższano, stawiano na równi z istotą boską. 
 
