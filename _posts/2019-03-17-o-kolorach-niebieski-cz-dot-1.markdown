@@ -10,6 +10,8 @@ tags:
 - błękit
 - niebieski
 - picasso
+- jeffree star
+- chromoterapia
 ---
 
 ‘Oprócz błękitnego nieba, nic mi dzisiaj nie potrzeba’ śpiewał Marek Jackowski z zespołem Maanam. Niebo, woda, harmonia, spokój, to pierwsze ze skojarzeń z kolorem niebieskim. Faraon zabierał błękit ze sobą do sarkofagu, gdyż wierzył w jego magiczną moc przynoszącą szczęście. W hinduizmie bóg Kryszna ma niebieską skórę, a w religii chrześcijańskiej błękitna szata Maryi symbolizuje jej nieskalaną naturę. Niebieski jest kolorem wolności, poczucia jedności z otaczającą nas naturą. Warto ten kolor umiejętnie wkomponować w swoje otoczenie, gdyż niesie on ze sobą wiele korzyści. 
