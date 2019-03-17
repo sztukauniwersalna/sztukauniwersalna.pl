@@ -28,7 +28,7 @@ Kolor niebieski ma potężną moc. Jest on barwą chłodną o działaniu bakteri
 Kolor niebieski ze względu na swój chłód kojarzony jest również z odczuwaniem smutku. Błękit jest niebem i wodą, ale również łzami, melancholią i zadumą. Okresem błękitnym w twórczości Pabla Picassa określa się czas między 1901 a 1904 rokiem, kiedy to na jego obrazach pojawiali się ubodzy starcy, ludzie bezdomni, żebracy. Melancholijny nastrój dzieł podkreślała chłodna, błękitna kolorystyka. Stan, pod którego skrzydłem tworzył mistrz mógł być bezpośrednio związany ze śmiercią jego bliskiego przyjaciela Carlosa Casagemesa, która miała miejsce w 1901 roku. ‘Zacząłem malować na niebiesko, bo stale o nim myślałem’ - mawiał Picasso, a Guillaume Apollinaire opisał jego malarstwo słowami: ‘Malarstwo niebieskie jak wilgotne dno otchłani’. Postaci na błękitnych płótnach zdają się mieć papierową cerę i puste oczy niewidzące sensu życia. Sam sposób kładzenia farby przypomina kontemplacyjny rytuał smutku i zamyślenia. Niebieski okres kończy się wraz z nadejściem okresu różowego w 1904 roku.
 
 ![Zdjęcie przedstawia portret kobiety z przekrzywioną głową. Kobieta ma na twarzy artystyczny makijaż w niebieskich odcieniach. Całość na niebieskim tle.](https://assets0.ello.co/uploads/asset/attachment/9219481/ello-optimized-5f6baa7d.jpg)
-![Obraz przedstawia zdjęcie dzieła znanego artysty na białym tle. Pod dziełem znajduje się krótki opis.]()
+![Obraz przedstawia zdjęcie dzieła znanego artysty na białym tle. Pod dziełem znajduje się krótki opis.](https://ello-direct-uploads.s3.amazonaws.com/uploads/9cb475f7-9a79-4506-a1e8-09953fac3c44/ello-53b25570-d4cb-495e-8d60-dcfe93b6d89a.jpeg)
 
 ## Historia niebieskiego cienia
 
