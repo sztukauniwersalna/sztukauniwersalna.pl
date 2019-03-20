@@ -39,3 +39,8 @@ Na odcienie tej barwy powinni jednak uważać producenci opakowań żywności. W
 
 ![Fotografia przedstawia popiersie kobiety z czarnymi ustami i szarymi włosami. Kobieta ma twarz zwróconą w prawą stronę.](https://assets2.ello.co/uploads/asset/attachment/9236237/ello-optimized-8fd43119.jpg)
 
+----------------
+
+Korzystałam z:
+
+* Jean-Gabriel Causse, 'Niesamowita moc kolorów', Wydawnictwo Sonia Draga, Katowice 2015. Wydanie I
