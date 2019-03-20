@@ -44,3 +44,4 @@ Na odcienie tej barwy powinni jednak uważać producenci opakowań żywności. W
 Korzystałam z:
 
 * Jean-Gabriel Causse, 'Niesamowita moc kolorów', Wydawnictwo Sonia Draga, Katowice 2015. Wydanie I
+* https://pl.wikipedia.org/wiki/Blue_Monday
