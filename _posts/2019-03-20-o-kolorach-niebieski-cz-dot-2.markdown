@@ -17,7 +17,7 @@ tags:
 
 ## IKB
 
-Yves Klein był ekscentrycznym artystą XX-tego wieku. Tworzył obiekty, obrazy, instalacje, scenografie teatralne. Tworzył, a w zasadzie performował obrazy bez użycia pędzla – do nakładanie farby na płótno służyły mu ciała nagich modelek. Niebieskie plamy układały się w abstrakcyjne kompozycje mniej lub bardziej kojarzone z ludzkim ciałem. Prekursor tzw. monochromów, czyli płócien pokrytych jednym kolorem. Opatentował swój ulubiony odcień ultramaryny, który widnieje w tabelach kolorów jako International Klein Blue. Chociaż artysta spełniał się kreując prace w przeróżnych mediach pozostał kojarzony z niebieskimi powierzchniami. Praktycznie od lat 50-tych używał już tylko i wyłącznie swojego odcienia błękitu. 
+Yves Klein był ekscentrycznym artystą XX-tego wieku. Był twórcą obiektów, obrazów, fotografii, instalacji, scenografii teatralnych. Tworzył, a w zasadzie performował obrazy bez użycia pędzla – do nakładanie farby na płótno służyły mu ciała nagich modelek. Niebieskie plamy układały się w abstrakcyjne kompozycje mniej lub bardziej kojarzone z ludzkim ciałem. Prekursor tzw. monochromów, czyli płócien pokrytych jednym kolorem. Opatentował swój ulubiony odcień ultramaryny, który widnieje w tabelach kolorów jako International Klein Blue. Chociaż artysta spełniał się kreując prace w przeróżnych mediach pozostał kojarzony z niebieskimi powierzchniami. Praktycznie od lat 50-tych używał już tylko i wyłącznie swojego odcienia błękitu. 
 
 * więcej informacji o artyście znajdziesz [tutaj](http://www.yvesklein.com/)
 
