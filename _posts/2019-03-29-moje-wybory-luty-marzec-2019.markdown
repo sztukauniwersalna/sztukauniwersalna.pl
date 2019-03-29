@@ -42,3 +42,9 @@ Lubię palety cieni, których kolory są świetnie skomponowane. Dzięki którym
 Wraz z główna bohaterką przenosimy się do Japonii, by tam zgłębiać sztukę kintsugi, czyli sztukę naprawy stłuczonej ceramiki za pomocą złota. Każde zbite naczynie ma swoją historię. Narracja zbudowana pierwszoosobowo pozwala nam na utożsamienie się z bohaterką, której imienia nie poznajemy. Oswajamy kraj kwitnącej wiśni zwiedzając go na rowerze. Naszym przyjacielem staje się kot, który na śniadanie jada ryby i warzywa. Cały czas odganiamy ‘krwiożercze rekiny’, które symbolizują demony przeszłości. Powieść napisana w duchu zen wprowadza w stan czytelniczej medytacji. Warto przeczytać.
 
 ![Fotografia przedstawia książkę w czarnej okładce na białym tle. Obok książki leży złote naczynie.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272346/ello-optimized-7eb2d5ba.jpg)
+
+## Akcesoria: kolczyki
+
+Od dłuższego czasu poszukiwałam biżuterii z motywem antycznej monety. Z pomocą przyszedł oczywiście TK Maxx. W jednym ze sklepów sieci off-price pojawiło się stoisko z biżuterią. Markowe zegarki, bransoletki, naszyjniki błyszczały do mnie zza szklanej lady. W oko wpadły mi duże, złote kolczyki z łączonych ze sobą monet różnych rozmiarów. Kolczyki wykonane są z pozłacanego metalu, a niebieski akcent stanowi (podobno) odłamek szafiru. Oryginalność kamienia poddaję pod wątpliwość, pozostawiam natomiast uczucie satysfakcji z upolowania potencjalnie drogiej rzeczy po okazyjnej cenie 79,99. Biżuteria pochodzi z londyńskiej marki [MeMe London](https://www.meme.london/).
+
+![Obraz przedstawia dwa zdjęcia złotych kolczyków leżących na białym stole lub złotej kratce.](https://ello-direct-uploads.s3.amazonaws.com/uploads/07c3b467-4a3b-4d49-9109-c0b3f8bbcfb1/ello-eb67a679-37c1-4697-8302-4cc0bffb1db6.jpeg)
