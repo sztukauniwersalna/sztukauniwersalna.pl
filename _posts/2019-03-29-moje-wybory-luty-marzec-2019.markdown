@@ -48,3 +48,15 @@ Wraz z główna bohaterką przenosimy się do Japonii, by tam zgłębiać sztuk�
 Od dłuższego czasu poszukiwałam biżuterii z motywem antycznej monety. Z pomocą przyszedł oczywiście TK Maxx. W jednym ze sklepów sieci off-price pojawiło się stoisko z biżuterią. Markowe zegarki, bransoletki, naszyjniki błyszczały do mnie zza szklanej lady. W oko wpadły mi duże, złote kolczyki z łączonych ze sobą monet różnych rozmiarów. Kolczyki wykonane są z pozłacanego metalu, a niebieski akcent stanowi (podobno) odłamek szafiru. Oryginalność kamienia poddaję pod wątpliwość, pozostawiam natomiast uczucie satysfakcji z upolowania potencjalnie drogiej rzeczy po okazyjnej cenie 79,99. Biżuteria pochodzi z londyńskiej marki [MeMe London](https://www.meme.london/).
 
 ![Obraz przedstawia dwa zdjęcia złotych kolczyków leżących na białym stole lub złotej kratce.](https://ello-direct-uploads.s3.amazonaws.com/uploads/07c3b467-4a3b-4d49-9109-c0b3f8bbcfb1/ello-eb67a679-37c1-4697-8302-4cc0bffb1db6.jpeg)
+
+-----------------
+
+Shop My Choices
+
+* [PureHeals Propolis Softening Toner](https://www.hebe.pl/produkty/tonik-do-twarzy-130-ml-pureheals-propolis)
+* [PureHeals Propolis 90 Ampoule](https://www.hebe.pl/produkty/serum-ampulka-do-twarzy-30-ml-pureheals-propolis)
+* [PureHeals Propolis 80 Crea,](https://www.hebe.pl/produkty/koreanski-krem-50-ml-pureheals-propolis-80)
+* [PureHeals Propolis 50 Volume Mist](https://www.hebe.pl/produkty/mgielka-do-twarzy-100-ml-pureheals-propolis)
+* [Revolution MakeUp x Soph Extra Spice Eyeshadow Palette](https://www.hebe.pl/produkty/paleta-cieni-14-4-g-revolution-makeup-extra-spice)
+* [Joanna Bator Purezento](https://www.empik.com/purezento-bator-joanna,p1169652958,ksiazka-p?gclid=CjwKCAjw1dzkBRBWEiwAROVDLIU8d-4wwkgXBUX8q5BeRc_vUEjYFImvKX9aerVxpRKifgbgCtXEcRoC5gwQAvD_BwE&gclsrc=aw.ds)
+* [MeMe London Jewellery](https://www.meme.london/)
