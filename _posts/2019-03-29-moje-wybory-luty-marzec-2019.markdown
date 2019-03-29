@@ -29,3 +29,16 @@ Po oczyszczeniu twarzy stosuję tonik, który wklepuję dłońmi w policzki i cz
 
 ![Fotografia przedstawia kosmetyki rozłożone na zielonym i białym obrusie. Widzimy również plecione miski.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272331/ello-optimized-b85d2f76.jpg)
 ![Obraz przedstawia dwa zdjęcia kosmetyków w żółtych buteleczkach na żółtym tle.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272336/ello-optimized-d18d04fd.jpg)
+
+## Kosmetyk: kolorówka
+
+Lubię palety cieni, których kolory są świetnie skomponowane. Dzięki którym mogę za pomocą dosłownie dwóch ruchów pędzla stworzyć rano dzienny makijaż, popołudniu zaeksperymentować z kolorem, a na wieczór zaszaleć ze smokey eye. Taka właśnie jest paleta Revolution Makeup, która powstała we współpracy z youtuberką i instagramerką Soph does Nails. Nazwa palety (Extra Spice) wskazuje na jej ‘ogniste’ odcienie. To fakt – w środku oprócz stonowanych brązów i zieleni znajdziemy również rudości i intensywną czerwień. Obok matowych, mocno napigmentowanych propozycji kuszą cienie o metalicznym i foliowym wykończeniu. Odcień ‘everyday’ idealnie sprawdzi się również jako rozświetlacz.
+
+![Obraz przedstawia dwa zdjęcia kosmetyku leżącego na jasno-różowym obrusie.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272353/ello-optimized-42c78369.jpg)
+![Obraz przedstawia dwa zdjęcia palety kolorowych cieni do powiek.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272356/ello-optimized-36ed1a89.jpg)
+
+## Lektura
+
+Wraz z główna bohaterką przenosimy się do Japonii, by tam zgłębiać sztukę kintsugi, czyli sztukę naprawy stłuczonej ceramiki za pomocą złota. Każde zbite naczynie ma swoją historię. Narracja zbudowana pierwszoosobowo pozwala nam na utożsamienie się z bohaterką, której imienia nie poznajemy. Oswajamy kraj kwitnącej wiśni zwiedzając go na rowerze. Naszym przyjacielem staje się kot, który na śniadanie jada ryby i warzywa. Cały czas odganiamy ‘krwiożercze rekiny’, które symbolizują demony przeszłości. Powieść napisana w duchu zen wprowadza w stan czytelniczej medytacji. Warto przeczytać.
+
+![Fotografia przedstawia książkę w czarnej okładce na białym tle. Obok książki leży złote naczynie.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/9272346/ello-optimized-7eb2d5ba.jpg)
