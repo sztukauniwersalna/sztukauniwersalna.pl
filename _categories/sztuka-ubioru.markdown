@@ -15,7 +15,7 @@ role: category
   <Feed pages={
     paramorph.categories['Sztuka Ubioru'].pages
       .filter(p => p.output && p.feed)
-      .sort((a, b) => a.compareTo(b))
+      .sort((a, b) => b.compareTo(a))
   } />
 </div>
 
