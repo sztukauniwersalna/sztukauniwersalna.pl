@@ -5,6 +5,10 @@ output: false
 ---
 
 <div>
-  <Feed { ...data } feed={ data.page.pages } />
+  <Feed pages={
+    page.pages
+      .filter(p => p.output && p.feed)
+      .sort((a, b) => a.compareTo(b))
+  } />
 </div>
 

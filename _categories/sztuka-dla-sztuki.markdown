@@ -10,5 +10,10 @@ role: category
 ---
 
 <div>
-  <Feed { ...data } feed={ data.website.getCategoryOfTitle('Sztuka dla Sztuki').pages } />
+  <Feed pages={
+    paramorph.categories['Sztuka dla Sztuki'].pages
+      .filter(p => p.output && p.feed)
+      .sort((a, b) => a.compareTo(b))
+  } />
 </div>
+

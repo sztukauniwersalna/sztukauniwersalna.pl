@@ -1,31 +1,27 @@
-const path = require('path');
 
+const path = require('path');
 const webpack = require('webpack');
-const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin');
+
+const IsomorphicHtmlPlugin = require('isomorphic-html-webpack-plugin').default;
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const externalReact = require('webpack-external-react');
 
-const { JSDOM } = require('jsdom');
-
 const React = require('react');
+const PropTypes = require('prop-types');
 const ReactDOM = require('react-dom');
 const ReactDOMServer = require('react-dom/server');
-const ReactRouterDOM = require('react-router-dom');
 
 // global.GA_TRACKING_ID must be set before loading parrot-layout/Root
 const GA_TRACKING_ID = global.GA_TRACKING_ID = 'UA-110945340-1';
 const Root = require('parrot-layout/Root').Root;
 
-const window = new JSDOM().window;
-Object.defineProperty(window.document, 'readyState', {
-  value: 'server-side',
-});
-
 module.exports = {
 	entry: {
-    entry: [
-      'paramorph/entry',
+    client: [
+      'paramorph/entry/client',
+    ],
+    server: [
+      'paramorph/entry/server',
     ],
     gtagConfig: [
       'parrot-layout/gtag'
@@ -36,17 +32,27 @@ module.exports = {
     chunkFilename: '[id]-[contenthash].bundle.js',
     filename: '[name]-[hash].bundle.js',
     path: path.resolve(__dirname, './build'),
+    publicPath: '/',
     libraryTarget: 'umd',
   },
 
+  mode: 'production',
   target: 'web',
+  devtool: false,
 
   resolve: {
     extensions: [
-      '.js', '.markdown', '.css',
+      '.js', '.markdown', '.css', '.yml'
     ],
     alias: {
-      'includes': path.resolve(__dirname, './_includes/'),
+      '@website': path.resolve(__dirname),
+    },
+  },
+
+  resolveLoader: {
+    alias: {
+      'config-loader': 'paramorph/loader/config',
+      'markdown-loader': 'paramorph/loader/markdown',
     },
   },
 
@@ -56,100 +62,90 @@ module.exports = {
     noParse: externalReact.noParse,
     rules: [
       {
-        test: require.resolve('./node_modules/paramorph/data/requireContext'),
-        use: 'val-loader',
+        test: path.resolve(__dirname, './_config.yml'),
+        loader: 'config-loader',
       },
       {
-        test: require.resolve('./node_modules/paramorph/data/config'),
-        use: 'val-loader',
+        enforce: 'pre',
+        test: /\.js$/,
+        loader: 'source-map-loader',
       },
-      { enforce: 'pre', test: /\.js$/, use: 'source-map-loader' },
       {
         test: /\.markdown$/,
-        use: [
-          'babel-loader',
-          'paramorph/loaders/add-data-to-globals?data=includes',
-          'paramorph/loaders/wrap-with-jsx?field=body',
-          'paramorph/loaders/markdown?html=true&xhtmlOut=true&linkify=true&typographer=true',
-          'json-loader',
-          'front-matter-loader',
-        ],
+        loader: 'markdown-loader',
       },
       {
         test: /\.css$/,
-        use: ExtractTextPlugin.extract({ use: 'raw-loader' }),
+        loader: 'file-loader?name=style-[hash].bundle.css',
       },
     ],
   },
 
   plugins: [
+    new webpack.NamedModulesPlugin(),
     new webpack.DefinePlugin({
       GA_TRACKING_ID: JSON.stringify(GA_TRACKING_ID),
     }),
-    new ExtractTextPlugin('style-[hash].bundle.css'),
     new CopyWebpackPlugin(
-      [
-        '*.ico',
-        '*.jpg',
-        '*.png',
-        '*.svg',
-        '*.ttf',
-        '*.eot',
-        '*.woff',
-        '*.woff2',
-      ]
+      [ '*.ico', '*.jpg', '*.png', '*.svg', '*.ttf', '*.eot', '*.woff', '*.woff2' ]
       .map(from => ({ context: './node_modules/parrot-layout', from }))
       .concat([
-        {
-          context: '.',
-          from: 'googlec8e6fdafef950e07.html',
-        },
-        {
-          context: './_uploads',
-          from: '*.jpg',
-        },
-        {
-          context: '.',
-          from: 'logo-gradient.png',
-        },
-        {
-          context: '.',
-          from: 'robots.txt',
-        },
+        { context: '.', from: 'googlec8e6fdafef950e07.html' },
+        { context: './_uploads', from: '*.jpg' },
+        { context: '.', from: 'logo-gradient.png' },
+        { context: '.', from: 'robots.txt' },
       ])
     ),
-    new StaticSiteGeneratorPlugin({
-      entry: 'entry',
 
-      paths: [
-        '/',
-      ],
+    new IsomorphicHtmlPlugin({
+      entry: 'server',
 
       locals: {
         Root,
         title: 'SztukaUniwersalna.pl',
         js: [
-          'https://unpkg.com/react@15/dist/react.js',
-          'https://unpkg.com/prop-types@15.6.0/prop-types.min.js',
-          'https://unpkg.com/react-dom@15/dist/react-dom.js',
-          'https://unpkg.com/react-dom@15.6.1/dist/react-dom-server.min.js',
-          'https://unpkg.com/react-router-dom@4.1.2/umd/react-router-dom.js',
+          'https://unpkg.com/react@16.8.6/umd/react.development.js',
+          'https://unpkg.com/prop-types@15.7.2/prop-types.min.js',
+          'https://unpkg.com/react-dom@16.8.6/umd/react-dom.development.js',
+          'https://unpkg.com/react-dom@16.8.6/umd/react-dom-server.browser.development.js',
         ],
       },
 
       globals: {
-        self: window,
-        window: window,
-        document: window.document,
         React: React,
+        PropTypes: PropTypes,
         ReactDOM: ReactDOM,
         ReactDOMServer: ReactDOMServer,
-        ReactRouterDOM: ReactRouterDOM,
         DISQUS: {
           reset: () => undefined,
         },
       },
     }),
+
   ],
+
+	optimization: {
+    splitChunks: {
+      chunks: 'async',
+      minSize: 30000,
+      maxSize: 0,
+      minChunks: 1,
+      maxAsyncRequests: 5,
+      maxInitialRequests: 1,
+      automaticNameDelimiter: '~',
+      name: true,
+      cacheGroups: {
+        vendors: {
+          test: /[\/]node_modules[\/]/,
+          priority: -10,
+        },
+        default: {
+          minChunks: 2,
+          priority: -20,
+          reuseExistingChunk: true,
+        },
+      },
+    },
+  },
 };
 

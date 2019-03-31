@@ -20,6 +20,10 @@ feed: false
 ---
 
 <div>
-  <Feed {...data} feed={ data.website.getCollectionOfTitle('Posts').pages } />
+  <Feed pages={
+    paramorph.collections['Posts'].pages
+      .filter(p => p.output && p.feed)
+      .sort((a, b) => a.compareTo(b))
+  } />
 </div>
 

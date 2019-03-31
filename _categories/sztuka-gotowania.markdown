@@ -12,6 +12,10 @@ role: category
 ---
 
 <div>
-  <Feed { ...data } feed={ data.website.getCategoryOfTitle('Sztuka Gotowania').pages } />
+  <Feed pages={
+    paramorph.categories['Sztuka Gotowania'].pages
+      .filter(p => p.output && p.feed)
+      .sort((a, b) => a.compareTo(b))
+  } />
 </div>
 
