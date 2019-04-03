@@ -5,9 +5,9 @@
   "requires": true,
   "dependencies": {
     "@babel/runtime": {
-      "version": "7.4.2",
-      "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.4.2.tgz",
-      "integrity": "sha512-7Bl2rALb7HpvXFL7TETNzKSAeBVCPHELzc0C//9FCxN8nsiueWSJBqaF+2oIJScyILStASR/Cx5WMkXGYTiJFA==",
+      "version": "7.4.3",
+      "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.4.3.tgz",
+      "integrity": "sha512-9lsJwJLxDh/T3Q3SZszfWOTkk3pHbkmH+3KY+zwIDmsNlxsumuhS2TH3NIpktU4kNvfzy+k3eLT7aTJSPTo0OA==",
       "dev": true,
       "requires": {
         "regenerator-runtime": "^0.13.2"
@@ -5291,9 +5291,9 @@
       }
     },
     "paramorph": {
-      "version": "2.0.0-beta.69",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.0.0-beta.69.tgz",
-      "integrity": "sha512-j+X+OAW4cgcenqptBfRueF6+Wk4BcZRUjeyKxOO+quKvRGhdcSNY9AA2ESMUPvYsCwo4socIqkG2iBfMeYc2Xg==",
+      "version": "2.0.0-beta.72",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.0.0-beta.72.tgz",
+      "integrity": "sha512-r5wj49o/R/VvHgg8ShlTPkNBRxGdSD0CBLER75HrfXDnnPSdtLjsoCFlsRRAV1UZYda0zi9sGVAkWW3MWaffIQ==",
       "dev": true,
       "requires": {
         "ejs": "^2.6.1",
