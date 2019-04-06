@@ -4,15 +4,12 @@ timezone: Europe/Warsaw
 collections:
   categories:
     title: Categories
-    output: true
     layout: ParrotLayout
   pages:
     title: Pages
-    output: true
     layout: ParrotLayout
   posts:
     title: Posts
-    output: true
     layout: ParrotLayout
   uploads:
     title: Uploads
