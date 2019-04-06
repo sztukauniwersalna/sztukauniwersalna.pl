@@ -28,7 +28,7 @@
     "http-server": "^0.11.1",
     "isomorphic-html-webpack-plugin": "^0.5.0",
     "paramorph": "^2.0.0-beta.77",
-    "parrot-layout": "^1.14.1",
+    "parrot-layout": "^1.15.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
