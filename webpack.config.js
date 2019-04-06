@@ -104,10 +104,10 @@ module.exports = {
         Root,
         title: 'SztukaUniwersalna.pl',
         js: [
-          'https://unpkg.com/react@16.8.6/umd/react.development.js',
+          'https://unpkg.com/react@16.8.6/umd/react.production.min.js',
           'https://unpkg.com/prop-types@15.7.2/prop-types.min.js',
-          'https://unpkg.com/react-dom@16.8.6/umd/react-dom.development.js',
-          'https://unpkg.com/react-dom@16.8.6/umd/react-dom-server.browser.development.js',
+          'https://unpkg.com/react-dom@16.8.6/umd/react-dom.production.min.js',
+          'https://unpkg.com/react-dom@16.8.6/umd/react-dom-server.browser.production.min.js',
         ],
       },
 
