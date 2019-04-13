@@ -4,11 +4,11 @@ timezone: Europe/Warsaw
 collections:
   categories:
     title: Categories
-    output: false
+    output: true
     layout: ParrotLayout
   pages:
     title: Pages
-    output: false
+    output: true
     layout: ParrotLayout
   posts:
     title: Posts
