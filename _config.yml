@@ -23,21 +23,21 @@ locale: pl_PL
 menu:
 - title: Sztuka Ubioru
   short: Moda
-  url: "/sztuka-ubioru"
+  url: "/sztuka-ubioru/"
   icon: content_cut
 - title: Sztuka Makijażu
   short: Makijaż
-  url: "/sztuka-makijazu"
+  url: "/sztuka-makijazu/"
   icon: remove_red_eye
 - title: Sztuka dla Sztuki
   short: Sztuka
-  url: "/sztuka-dla-sztuki"
+  url: "/sztuka-dla-sztuki/"
   icon: palette
 - title: O Blogu
   short: O Blogu
-  url: "/sztuka-uniwersalna"
+  url: "/sztuka-uniwersalna/"
   icon: mood
 - title: Kontakt
   short: Kontakt
-  url: "/kontakt"
+  url: "/kontakt/"
   icon: email

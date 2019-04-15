@@ -24,7 +24,7 @@ module.exports = {
       'paramorph/entry/server',
     ],
     gtagConfig: [
-      'parrot-layout/gtag'
+      'parrot-layout/gtagConfig'
     ],
   },
 

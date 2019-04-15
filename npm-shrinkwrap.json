@@ -2042,14 +2042,12 @@
         "balanced-match": {
           "version": "1.0.0",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "brace-expansion": {
           "version": "1.1.11",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "balanced-match": "^1.0.0",
             "concat-map": "0.0.1"
@@ -2064,20 +2062,17 @@
         "code-point-at": {
           "version": "1.1.0",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "concat-map": {
           "version": "0.0.1",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "console-control-strings": {
           "version": "1.1.0",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "core-util-is": {
           "version": "1.0.2",
@@ -2194,8 +2189,7 @@
         "inherits": {
           "version": "2.0.3",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "ini": {
           "version": "1.3.5",
@@ -2207,7 +2201,6 @@
           "version": "1.0.0",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "number-is-nan": "^1.0.0"
           }
@@ -2222,7 +2215,6 @@
           "version": "3.0.4",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "brace-expansion": "^1.1.7"
           }
@@ -2230,14 +2222,12 @@
         "minimist": {
           "version": "0.0.8",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "minipass": {
           "version": "2.3.5",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "safe-buffer": "^5.1.2",
             "yallist": "^3.0.0"
@@ -2256,7 +2246,6 @@
           "version": "0.5.1",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "minimist": "0.0.8"
           }
@@ -2337,8 +2326,7 @@
         "number-is-nan": {
           "version": "1.0.1",
           "bundled": true,
-          "dev": true,
-          "optional": true
+          "dev": true
         },
         "object-assign": {
           "version": "4.1.1",
@@ -2350,7 +2338,6 @@
           "version": "1.4.0",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "wrappy": "1"
           }
@@ -2472,7 +2459,6 @@
           "version": "1.0.2",
           "bundled": true,
           "dev": true,
-          "optional": true,
           "requires": {
             "code-point-at": "^1.0.0",
             "is-fullwidth-code-point": "^1.0.0",
@@ -4426,9 +4412,9 @@
       }
     },
     "paramorph": {
-      "version": "2.1.0",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.1.0.tgz",
-      "integrity": "sha512-uPIOSODZvJ4M1RbLAORSrQe5xS2v9VpHRzx99lQHmzI3h1VQ3NJXjWqN0zy+eIXmYbM3CRGr3cZhFgjU8eQe9Q==",
+      "version": "2.2.4",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.2.4.tgz",
+      "integrity": "sha512-U6/TqD8OYgBdMDkqY0Rfe3RCSKnrJPjimX659pj9VNixSMmY6S9Jb/zdIopo5T6Xr7cIGBV+AVTX2QQCpHntJQ==",
       "dev": true,
       "requires": {
         "ejs": "^2.6.1",
@@ -4444,30 +4430,12 @@
         "striptags": "^3.1.1",
         "typescript": "^3.4.3",
         "universal-router": "^8.1.0"
-      },
-      "dependencies": {
-        "source-map": {
-          "version": "0.6.1",
-          "resolved": "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz",
-          "integrity": "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==",
-          "dev": true
-        },
-        "source-map-support": {
-          "version": "0.5.12",
-          "resolved": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.12.tgz",
-          "integrity": "sha512-4h2Pbvyy15EE02G+JOZpUCmqWJuqrs+sEkzewTm++BPi7Hvn/HwcqLAcNxYAyI0x13CpPPn+kMjl+hplXMHITQ==",
-          "dev": true,
-          "requires": {
-            "buffer-from": "^1.0.0",
-            "source-map": "^0.6.0"
-          }
-        }
       }
     },
     "parrot-layout": {
-      "version": "1.17.3",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.17.3.tgz",
-      "integrity": "sha512-IfV3vtE6SpE0/vEI1lQIaVVk4DkUwgIAXanfuTjq+jYrebGRfqpfACaKMOSSgGZE42PPcQcmaJmTfnGrqWBiJA==",
+      "version": "1.18.0",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.18.0.tgz",
+      "integrity": "sha512-2XXtMy+d22xllQPTJsZXNknGybg1R1Uv9WPHbUnibEgZ8upaYmx+hdkzeYddk+d7wVULKp7udh90xocvRlgRGw==",
       "dev": true,
       "requires": {
         "react-disqus-comments": "^1.4.0",
