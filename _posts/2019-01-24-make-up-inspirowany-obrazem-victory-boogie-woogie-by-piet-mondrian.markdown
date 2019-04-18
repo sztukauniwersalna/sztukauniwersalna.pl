@@ -25,7 +25,7 @@ Koniecznie zobacz [moodboard](http://sztukauniwersalna.pl/2017-09-28-neoplastycy
 
 Ojciec Pieta Mondriana (a właściwie Pietera Cornelisa Mondriaana) był nauczycielem rysunku. Młody Mondrian miał zatem styczność ze sztuką już od dziecka. Zgodnie z wolą ojca młody artysta również miał zostać nauczycielem rysunku. Nie sprzeciwiając się podął pracę w szkole podstawowej, ale od początku nie czuł powołania do tego zawodu. W 1892 roku zdecydował się na studia na Akademii Sztuk Pięknych w Amsterdamie. W tym okresie powstały liczne prace realistyczne, głównie pejzaże, na których widać wpływy ówcześnie panujących malarskich nurtów takich jak [pointylizm](http://sztukauniwersalna.pl/2018-05-10-puentylizm-pointylizm-moodboard) i fowizm.
 
-![Obraz przedstawia dwa zdjęcia. Jedno z nich jest kolorowym portretem kobiety w czarnym berecie. Z lewej strony czarno-białe zbliżenie na twarz kobiety wpisane zostało w geometryczny kształt.](https://ello-direct-uploads.s3.amazonaws.com/uploads/ea926ded-91a6-4bf6-8006-bfdf3ecdd804/ello-682b1251-190b-4c18-9485-c1d5c962ae14.jpeg)
+![Obraz przedstawia dwa zdjęcia. Jedno z nich jest kolorowym portretem kobiety w czarnym berecie. Z lewej strony czarno-białe zbliżenie na twarz kobiety wpisane zostało w geometryczny kształt.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8930171/ello-optimized-3ed32a0a.jpg)
 
 ## Paris
 
@@ -43,7 +43,7 @@ Rok później zostaje wydany pierwszy numer magazynu ‘De Stijl’, gdzie dumne
 > 
 > ‘Buduję linie i kombinacje kolorów na płaskiej powierzchni, aby wyrazić ogólne piękno z najwyższą świadomością. Natura (lub to, co widzę) inspiruje mnie, stawia mnie, tak jak u każdego malarza, w stanie emocjonalnym, tak, że pojawia się potrzeba zrobienia czegoś, ale chcę zbliżyć się do prawdy i oddzielić wszystko, dopóki nie dojdę do fundamentu (wciąż tylko zewnętrznego fundamentu!) rzeczy ...’
 
-![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy portret kobiety w czarnym berecie i artystycznym makijażu. Z prawej strony czarno-białe zdjęcie ukazuje jej twarz wpisaną w figurę geometryczną.](https://ello-direct-uploads.s3.amazonaws.com/uploads/04260f30-17f3-475a-bd8f-8ee0d9f722bb/ello-aee8c16c-dd22-4cdc-95f9-3b41ce5f3d2a.jpeg)
+![Obraz przedstawia dwa zdjęcia. Z lewej strony widzimy portret kobiety w czarnym berecie i artystycznym makijażu. Z prawej strony czarno-białe zdjęcie ukazuje jej twarz wpisaną w figurę geometryczną.](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/8930177/ello-optimized-9bd49703.jpg)
 
 ## New York
 
