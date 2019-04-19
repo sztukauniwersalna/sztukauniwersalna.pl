@@ -25,12 +25,12 @@ Duży wpływ na malarstwo symbolicznie miał Gustave Moreau i Arnold Böcklin.
 
 W Polsce za czołowych przedstawicieli symbolizmu uważa się Jacka Malczewskiego, Józefa Mehoffera, Stanisława Wyspiańskiego, Władysława Podkowińskiego. 
 
-![Obraz przedstawia cztery obrazy olejne znanych artystów na jasno-szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/dd08db50-d9c1-46fe-954d-1f66d05e619d/ello-09b12066-adcf-4e51-b780-ee35d7f3b1a6.jpeg)
-![Obraz przedstawia dwa zdjęcia obrazów znanych artystów i jedno zdjęcie twarzy kobiety w makijażu. Wszystko na szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/df3c6e96-c0a4-4874-b0d6-d27874d8c06c/ello-af7460ba-0e5d-4b62-a26d-375dd0869629.jpeg)
-![Zdjęcie przedstawia trzy obrazy znanych artystów na jasno-szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/009a368b-66c5-45e4-ab8e-537365156a25/ello-b2a02d49-40cf-4187-b1b1-9dabc23f36cf.jpeg)
-![Obraz przedstawia trzy zdjęcia dzieł znanych artystów i jedno zdjęcie modelki w wielkim kapeluszu. Całość na szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/232f5170-7c01-4f31-94a8-de0fba4b5fff/ello-4cdd8408-c83b-42b5-b3d7-8c261fced55f.jpeg)
-![Obraz przedstawia dwa zdjęcia obrazów, obrazy są numerowane i znajdują się na szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/5b3bfc52-2b13-4335-9146-a6a496d56a0a/ello-fbe5a042-6d33-432e-b43d-2dbde4173a8a.jpeg)
-![Obraz przedstawia zdjęcia dzieł znanych artystów na szarym tle. Jeden z obrazów znajduje się w złotej ramie.](https://ello-direct-uploads.s3.amazonaws.com/uploads/18403673-a829-4d52-b9bf-c6b5b5bc6027/ello-0b1934cd-65dc-42e0-96b7-a0360b012645.jpeg)
-![Obraz przedstawia zdjęcia obrazów znanych polskich malarzy na szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/9d877715-46df-4e7a-ad82-2834241f2f0d/ello-3d62eeed-dc09-43fb-85e5-d08f93b481b8.jpeg)
-![Obraz przedstawia trzy zdjęcia. Na jednym z nich widzimy witraż, na drugim obraz olejny, trzecie przedstawia kobietę z bujnymi włosami. Całość na szarym tle.](https://ello-direct-uploads.s3.amazonaws.com/uploads/39b71d0d-cc7c-4bbe-8c96-0750af53dea9/ello-e1bce3c5-b476-4f14-92bf-9ae33b5ba2a2.jpeg)
-![Obraz przedstawia ciemne napisy na jasno-szarym tle. Nad napisami znajduje się obraz znanego artysty.](https://ello-direct-uploads.s3.amazonaws.com/uploads/ecaf1b88-37d3-4088-a43c-25b746bd5e9b/ello-89053968-369a-4443-80f6-0050b2ebd4cc.jpeg)
+![Obraz przedstawia cztery obrazy olejne znanych artystów na jasno-szarym tle.](https://assets0.ello.co/uploads/asset/attachment/9312654/ello-optimized-b45d3c5a.jpg)
+![Obraz przedstawia dwa zdjęcia obrazów znanych artystów i jedno zdjęcie twarzy kobiety w makijażu. Wszystko na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/9312656/ello-optimized-d55650be.jpg)
+![Zdjęcie przedstawia trzy obrazy znanych artystów na jasno-szarym tle.](https://assets2.ello.co/uploads/asset/attachment/9312657/ello-optimized-e26ef1ba.jpg)
+![Obraz przedstawia trzy zdjęcia dzieł znanych artystów i jedno zdjęcie modelki w wielkim kapeluszu. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/9312659/ello-optimized-d62c6319.jpg)
+![Obraz przedstawia dwa zdjęcia obrazów, obrazy są numerowane i znajdują się na szarym tle.](https://assets2.ello.co/uploads/asset/attachment/9312662/ello-optimized-c1287f79.jpg)
+![Obraz przedstawia zdjęcia dzieł znanych artystów na szarym tle. Jeden z obrazów znajduje się w złotej ramie.](https://assets2.ello.co/uploads/asset/attachment/9312664/ello-optimized-e61d202c.jpg)
+![Obraz przedstawia zdjęcia obrazów znanych polskich malarzy na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/9312665/ello-optimized-a669b2ab.jpg)
+![Obraz przedstawia trzy zdjęcia. Na jednym z nich widzimy witraż, na drugim obraz olejny, trzecie przedstawia kobietę z bujnymi włosami. Całość na szarym tle.](https://assets0.ello.co/uploads/asset/attachment/9312666/ello-optimized-d18e828e.jpg)
+![Obraz przedstawia ciemne napisy na jasno-szarym tle. Nad napisami znajduje się obraz znanego artysty.](https://assets2.ello.co/uploads/asset/attachment/9312669/ello-optimized-375e9c8d.jpg)
