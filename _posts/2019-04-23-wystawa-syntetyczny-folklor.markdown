@@ -49,4 +49,4 @@ Całości ekspozycji można doświadczać wielopoziomowo. Można ją czytać jak
 > Lubię wykresy, diagramy, wizualizacje danych – mają coś ze sztuki abstrakcyjnej, ale kryje się za nimi bardzo konkretne znaczenie.
 
 ![Obraz przedstawia dwa zdjęcia obiektów w białych pomieszczeniach galerii sztuki.](https://assets2.ello.co/uploads/asset/attachment/9414319/ello-optimized-66c9b9c7.jpg)
-
+![Obraz przedstawia zdjęcie ciemno-niebieskiej ściany, na której zawieszone jest dużo obrazków w różnych formatach.](https://assets1.ello.co/uploads/asset/attachment/9414309/ello-optimized-4fdc742e.jpg)
