@@ -34,7 +34,7 @@ Wartość nigeryjskiego przemysłu filmowego szacuję się w granicach 50 milion
 
 ![Obraz przedstawia dwa zdjęcia, na których widzimy kolorowy plakat na białej ścianie, oraz fragment książki.](https://assets2.ello.co/uploads/asset/attachment/9414307/ello-optimized-3a863730.jpg)
 
-## Zupełnie nowe twarze
+## Narodziny dorosłych Polaków
 
 Sieć neuronowa stanowi syntetyczną strukturę przeprowadzającą procesy obliczeniowe poprzez rzędy elementów zwanych sztucznymi neuronami. Struktury sieci neuronowych porównuje się do struktur ludzkiego mózgu. Janek Simon stworzył sieć, która nauczyła się generować twarze nowych Polaków na podstawie 10 tysięcy portretów rzeczywistych obywateli Polski. Ściana pokryta portretami syntetycznie wygenerowanych, ‘nowych’ Polaków stanowi przykład produkcji treści przez sztuczną inteligencję. Stojąc naprzeciwko ściany portretów przypominającej pomnik martyrologii, będąc jednocześnie świadomym nieistnienia przedstawionych na niej osób dochodzę do wewnętrznie skrajnych uczuć niepokoju i fascynacji. Spekulacja na temat profilowania twarzy, monitorowania, segregacji i nadzoru w epoce mądrych maszyn wprowadza w drżenie moje ciało migdałowate. Konsekwencje takiej zabawy są nieuniknione. 
 
