@@ -43,7 +43,7 @@ Sieć neuronowa stanowi syntetyczną strukturę przeprowadzającą procesy oblic
 Całości ekspozycji można doświadczać wielopoziomowo. Można ją czytać jako powieść o utopijnym marzeniu inteligentnej przyszłości lub jako dzienniki i wspomnienia z niedalekiej przeszłości. Można jej doświadczać w sposób kolażowy, zestawiać różne wątki i budować nowe znaczenia. Można przez nią przejść jak hipster - zaciekawiony nową technologią lub jako rodzic pamiętający czasy Solidarności z Lechem Wałęsą na czele. Dla jednych będzie to przygoda niezapomniana, pełna wizualnych wrażeń i ciekawych treści, dla innych – no cóż – zbiór przedmiotów ułożonych w mniej lub bardziej zrozumiały sposób. Ale tak jest chyba z większością wystaw, na które warto wybrać się uprzednio zarzucając na siebie płaszcz badacza-odkrywcy.
 
 ![Fotografia przedstawia pomieszczenie, na środku którego stoi stolik z różnymi przedmiotami.](https://assets2.ello.co/uploads/asset/attachment/9414311/ello-optimized-a5bcb405.jpg)
-![Obraz przedstawia dwa zdjęcia kolorowych przedmiotów leżących na stole lub na parapecie okna.](https://assets0.ello.co/uploads/asset/attachment/9414315/ello-optimized-f8a4d52d.jpg
+![Obraz przedstawia dwa zdjęcia kolorowych przedmiotów leżących na stole lub na parapecie okna.](https://assets0.ello.co/uploads/asset/attachment/9414315/ello-optimized-f8a4d52d.jpg)
 ![Zdjęcie przedstawia kolorowe przedmioty w przybliżeniu.](https://assets2.ello.co/uploads/asset/attachment/9414316/ello-optimized-6ab909f3.jpg)
 
 > Lubię wykresy, diagramy, wizualizacje danych – mają coś ze sztuki abstrakcyjnej, ale kryje się za nimi bardzo konkretne znaczenie.
