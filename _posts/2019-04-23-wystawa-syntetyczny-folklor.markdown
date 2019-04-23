@@ -23,3 +23,15 @@ Spacerując po uliczkach wystawy niejednokrotnie spotykam na swojej drodze kolor
 ![Obraz przedstawia dwa zdjęcia, na jednym z nich widzimy obraz znanego artysty na białej ścianie, a na drugim fragment kolorowej rzeźby.](https://assets0.ello.co/uploads/asset/attachment/9414298/ello-optimized-dbb8e15a.jpg)
 ![Obraz przedstawia dwa zdjęcia, na których widzimy wnętrze galerii sztuki i obrazy.](https://assets1.ello.co/uploads/asset/attachment/9414301/ello-optimized-9a29e300.jpg)
 ![Obraz przedstawia dwa zdjęcia przestrzeni z białymi ścianami i szklanymi elementami.](https://assets2.ello.co/uploads/asset/attachment/9414305/ello-optimized-619f4bb0.jpg)
+
+## Nollywood
+
+Wartość nigeryjskiego przemysłu filmowego szacuję się w granicach 50 milionów dolarów. Afrykańska kinematografia opiera się głównie na produkcjach wideo rozpowszechnianych w formie kaset, płyt dvd, video cd, które rozchodzą się w niebotycznie szybkim tępie. W okresie kinowego apogeum nigeryjscy dystrybutorzy wypuszczali 50 filmów tygodniowo, co doprowadziło do chwilowej recesji i spadku produkcji. W Nollywood filmy powstają w rekordowym tempie – jedno, pełne dzieło kinowe postaje w tydzień. Janek Simon od pięciu lat pracuje nad realizacją remake’u słynnego filmu Andrzeja Wajdy ‘Popiół i Diament’ w nigeryjskim przemyśle filmowym. Co stanie się z historią o polskim kontekście, kiedy zostanie przetłumaczona na zupełnie inny kod kulturowy? Na nowo napisany scenariusz przenosi postać Maćka Chełmickiego (działacza podziemia antykomunistycznego) w realia wojny w Biafrze (wojna domowa w Nigerii, która pochłonęła ponad półtora miliona ofiar). Film na poziomie znaczenia społecznego stanie się analogią obrazu Wajdy, który jako pierwszy zekranizował wątek antykomunistycznego podziemia po II wojnie światowej. 
+
+![Obraz przedstawia dwa zdjęcia, na których widzimy kolorowy plakat na białej ścianie, oraz fragment książki.](https://assets2.ello.co/uploads/asset/attachment/9414307/ello-optimized-3a863730.jpg)
+
+## Zupełnie nowe twarze
+
+Sieć neuronowa stanowi syntetyczną strukturę przeprowadzającą procesy obliczeniowe poprzez rzędy elementów zwanych sztucznymi neuronami. Struktury sieci neuronowych porównuje się do struktur ludzkiego mózgu. Janek Simon stworzył sieć, która nauczyła się generować twarze nowych Polaków na podstawie 10 tysięcy portretów rzeczywistych obywateli Polski. Ściana pokryta portretami syntetycznie wygenerowanych, ‘nowych’ Polaków stanowi przykład produkcji treści przez sztuczną inteligencję. Stojąc naprzeciwko ściany portretów przypominającej pomnik martyrologii, będąc jednocześnie świadomym nieistnienia przedstawionych na niej osób dochodzę do wewnętrznie skrajnych uczuć niepokoju i fascynacji. Spekulacja na temat profilowania twarzy, monitorowania, segregacji i nadzoru w epoce mądrych maszyn wprowadza w drżenie moje ciało migdałowate. Konsekwencje takiej zabawy są nieuniknione. 
+
+![Obraz przedstawia zdjęcie ściany, na której umieszczone są portrety ludzi.](https://assets1.ello.co/uploads/asset/attachment/9414323/ello-optimized-fcbb97ca.jpg)
