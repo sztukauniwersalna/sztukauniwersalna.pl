@@ -28,6 +28,8 @@ Spacerując po uliczkach wystawy niejednokrotnie spotykam na swojej drodze kolor
 
 Wartość nigeryjskiego przemysłu filmowego szacuję się w granicach 50 milionów dolarów. Afrykańska kinematografia opiera się głównie na produkcjach wideo rozpowszechnianych w formie kaset, płyt dvd, video cd, które rozchodzą się w niebotycznie szybkim tępie. W okresie kinowego apogeum nigeryjscy dystrybutorzy wypuszczali 50 filmów tygodniowo, co doprowadziło do chwilowej recesji i spadku produkcji. W Nollywood filmy powstają w rekordowym tempie – jedno, pełne dzieło kinowe postaje w tydzień. Janek Simon od pięciu lat pracuje nad realizacją remake’u słynnego filmu Andrzeja Wajdy ‘Popiół i Diament’ w nigeryjskim przemyśle filmowym. Co stanie się z historią o polskim kontekście, kiedy zostanie przetłumaczona na zupełnie inny kod kulturowy? Na nowo napisany scenariusz przenosi postać Maćka Chełmickiego (działacza podziemia antykomunistycznego) w realia wojny w Biafrze (wojna domowa w Nigerii, która pochłonęła ponad półtora miliona ofiar). Film na poziomie znaczenia społecznego stanie się analogią obrazu Wajdy, który jako pierwszy zekranizował wątek antykomunistycznego podziemia po II wojnie światowej. 
 
+> Biorę jakiś kawałek Polski w zupełnie inne, odległe miejsce i patrzę, co z tego wyniknie.
+
 ![Obraz przedstawia dwa zdjęcia, na których widzimy kolorowy plakat na białej ścianie, oraz fragment książki.](https://assets2.ello.co/uploads/asset/attachment/9414307/ello-optimized-3a863730.jpg)
 
 ## Zupełnie nowe twarze
@@ -47,3 +49,4 @@ Całości ekspozycji można doświadczać wielopoziomowo. Można ją czytać jak
 > Lubię wykresy, diagramy, wizualizacje danych – mają coś ze sztuki abstrakcyjnej, ale kryje się za nimi bardzo konkretne znaczenie.
 
 ![Obraz przedstawia dwa zdjęcia obiektów w białych pomieszczeniach galerii sztuki.](https://assets2.ello.co/uploads/asset/attachment/9414319/ello-optimized-66c9b9c7.jpg)
+
