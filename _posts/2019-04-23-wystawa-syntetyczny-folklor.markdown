@@ -57,10 +57,12 @@ Całości ekspozycji można doświadczać wielopoziomowo. Można ją czytać jak
 --------------------------
 
 
-Wystawy **Janek Simon ‘Syntetyczny Folklor’** możesz doświadczać do 19.05.2019 
-w Centrum Sztuki Współczesnej Zamek Ujazdowski; ul. Jazdów 2 
-we wtorek i środę w godzinach 11:00-18:00, w czwartek i piątek w godz. 12:00-20:00, w sobotę od 10:00-19:00, oraz w niedzielę od 11:00-18:00. 
+Wystawy **Janek Simon ‘Syntetyczny Folklor’** możesz doświadczać do 19.05.2019 we wtorek i środę w godzinach 11:00-18:00, w czwartek i piątek w godz. 12:00-20:00, w sobotę od 10:00-19:00, oraz w niedzielę od 11:00-18:00. 
+
+* Centrum Sztuki Współczesnej Zamek Ujazdowski; ul. Jazdów 2 
+* Bilety w cenie normalny – 16zł, ulgowy – 8zł do nabycia w kasie CSW.
+
 **W poniedziałki CSW jest nieczynne. **
-Bilety w cenie normalny – 16zł, ulgowy – 8zł do nabycia w kasie CSW.
 **W czwartki wstęp na wystawy jest darmowy.** 
+
 Więcej informacji znajdziesz [TU](https://u-jazdowski.pl/program/wystawy/janek-simon)
