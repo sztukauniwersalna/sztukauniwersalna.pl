@@ -20,8 +20,8 @@ feed: false
 ---
 
 <div>
-  <Feed pages={
-    paramorph.collections['Posts'].pages
+  <Feed posts={
+    paramorph.collections['Posts'].posts
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />

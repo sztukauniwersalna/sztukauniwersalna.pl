@@ -10,8 +10,8 @@ role: category
 ---
 
 <div>
-  <Feed pages={
-    paramorph.categories['Sztuka dla Sztuki'].pages
+  <Feed posts={
+    paramorph.categories['Sztuka dla Sztuki'].posts
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />
