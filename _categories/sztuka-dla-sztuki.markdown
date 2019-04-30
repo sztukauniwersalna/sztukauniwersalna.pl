@@ -1,7 +1,7 @@
 ---
 title: Sztuka dla Sztuki
-permalink: /sztuka-dla-sztuki/
 date: 2017-07-15 22:12:00 +02:00
+permalink: "/sztuka-dla-sztuki/"
 tags:
 - sztuka
 - współczesna
