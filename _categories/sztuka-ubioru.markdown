@@ -1,5 +1,6 @@
 ---
 title: Sztuka Ubioru
+permalink: /sztuka-ubioru/:pageNumber?/
 date: 2017-07-15 22:14:00 +02:00
 tags:
 - sztuka
