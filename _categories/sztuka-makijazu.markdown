@@ -1,6 +1,6 @@
 ---
 title: Sztuka Makijażu
-permalink: /sztuka-makijazu/:pageNumber?/
+permalink: /sztuka-makijazu/
 date: 2017-07-15 22:13:00 +02:00
 tags:
 - sztuka
@@ -10,8 +10,8 @@ role: category
 ---
 
 <div>
-  <Feed posts={
-    paramorph.categories['Sztuka Makijażu'].posts
+  <Feed pages={
+    paramorph.categories['Sztuka Makijażu'].pages
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />

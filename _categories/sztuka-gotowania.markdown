@@ -1,6 +1,6 @@
 ---
 title: Sztuka Gotowania
-permalink: /sztuka-gotowania/:pageNumber?/
+permalink: /sztuka-gotowania/
 date: 2017-07-15 22:12:00 +02:00
 tags:
 - sztuka
@@ -13,8 +13,8 @@ role: category
 ---
 
 <div>
-  <Feed posts={
-    paramorph.categories['Sztuka Gotowania'].posts
+  <Feed pages={
+    paramorph.categories['Sztuka Gotowania'].pages
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />

@@ -1,6 +1,6 @@
 ---
 title: Sztuka dla Sztuki
-permalink: /sztuka-dla-sztuki/:pageNumber?/
+permalink: /sztuka-dla-sztuki/
 date: 2017-07-15 22:12:00 +02:00
 tags:
 - sztuka
@@ -11,8 +11,8 @@ role: category
 ---
 
 <div>
-  <Feed posts={
-    paramorph.categories['Sztuka dla Sztuki'].posts
+  <Feed pages={
+    paramorph.categories['Sztuka dla Sztuki'].pages
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />
