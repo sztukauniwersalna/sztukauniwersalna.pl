@@ -1,7 +1,7 @@
 ---
 title: Strona Główna
 date: 2017-07-15 22:12:00 +02:00
-permalink: "/"
+permalink: "/:pageNumber(page-\\d+)?/"
 tags:
 - index
 - sztuka
@@ -20,8 +20,8 @@ feed: false
 ---
 
 <div>
-  <Feed pages={
-    paramorph.collections['Posts'].pages
+  <Feed posts={
+    paramorph.collections['Posts'].posts
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />

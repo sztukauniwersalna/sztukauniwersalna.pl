@@ -5,8 +5,8 @@ output: false
 ---
 
 <div>
-  <Feed pages={
-    page.pages
+  <Feed posts={
+    post.posts
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />

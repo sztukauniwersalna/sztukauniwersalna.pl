@@ -1,7 +1,7 @@
 ---
 title: Sztuka Ubioru
 date: 2017-07-15 22:14:00 +02:00
-permalink: "/sztuka-ubioru/"
+permalink: "/sztuka-ubioru/:pageNumber(page-\\d+)?/"
 tags:
 - sztuka
 - ubiór
@@ -13,8 +13,8 @@ role: category
 ---
 
 <div>
-  <Feed pages={
-    paramorph.categories['Sztuka Ubioru'].pages
+  <Feed posts={
+    paramorph.categories['Sztuka Ubioru'].posts
       .filter(p => p.output && p.feed)
       .sort((a, b) => b.compareTo(a))
   } />
