@@ -1,7 +1,7 @@
 ---
 title: Sztuka Gotowania
 date: 2017-07-15 22:12:00 +02:00
-permalink: "/sztuka-gotowania/:pageNumber(page-\\d+)?/"
+permalink: "/sztuka-gotowania/:pageNumber(~\\d+~)?/"
 tags:
 - sztuka
 - gotowanie
