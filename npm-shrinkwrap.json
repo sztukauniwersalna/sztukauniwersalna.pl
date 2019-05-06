@@ -5060,9 +5060,9 @@
       }
     },
     "paramorph": {
-      "version": "2.5.12",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.5.12.tgz",
-      "integrity": "sha512-VfaaZMjapgIX9ms65v4ItD59eiDL/1X6NaEOQ+ma/k8X/nDDz1h0VejZaCTKzg0wElwNXrTDfEJiWbtxqkLi0A==",
+      "version": "2.5.13",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.5.13.tgz",
+      "integrity": "sha512-HOwBrcDcweF9x7pUE927B6F1phxy3+9Z+ghC9kFEpLPrrj1ForQbjyx20Yci4/Z1Z4/cKK6ZMA0WpnbOqTeahg==",
       "dev": true,
       "requires": {
         "ejs": "^2.6.1",
@@ -5081,9 +5081,9 @@
       }
     },
     "parrot-layout": {
-      "version": "1.20.13",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.20.13.tgz",
-      "integrity": "sha512-3UGeUfmUM/5sslap0+eHdelfeQ5daOaPti/LfmIlNp+WHoITWnHtwpq0iRxo7aaiIM8XVPYKyPaZnmOt+XupUA==",
+      "version": "1.20.18",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.20.18.tgz",
+      "integrity": "sha512-gJF4/WGp3P12flSBrdeQ2Rrz/wwuHMXEdnsQ5QjwL3ynp/Do+VgNepJ1wC/zdBdYzytHLxGI79OmgIGJ4B8gtg==",
       "dev": true,
       "requires": {
         "react-disqus-comments": "^1.4.0",
