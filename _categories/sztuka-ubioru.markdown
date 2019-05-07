@@ -1,7 +1,7 @@
 ---
 title: Sztuka Ubioru
 date: 2017-07-15 22:14:00 +02:00
-permalink: "/sztuka-ubioru/:pageNumber(~\\d+~)?/"
+permalink: "/sztuka-ubioru/:pageNumber(-\\d+-)?/"
 tags:
 - sztuka
 - ubiór
