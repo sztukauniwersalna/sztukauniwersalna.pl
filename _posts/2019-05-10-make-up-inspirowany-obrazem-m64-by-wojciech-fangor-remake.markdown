@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem. 'M64' by Wojciech_Fangor. Remake
+title: Make-up inspirowany obrazem. 'M64' by Wojciech Fangor. Remake
 date: 2019-05-10 15:55:00 +02:00
 categories:
 - Sztuka Makijażu
