@@ -24,7 +24,7 @@ git clone ${TARGET_REPO} target
 cd target
 git checkout ${TARGET_BRANCH} || git checkout --orphan ${TARGET_BRANCH}
 
-rm -rf *
+rm -rf -- *
 cp -ra ../build/* .
 echo sztukauniwersalna.pl > CNAME
 
