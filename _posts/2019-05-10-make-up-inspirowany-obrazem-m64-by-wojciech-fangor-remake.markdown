@@ -10,6 +10,8 @@ tags:
 - m64
 - opart
 - oa
+- the oa
+- kolektywne sny
 ---
 
 ![Obraz przedstawia portret kobiety na niebieskim tle. Kobieta ma na sobie białą bluzkę.](https://assets2.ello.co/uploads/asset/attachment/9511391/ello-optimized-d79c26e4.jpg)
