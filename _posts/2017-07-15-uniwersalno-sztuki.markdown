@@ -1,7 +1,6 @@
 ---
 title: Uniwersalność Sztuki
 date: 2017-07-15 21:56:00 +02:00
-pathSpec: "/2017-07-15-uniwersalnosc-sztuki"
 categories:
 - Sztuka dla Sztuki
 tags:
@@ -11,6 +10,7 @@ tags:
 - dzieło
 - artysta
 - kreacja
+pathSpec: "/2017-07-15-uniwersalnosc-sztuki"
 limit: 3
 ---
 

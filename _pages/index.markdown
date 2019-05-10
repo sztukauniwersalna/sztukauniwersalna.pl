@@ -1,7 +1,6 @@
 ---
 title: Strona Główna
 date: 2017-07-15 22:12:00 +02:00
-pathSpec: "/:pageNumber(-\\d+-)?/"
 tags:
 - index
 - sztuka
@@ -13,6 +12,7 @@ tags:
 - moodboard
 - artysta
 - art
+pathSpec: "/:pageNumber(-\\d+-)?/"
 description: Sztuka w codzienności. Znajdź sposoby na odnalezienie odrobiny sztuki
   w codziennych czynnościach takich jak gotowanie, makijaż, oraz moda. Sztuka współczesna,
   sztuka abstrakcyjna, inspiracje dziełami wielkich twórców.

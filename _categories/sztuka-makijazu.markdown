@@ -1,11 +1,11 @@
 ---
 title: Sztuka Makijażu
 date: 2017-07-15 22:13:00 +02:00
-pathSpec: "/sztuka-makijazu/:pageNumber(-\\d+-)?/"
 tags:
 - sztuka
 - makijaż
 - inspiracje
+pathSpec: "/sztuka-makijazu/:pageNumber(-\\d+-)?/"
 role: category
 ---
 

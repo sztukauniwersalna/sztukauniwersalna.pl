@@ -1,7 +1,6 @@
 ---
 title: Sztuka Gotowania
 date: 2017-07-15 22:12:00 +02:00
-pathSpec: "/sztuka-gotowania/:pageNumber(-\\d+-)?/"
 tags:
 - sztuka
 - gotowanie
@@ -9,6 +8,7 @@ tags:
 - dania
 - ciasta
 - inspiracje
+pathSpec: "/sztuka-gotowania/:pageNumber(-\\d+-)?/"
 role: category
 ---
 

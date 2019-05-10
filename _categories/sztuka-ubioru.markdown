@@ -1,7 +1,6 @@
 ---
 title: Sztuka Ubioru
 date: 2017-07-15 22:14:00 +02:00
-pathSpec: "/sztuka-ubioru/:pageNumber(-\\d+-)?/"
 tags:
 - sztuka
 - ubiór
@@ -9,6 +8,7 @@ tags:
 - projektanci
 - domy mody
 - inspiracje
+pathSpec: "/sztuka-ubioru/:pageNumber(-\\d+-)?/"
 role: category
 ---
 
