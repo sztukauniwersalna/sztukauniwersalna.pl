@@ -35,4 +35,3 @@ Stoję naprzeciwko M64 i moja świadomość otwiera się na prawdę innego malar
 ![Zdjęcie przedstawia oko w niebieskim makijażu. Zdjęcie jest wpisane w kształt koła.](https://assets0.ello.co/uploads/asset/attachment/9511401/ello-optimized-f4fe3738.jpg)
 ![Zdjęcie przedstawia rozmyte okrągłe zdjęcie oka w niebieskim makijażu.](https://assets2.ello.co/uploads/asset/attachment/9511403/ello-optimized-6fd79fa2.jpg)
 ![Zdjęcie przedstawia bardzo rozmyty obraz w okrągłym kształcie, z niebieskimi elementami.](https://assets0.ello.co/uploads/asset/attachment/9511405/ello-optimized-808a9b53.jpg)
-
