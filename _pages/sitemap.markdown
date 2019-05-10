@@ -1,7 +1,7 @@
 ---
 title: Mapa Witryny
 date: 2017-07-15 22:12:00 +02:00
-permalink: "/sitemap"
+pathSpec: "/sitemap"
 tags:
 - sitemap
 - dla bota

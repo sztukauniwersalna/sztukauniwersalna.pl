@@ -1,7 +1,7 @@
 ---
 title: Wenus vs Chanel, czyli_Nowa Dziewczyna z_Perłą
 date: 2017-09-07 12:32:00 +02:00
-permalink: "/2017-09-07-wenus-chanel-nowa-dziewczyna-z-perla"
+pathSpec: "/2017-09-07-wenus-chanel-nowa-dziewczyna-z-perla"
 categories:
 - Sztuka Ubioru
 tags:

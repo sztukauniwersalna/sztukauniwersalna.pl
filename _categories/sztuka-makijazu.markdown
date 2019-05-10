@@ -1,7 +1,7 @@
 ---
 title: Sztuka Makijażu
 date: 2017-07-15 22:13:00 +02:00
-permalink: "/sztuka-makijazu/:pageNumber(-\\d+-)?/"
+pathSpec: "/sztuka-makijazu/:pageNumber(-\\d+-)?/"
 tags:
 - sztuka
 - makijaż

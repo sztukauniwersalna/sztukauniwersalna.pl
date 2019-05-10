@@ -3514,7 +3514,7 @@
     "minimatch": {
       "version": "3.0.4",
       "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz",
-      "integrity": "sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA==",
+      "integrity": "sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=",
       "dev": true,
       "requires": {
         "brace-expansion": "^1.1.7"
@@ -5060,9 +5060,9 @@
       }
     },
     "paramorph": {
-      "version": "2.5.14",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.5.14.tgz",
-      "integrity": "sha512-scMMljUVAw5S7xD3GsevTPUvfy3Ih9FwRNA5KsWJFioaTTEUroDFwrBJ9fhFT2aJSizfBF5fFr3FFFtsIAKPEQ==",
+      "version": "2.6.0",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.6.0.tgz",
+      "integrity": "sha512-oehqRvYyg6SUulT5UEzZvE9lmaPRTXgb7GrnwL2a7ITtCITsjpgAx0hzX7dpuXWYf+tep/ehTOx1Ek1YUcYeYw==",
       "dev": true,
       "requires": {
         "ejs": "^2.6.1",
@@ -5081,9 +5081,9 @@
       }
     },
     "parrot-layout": {
-      "version": "1.20.19",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.20.19.tgz",
-      "integrity": "sha512-9hzbmcpcSMwsWEIhKrPwmMRRFSKAP4r2LRPfCOvHkB5fKihiJsIRMB/r/qOEbzFQFo6sqVCE6ihAl+8PuT2FfQ==",
+      "version": "1.20.20",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.20.20.tgz",
+      "integrity": "sha512-HBRKzLjgcXEHIMbGwmuvSF6uDz3zA3MpwThJl/jT1I2z6tEGzCM6KacQdjf8JIhqIw03SxLErsloGvyggZS+XA==",
       "dev": true,
       "requires": {
         "react-disqus-comments": "^1.4.0",
@@ -6673,9 +6673,9 @@
       }
     },
     "universal-router": {
-      "version": "8.1.0",
-      "resolved": "https://registry.npmjs.org/universal-router/-/universal-router-8.1.0.tgz",
-      "integrity": "sha512-wU9UzCSfD4IznmXRjrqFK5hWtyrJIO9O5A+OIl1sTDvoQWgFn2KnrWbIJ8TrsjMVeDZvYi+PG0lXO9VMSvWOhg==",
+      "version": "8.2.0",
+      "resolved": "https://registry.npmjs.org/universal-router/-/universal-router-8.2.0.tgz",
+      "integrity": "sha512-QuCJiIv+QqPCKCU1dKJVtqBwGUn6RvkIiaHuUoy2cjcNa43Opl2bCUSisCe4AC/hSXFyHdUFB0k0iK8S7Ib2Gg==",
       "dev": true,
       "requires": {
         "path-to-regexp": "^3.0.0"
