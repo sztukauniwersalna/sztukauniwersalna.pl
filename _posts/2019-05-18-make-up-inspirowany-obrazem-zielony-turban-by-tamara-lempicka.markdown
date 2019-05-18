@@ -1,5 +1,5 @@
 ---
-title: Make-up inspirowany obrazem 'Zielony turban' by Tamara Łempicka
+title: Make-up inspirowany obrazem 'Zielony turban' by_Tamara Łempicka
 date: 2019-05-18 17:09:00 +02:00
 categories:
 - Sztuka Makijażu
