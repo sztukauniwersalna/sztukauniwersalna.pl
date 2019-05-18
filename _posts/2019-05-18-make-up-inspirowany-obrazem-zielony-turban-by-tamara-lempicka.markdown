@@ -49,6 +49,11 @@ Styl życia Tamary znacząco odbiegał od ówcześnie przyjętych norm obyczajow
 
 -----------------------
 
+Na kanale [YouTube](http://youtube.com/SztukaUniwersalna), a dokładniej [TUTAJ](https://youtu.be/VBoaoNNp4Fw) znajdziesz film, gdzie wykonuję makijaż ze zdjęć.
+Zapraszam do oglądania!
+
+-----------------------
+
 
 Korzystałam z:
 
