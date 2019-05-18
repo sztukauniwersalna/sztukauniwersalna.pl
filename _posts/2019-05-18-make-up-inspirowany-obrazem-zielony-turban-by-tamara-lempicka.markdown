@@ -34,8 +34,7 @@ Po przeprowadzce do Paryża w 1918 roku Tamara podjęła naukę w paryskiej Acad
 Tamara wystawiała i sprzedawała swoje obrazy we Francji i za jej granicą. Wciąż wzrastająca popularność młodej malarki przekładała się na spore sukcesy finansowe. Wypracowany przez nią styl malarski przypadł do gustu paryskim elitom. Żony bogatych przedsiębiorców chciały w swoich salonach zawieszać wielkoformatowe akty od Łempickiej. Malarka, aby wyrobić się z zamówieniami na czas nieraz pracowała po kilkanaście godzin dziennie. Mimo, iż miała rzesze ubóstwiających ją odbiorców Tamara spotkała się z nieprzychylnymi opiniami ze strony krytyków artystycznych. Płótna krytykowano za ‘obsceniczne sceny’, a styl malowania porównywano do kiczu. Malarka przeszła jednak do historii jako najwybitniejsza artystka epoki Art Deco. Jej prace są ucieleśnieniem klimatu lat 20-tych.
 
 >
-> "Modelki Tamary de Łempickiej to kobiety nowoczesne. Nie znają hipokryzji i wstydu w kategoriach moralności burżuazyjnej. Są opalone i ogorzałe od wiatru, a ich ciała sprężyste jak ciała Amazonek."
-> ~ dziennikarz ‘La Pologne’
+> Modelki Tamary de Łempickiej to kobiety nowoczesne. Nie znają hipokryzji i wstydu w kategoriach moralności burżuazyjnej. Są opalone i ogorzałe od wiatru, a ich ciała sprężyste jak ciała Amazonek.
 
 ![Obraz przedstawia portret kobiety w zielonym turbanie na zielonym tle. Dookoła zdjęcia pojawiają się graficzne zielne kształty.](https://assets2.ello.co/uploads/asset/attachment/9562086/ello-optimized-5f4ddcbb.jpg)
 
@@ -52,5 +51,6 @@ Styl życia Tamary znacząco odbiegał od ówcześnie przyjętych norm obyczajow
 
 
 Korzystałam z:
+
 https://culture.pl/pl/tworca/tamara-lempicka-tamara-de-lempicka
 https://pl.wikipedia.org/wiki/Tamara_%C5%81empicka
