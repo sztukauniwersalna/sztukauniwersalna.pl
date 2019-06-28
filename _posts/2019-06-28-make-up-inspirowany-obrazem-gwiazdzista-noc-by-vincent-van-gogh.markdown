@@ -42,7 +42,13 @@ Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdz
 
 Pobyt w szpitalu psychiatrycznym służył Vincentowi. Po raz pierwszy mógł on malować przy ludziach nie narażając się na drwiny z ich strony. Po pewnym czasie opiekunowie pozwalają malarzowi urządzić własną, niewielką pracownie. Stwierdzona u artysty padaczka mentalna objawia się atakami szału, które poprzedza stan melancholii i przygnębienia. Vincent jednak intensywnie maluje i wkrótce może pozwolić sobie na wyjścia z placówki w celu poszukiwania motywów do nowych płócien. Powstają wówczas jedne z najsłynniejszych dzieł artysty, reprezentujące styl, z którym już nan zawsze będziemy kojarzyć malarstwo Vincenta van Gogha.
 
-![](
+![Obraz przedstawia dwa zdjęcia portretowe kobiety w artystycznym makijażu na żółtym tle. Całość na białym tle z elementem niebieskiego obrazu.](https://assets1.ello.co/uploads/asset/attachment/9792201/ello-optimized-c52a34c1.jpg)
 
-Gwiaździsta Noc...Płótno o prymitywnej kompozycji namalowanej przez świadomego malarza. Dominujący na płótnie pas nieba stanowi o jakości abstrakcyjnego patrzenia. Giwazdy, niczym odrębne planety świecą iezmąconym światłem własnym jednocześnie oddają ukłon w stronę króla - Księżyca znajdującego się w prawym górnym rogu. Delikatne tony cytrynowej żółcieni mieszają się subtelnie z niebieskością ukazując zielonkawy charakter. 
+Gwiaździsta Noc...Płótno z 1889 roku o prymitywnej kompozycji stworzonej przez świadomego malarza. Dominujący na płótnie pas nieba stanowi o jakości abstrakcyjnego patrzenia. Gwiazdy, niczym odrębne planety świecą niezmąconym światłem własnym jednocześnie oddają ukłon w stronę króla - Księżyca znajdującego się w prawym górnym rogu. Delikatne tony cytrynowej żółcieni mieszają się subtelnie z niebieskością ukazując zielonkawy charakter. Wszystko jakby muskane nieśmiałymi pociągnięciami pędzla pełnymi tupetu grubej faktury. Sklepienie przypomina płaskorzeźbę, bardziej niż płaski obrazek. Całość skłania do kontemplacji nad istotą nocy i malarstwa.
 
+![Obraz przedstawia dzieło znanego artysty namalowane w technice farb olejnych.](https://assets2.ello.co/uploads/asset/attachment/9792203/ello-optimized-25d0ceb1.jpg)
+
+
+---------------
+
+Obraz 'The Starry Night' z 1889 roku znajduje się w kolekcji [MoMA](https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg?hl=pl).
