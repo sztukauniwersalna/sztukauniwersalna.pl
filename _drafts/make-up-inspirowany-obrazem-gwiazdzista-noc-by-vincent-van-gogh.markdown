@@ -10,15 +10,15 @@ tags:
 - ucho
 - żółty dom
 - gauguin
-- starry night
 - saint-remy
+- the starry night
 ---
 
 >
 > Mój drogi kolego Gauguin,
 Chciałbym Pana zawiadomić, że właśnie wynająłem w Arles czteropokojowy dom. I sądzę, że gdybym mógł znaleźć drugiego malarza skłonnego pracować na Południu, który tak jak a byłby dostatecznie pochłonięty pracą, i skłonny żyć jak mnich, który odwiedza burdel raz na dwa tygodnie… to mogłaby to być dobra robota… Mój brat przysyłałby miesięcznie 250 franków do podziału między nas dwóch… A Pan posyłałby memu bratu jeden obraz na miesiąc.’
 
-![](
+![Fotografia przedstawia portret kobiety w artystycznym makijażu na żółtym tle.](https://assets2.ello.co/uploads/asset/attachment/9791708/ello-optimized-172f246b.jpg)
 
 ## Żółty dom
 
@@ -35,4 +35,12 @@ Vincent czuł się przytłoczony sukcesami gościa (obrazy Gaugina we Francji sp
 Nad Vincentem zawisło widmo załamania nerwowego. Pił, był na skraju wyczerpania, umartwiał swoje ciało, chciał się ukarać. Wraz z wiadomością o zaręczynach brata stracił wszelkie nadzieje na uratowanie się z życiowej katastrofy. Postać zakonnika w powieści Emila Zoli ‘Grzech Księdza Mouret’ płaci za swoje czyny obcięciem ucha. Załamany van Gogh niewiele myśląc chwycił za brzytwę. Ilość krwi wydobywająca się z rany bardzo go zaskoczyła. W szoku udało mu się zatamować krwawienie - owinął sobie głowę bandażem, a kawałek ucha obmył i zapakował niczym mięso w gazetę. Pomyślał, że może jeśli pokaże swój czyn Gauguinowi, ten zmieni swoje zdanie dotyczące wyjazdu. Wyszedł na poszukiwania Paula. Pierwszym miejscem, które przyszło mu do głowy był dom publiczny. Burdelmama nie wpuściła go jednak do środka. Pakunek z uchem pozostawił wartownikowi z prośbą, by ten przekazał go Gauguinowi wraz ze słowami: ‘pamiętaj o mnie’. Oszołomiony wrócił do żółtego domu spodziewając się, a nawet oczekując z najgorszego. 
 
 Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdzili u niego ‘świadectwo obłędu psychicznego’ i radzili poddanie się leczeniu w placówce psychiatrycznej. Po wielu próbach nakłonienia go do poddania się leczeniu Vincent ostatecznie został umieszczony  w zakładzie dla obłąkanych Saint-Paul-de-Mausole w Saint-Rémy.
+
+![](
+
+## The Starry Night
+
+Pobyt w szpitalu psychiatrycznym służył Vincentowi. Po raz pierwszy mógł on malować przy ludziach nie narażając się na drwiny z ich strony. Po pewnym czasie opiekunowie pozwalają malarzowi urządzić własną, niewielką pracownie. Stwierdzona u artysty padaczka mentalna objawia się atakami szału, które poprzedza stan melancholii i przygnębienia. Vincent jednak intensywnie maluje i wkrótce może pozwolić sobie na wyjścia z placówki w celu poszukiwania motywów do nowych płócien. Powstają wówczas jedne z najsłynniejszych dzieł artysty, reprezentujące styl, z którym już nan zawsze będziemy kojarzyć malarstwo Vincenta van Gogha.
+
+
 
