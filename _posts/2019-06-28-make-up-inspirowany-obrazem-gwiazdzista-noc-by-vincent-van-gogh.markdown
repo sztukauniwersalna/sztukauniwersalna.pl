@@ -36,7 +36,7 @@ Nad Vincentem zawisło widmo załamania nerwowego. Pił, był na skraju wyczerpa
 
 Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdzili u niego ‘świadectwo obłędu psychicznego’ i radzili poddanie się leczeniu w placówce psychiatrycznej. Po wielu próbach nakłonienia go do poddania się leczeniu Vincent ostatecznie został umieszczony  w zakładzie dla obłąkanych Saint-Paul-de-Mausole w Saint-Rémy.
 
-![Obraz przedstawia portret kobiety na żółtym tle. Zdjęcie znajduje się w biało-niebieskiej ramce.](https://assets0.ello.co/uploads/asset/attachment/9791713/ello-optimized-45bf333c.jpg)
+![Obraz przedstawia portret kobiety na żółtym tle. Zdjęcie znajduje się w biało-niebieskiej ramce.](https://ello-direct-uploads.s3.amazonaws.com/uploads/886d61c3-f376-4987-8044-a86249479030/ello-ff60d5ff-3a5c-4bc3-a375-2d4f264d2c7d.jpeg)
 
 ## The Starry Night
 
