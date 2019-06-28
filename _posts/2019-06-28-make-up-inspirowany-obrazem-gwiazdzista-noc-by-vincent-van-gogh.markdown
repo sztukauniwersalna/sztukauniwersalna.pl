@@ -52,3 +52,7 @@ Gwiaździsta Noc...Płótno z 1889 roku o prymitywnej kompozycji stworzonej prze
 ---------------
 
 Obraz 'The Starry Night' z 1889 roku znajduje się w kolekcji [MoMA](https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg?hl=pl).
+
+---------------
+
+Na [YouTube](https://www.youtube.com/SztukaUniwersalna) znajdziesz film z tutorialem tego makijażu - zajrzyj [TUTAJ](https://youtu.be/v6KrqKtN0PQ)
