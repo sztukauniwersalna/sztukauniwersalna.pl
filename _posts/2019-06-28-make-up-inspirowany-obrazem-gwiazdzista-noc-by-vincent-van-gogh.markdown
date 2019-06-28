@@ -40,7 +40,7 @@ Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdz
 
 ## The Starry Night
 
-Pobyt w szpitalu psychiatrycznym służył Vincentowi. Po raz pierwszy mógł on malować przy ludziach nie narażając się na drwiny z ich strony. Po pewnym czasie opiekunowie pozwalają malarzowi urządzić własną, niewielką pracownie. Stwierdzona u artysty padaczka mentalna objawia się atakami szału, które poprzedza stan melancholii i przygnębienia. Vincent jednak intensywnie maluje i wkrótce może pozwolić sobie na wyjścia z placówki w celu poszukiwania motywów do nowych płócien. Powstają wówczas jedne z najsłynniejszych dzieł artysty, reprezentujące styl, z którym już nan zawsze będziemy kojarzyć malarstwo Vincenta van Gogha.
+Pobyt w szpitalu psychiatrycznym służył Vincentowi. Po raz pierwszy mógł on malować przy ludziach nie narażając się na drwiny z ich strony. Po pewnym czasie opiekunowie pozwalają malarzowi urządzić własną, niewielką pracownie. Stwierdzona u artysty padaczka mentalna objawia się atakami szału, które poprzedza stan melancholii i przygnębienia. Vincent jednak intensywnie maluje i wkrótce może pozwolić sobie na wyjścia z placówki w celu poszukiwania motywów do nowych płócien. Powstają wówczas jedne z najsłynniejszych dzieł artysty, reprezentujące styl, z którym już na zawsze będziemy kojarzyć malarstwo Vincenta van Gogha.
 
 ![Obraz przedstawia dwa zdjęcia portretowe kobiety w artystycznym makijażu na żółtym tle. Całość na białym tle z elementem niebieskiego obrazu.](https://assets1.ello.co/uploads/asset/attachment/9792201/ello-optimized-c52a34c1.jpg)
 
