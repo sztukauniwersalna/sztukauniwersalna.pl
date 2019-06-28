@@ -28,7 +28,7 @@ Paul Gauguin przez parę miesięcy zwodził braci van Gogh swoimi obietnicami pr
 W końcu (23 października 1888 roku) Paul Gauguin przyjechał do Arles. Van Gogh spodziewał się kogoś niedomagającego i słabego (jak pisał w listach Gauguin – odwlekał swój przyjazd tłumacząc się złym stanem zdrowia), tymczasem w progu stanął okaz zdrowia i siły. 
 Vincent czuł się przytłoczony sukcesami gościa (obrazy Gaugina we Francji sprzedawały się na pniu) i jego doświadczeniem malarskim. Gauguinowi z niezwykłą łatwością przychodziło znalezienie modelki do obrazów, w przeciwieństwie do Van Gogha, któremu żadna nie chciała pozować. Ta dwójka artystów pracująca teraz pod jednym dachem żółtego domu rzadko się ze sobą zgadzała – szczególnie w kwestii malarstwa. W pewnym momencie jednak Vincent zaczął przejmować ‘styl’ mistrza. Na płótna z surowej juty nakładał plamy koloru niezwykle zbliżone do techniki Gauguina. P kilku tygodniach ‘podporządkowania’ i niemożności osiągnięcia zadowalających rezultatów Vincent zaczął się przeciw Paulowi buntować. W geście protestu namalował np. ‘Krzesło Paula Gaugina’ (znacząco różniące się od przedstawienia jego krzesła). Dystans pomiędzy malarzami się powiększał się z dnia na dzień. W połowie grudnia Gauguin poinformował Vincenta o swojej decyzji opuszczenia Arles. 
 
-![](
+![Obraz przedstawia dwie fotografie portretowe umieszczone na białym tle z niebieskimi elementami. Zdjęcia przedstawiają portret kobiety.](https://assets2.ello.co/uploads/asset/attachment/9791710/ello-optimized-6118efd9.jpg)
 
 ## Ucho
 
@@ -36,7 +36,7 @@ Nad Vincentem zawisło widmo załamania nerwowego. Pił, był na skraju wyczerpa
 
 Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdzili u niego ‘świadectwo obłędu psychicznego’ i radzili poddanie się leczeniu w placówce psychiatrycznej. Po wielu próbach nakłonienia go do poddania się leczeniu Vincent ostatecznie został umieszczony  w zakładzie dla obłąkanych Saint-Paul-de-Mausole w Saint-Rémy.
 
-![](
+![Obraz przedstawia portret kobiety na żółtym tle. Zdjęcie znajduje się w biało-niebieskiej ramce.](https://assets0.ello.co/uploads/asset/attachment/9791713/ello-optimized-45bf333c.jpg)
 
 ## The Starry Night
 
