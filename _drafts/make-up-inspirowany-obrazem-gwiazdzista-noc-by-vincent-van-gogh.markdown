@@ -42,5 +42,7 @@ Kolejne tygodnie Vincent spędził w szpitalu. Miewał ataki, a lekarze stwierdz
 
 Pobyt w szpitalu psychiatrycznym służył Vincentowi. Po raz pierwszy mógł on malować przy ludziach nie narażając się na drwiny z ich strony. Po pewnym czasie opiekunowie pozwalają malarzowi urządzić własną, niewielką pracownie. Stwierdzona u artysty padaczka mentalna objawia się atakami szału, które poprzedza stan melancholii i przygnębienia. Vincent jednak intensywnie maluje i wkrótce może pozwolić sobie na wyjścia z placówki w celu poszukiwania motywów do nowych płócien. Powstają wówczas jedne z najsłynniejszych dzieł artysty, reprezentujące styl, z którym już nan zawsze będziemy kojarzyć malarstwo Vincenta van Gogha.
 
+![](
 
+Gwiaździsta Noc...Płótno o prymitywnej kompozycji namalowanej przez świadomego malarza. Dominujący na płótnie pas nieba stanowi o jakości abstrakcyjnego patrzenia. Giwazdy, niczym odrębne planety świecą iezmąconym światłem własnym jednocześnie oddają ukłon w stronę króla - Księżyca znajdującego się w prawym górnym rogu. Delikatne tony cytrynowej żółcieni mieszają się subtelnie z niebieskością ukazując zielonkawy charakter. 
 
