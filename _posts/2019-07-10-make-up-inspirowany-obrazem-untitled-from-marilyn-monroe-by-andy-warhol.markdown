@@ -9,6 +9,7 @@ tags:
 - popart
 - hollywood
 - new york
+- kariera
 ---
 
 ![Fotografia przedstawia portret kobiety w żółtej peruce na różowym tle.](https://assets2.ello.co/uploads/asset/attachment/9861635/ello-optimized-0d560aba.jpg)
