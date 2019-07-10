@@ -52,5 +52,11 @@ Warhol stał się z czasem mistrzem autokreacji. Wykorzystał swoje słabości. 
 Malarz musiał znaleźć dla swojej twórczości coś wyjątkowego. Pomysł podsunęła mu znajoma. ‘Co lubisz najbardziej’ - zapytała, ‘Nie wiem, co lubię najbardziej’, ‘Pieniądze – powiedziała – powinieneś namalować pieniądze’. Od tego momentu już niedaleko do sylwetki artysty stawiającego tradycyjne malarstwo do góry nogami, odnajdującego w reklamie wspólną podświadomość społeczeństwa komercyjnego.
 
 ![Zdjęcie przedstawia uśmiechniętą kobietę w żółtych włosach. Kobieta ma powieki pomalowane na różowo i opiera podbródek o lewą dłoń.](https://assets2.ello.co/uploads/asset/attachment/9861645/ello-optimized-4fa40ab8.jpg)
+![Zdjęcie przedstawia obraz znanego artysty.](https://assets2.ello.co/uploads/asset/attachment/9861649/ello-optimized-4db874f2.jpg)
 
+>
+> Moje obrazy są symbolicznymi wypowiedziami na temat jaskrawych i bezosobowych produktów, i tych pełnych wyrzutów obiektów materialnych, z których zbudowana jest dzisiejsza Ameryka. Sa projekcją tego wszystkiego, co może być kupione i sprzedane. Praktyczne, ale przemijające symbole, które utrzymują nas w dobrej formie.
 
+----------------
+
+Korzystałam z książki 'Andy Warhol. Wielka Kolekcja Sławnych Malarzy', Oxford Educational, Poznań 2007
