@@ -24,4 +24,12 @@ Andrew Warhola przyszedł na świat w Pittsburghu, w Soho, w dzielnicy biedoty. 
 Lata 30. i 40. w Pittsburghu to czas doskonałych warunków do artystycznego rozwoju. Tamtejsi milionerzy, kolekcjonerzy dzieł sztuki wspierali konkursy artystyczne i ośrodki kształcenia przyszłych artystów. Andy trafił do grupy, gdzie pobierał lekcje podstaw rysunku i malarstwa, zwiedzał wystawy, poznawał zasady kompozycji. 
 We wrześniu 1942 roku (miał dokładnie 14 lat, wtedy też zmarł jego ojciec, który zachorował na żółtaczkę) Warhola przystąpił do nauki w Schenley High School. W Ameryce trwała II Wojna Światowa. Niezwykle prężnie rozwijały się media – prasa, telewizja, radio. Hollywoodzkie wytwórnie pracowały pełną parą, w filmie rysunkowym również nastąpiła rewolucja. Warner Brothers stworzyła kultowe postaci Królika Bugs’a, Tom’a i Jerry’ego, Marynarza Popeye. Andy wychowywał się w kolorowym świecie gwiazd filmowych, wykorzystywał wycinki kolorowych gazet do tworzenia kolaży, chłonął obrazy, które poźniej przewijały się w jego pracach. 
 
-![](
+![Obraz przedstawia zdjęcia kobiety w intensywnym makijażu i żółtych włosach. Małe zdjęcie w prawym górnym rogu ukazuje zbliżenie na oko.](https://assets1.ello.co/uploads/asset/attachment/9861637/ello-optimized-f82b87f2.jpg)
+
+## Status: student
+
+W 1945 roku Andy dostał się na studia w Carnegie Institute of Technology w Oakland. W pięciopiętrowych budynku Wydziału Sztuk Pięknych mieściły się kierunki: malarstwo i wzornictwo, dramat, muzyka i architektura. Poziom nauczania był niezwykle wysokich, a grupę z ‘malarstwa’ uznawano za tę najinteligentniejszą. Andy w swojej twórczości stosował wówczas metodę ‘odbitej kreski’, którą podobno przypadkowo odkrył, kiedy rozlał się tusz. Polegała ona na łączeniu ze sobą dwóch arkuszy papieru za pomocą kawałka taśmy i nakładania na jeden z nich tuszu na kształt określonej kompozycji. Kiedy atrament był jeszcze mokry łączyło się dwa arkusze ze sobą uzyskując lustrzane odbicie właściwej kompozycji. Akt stanowił zacieranie granic pomiędzy sztuką użytkową, a sztuką czystą. 
+
+![Obraz przedstawia dwie fotografie kobiety w różowej marynarce na różowym tle. Kobieta ma krótkie, żółte włosy i na jednym ze zdjęć szczerzy zęby.](https://assets2.ello.co/uploads/asset/attachment/9861638/ello-optimized-b88e960c.jpg)
+
+
