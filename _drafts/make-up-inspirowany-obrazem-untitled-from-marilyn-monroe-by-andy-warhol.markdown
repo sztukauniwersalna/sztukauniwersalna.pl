@@ -44,4 +44,12 @@ W mieście sukcesu młody artysta zarabiał rysowaniem ilustracji do czasopism. 
 ![Obraz przedstawia dwa takie same portrety kobiety, z czego jeden z nich utrzymany jest w monochromatycznej tonacji.](https://assets2.ello.co/uploads/asset/attachment/9861639/ello-optimized-046de591.jpg)
 
 
+## Dobry pomysł i wielka kariera
+
+Jasper Johns, młody malarz, prekursor pop-artu, którego wystawa w 1958 roku wywołała sensację miał wpływ na artystyczny rozwój Warhola. Jasper z wykształcenia był grafikiem użytkowym. Andy uwierzył, że podobnie jak on, jest w stanie zyskać uznanie jako malarz. Wykorzystywał wszystko, czego nauczył się w pracy w reklamie i postanowił namalować serię obrazów przedstawiających to, czego artyści nienawidzą: odbiorniki telewizyjne, puszki z jedzeniem, reklamy peruk. Działania tego typu w pewien sposób pomagały mu się pozbyć niepokoju i rozliczyć z przeszłością. 
+Warhol stał się z czasem mistrzem autokreacji. Wykorzystał swoje słabości. Kupił srebrzystobiałe peruki. Nosił je rozwiane, nieczesane, lekko przekrzywione (od kilku lat był łysy). Poruszał się charakterystycznym krokiem, specyficznie mówił mamrocząc niezrozumiale pod nosem. Kupił dom za 67 tys. dolarów i urządził go w swoim stylu.
+Malarz musiał znaleźć dla swojej twórczości coś wyjątkowego. Pomysł podsunęła mu znajoma. ‘Co lubisz najbardziej’ - zapytała, ‘Nie wiem, co lubię najbardziej’, ‘Pieniądze – powiedziała – powinieneś namalować pieniądze’. Od tego momentu już niedaleko do sylwetki artysty stawiającego tradycyjne malarstwo do góry nogami, odnajdującego w reklamie wspólną podświadomość społeczeństwa komercyjnego.
+
+![Zdjęcie przedstawia uśmiechniętą kobietę w żółtych włosach. Kobieta ma powieki pomalowane na różowo i opiera podbródek o lewą dłoń.](https://assets2.ello.co/uploads/asset/attachment/9861645/ello-optimized-4fa40ab8.jpg)
+
 
