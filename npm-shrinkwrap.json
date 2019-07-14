@@ -5081,9 +5081,9 @@
       }
     },
     "parrot-layout": {
-      "version": "1.21.0",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.21.0.tgz",
-      "integrity": "sha512-mY6bwkKKeVPG5eX8DVqw58wSEwGqSYtl1QXm1bxx8KBKF91bxTO5HZ2//HA6G2b9fgIItee7t2iCIIwrm1BWOA==",
+      "version": "1.21.1",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.21.1.tgz",
+      "integrity": "sha512-m4Y1sDk97b/vrgzZA8Y1PbdPYuIBJovBV6owvRsuRNwqblom0zKOYlP6xHpd0wqxc/MbJL5KznwpW01od770Rw==",
       "dev": true,
       "requires": {
         "paramorph": "^2.6.6",
