@@ -27,7 +27,7 @@
     "file-loader": "^3.0.1",
     "http-server": "^0.11.1",
     "isomorphic-html-webpack-plugin": "^0.6.1",
-    "paramorph": "^2.6.3",
+    "paramorph": "^2.6.6",
     "parrot-layout": "^1.20.20",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",

@@ -5060,9 +5060,9 @@
       }
     },
     "paramorph": {
-      "version": "2.6.3",
-      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.6.3.tgz",
-      "integrity": "sha512-4OFzo8ud5rHvnR5r4t23xxiSarh1lCUjIIeI9MOlbS+9Awu6muC/S13C/TbBKj0qNGGz6O6QNWhRhby10mAKbA==",
+      "version": "2.6.6",
+      "resolved": "https://registry.npmjs.org/paramorph/-/paramorph-2.6.6.tgz",
+      "integrity": "sha512-MCpuOLnAIp3FwleYI1zLOXiSKX6HAqHPubtu/Ol2LxL/BrCyRE+OlIcX/JycyecfE9RNKrEmu3m4CStOENqc9Q==",
       "dev": true,
       "requires": {
         "ejs": "^2.6.1",
