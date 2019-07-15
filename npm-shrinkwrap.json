@@ -3514,7 +3514,7 @@
     "minimatch": {
       "version": "3.0.4",
       "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz",
-      "integrity": "sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA==",
+      "integrity": "sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=",
       "dev": true,
       "requires": {
         "brace-expansion": "^1.1.7"
@@ -5081,9 +5081,9 @@
       }
     },
     "parrot-layout": {
-      "version": "1.22.5",
-      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.22.5.tgz",
-      "integrity": "sha512-J36Tjs9+PPvLRI+RqJFWskIkXpGYA0mzfjMaApnTlQEmT9LS5XiK24fuoGCXpzMOnFF/9P0d8ktPRqpF+5QXQQ==",
+      "version": "1.22.6",
+      "resolved": "https://registry.npmjs.org/parrot-layout/-/parrot-layout-1.22.6.tgz",
+      "integrity": "sha512-jQMZnjLwgUZRfXOLiQhRHRXqDHpXFmPH7C4c4I0hwiHLKPgUgm/7VOkx4em2KVJZmXles5mly6VlRh44tKfQWQ==",
       "dev": true,
       "requires": {
         "paramorph": "^2.6.6",
