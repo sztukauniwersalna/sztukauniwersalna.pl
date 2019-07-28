@@ -1,0 +1,13 @@
+---
+title: 8 zasad osiągania sukcesu, których nie znał Vincent van Gogh
+date: 2019-07-26 15:11:00 +02:00
+---
+
+Vincent van Gogh - najbardziej rozpoznawalny malarz na świecie. Za życia sprzedał tylko jeden obraz i to na dodatek swojemu bratu (za 400 franków). Całe życie był również od niego finansowo uzależniony. Co takiego robił źle, że nie udało mu się osiągnąć wolności finansowej i sukcesu? 
+
+1. Wybierz mądrze swój pierwszy zawód i wykorzystaj swoje doświadczenie 
+
+Vincent swoją pierwszą pracę podjął w rodzinnej firmie Goupila zajmującej się handlem dziełami sztuki. W ciągu zaledwie paru lat wypracował sobie tytuł jednego z lepszych sprzedawców. Nauczył się księgowości, był odpowiedzialny i uczciwy. Schemat pierwszej w życiu pracy jest zarówno w przypadku Vincenta, jak i każdego świeżo upieczonego pracownika bardzo podobny. Nowe miejsce, nowa sytuacja i ludzie budzą w nas chęci do pracy i pokazania szefowi, że dobrze (najlepiej) spełniamy swoje obowiązki. Nie chcemy zawieść ludzi, którzy nas zatrudnili, jak i nas samych. Często okazuje się jednak, że wymarzona praca z czasem zmienia się w wykańczającą rutynę lub też wcale wymarzoną nie była. Musieliśmy jednak podjąć działania i próby dorosłości. Vincent pisze do swojej rodziny, że z posady jest bardzo zadowolony. Twierdzi, że już nigdy w życiu nie będzie musiał szukać pracy. Ostateczne z rodzinną firmą rozstaje się po sześciu latach handlowania i licznych ‘przeniesień’ z Hagi do Londynu, z Londynu do Paryża. 10 lat później będzie wspominał ten czas w swoim życiu jako czas ‘przygnębiający’. 
+
+Zawodów w życiu można mieć wiele. Można być lekarzem i fotografem, programistą i muzykiem, lub grafikiem, fotografem, blogerem i programistą. Pierwsza poważna praca zazwyczaj determinuje, określa nasz pierwszy życiowy zawód. Starajmy się ją wybrać mądrze. Co się stanie, jeśli zdecydujemy się pracować jako barista w zamyśle i planach mając studia filozoficzne? Jeśli nie zagrzejemy miejsca za wygodnym barem i będziemy świadomi, to wykorzystamy doświadczenie parzenia kawy przy okazji rozważań filozoficznych. Zawsze istnieje jednak ryzyko, że bar zatrzyma nas na dłużej, a przecież nie TO chcieliśmy zawsze w życiu robić. 
+Vincent popełnił ten błąd, że nie wykorzystał doświadczenia i kontaktów jakie nabył handlując dziełami sztuki przy okazji malowania własnych obrazów. O ile pierwsza praca pozwalała mu na obcowanie ze sztuką, o tyle w późniejszych latach nie zdecydował się od razu zostać artystą. Gdyby zaczął swoje nauki w tym kierunku w momencie podjęcia pracy w firmie Goupila po sześciu latach byłby już zapewne w zupełnie innym miejscu. 
