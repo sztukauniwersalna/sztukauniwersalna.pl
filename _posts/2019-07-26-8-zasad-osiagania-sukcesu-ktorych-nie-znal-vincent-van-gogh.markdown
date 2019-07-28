@@ -56,7 +56,7 @@ Anna Cornelia Carbentus van Gogh była kobietą niezwykle ułożoną i restrykcy
 
 ![Zdjęcie przedstawia zbliżenie na twarz kobiety. Kobieta ma zamknięte oczy i lewą dłonią podpiera pomalowaną twarz.](https://assets1.ello.co/uploads/asset/attachment/9946867/ello-optimized-0ae823d5.jpg)
 
-8. Nie poddawaj się
+## Nie poddawaj się
 
 Najważniejszy z punktów. Tyle razy, ile pojawiają się w Twojej głowie wątpliwości dotyczące obranej drogi, tyle razy, ile pojawia się w Tobie strach, powtarzaj jak mantrę: ‘ nie poddam się’. Na drodze do sukcesu znajdą się kamienie – tych małych możesz nawet nie zauważyć, te średnie ominiesz z lekkim potknięciem, te duże wymagają skupienia, energii i pozytywnych wibracji. Znajdą się w Twoim otoczeniu osoby, które będą chciały ściągnąć Cię z drogi, dla których Twój wysiłek i działania nie mają sensu. Pamiętaj, że nie liczy się zdanie innych na temat Twojej ścieżki. Liczysz się Ty i Twój rozwój. To Ty decydujesz o swoim życiu, nikt inny. Znajdą się chwile zwątpienia, dopadną Cię jak drapieżnik dopada swoje pożywienie. Będą trawić Cię wątpliwości, będziesz czuł ból. Ten ból to nic, ale ten ból to również wszystko. Ten ból Cię rozwinie, staniesz się dzięki niemu silniejszy i jaśniejszy. Nie możesz jednak zapominać o ludziach. Wielu z nich chce Ci pomóc, troszczy się o Ciebie. Naucz się rozróżniać intencje, szukaj i znajduj miłość. Trwaj w swoim postanowieniu i dziękuj, że możesz doświadczać. Właściwie ten punkt powinien brzmieć ‘Nie poddawaj się i bądź wdzięczny’.
 I to była jedyna prawda w drodze do sukcesu, którą znał i stosował Vincent van Gogh.
