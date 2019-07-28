@@ -1,6 +1,9 @@
 ---
 title: 8 zasad osiągania sukcesu, których nie znał Vincent van Gogh
 date: 2019-07-26 15:11:00 +02:00
+categories:
+- Sztuka dla Sztuki
+- Sztuka Makijażu
 tags:
 - vincent
 - van gogh
