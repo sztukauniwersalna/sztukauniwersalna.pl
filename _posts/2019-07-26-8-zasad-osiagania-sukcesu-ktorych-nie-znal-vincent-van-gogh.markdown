@@ -10,6 +10,7 @@ tags:
 - sukces
 - motywacja
 - cel
+- dyscyplina
 ---
 
 Vincent van Gogh - najbardziej rozpoznawalny malarz na świecie. Za życia sprzedał tylko jeden obraz i to na dodatek swojemu bratu (za 400 franków). Całe życie był również od niego finansowo uzależniony. Co takiego robił źle, że nie udało mu się osiągnąć wolności finansowej i sukcesu? 
