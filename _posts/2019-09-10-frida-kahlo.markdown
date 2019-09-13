@@ -48,7 +48,7 @@ Po czterech latach pobytu w Stanach Zjednoczonych (1933) artystyczne małżeńst
 
 Od momentu romansu Rivery z Cristiną Frida zupełnie się zmieniła. Stała się niezależną, świadomą swoich możliwości kobietą.
 W latach 1937-38 artystka intensywnie pracowała. W tym czasie powstały portrety, martwe natury, prace zróżnicowane pod względem tematyki.
-Na początku 1938 roku Kahlo wysłała swoje do galerii uniwersyteckiej w stolicy. Obrazy zostały zauważone. Dostała także list od właściciela galerii na Manhattanie – proponował wybranie trzydziestu prac i urządzenie wystawy. Na wernisaż przybyli znakomici goście, publiczność była zachwycona jej sztuką i nią samą. Sprzedała się połowa prac, wpłynęło także kilka zamówień.
+Na początku 1938 roku Kahlo wysłała swoje do galerii uniwersyteckiej w stolicy. Obrazy zostały zauważone. Dostała także list od właściciela galerii na Manhattanie – proponował wybranie trzydziestu prac i urządzenie wystawy. Na wernisaż przybyli znakomici goście, publiczność była zachwycona jej sztuką i nią samą. Sprzedała się połowa prac z ekspozycji, wpłynęło także kilka zamówień.
 
 
 --------------
