@@ -38,4 +38,4 @@ Pewnego jesiennego dnia 1928 roku Frida pojawiła się na dziedzińcu ministerst
 ![Obraz przedstawia portret kobiety w białej koszuli i fioletowym krawacie na jasno-różowym tle. Kobieta trzyma dłońmi kołnierzyk koszuli.](https://assets2.ello.co/uploads/asset/attachment/10184435/ello-optimized-0761a247.jpg)
 
 
-Zakochani wkrótce wzięli ślub, a rok później wyjechali do Ameryki. Retrospektywna wystawa Rivery w MoMA okazała się wielkim sukcesem, a meksykańskie małżeństwo cieszyło się sławą wśród nowojorskiej bohemy. Następnie para zamieszkała w Detroit, a później w Nowym Yorku. 
+Zakochani wkrótce wzięli ślub, a rok później wyjechali do Ameryki. Retrospektywna wystawa Rivery w MoMA okazała się wielkim sukcesem, a meksykańskie małżeństwo cieszyło się sławą wśród nowojorskiej bohemy. Następnie para zamieszkała w Detroit, a później w Nowym Yorku. To były lata świetności Diego, Kahlo natomiast praktycznie nie malowała. 
