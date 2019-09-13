@@ -36,3 +36,6 @@ Diego był u szczytu swej malarskiej kariery. Pracował zawsze z niesamowitym za
 Pewnego jesiennego dnia 1928 roku Frida pojawiła się na dziedzińcu ministerstwa oświaty, gdzie Rivera malował mural. Chciała pokazać mu kilka swoich prac. Doświadczony artysta był zachwycony jej płótnami. Twierdził, że w żaden sposób nie silą się one na naturalność, są niewymuszone, szczere w swoim wyrazie. Frida i Diego spodobali się sobie, nie tylko z wzajemnego zamiłowania do sztuki. Oboje należeli do partii i podzielali swoje poglądy. 
 
 ![Obraz przedstawia portret kobiety w białej koszuli i fioletowym krawacie na jasno-różowym tle. Kobieta trzyma dłońmi kołnierzyk koszuli.](https://assets2.ello.co/uploads/asset/attachment/10184435/ello-optimized-0761a247.jpg)
+
+
+Zakochani wkrótce wzięli ślub, a rok później wyjechali do Ameryki. 
