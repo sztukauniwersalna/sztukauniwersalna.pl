@@ -23,4 +23,16 @@ Praktycznie całe ciało Fridy zostało umieszczone w gipsowym gorsecie. Przysz�
 
 
 
-Po kilkumiesięcznej rekonwalescencji Frida w końcu doszła do siebie. Niestety praktycznie przez całe życie będą towarzyszyć je nawroty przemieszczeń kręgów kręgosłupa i olbrzymi ból. Każdy taki nawrót oznaczał kolejne miesiące unieruchomienia w łóżku. Na specjalne zamówienie skonstruowano sztalugę pozwalającą Kahlo malować w pozycji leżącej. Oprócz pierwszych malarskich prób czytała ona również książki poświęcone wielkim artystom. Podziwiała mistrzów włoskiego renesansu Botticellego, Bronzina, sztukę prerafaelitów, Modiglianiego. 
+Po kilkumiesięcznej rekonwalescencji Frida w końcu doszła do siebie. Niestety praktycznie przez całe życie towarzyszyć jej będą nawroty przemieszczeń uszkodzonych kręgów kręgosłupa i olbrzymi ból. Każdy taki nawrót oznaczał kolejne miesiące unieruchomienia w łóżku. Na specjalne zamówienie skonstruowano sztalugę pozwalającą Kahlo malować w pozycji leżącej. Oprócz pierwszych malarskich prób czytała ona również książki poświęcone wielkim artystom. Podziwiała mistrzów włoskiego renesansu Botticellego, Bronzina, sztukę prerafaelitów, Modiglianiego. 
+
+![Na zdjęciu widzimy dwie fotografie portretowe kobiety. Kobieta ma na sobie białą koszulę, fioletowy krawat, a tło jest różowe.](https://assets1.ello.co/uploads/asset/attachment/10184433/ello-optimized-6c8fe722.jpg)
+
+## Diego
+
+Pod koniec 1927 roku Frida poczuła się na tyle dobrze, aby spróbować prowadzić ‘normalne’ życie. 
+Odnowiła kontakty ze znajomymi ze szkoły. Wkroczyła w krąg znajomych Tiny Modotti, włoskiej fotografki i komunistki związanej z kubańskim rewolucjonistą. Pod jej wpływem Frida przystąpiła do partii komunistycznej. W mieszkaniu Modotti spotykali się czołowi przedstawiciele środowisk intelektualnych i artystycznych Meksyku. Bywał tam również 40-to letni wówczas Diego Rivera. 
+Diego był u szczytu swej malarskiej kariery. Pracował zawsze z niesamowitym zapałem. Podobno nieraz jadał i sypiał na rusztowaniach. Cieszył się też sławą uwodziciela, miał za sobą liczne romanse. 
+
+Pewnego jesiennego dnia 1928 roku Frida pojawiła się na dziedzińcu ministerstwa oświaty, gdzie Rivera malował mural. Chciała pokazać mu kilka swoich prac. Doświadczony artysta był zachwycony jej płótnami. Twierdził, że w żaden sposób nie silą się one na naturalność, są niewymuszone, szczere w swoim wyrazie. Frida i Diego spodobali się sobie, nie tylko z wzajemnego zamiłowania do sztuki. Oboje należeli do partii i podzielali swoje poglądy. 
+
+![Obraz przedstawia portret kobiety w białej koszuli i fioletowym krawacie na jasno-różowym tle. Kobieta trzyma dłońmi kołnierzyk koszuli.](https://assets2.ello.co/uploads/asset/attachment/10184435/ello-optimized-0761a247.jpg)
