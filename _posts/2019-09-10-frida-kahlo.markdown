@@ -7,6 +7,11 @@ tags:
 - frida kahlo
 - frida
 - kahlo
+- autobus
+- diego
+- diego rivera
+- cierpienie
+- budda
 ---
 
 Siedem tygodni po osiągnięciu oświecenia Budda wygłosił nauki o czterech szlachetnych prawdach. W pierwszej z nich opisał trzy rodzaje cierpienia, które warunkują ludzkie istnienie. Każdy z nas doświadczył bólu z powodu choroby, śmierci (pierwszy rodzaj), cierpienia zmiany, którego źródłem jest przywiązanie (drugi rodzaj), oraz cierpienia wynikającego z niedostrzegania uwarunkowania wszystkich rzeczy (rodzaj trzeci). Ten ostatni rodzaj jest cierpieniem w najsubtelniejszej formie. Nasze umysły przykryte są swojego rodzaju kotarami, które nie pozwalają na czyste doświadczanie istnienia. A gdyby tak porównać malarstwo do medytacji? Gdyby ta właśnie forma sztuki okazać się miała drogą prowadzącą do ustania wszelkiego cierpienia? Malarstwo jako jedyna słuszna droga na ścieżce do oświecenia. Frida Kahlo była Buddą.
@@ -14,7 +19,7 @@ Siedem tygodni po osiągnięciu oświecenia Budda wygłosił nauki o czterech sz
 ![Fotografia przedstawia portret kobiety na różowym tle. Kobieta ma lekko przechyloną głowę i krzaczaste brwi.](https://assets0.ello.co/uploads/asset/attachment/10184431/ello-optimized-7f5086f9.jpg)
 
 
-## Wypadek
+## Autobus
 
 W latach 20-tych na ulicach Meksyku pojawił się nowy środek transportu – autobusy o drewnianej konstrukcji. Późnym popołudniem 1925 roku Frida Kahlo jechała zatłoczonym autobusem do Coyoacán. Tego dnia padał deszcz i ulice były śliskie. Kiedy kierowca chciał skręcić jadący z naprzeciwka tramwaj nie zdążył zahamować i autobus dosłownie roztrzaskał się na kawałki. 
 Kahlo doznała poważnych obrażeń. Metalowa poręcz przeszyła jej ciało na wskroś, na wysokości miednicy. W szpitalu Czerwonego Krzyża przeszła poważną operację (lekarze musieli zatamować ostry krwotok, gdyż jeden z pasażerów postanowił wyciągnąć pręt z ciała Fridy…).
@@ -41,3 +46,6 @@ Pewnego jesiennego dnia 1928 roku Frida pojawiła się na dziedzińcu ministerst
 Zakochani wkrótce wzięli ślub, a rok później wyjechali do Ameryki. Retrospektywna wystawa Rivery w MoMA okazała się wielkim sukcesem, a meksykańskie małżeństwo cieszyło się sławą wśród nowojorskiej bohemy. Następnie para zamieszkała w Detroit, a  w kolejnych latach w Nowym Yorku. To były lata świetności Diego, Kahlo natomiast praktycznie nie malowała. 
 Po czterech latach pobytu w Stanach Zjednoczonych (1933) artystyczne małżeństwo powróciło do rodzimego Meksyku. Na obrazie ‘Moja suknia tam wisi’ Frida opisała swój stosunek do pędzącego życia i ludzi w USA. Tęskniła i zdecydowanie wolała przebywać w swojej ojczyźnie jaką był Meksyk. Zamieszkali w nowo wybudowanym domu w San Angel. Kahlo miała kłopoty z chorą stopą i źle się czuła, do tego dochodziły małżeńskie awantury. Rivera miewał liczne romanse i całymi dniami nie pojawiał się w domu. W 1934 roku Frida kilkakrotnie trafiała do szpitala. Przeszła przymusową aborcję. Opuszczona przez męża, szukając pocieszenia, zaprosiła do siebie młodszą siostrę – Cristinę. Diego i Cristina wdali się w romans, co było okrutnym ciosem dla Fridy. W ataku złości obcięła swoje długie, ciemnie włosy, przestała ubierać się w etniczne stroje. Zerwała kontakty z siostrą i wyprowadziła się z San Angel. W ciągu następnych dwóch lat namalowała tylko 2 obrazy - ‘Autoportret z kręconymi włosami’ i ‘Kilka małych ukłuć’.
 
+--------------
+
+Frida Kahlo mawiała, że w jej życiu miały miejsce dwa wypadki: autobus i Diego.
