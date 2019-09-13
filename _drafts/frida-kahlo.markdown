@@ -9,6 +9,9 @@ tags:
 - kahlo
 ---
 
+Siedem tygodni po osiągnięciu oświecenia Budda wygłosił nauki o czterech szlachetnych prawdach. W pierwszej z nich opisał trzy rodzaje cierpienia, które warunkują ludzkie istnienie. Każdy z nas doświadczył bólu z powodu choroby, śmierci (pierwszy rodzaj), cierpienia zmiany, którego źródłem jest przywiązanie (drugi rodzaj), oraz cierpienia wynikającego z niedostrzegania uwarunkowania wszystkich rzeczy (rodzaj trzeci). Ten ostatni jest cierpieniem w najsubtelniejszej formie. 
+
+
 ## Wypadek
 
 W latach 20tych na ulicach Meksyku pojawił się nowy środek transportu – autobusy o drewnianej konstrukcji. Późnym popołudniem 1925 roku Frida jechała zatłoczonym autobusem do Coyoacán. Tego dnia padał deszcz i ulice były śliskie. Kiedy kierowca chciał skręcić jadący z naprzeciwka tramwaj niewyhamował i autobus dosłownie roztrzaskał się na kawałki. 
