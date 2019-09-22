@@ -11,6 +11,8 @@ tags:
 - kiedy odchodzę
 ---
 
+![](
+
 Kiedy odchodzę, odchodzę na zawsze. 
 
 Kasuję wszystkie wspólne zdjęcia, wyrzucam kubki po litrach wspólnych porannych kaw. Nic już nie jest wspólne, wszystko jest samotne.
@@ -25,3 +27,8 @@ Kiedy odchodzę, odchodzę na zawsze.
 I tylko śpiew ptaków się rano nie zmienia. Brzmi zawsze podobnie o wschodzie słońca. Ja też kiedyś będę słońcem, zaświecę sto razy bardziej i mocniej. Spalę się w ogniu miłości, a z popiołów uformuję ptaka, który codziennie rano wyśpiewa rubaszne:
 
 Kiedy odchodzę, odchodzę na zawsze.
+
+![](
+
+![](
+
