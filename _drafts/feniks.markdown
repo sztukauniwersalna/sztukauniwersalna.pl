@@ -1,0 +1,27 @@
+---
+title: Feniks
+date: 2019-09-22 11:48:00 +02:00
+categories:
+- Sztuka dla Sztuki
+tags:
+- feniks
+- sztuka miłości
+- sztuka
+- poezja
+- kiedy odchodzę
+---
+
+Kiedy odchodzę, odchodzę na zawsze. 
+
+Kasuję wszystkie wspólne zdjęcia, wyrzucam kubki po litrach wspólnych porannych kaw. Nic już nie jest wspólne, wszystko jest samotne.
+Przedmioty noszą w sobie historię, sentyment staram się wyrzucić do kosza. Ze wszystkich sił zgniatam, uderzam, niszczę szczątki swojego serca. To już nie jest bitwa pomiędzy mną a Tobą, to moja wewnętrzna wojna. Wojna o ostatni kawałek nadziei.
+
+Kiedy odchodzę, odchodzę na zawsze. Zacieram ostatnie ślady Twojej obecności. Wyrzekam się wszystkich tematów do rozmów. Wstaję za wcześnie, a kładę się za późno. Chcę poczuć jak to jest być zmęczoną. Tylko, kiedy moje ciało boli jestem w stanie nie myśleć o Tobie…
+
+Kiedy odchodzę, odchodzę na zawsze. Wycieram siebie do granic możliwości. Transformuję. Rano zmuszam się do rutyny. Podczas mycia zębów wymyślam 50 różnych fryzur, na które akurat dziś mam ochotę. Chwytam za nożyczki. Obcinam centymetr po centymetrze, wycinam Twój zapach z mojej skóry. Ciężka robota, kaleczę się strasznie. 
+
+Kiedy odchodzę, odchodzę na zawsze. 
+
+I tylko śpiew ptaków się rano nie zmienia. Brzmi zawsze podobnie o wschodzie słońca. Ja też kiedyś będę słońcem, zaświecę sto razy bardziej i mocniej. Spalę się w ogniu miłości, a z popiołów uformuję ptaka, który codziennie rano wyśpiewa rubaszne:
+
+Kiedy odchodzę, odchodzę na zawsze.
