@@ -37,7 +37,7 @@ Malarz tworzy tak realistyczne w fantazji swojego kształtu dzieła, że widz mo
 
 ## Wąsy
 
-Długie, sterczące do góry wąsy były znakiem rozpoznawczym artysty. Dali był świadomy ich potencjału reklamowego. Kiedy fotograf Phillipe Halsman (robił zdjęcia m.in. Marilyn Monroe) zaproponował mu sesję zdjęciową wąsów Dali natychmiast się zgodził. Halsman zapytał go wówczas dlaczego maluje, on odpowiedział ‘Kocham sztukę. Ale moje wąsy natychmiast ułożą się w symbol dolara’. Miłość Dalego do pieniędzy było powszechnie znana. Wystąpił raz nawet w reklamie czekoladek. Ludzie dziwili się: ‘artysta, geniusz i czekoladki?’ - ‘Zapłacili mi 10 tysięcy dolarów!’ - odpowiadał Dali.
+Długie, sterczące do góry wąsy były znakiem rozpoznawczym artysty. Dali był świadomy ich potencjału reklamowego. Kiedy fotograf Phillipe Halsman (robił zdjęcia między innymi Marilyn Monroe) zaproponował mu sesję zdjęciową wąsów Dali natychmiast się zgodził. Halsman zapytał go wówczas dlaczego maluje, on odpowiedział ‘Kocham sztukę. Ale moje wąsy natychmiast ułożą się w symbol dolara’. Miłość Dalego do pieniędzy było powszechnie znana. Wystąpił raz nawet w reklamie czekoladek. Ludzie dziwili się: ‘artysta, geniusz i czekoladki?’ - ‘Zapłacili mi 10 tysięcy dolarów!’ - odpowiadał Dali.
 
 ![Zdjęcie przedstawia portret kobiety na niebieskim tle. Twarz kobiety zasłonięta jest przez inne fragmenty zdjęć.](https://assets0.ello.co/uploads/asset/attachment/10455141/ello-optimized-6a3a1bcf.jpg)
 
