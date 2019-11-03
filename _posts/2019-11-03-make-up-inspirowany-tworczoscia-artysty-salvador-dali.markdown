@@ -18,7 +18,7 @@ Salvador twierdził, że rodzice dali mu tak na imię, ponieważ miał okazać s
 ![Obraz przedstawia portret kobiety w artystycznym makijażu. Dookoła fragmenty innych zdjęć.](https://assets1.ello.co/uploads/asset/attachment/10455144/ello-optimized-413991c9.jpg)
 
 
-> „Od 1929 roku miałem jasną świadomość mojej genialności, lecz wyznaję, iż świadomość ta, coraz bardziej w moim umyśle zakorzeniona, nigdy nie wywołała we mnie emocji z gatunku wzniosłych. Muszę natomiast przyznać, że wzbudziła we mnie poczucie niebywale przyjemnej stałości”.
+> Od 1929 roku miałem jasną świadomość mojej genialności, lecz wyznaję, iż świadomość ta, coraz bardziej w moim umyśle zakorzeniona, nigdy nie wywołała we mnie emocji z gatunku wzniosłych. Muszę natomiast przyznać, że wzbudziła we mnie poczucie niebywale przyjemnej stałości.
 >
 > ~ "Moje Sekretne Życie"
 
