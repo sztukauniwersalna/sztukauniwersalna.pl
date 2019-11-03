@@ -13,7 +13,7 @@ tags:
 
 ## Zbawca
 
-Salvador twierdził, że rodzice dali mu tak na imię, ponieważ miał okazać się ‘zbawcą zagrożonego śmiercią malarstwa’. W rzeczywistości imię to odziedziczył po bracie, zmarłym rok wcześniej na zapalenie opon mózgowych. Przyszedł na świat w 1904 roku w Figueras na katalońskim Złotym Wybrzeżu (Costa Dorada). Salvador od małego był ulubieńcem wszystkich domowników. (podobno wszystkie dzieci na placu zabaw ustawiały się w kolejce, żeby powąchać jego pachnące szamponem i perfumami włosy). Wyręczanie chłopca w najprostszych czynnościach, nie było jednak najlepszą strategią wychowawczą. Młody, przyszły artysta w wieku sześciu lat pragnął zostać kucharką, a już za rok Napoleonem. Wyobrażał sobie siebie, jako króla. Uwielbiał błyszczeć.
+Salvador twierdził, że rodzice dali mu tak na imię, ponieważ miał okazać się ‘zbawcą zagrożonego śmiercią malarstwa’. W rzeczywistości imię to odziedziczył po bracie zmarłym rok wcześniej na zapalenie opon mózgowych. Przyszedł na świat w 1904 roku w Figueras na katalońskim Złotym Wybrzeżu (Costa Dorada). Salvador od małego był ulubieńcem wszystkich domowników (podobno wszystkie dzieci na placu zabaw ustawiały się w kolejce, żeby powąchać jego pachnące szamponem i perfumami włosy). Wyręczanie chłopca w najprostszych czynnościach nie było jednak najlepszą strategią wychowawczą. Młody przyszły artysta w wieku sześciu lat pragnął zostać kucharką, a już rok później Napoleonem. Wyobrażał sobie siebie jako króla. Uwielbiał błyszczeć.
 
 ![Obraz przedstawia portret kobiety w artystycznym makijażu. Dookoła fragmenty innych zdjęć.](https://assets1.ello.co/uploads/asset/attachment/10455144/ello-optimized-413991c9.jpg)
 
