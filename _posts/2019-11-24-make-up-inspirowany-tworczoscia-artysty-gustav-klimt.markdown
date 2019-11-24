@@ -6,6 +6,9 @@ categories:
 tags:
 - gustav klimt
 - klimt
+- pocałunek
+- makeup
+- makijaż
 ---
 
 > Nie jestem zainteresowany sobą jako materiałem na obraz (...) Jeżeli ktokolwiek chce mnie zrozumieć - jako artystę, bo to tylko jest interesujące - powinien uważnie patrzeć na moje obrazy i z nich spróbować dowiedzieć się, kim jestem i czego pragnę.
