@@ -16,7 +16,7 @@ tags:
 
 ## Rodzina
 
-Gustav urodził się w lipcu w 1862 roku w Baumgarten pod Wiedniem. Jego ojciec Ernst Klimt był złotnikiem, grawerem i w wieku 8 lat przywędrował z rodzicami do stolicy Austrii. Tutaj ożenił się z Anną Finster, która jako młoda dziewczyna marzyła o karierze śpiewaczki operowej. Gustav miał 6cioro rodzeństwa: Klarę, Ernsta, Hermine, Georga, Annę (która żyła tylko 5 lat) i Johannę. Krach na giełdzie w 1873 roku doprowadził rodzinę Klimt’ów do skrajnej nędzy. Sytuacja poprawiła się dopiero w momencie, kiedy synowie: Gustav, Ernst i Georg usamodzielnili się (wszyscy posiadali wybitne talenty artystyczne).
+Gustav urodził się w lipcu w 1862 roku w Baumgarten pod Wiedniem. Jego ojciec Ernst Klimt był złotnikiem, grawerem i w wieku 8 lat przywędrował z rodzicami do stolicy Austrii. Tutaj ożenił się z Anną Finster, która jako młoda dziewczyna marzyła o karierze śpiewaczki operowej. Gustav miał sześcioro rodzeństwa: Klarę, Ernsta, Hermine, Georga, Annę (która żyła tylko 5 lat) i Johannę. Krach na giełdzie w 1873 roku doprowadził rodzinę Klimt’ów do skrajnej nędzy. Sytuacja poprawiła się dopiero w momencie, kiedy synowie: Gustav, Ernst i Georg usamodzielnili się (wszyscy posiadali wybitne talenty artystyczne).
 Gustav ukończył ośmioklasową  szkołę podstawową w Wiedniu, a w roku 1876 jako czternastoletni wówczas chłopiec wstąpił do Szkoły Rzemiosła Artystycznego (Kunstgewerbeschule), gdzie poznał Franz'a von Matsch'a.
 
 ![Obraz przedstawia portret kobiety, która przysłania dłonią twarz. Kobieta ma na sobie artystyczny makijaż.](https://assets2.ello.co/uploads/asset/attachment/10561669/ello-optimized-a36d6dd4.jpg)
