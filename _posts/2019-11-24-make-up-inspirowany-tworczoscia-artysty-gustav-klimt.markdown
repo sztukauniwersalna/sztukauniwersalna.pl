@@ -27,7 +27,7 @@ Jako studenci Gustav, jego brat Ernst i Franz von Matsch utworzyli malarskie tri
 Gustav, jako syn grawera posiadał olbrzymią znajomość wielu technik. Długie godziny spędzał w muzeach kopiując dzieła dawnych mistrzów.
 W 1880 roku trójka podjęła się pierwszego oficjalnego zlecenia malując 4 alegorie do wiedeńskiego pałacu Sturany. Profesor Laufberger polecił swoich zdolnych uczniów firmie architektonicznej,  także wkrótce Spółka wykonywała kolejne zlecenia. W latach 1882-92 dekorowali między innymi wnętrza teatrów, zwrócili na siebie uwagę dworu i arystokracji, dzięki czemu zaczęły nadchodzić zlecenia na większą skalę. Klimt wykonał dekorację klatki schodowej nowo zbudowanego Burgtheater: ozdobił ją scenami z historii teatru. W tych pracach Klimt kontynuował makartowską tradycję sztuki widowiskowej i kostiumowej zacierającej granicę między fikcją a rzeczywistością.
 
-![Fotografia przedstawia portret kobiety w mocnym makijażu. Całość w ciepłej, żółtej tonacji.](https://assets3.ello.co/uploads/asset/attachment/10561667/ello-optimized-070867a5.jpg)
+![Fotografia przedstawia portret kobiety w mocnym makijażu. Całość w ciepłej, żółtej tonacji.](https://assets2.ello.co/uploads/asset/attachment/10561898/ello-optimized-9977199e.jpg)
 
 ## Secesja
 
